@@ -1,0 +1,340 @@
+LOCUS       NM_001754               5971 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens RUNX family transcription factor 1 (RUNX1), transcript
+            variant 1, mRNA.
+ACCESSION   NM_001754
+VERSION     NM_001754.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5971)
+  AUTHORS   Kwon,N., Lu,Y.C., Thompson,E.N., Mancuso,R.I., Wang,L., Zhang,P.X.
+            and Krause,D.S.
+  TITLE     CDK9 phosphorylates RUNX1 to promote megakaryocytic fate in
+            megakaryocytic-erythroid progenitors
+  JOURNAL   Blood 144 (17), 1800-1812 (2024)
+   PUBMED   39102635
+  REMARK    GeneRIF: CDK9 phosphorylates RUNX1 to promote megakaryocytic fate in
+            megakaryocytic-erythroid progenitors.
+REFERENCE   2  (bases 1 to 5971)
+  AUTHORS   Weiss,L.M., Warwick,T., Zehr,S., Gunther,S., Wolf,S., Schmachtel,T.,
+            Izquierdo Ponce,J., Palfi,K., Teichmann,T., Schneider,A.,
+            Stotzel,J., Knapp,S., Weigert,A., Savai,R., Rieger,M.A.,
+            Oellerich,T., Wittig,I., Oo,J.A., Brandes,R.P. and Leisegang,M.S.
+  TITLE     RUNX1 interacts with lncRNA SMANTIS to regulate monocytic cell
+            functions
+  JOURNAL   Commun Biol 7 (1), 1131 (2024)
+   PUBMED   39271940
+  REMARK    GeneRIF: RUNX1 interacts with lncRNA SMANTIS to regulate monocytic
+            cell functions. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 5971)
+  AUTHORS   Panaget,B., Mauvieux,L., Miguet,L., Fornecker,L.M., Lioure,B.,
+            Ledoux,M.P., Rolland,D. and Mayeur-Rousse,C.
+  TITLE     [Acute myeloid leukemia with mutated RUNX1 at the university
+            hospitals of Strasbourg]
+  JOURNAL   Ann Biol Clin (Paris) 82 (3), 266-280 (2024)
+   PUBMED   39210855
+  REMARK    GeneRIF: [Acute myeloid leukemia with mutated RUNX1 at the
+            university hospitals of Strasbourg].
+REFERENCE   4  (bases 1 to 5971)
+  AUTHORS   Ji,Q., Tu,Z., Liu,J., Zhou,Z., Li,F., Zhu,X. and Huang,K.
+  TITLE     RUNX1-PDIA5 Axis Promotes Malignant Progression of Glioblastoma by
+            Regulating CCAR1 Protein Expression
+  JOURNAL   Int J Biol Sci 20 (11), 4364-4381 (2024)
+   PUBMED   39247813
+  REMARK    GeneRIF: RUNX1-PDIA5 Axis Promotes Malignant Progression of
+            Glioblastoma by Regulating CCAR1 Protein Expression. Publication
+            Status: Online-Only
+REFERENCE   5  (bases 1 to 5971)
+  AUTHORS   Zheng,W., Guo,Y., Kahar,A., Bai,J., Zhu,Q., Huang,X., Li,Y., Xu,B.,
+            Jia,X., Wu,G., Zhang,C. and Zhu,Y.
+  TITLE     RUNX1-induced upregulation of PTGS2 enhances cell growth, migration
+            and invasion in colorectal cancer cells
+  JOURNAL   Sci Rep 14 (1), 11670 (2024)
+   PUBMED   38778047
+  REMARK    GeneRIF: RUNX1-induced upregulation of PTGS2 enhances cell growth,
+            migration and invasion in colorectal cancer cells. Publication
+            Status: Online-Only
+REFERENCE   6  (bases 1 to 5971)
+  AUTHORS   Deuitch,N., Broadbridge,E., Cunningham,L. and Liu,P.
+  TITLE     RUNX1 Familial Platelet Disorder with Associated Myeloid
+            Malignancies
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   33661592
+REFERENCE   7  (bases 1 to 5971)
+  AUTHORS   Nisson,P.E., Watkins,P.C. and Sacchi,N.
+  TITLE     Transcriptionally active chimeric gene derived from the fusion of
+            the AML1 gene and a novel gene on chromosome 8 in t(8;21) leukemic
+            cells
+  JOURNAL   Cancer Genet Cytogenet 63 (2), 81-88 (1992)
+   PUBMED   1423235
+  REMARK    Erratum:[Cancer Genet Cytogenet. 1993 Mar;66(1):81. PMID: 8467483]
+REFERENCE   8  (bases 1 to 5971)
+  AUTHORS   Avramopoulos,D., Cox,T., Blaschak,J.E., Chakravarti,A. and
+            Antonarakis,S.E.
+  TITLE     Linkage mapping of the AML1 gene on human chromosome 21 using a DNA
+            polymorphism in the 3' untranslated region
+  JOURNAL   Genomics 14 (2), 506-507 (1992)
+   PUBMED   1427868
+REFERENCE   9  (bases 1 to 5971)
+  AUTHORS   Daga,A., Tighe,J.E. and Calabi,F.
+  TITLE     Leukaemia/Drosophila homology
+  JOURNAL   Nature 356 (6369), 484 (1992)
+   PUBMED   1560822
+REFERENCE   10  (bases 1 to 5971)
+  AUTHORS   Miyoshi,H., Shimizu,K., Kozu,T., Maseki,N., Kaneko,Y. and Ohki,M.
+  TITLE     t(8;21) breakpoints on chromosome 21 in acute myeloid leukemia are
+            clustered within a limited region of a single gene, AML1
+  JOURNAL   Proc Natl Acad Sci U S A 88 (23), 10431-10434 (1991)
+   PUBMED   1720541
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038192.453218.1,
+            SRR14038191.2959294.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2148093,
+            SAMEA2149004 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000675419.1/ ENSP00000501943.1
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            longest protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF015262.2, U19601.1 and
+            AP000330.3.
+            On Feb 12, 2020 this sequence version replaced NM_001754.4.
+            Summary: Core binding factor (CBF) is a heterodimeric transcription
+            factor that binds to the core element of many enhancers and
+            promoters. The protein encoded by this gene represents the alpha
+            subunit of CBF and is thought to be involved in the development of
+            normal hematopoiesis. Chromosomal translocations involving this
+            gene are well-documented and have been associated with several
+            types of leukemia. Three transcript variants encoding different
+            isoforms have been found for this gene. [provided by RefSeq, Jul
+            2008].
+            Transcript Variant: This variant (1) represents the longest isoform
+            (AML1c).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..5971
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /map="21q22.12"
+     gene            1..5971
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /note="RUNX family transcription factor 1"
+                     /db_xref="GeneID:861"
+                     /db_xref="HGNC:HGNC:10471"
+                     /db_xref="MIM:151385"
+     exon            1..135
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     exon            136..252
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    150..152
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /note="upstream in-frame stop codon"
+     CDS             195..1637
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /note="isoform AML1c is encoded by transcript variant 1;
+                     core-binding factor, runt domain, alpha subunit 2;
+                     AML1-EVI-1 fusion protein; PEA2-alpha B; PEBP2-alpha B;
+                     oncogene AML-1; acute myeloid leukemia 1 protein; SL3-3
+                     enhancer factor 1 alpha B subunit; SL3/AKV core-binding
+                     factor alpha B subunit; polyomavirus enhancer-binding
+                     protein 2 alpha B subunit; runt related transcription
+                     factor 1; mutant RUNX1; AML1-ETO fusion; AML1-ETO fusion
+                     protein"
+                     /codon_start=1
+                     /product="runt-related transcription factor 1 isoform
+                     AML1c"
+                     /protein_id="NP_001745.2"
+                     /db_xref="CCDS:CCDS13639.1"
+                     /db_xref="GeneID:861"
+                     /db_xref="HGNC:HGNC:10471"
+                     /db_xref="MIM:151385"
+                     /translation="MASDSIFESFPSYPQCFMRECILGMNPSRDVHDASTSRRFTPPST
+                     ALSPGKMSEALPLGAPDAGAALAGKLRSGDRSMVEVLADHPGELVRTDSPNFLCSVLPT
+                     HWRCNKTLPIAFKVVALGDVPDGTLVTVMAGNDENYSAELRNATAAMKNQVARFNDLRF
+                     VGRSGRGKSFTLTITVFTNPPQVATYHRAIKITVDGPREPRRHRQKLDDQTKPGSLSFS
+                     ERLSELEQLRRTAMRVSPHHPAPTPNPRASLNHSTAFNPQPQSQMQDTRQIQPSPPWSY
+                     DQSYQYLGSIASPSVHPATPISPGRASGMTTLSAELSSRLSTAPDLTAFSDPRQFPALP
+                     SISDPRMHYPGAFTYSPTPVTSGIGIGMSAMGSATRYHTYLPPPYPGSSQAQGGPFQAS
+                     SPSYHLYYGASAGSYQFSMVGGERSPPRILPPCTNASTGSALLNPSLPNQSDVVEAEGS
+                     HSNSPTNMAPSARLEEAVWRPY"
+     exon            253..291
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     exon            292..545
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     exon            546..702
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     exon            703..807
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     exon            808..999
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1000..1161
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1162..5971
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5468..5473
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /note="hexamer: AATAAA"
+     polyA_site      5487
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+     regulatory      5941..5946
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /note="hexamer: AATAAA"
+     polyA_site      5971
+                     /gene="RUNX1"
+                     /gene_synonym="AML1; AML1-EVI-1; AMLCR1; CBF2alpha; CBFA2;
+                     EVI-1; PEBP2aB; PEBP2alpha"
+                     /note="major polyA site"
+ORIGIN
+        1 acttctttgg gcctcataaa caaccacaga accacaagtt gggtagcctg gcagtgtcag
+       61 aagtctgaac ccagcatagt ggtcagcagg caggacgaat cacactgaat gcaaaccaca
+      121 gggtttcgca gcgtggtaaa agaaatcatt gagtcccccg ccttcagaag agggtgcatt
+      181 ttcaggagga agcgatggct tcagacagca tatttgagtc atttccttcg tacccacagt
+      241 gcttcatgag agaatgcata cttggaatga atccttctag agacgtccac gatgccagca
+      301 cgagccgccg cttcacgccg ccttccaccg cgctgagccc aggcaagatg agcgaggcgt
+      361 tgccgctggg cgccccggac gccggcgctg ccctggccgg caagctgagg agcggcgacc
+      421 gcagcatggt ggaggtgctg gccgaccacc cgggcgagct ggtgcgcacc gacagcccca
+      481 acttcctctg ctccgtgctg cctacgcact ggcgctgcaa caagaccctg cccatcgctt
+      541 tcaaggtggt ggccctaggg gatgttccag atggcactct ggtcactgtg atggctggca
+      601 atgatgaaaa ctactcggct gagctgagaa atgctaccgc agccatgaag aaccaggttg
+      661 caagatttaa tgacctcagg tttgtcggtc gaagtggaag agggaaaagc ttcactctga
+      721 ccatcactgt cttcacaaac ccaccgcaag tcgccaccta ccacagagcc atcaaaatca
+      781 cagtggatgg gccccgagaa cctcgaagac atcggcagaa actagatgat cagaccaagc
+      841 ccgggagctt gtccttttcc gagcggctca gtgaactgga gcagctgcgg cgcacagcca
+      901 tgagggtcag cccacaccac ccagccccca cgcccaaccc tcgtgcctcc ctgaaccact
+      961 ccactgcctt taaccctcag cctcagagtc agatgcagga tacaaggcag atccaaccat
+     1021 ccccaccgtg gtcctacgat cagtcctacc aatacctggg atccattgcc tctccttctg
+     1081 tgcacccagc aacgcccatt tcacctggac gtgccagcgg catgacaacc ctctctgcag
+     1141 aactttccag tcgactctca acggcacccg acctgacagc gttcagcgac ccgcgccagt
+     1201 tccccgcgct gccctccatc tccgaccccc gcatgcacta tccaggcgcc ttcacctact
+     1261 ccccgacgcc ggtcacctcg ggcatcggca tcggcatgtc ggccatgggc tcggccacgc
+     1321 gctaccacac ctacctgccg ccgccctacc ccggctcgtc gcaagcgcag ggaggcccgt
+     1381 tccaagccag ctcgccctcc taccacctgt actacggcgc ctcggccggc tcctaccagt
+     1441 tctccatggt gggcggcgag cgctcgccgc cgcgcatcct gccgccctgc accaacgcct
+     1501 ccaccggctc cgcgctgctc aaccccagcc tcccgaacca gagcgacgtg gtggaggccg
+     1561 agggcagcca cagcaactcc cccaccaaca tggcgccctc cgcgcgcctg gaggaggccg
+     1621 tgtggaggcc ctactgaggc gccaggcctg gcccggctgg gccccgcggg ccgccgcctt
+     1681 cgcctccggg cgcgcgggcc tcctgttcgc gacaagcccg ccgggatccc gggccctggg
+     1741 cccggccacc gtcctggggc cgagggcgcc cgacggccag gatctcgctg taggtcaggc
+     1801 ccgcgcagcc tcctgcgccc agaagcccac gccgccgccg tctgctggcg ccccggccct
+     1861 cgcggaggtg tccgaggcga cgcacctcga gggtgtccgc cggccccagc acccagggga
+     1921 cgcgctggaa agcaaacagg aagattcccg gagggaaact gtgaatgctt ctgatttagc
+     1981 aatgctgtga ataaaaagaa agattttata cccttgactt aactttttaa ccaagttgtt
+     2041 tattccaaag agtgtggaat tttggttggg gtggggggag aggagggatg caactcgccc
+     2101 tgtttggcat ctaattctta tttttaattt ttccgcacct tatcaattgc aaaatgcgta
+     2161 tttgcatttg ggtggttttt atttttatat acgtttatat aaatatatat aaattgagct
+     2221 tgcttctttc ttgctttgac catggaaaga aatatgattc ccttttcttt aagttttatt
+     2281 taacttttct tttggacttt tgggtagttg tttttttttg ttttgttttg tttttttgag
+     2341 aaacagctac agctttgggt catttttaac tactgtattc ccacaaggaa tccccagata
+     2401 tttatgtatc ttgatgttca gacatttatg tgttgataat tttttaatta tttaaatgta
+     2461 cttatattaa gaaaaatatc aagtactaca ttttcttttg ttcttgatag tagccaaagt
+     2521 taaatgtatc acattgaaga aggctagaaa aaaagaatga gtaatgtgat cgcttggtta
+     2581 tccagaagta ttgtttacat taaactccct ttcatgttaa tcaaacaagt gagtagctca
+     2641 cgcagcaacg tttttaatag gatttttaga cactgagggt cactccaagg atcagaagta
+     2701 tggaattttc tgccaggctc aacaagggtc tcatatctaa cttcctcctt aaaacagaga
+     2761 aggtcaatct agttccagag ggttgaggca ggtgccaata attacatctt tggagaggat
+     2821 ttgatttctg cccagggatt tgctcacccc aaggtcatct gataatttca cagatgctgt
+     2881 gtaacagaac acagccaaag taaactgtgt aggggagcca catttacata ggaaccaaat
+     2941 caatgaattt aggggttacg attatagcaa tttaagggcc caccagaagc aggcctcgag
+     3001 gagtcaattt gcctctgtgt gcctcagtgg agacaagtgg gaaaacatgg tcccacctgt
+     3061 gcgagacccc ctgtcctgtg ctgctcactc aacaacatct ttgtgttgct ttcaccaggc
+     3121 tgagacccta ccctatgggg tatatgggct tttacctgtg caccagtgtg acaggaaaga
+     3181 ttcatgtcac tactgtccgt ggctacaatt caaaggtatc caatgtcgct gtaaatttta
+     3241 tggcactatt tttattggag gatttggtca gaatgcagtt gttgtacaac tcataaatac
+     3301 taactgctga ttttgacaca tgtgtgctcc aaatgatctg gtggttattt aacgtacctc
+     3361 ttaaaattcg ttgaaacgat ttcaggtcaa ctctgaagag tatttgaaag caggacttca
+     3421 gaacagtgtt tgatttttat tttataaatt taagcattca aattaggcaa atctttggct
+     3481 gcaggcagca aaaacagctg gacttattta aaacaacttg tttttgagtt ttcttatata
+     3541 tatattgatt atttgtttta cacacatgca gtagcacttt ggtaagagtt aaagagtaaa
+     3601 gcagcttatg ttgtcaggtc gttcttatct agagaagagc tatagcagat ctcggacaaa
+     3661 ctcagaatat attcactttc atttttgaca ggattccctc cacaactcag tttcatatat
+     3721 tattccgtat tacatttttg cagctaaatt accataaaat gtcagcaaat gtaaaaattt
+     3781 aatttctgaa aagcaccatt agcccatttc ccccaaatta aacgtaaatg ttttttttca
+     3841 gcacatgtta ccatgtctga cctgcaaaaa tgctggagaa aaatgaagga aaaaattatg
+     3901 tttttcagtt taattctgtt aactgaagat attccaactc aaaaccagcc tcatgctctg
+     3961 attagataat cttttacatt gaacctttac tctcaaagcc atgtgtggag ggggcttgtc
+     4021 actattgtag gctcactgga ttggtcattt agagtttcac agactcttac cagcatatat
+     4081 agtatttaat tgtttcaaaa aaaatcaaac tgtagttgtt ttggcgatag gtctcacgca
+     4141 acacattttt gtatgtgtgt gtgtgtgcgt gtgtgtgtgt gtgtgtgaaa aattgcattc
+     4201 attgacttca ggtagattaa ggtatctttt tattcattgc cctcaggaaa gttaaggtat
+     4261 caatgagacc cttaagccaa tcatgtaata actgcatgtg tctggtccag gagaagtatt
+     4321 gaataagcca tttctactgc ttactcatgt ccctatttat gatttcaaca tggatacata
+     4381 tttcagttct ttctttttct cactatctga aaatacattt ccctccctct cttcccccca
+     4441 atatctccct ttttttctct cttcctctat cttccaaacc ccactttctc cctcctcctt
+     4501 ttcctgtgtt ctcttaagca gatagcacat acccccaccc agtaccaaat ttcagaacac
+     4561 aagaaggtcc agttcttccc ccttcacata aaggaacatg gtttgtcagc ctttctcctg
+     4621 tttatgggtt tcttccagca gaacagagac attgccaacc atattggatc tgcttgctgt
+     4681 ccaaaccagc aaactttcct gggcaaatca caatcagtga gtaaatagac agcctttctg
+     4741 ctgccttggg tttctgtgca gataaacaga aatgctctga ttagaaagga aatgaatggt
+     4801 tccactcaaa tgtcctgcaa tttaggattg cagatttctg ccttgaaata cctgtttctt
+     4861 tgggacattc cgtcctgatg atttttattt ttgttggttt ttatttttgg ggggaatgac
+     4921 atgtttgggt cttttataca tgaaaatttg tttgacaata atctcacaaa acatatttta
+     4981 catctgaaca aaatgccttt ttgtttaccg tagcgtatac atttgttttg ggatttttgt
+     5041 gtgtttgttg ggaattttgt ttttagccag gtcagtattg atgaggctga tcatttggct
+     5101 ctttttttcc ttccagaaga gttgcatcaa caaagttaat tgtatttatg tatgtaaata
+     5161 gattttaagc ttcattataa aatattgtta atgcctataa ctttttttca atttttttgt
+     5221 gtgtgtttct aaggactttt tcttaggttt gctaaatact gtagggaaaa aaatgcttct
+     5281 ttctactttg tttattttag actttaaaat gagctacttc ttattcactt ttgtaaacag
+     5341 ctaatagcat ggttccaatt ttttttaagt tcactttttt tgttctaggg gaaatgaatg
+     5401 tgcaaaaaaa gaaaaagaac tgttggttat ttgtgttatt ctggatgtat aaaaatcaat
+     5461 ggaaaaaaat aaactttcaa attgaaatga cggtataaca catctactga aaaagcaacg
+     5521 ggaaatgtgg tcctatttaa gccagccccc acctagggtc tatttgtgtg gcagttattg
+     5581 ggtttggtca caaaacatcc tgaaaattcg tgcgtgggct tctttctccc tggtacaaac
+     5641 gtatggaatg cttcttaaag gggaactgtc aagctggtgt cttcagccag atgacatgag
+     5701 agaatatccc agaaccctct ctccaaggtg tttctagata gcacaggaga gcaggcactg
+     5761 cactgtccac agtccacggt acacagtcgg gtgggccgcc tcccctctcc tgggagcatt
+     5821 cgtcgtgccc agcctgagca gggcagctgg actgctgctg ttcaggagcc accagagcct
+     5881 tcctctcttt gtaccacagt ttcttctgta aatccagtgt tacaatcagt gtgaatggca
+     5941 aataaacagt ttgacaagta catacaccat a
+//

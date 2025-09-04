@@ -1,0 +1,293 @@
+LOCUS       NM_000190               1505 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens hydroxymethylbilane synthase (HMBS), transcript variant
+            1, mRNA.
+ACCESSION   NM_000190
+VERSION     NM_000190.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1505)
+  AUTHORS   M,K., M,R., J,B., A,B.I., K,I.P., R,W., E,O., A,Z.K., R,S. and R,P.
+  TITLE     Neurodevelopmental disorder in a patient with HMBS and SCN3A
+            variants-A possibly blended phenotype further delineating autosomal
+            recessive HMBS related disease
+  JOURNAL   Am J Med Genet A 194 (8), e63617 (2024)
+   PUBMED   38568055
+  REMARK    GeneRIF: Neurodevelopmental disorder in a patient with HMBS and
+            SCN3A variants-A possibly blended phenotype further delineating
+            autosomal recessive HMBS related disease.
+REFERENCE   2  (bases 1 to 1505)
+  AUTHORS   Hu,Y., Li,W., Kang,N., Ma,L., Teng,Q., Mo,G., Wu,J., Wang,X., Bi,R.
+            and Zhang,S.
+  TITLE     Identification and molecular analysis of 17 novel variants of
+            hydroxymethylbilane synthase in Chinese patients with acute
+            intermittent porphyria
+  JOURNAL   Clin Genet 101 (1), 116-121 (2022)
+   PUBMED   34523126
+  REMARK    GeneRIF: Identification and molecular analysis of 17 novel variants
+            of hydroxymethylbilane synthase in Chinese patients with acute
+            intermittent porphyria.
+REFERENCE   3  (bases 1 to 1505)
+  AUTHORS   Zhang,Y., Xiao,H., Xiong,Q., Wu,C. and Li,P.
+  TITLE     Two Novel Hydroxymethylbilane Synthase Splicing Mutations Predispose
+            to Acute Intermittent Porphyria
+  JOURNAL   Int J Mol Sci 22 (20), 11008 (2021)
+   PUBMED   34681668
+  REMARK    GeneRIF: Two Novel Hydroxymethylbilane Synthase Splicing Mutations
+            Predispose to Acute Intermittent Porphyria. Publication Status:
+            Online-Only
+REFERENCE   4  (bases 1 to 1505)
+  AUTHORS   Stutterd,C.A., Kidd,A., Florkowski,C., Janus,E., Fanjul,M.,
+            Raizis,A., Wu,T.Y., Archer,J., Leventer,R.J., Amor,D.J., Lukic,V.,
+            Bahlo,M., Gow,P., Lockhart,P.J., van der Knaap,M.S. and
+            Delatycki,M.B.
+  TITLE     Expanding the clinical and radiological phenotypes of
+            leukoencephalopathy due to biallelic HMBS mutations
+  JOURNAL   Am J Med Genet A 185 (10), 2941-2950 (2021)
+   PUBMED   34089223
+  REMARK    GeneRIF: Expanding the clinical and radiological phenotypes of
+            leukoencephalopathy due to biallelic HMBS mutations.
+REFERENCE   5  (bases 1 to 1505)
+  AUTHORS   Jerico,D., Luis,E.O., Cusso,L., Fernandez-Seara,M.A., Morales,X.,
+            Cordoba,K.M., Benito,M., Sampedro,A., Larriva,M., Ramirez,M.J., de
+            Salamanca,R.E., Ortiz-de-Solorzano,C., Alegre,M., Prieto,J.,
+            Lanciego,J.L., D'Avola,D., Gonzalez-Aseguinolaza,G., Pastor,M.A.,
+            Desco,M. and Fontanellas,A.
+  TITLE     Brain ventricular enlargement in human and murine acute intermittent
+            porphyria
+  JOURNAL   Hum Mol Genet 29 (19), 3211-3223 (2020)
+   PUBMED   32916704
+  REMARK    GeneRIF: Brain ventricular enlargement in human and murine acute
+            intermittent porphyria.
+REFERENCE   6  (bases 1 to 1505)
+  AUTHORS   Sardh,E. and Barbaro,M.
+  TITLE     Acute Intermittent Porphyria
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301372
+REFERENCE   7  (bases 1 to 1505)
+  AUTHORS   Gu,X.F., de Rooij,F., Voortman,G., Te Velde,K., Nordmann,Y. and
+            Grandchamp,B.
+  TITLE     High frequency of mutations in exon 10 of the porphobilinogen
+            deaminase gene in patients with a CRIM-positive subtype of acute
+            intermittent porphyria
+  JOURNAL   Am J Hum Genet 51 (3), 660-665 (1992)
+   PUBMED   1496994
+REFERENCE   8  (bases 1 to 1505)
+  AUTHORS   Mgone,C.S., Lanyon,W.G., Moore,M.R. and Connor,J.M.
+  TITLE     Detection of seven point mutations in the porphobilinogen deaminase
+            gene in patients with acute intermittent porphyria, by direct
+            sequencing of in vitro amplified cDNA
+  JOURNAL   Hum Genet 90 (1-2), 12-16 (1992)
+   PUBMED   1427766
+REFERENCE   9  (bases 1 to 1505)
+  AUTHORS   Kauppinen,R., Peltonen,L., Pihlaja,H. and Mustajoki,P.
+  TITLE     CRIM-positive mutations of acute intermittent porphyria in Finland
+  JOURNAL   Hum Mutat 1 (5), 392-396 (1992)
+   PUBMED   1301948
+REFERENCE   10  (bases 1 to 1505)
+  AUTHORS   Delfau,M.H., Picat,C., De Rooij,F., Voortman,G., Deybach,J.C.,
+            Nordmann,Y. and Grandchamp,B.
+  TITLE     Molecular heterogeneity of acute intermittent porphyria:
+            identification of four additional mutations resulting in the
+            CRIM-negative subtype of the disease
+  JOURNAL   Am J Hum Genet 49 (2), 421-428 (1991)
+   PUBMED   1714233
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK290275.1, SRR1163655.660423.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000652429.1/ ENSP00000498786.1
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            expression, longest protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CB128006.1, BC019323.1 and
+            AW139390.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Aug 13, 2018 this sequence version replaced NM_000190.3.
+            Summary: This gene encodes a member of the hydroxymethylbilane
+            synthase superfamily. The encoded protein is the third enzyme of
+            the heme biosynthetic pathway and catalyzes the head to tail
+            condensation of four porphobilinogen molecules into the linear
+            hydroxymethylbilane. Mutations in this gene are associated with the
+            autosomal dominant disease acute intermittent porphyria.
+            Alternatively spliced transcript variants encoding different
+            isoforms have been described. [provided by RefSeq, Jul 2008].
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1505
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q23.3"
+     gene            1..1505
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="hydroxymethylbilane synthase"
+                     /db_xref="GeneID:3145"
+                     /db_xref="HGNC:HGNC:4982"
+                     /db_xref="MIM:609806"
+     exon            1..186
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    115..117
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="upstream in-frame stop codon"
+     CDS             154..1239
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /EC_number="2.5.1.61"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     porphyria, acute; Chester type; pre-uroporphyrinogen
+                     synthase; uroporphyrinogen I synthase; uroporphyrinogen I
+                     synthetase; porphobilinogen deaminase"
+                     /codon_start=1
+                     /product="porphobilinogen deaminase isoform 1"
+                     /protein_id="NP_000181.2"
+                     /db_xref="CCDS:CCDS8409.1"
+                     /db_xref="GeneID:3145"
+                     /db_xref="HGNC:HGNC:4982"
+                     /db_xref="MIM:609806"
+                     /translation="MSGNGNAAATAEENSPKMRVIRVGTRKSQLARIQTDSVVATLKAS
+                     YPGLQFEIIAMSTTGDKILDTALSKIGEKSLFTKELEHALEKNEVDLVVHSLKDLPTVL
+                     PPGFTIGAICKRENPHDAVVFHPKFVGKTLETLPEKSVVGTSSLRRAAQLQRKFPHLEF
+                     RSIRGNLNTRLRKLDEQQEFSAIILATAGLQRMGWHNRVGQILHPEECMYAVGQGALGV
+                     EVRAKDQDILDLVGVLHDPETLLRCIAERAFLRHLEGGCSVPVAVHTAMKDGQLYLTGG
+                     VWSLDGSDSIQETMQATIHVPAQHEDGPEDDPQLVGITARNIPRGPQLAAQNLGISLAN
+                     LLLSKGAKNILDVARQLNDAH"
+     misc_feature    157..159
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="N-acetylserine.
+                     /evidence=ECO:0007744|PubMed:19413330,
+                     ECO:0007744|PubMed:22223895, ECO:0007744|PubMed:22814378;
+                     propagated from UniProtKB/Swiss-Prot (P08397.2);
+                     acetylation site"
+     misc_feature    196..198
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P08397.2); phosphorylation site"
+     misc_feature    358..360
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P08397.2); phosphorylation site"
+     misc_feature    373..375
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P22907; propagated from
+                     UniProtKB/Swiss-Prot (P08397.2); acetylation site"
+     misc_feature    592..594
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P08397.2); phosphorylation site"
+     exon            187..240
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            241..313
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            314..363
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            364..419
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            420..497
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            498..575
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            576..651
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            652..765
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            766..804
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            805..924
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            925..978
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            979..1065
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1066..1505
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1484..1489
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="hexamer: AATAAA"
+     polyA_site      1504
+                     /gene="HMBS"
+                     /gene_synonym="ENCEP; LENCEP; PBG-D; PBGD; PORC; UPS"
+                     /note="major polyA site"
+ORIGIN
+        1 aagtgacgcg aggctctgcg gagaccagga gtcagactgt aggacgacct cgggtcccac
+       61 gtgtccccgg tactcgccgg ccggagcccc cggcttcccg gggccggggg accttagcgg
+      121 cacccacaca cagcctactt tccaagcgga gccatgtctg gtaacggcaa tgcggctgca
+      181 acggcggaag aaaacagccc aaagatgaga gtgattcgcg tgggtacccg caagagccag
+      241 cttgctcgca tacagacgga cagtgtggtg gcaacattga aagcctcgta ccctggcctg
+      301 cagtttgaaa tcattgctat gtccaccaca ggggacaaga ttcttgatac tgcactctct
+      361 aagattggag agaaaagcct gtttaccaag gagcttgaac atgccctgga gaagaatgaa
+      421 gtggacctgg ttgttcactc cttgaaggac ctgcccactg tgcttcctcc tggcttcacc
+      481 atcggagcca tctgcaagcg ggaaaaccct catgatgctg ttgtctttca cccaaaattt
+      541 gttgggaaga ccctagaaac cctgccagag aagagtgtgg tgggaaccag ctccctgcga
+      601 agagcagccc agctgcagag aaagttcccg catctggagt tcaggagtat tcggggaaac
+      661 ctcaacaccc ggcttcggaa gctggacgag cagcaggagt tcagtgccat catcctggca
+      721 acagctggcc tgcagcgcat gggctggcac aaccgggtgg ggcagatcct gcaccctgag
+      781 gaatgcatgt atgctgtggg ccagggggcc ttgggcgtgg aagtgcgagc caaggaccag
+      841 gacatcttgg atctggtggg tgtgctgcac gatcccgaga ctctgcttcg ctgcatcgct
+      901 gaaagggcct tcctgaggca cctggaagga ggctgcagtg tgccagtagc cgtgcataca
+      961 gctatgaagg atgggcaact gtacctgact ggaggagtct ggagtctaga cggctcagat
+     1021 agcatacaag agaccatgca ggctaccatc catgtccctg cccagcatga agatggccct
+     1081 gaggatgacc cacagttggt aggcatcact gctcgtaaca ttccacgagg gccccagttg
+     1141 gctgcccaga acttgggcat cagcctggcc aacttgttgc tgagcaaagg agccaaaaac
+     1201 atcctggatg ttgcacggca gcttaacgat gcccattaac tggtttgtgg ggcacagatg
+     1261 cctgggttgc tgctgtccag tgcctacatc ccgggcctca gtgccccatt ctcactgcta
+     1321 tctggggagt gattaccccg ggagactgaa ctgcagggtt caagccttcc agggatttgc
+     1381 ctcaccttgg ggccttgatg actgccttgc ctcctcagta tgtgggggct tcatctcttt
+     1441 agagaagtcc aagcaacagc ctttgaatgt aaccaatcct actaataaac cagttctgaa
+     1501 ggtgt
+//

@@ -1,0 +1,331 @@
+LOCUS       NM_004964               2118 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens histone deacetylase 1 (HDAC1), mRNA.
+ACCESSION   NM_004964
+VERSION     NM_004964.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2118)
+  AUTHORS   Chen,W., Chu,J., Miao,Y., Jiang,W., Wang,F., Zhang,N., Jin,J. and
+            Cai,Y.
+  TITLE     MOF-mediated acetylation of CDK9 promotes global transcription by
+            modulating P-TEFb complex formation
+  JOURNAL   FEBS J 291 (21), 4796-4812 (2024)
+   PUBMED   39250546
+REFERENCE   2  (bases 1 to 2118)
+  AUTHORS   Kanojia,A., Roy,G., Madhubala,R. and Muthuswami,R.
+  TITLE     Interplay between DOT1L and HDAC1 regulates Leishmania donovani
+            infection in human THP-1 cells
+  JOURNAL   Acta Trop 258, 107352 (2024)
+   PUBMED   39103111
+  REMARK    GeneRIF: Interplay between DOT1L and HDAC1 regulates Leishmania
+            donovani infection in human THP-1 cells.
+REFERENCE   3  (bases 1 to 2118)
+  AUTHORS   Di Giorgio,E., Dalla,E., Tolotto,V., D'Este,F., Paluvai,H.,
+            Ranzino,L. and Brancolini,C.
+  TITLE     HDAC4 influences the DNA damage response and counteracts senescence
+            by assembling with HDAC1/HDAC2 to control H2BK120 acetylation and
+            homology-directed repair
+  JOURNAL   Nucleic Acids Res 52 (14), 8218-8240 (2024)
+   PUBMED   38874468
+  REMARK    GeneRIF: HDAC4 influences the DNA damage response and counteracts
+            senescence by assembling with HDAC1/HDAC2 to control H2BK120
+            acetylation and homology-directed repair.
+REFERENCE   4  (bases 1 to 2118)
+  AUTHORS   Kong,Y., Jiang,R., Zhou,H., Ge,M., Lin,H., Wang,Y., Yao,R., Wang,Q.,
+            Liang,X., Li,J. and Zhou,X.
+  TITLE     PHF12 regulates HDAC1 to promote tumorigenesis via EGFR/AKT
+            signaling pathway in non-small cell lung cancer
+  JOURNAL   J Transl Med 22 (1), 689 (2024)
+   PUBMED   39075515
+  REMARK    GeneRIF: PHF12 regulates HDAC1 to promote tumorigenesis via EGFR/AKT
+            signaling pathway in non-small cell lung cancer. Publication Status:
+            Online-Only
+REFERENCE   5  (bases 1 to 2118)
+  AUTHORS   Xiong,F., Wang,D., Xiong,W., Wang,X., Huang,W.H., Wu,G.H., Liu,W.Z.,
+            Wang,Q., Chen,J.S., Kuai,Y.Y., Wang,B. and Chen,Y.J.
+  TITLE     Unveiling the role of HP1alpha-HDAC1-STAT1 axis as a therapeutic
+            target for HP1alpha-positive intrahepatic cholangiocarcinoma
+  JOURNAL   J Exp Clin Cancer Res 43 (1), 152 (2024)
+   PUBMED   38812060
+  REMARK    GeneRIF: Unveiling the role of HP1alpha-HDAC1-STAT1 axis as a
+            therapeutic target for HP1alpha-positive intrahepatic
+            cholangiocarcinoma. Erratum:[J Exp Clin Cancer Res. 2024 Jul
+            5;43(1):186. doi: 10.1186/s13046-024-03112-w. PMID: 38965576]
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2118)
+  AUTHORS   Taunton,J., Hassig,C.A. and Schreiber,S.L.
+  TITLE     A mammalian histone deacetylase related to the yeast transcriptional
+            regulator Rpd3p
+  JOURNAL   Science 272 (5260), 408-411 (1996)
+   PUBMED   8602529
+REFERENCE   7  (bases 1 to 2118)
+  AUTHORS   Wolffe,A.P.
+  TITLE     Histone deacetylase: a regulator of transcription
+  JOURNAL   Science 272 (5260), 371-372 (1996)
+   PUBMED   8602525
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 2118)
+  AUTHORS   Furukawa,Y., Kawakami,T., Sudo,K., Inazawa,J., Matsumine,A.,
+            Akiyama,T. and Nakamura,Y.
+  TITLE     Isolation and mapping of a human gene (RPD3L1) that is homologous to
+            RPD3, a transcription factor in Saccharomyces cerevisiae
+  JOURNAL   Cytogenet Cell Genet 73 (1-2), 130-133 (1996)
+   PUBMED   8646880
+REFERENCE   9  (bases 1 to 2118)
+  AUTHORS   Hijmans,E.M., Voorhoeve,P.M., Beijersbergen,R.L., van 't Veer,L.J.
+            and Bernards,R.
+  TITLE     E2F-5, a new E2F family member that interacts with p130 in vivo
+  JOURNAL   Mol Cell Biol 15 (6), 3082-3089 (1995)
+   PUBMED   7760804
+REFERENCE   10  (bases 1 to 2118)
+  AUTHORS   Margolis,D.M., Somasundaran,M. and Green,M.R.
+  TITLE     Human transcription factor YY1 represses human immunodeficiency
+            virus type 1 transcription and virion production
+  JOURNAL   J Virol 68 (2), 905-910 (1994)
+   PUBMED   8289393
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1163657.10339.1,
+            SRR1803611.177301.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000373548.8/ ENSP00000362649.3
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL109945.15.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 25, 2018 this sequence version replaced NM_004964.2.
+            Summary: Histone acetylation and deacetylation, catalyzed by
+            multisubunit complexes, play a key role in the regulation of
+            eukaryotic gene expression. The protein encoded by this gene
+            belongs to the histone deacetylase/acuc/apha family and is a
+            component of the histone deacetylase complex. It also interacts
+            with retinoblastoma tumor-suppressor protein and this complex is a
+            key element in the control of cell proliferation and
+            differentiation. Together with metastasis-associated protein-2, it
+            deacetylates p53 and modulates its effect on cell growth and
+            apoptosis. [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2118
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p35.2-p35.1"
+     gene            1..2118
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="histone deacetylase 1"
+                     /db_xref="GeneID:3065"
+                     /db_xref="HGNC:HGNC:4852"
+                     /db_xref="MIM:601241"
+     exon            1..136
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    67..69
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="upstream in-frame stop codon"
+     CDS             88..1536
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /EC_number="3.5.1.98"
+                     /note="reduced potassium dependency, yeast homolog-like 1;
+                     protein deacetylase HDAC1; protein decrotonylase HDAC1;
+                     protein deacylase HDAC1"
+                     /codon_start=1
+                     /product="histone deacetylase 1"
+                     /protein_id="NP_004955.2"
+                     /db_xref="CCDS:CCDS360.1"
+                     /db_xref="GeneID:3065"
+                     /db_xref="HGNC:HGNC:4852"
+                     /db_xref="MIM:601241"
+                     /translation="MAQTQGTRRKVCYYYDGDVGNYYYGQGHPMKPHRIRMTHNLLLNY
+                     GLYRKMEIYRPHKANAEEMTKYHSDDYIKFLRSIRPDNMSEYSKQMQRFNVGEDCPVFD
+                     GLFEFCQLSTGGSVASAVKLNKQQTDIAVNWAGGLHHAKKSEASGFCYVNDIVLAILEL
+                     LKYHQRVLYIDIDIHHGDGVEEAFYTTDRVMTVSFHKYGEYFPGTGDLRDIGAGKGKYY
+                     AVNYPLRDGIDDESYEAIFKPVMSKVMEMFQPSAVVLQCGSDSLSGDRLGCFNLTIKGH
+                     AKCVEFVKSFNLPMLMLGGGGYTIRNVARCWTYETAVALDTEIPNELPYNDYFEYFGPD
+                     FKLHISPSNMTNQNTNEYLEKIKQRLFENLRMLPHAPGVQMQAIPEDAIPEESGDEDED
+                     DPDKRISICSSDKRIACEEEFSDSEEEGEGGRKNSSNFKKAKRVKTEDEKEKDPEEKKE
+                     VTEEEKTKEEKPEAKGVKEEVKLA"
+     misc_feature    112..1050
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13547.1);
+                     Region: Histone deacetylase"
+     misc_feature    307..309
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q13547.1); acetylation site"
+     misc_feature    745..747
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q13547.1); acetylation site"
+     misc_feature    1255..1533
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13547.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1264..1266
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:17487921, ECO:0007744|PubMed:18691976,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q13547.1); phosphorylation site"
+     misc_feature    1303..1305
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q92769; propagated from
+                     UniProtKB/Swiss-Prot (Q13547.1); phosphorylation site"
+     misc_feature    1312..1314
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q13547.1); phosphorylation site"
+     misc_feature    1348..1350
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="Phosphoserine, by CK2.
+                     /evidence=ECO:0000269|PubMed:11602581,
+                     ECO:0007744|PubMed:17081983, ECO:0007744|PubMed:18318008,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (Q13547.1);
+                     phosphorylation site"
+     misc_feature    1354..1356
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="Phosphoserine, by CK2.
+                     /evidence=ECO:0000269|PubMed:11602581,
+                     ECO:0007744|PubMed:17081983, ECO:0007744|PubMed:18318008,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q13547.1); phosphorylation site"
+     misc_feature    1381..1383
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="N6-methylated lysine, by EHMT2.
+                     /evidence=ECO:0000269|PubMed:18438403; propagated from
+                     UniProtKB/Swiss-Prot (Q13547.1); methylation site"
+     exon            137..249
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            250..367
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            368..442
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            443..581
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            582..723
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            724..816
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            817..925
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            926..1066
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1067..1175
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1176..1306
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1307..1459
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1460..1508
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1509..2118
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2097..2102
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="hexamer: AATAAA"
+     polyA_site      2118
+                     /gene="HDAC1"
+                     /gene_synonym="GON-10; HD1; KDAC1; RPD3; RPD3L1"
+                     /note="major polyA site"
+ORIGIN
+        1 cccctccccc ctgggtcgga cgctgagcgg agccgcgggc gggagggcgg acggaccgac
+       61 tgacggtagg gacgggaggc gagcaagatg gcgcagacgc agggcacccg gaggaaagtc
+      121 tgttactact acgacgggga tgttggaaat tactattatg gacaaggcca cccaatgaag
+      181 cctcaccgaa tccgcatgac tcataatttg ctgctcaact atggtctcta ccgaaaaatg
+      241 gaaatctatc gccctcacaa agccaatgct gaggagatga ccaagtacca cagcgatgac
+      301 tacattaaat tcttgcgctc catccgtcca gataacatgt cggagtacag caagcagatg
+      361 cagagattca acgttggtga ggactgtcca gtattcgatg gcctgtttga gttctgtcag
+      421 ttgtctactg gtggttctgt ggcaagtgct gtgaaactta ataagcagca gacggacatc
+      481 gctgtgaatt gggctggggg cctgcaccat gcaaagaagt ccgaggcatc tggcttctgt
+      541 tacgtcaatg atatcgtctt ggccatcctg gaactgctaa agtatcacca gagggtgctg
+      601 tacattgaca ttgatattca ccatggtgac ggcgtggaag aggccttcta caccacggac
+      661 cgggtcatga ctgtgtcctt tcataagtat ggagagtact tcccaggaac tggggaccta
+      721 cgggatatcg gggctggcaa aggcaagtat tatgctgtta actacccgct ccgagacggg
+      781 attgatgacg agtcctatga ggccattttc aagccggtca tgtccaaagt aatggagatg
+      841 ttccagccta gtgcggtggt cttacagtgt ggctcagact ccctatctgg ggatcggtta
+      901 ggttgcttca atctaactat caaaggacac gccaagtgtg tggaatttgt caagagcttt
+      961 aacctgccta tgctgatgct gggaggcggt ggttacacca ttcgtaacgt tgcccggtgc
+     1021 tggacatatg agacagctgt ggccctggat acggagatcc ctaatgagct tccatacaat
+     1081 gactactttg aatactttgg accagatttc aagctccaca tcagtccttc caatatgact
+     1141 aaccagaaca cgaatgagta cctggagaag atcaaacagc gactgtttga gaaccttaga
+     1201 atgctgccgc acgcacctgg ggtccaaatg caggcgattc ctgaggacgc catccctgag
+     1261 gagagtggcg atgaggacga agacgaccct gacaagcgca tctcgatctg ctcctctgac
+     1321 aaacgaattg cctgtgagga agagttctcc gattctgaag aggagggaga ggggggccgc
+     1381 aagaactctt ccaacttcaa aaaagccaag agagtcaaaa cagaggatga aaaagagaaa
+     1441 gacccagagg agaagaaaga agtcaccgaa gaggagaaaa ccaaggagga gaagccagaa
+     1501 gccaaagggg tcaaggagga ggtcaagttg gcctgaatgg acctctccag ctctggcttc
+     1561 ctgctgagtc cctcacgttt cttccccaac ccctcagatt ttatattttc tatttctctg
+     1621 tgtatttata taaaaattta ttaaatataa atatccccag ggacagaaac caaggccccg
+     1681 agctcagggc agctgtgctg ggtgagctct tccaggagcc accttgccac ccattcttcc
+     1741 cgttcttaac tttgaaccat aaagggtgcc aggtctgggt gaaagggata cttttatgca
+     1801 accataagac aaactcctga aatgccaagt gcctgcttag tagctttgga aaggtgccct
+     1861 tattgaacat tctagaaggg gtggctgggt cttcaaggat ctcctgtttt tttcaggctc
+     1921 ctaaagtaac atcagccatt tttagattgg ttctgttttc gtaccttccc actggcctca
+     1981 agtgagccaa gaaacactgc ctgccctctg tctgtcttct cctaattctg caggtggagg
+     2041 ttgctagtct agtttccttt ttgagatact attttcattt ttgtgagcct ctttgtaata
+     2101 aaatggtaca tttctata
+//

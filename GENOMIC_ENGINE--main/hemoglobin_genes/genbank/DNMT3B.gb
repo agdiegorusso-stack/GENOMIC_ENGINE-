@@ -1,0 +1,415 @@
+LOCUS       NM_006892               4336 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens DNA methyltransferase 3 beta (DNMT3B), transcript
+            variant 1, mRNA.
+ACCESSION   NM_006892
+VERSION     NM_006892.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4336)
+  AUTHORS   Cho,C.C., Fei,C.Y., Jiang,B.C., Yang,W.Z. and Yuan,H.S.
+  TITLE     Molecular mechanisms for DNA methylation defects induced by ICF
+            syndrome-linked mutations in DNMT3B
+  JOURNAL   Protein Sci 33 (10), e5131 (2024)
+   PUBMED   39290110
+  REMARK    GeneRIF: Molecular mechanisms for DNA methylation defects induced by
+            ICF syndrome-linked mutations in DNMT3B.
+REFERENCE   2  (bases 1 to 4336)
+  AUTHORS   Zhang,J., Zhang,W., Liu,J., Liu,Y., Jiang,Y., Ainiwaer,A., Chen,H.,
+            Gu,Z., Chen,H., Mao,S., Guo,Y., Xu,T., Xu,Y., Wu,Y., Yao,X. and
+            Yan,Y.
+  TITLE     SOX7 inhibits the malignant progression of bladder cancer via the
+            DNMT3B/CYGB axis
+  JOURNAL   Mol Biomed 5 (1), 36 (2024)
+   PUBMED   39227479
+  REMARK    GeneRIF: SOX7 inhibits the malignant progression of bladder cancer
+            via the DNMT3B/CYGB axis. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 4336)
+  AUTHORS   Chen,J., Yang,X., Li,Q., Ma,J., Li,H., Wang,L., Chen,Z. and Quan,Z.
+  TITLE     Inhibiting DNA methyltransferase DNMT3B confers protection against
+            ferroptosis in nucleus pulposus and ameliorates intervertebral disc
+            degeneration via upregulating SLC40A1
+  JOURNAL   Free Radic Biol Med 220, 139-153 (2024)
+   PUBMED   38705495
+  REMARK    GeneRIF: Inhibiting DNA methyltransferase DNMT3B confers protection
+            against ferroptosis in nucleus pulposus and ameliorates
+            intervertebral disc degeneration via upregulating SLC40A1.
+REFERENCE   4  (bases 1 to 4336)
+  AUTHORS   Engal,E., Sharma,A., Aviel,U., Taqatqa,N., Juster,S.,
+            Jaffe-Herman,S., Bentata,M., Geminder,O., Gershon,A., Lewis,R.,
+            Kay,G., Hecht,M., Epsztejn-Litman,S., Gotkine,M., Mouly,V.,
+            Eiges,R., Salton,M. and Drier,Y.
+  TITLE     DNMT3B splicing dysregulation mediated by SMCHD1 loss contributes to
+            DUX4 overexpression and FSHD pathogenesis
+  JOURNAL   Sci Adv 10 (22), eadn7732 (2024)
+   PUBMED   38809976
+  REMARK    GeneRIF: DNMT3B splicing dysregulation mediated by SMCHD1 loss
+            contributes to DUX4 overexpression and FSHD pathogenesis.
+REFERENCE   5  (bases 1 to 4336)
+  AUTHORS   Liu,H., Deng,Y., Luo,G., Yang,Y., Xie,B., Diao,H., Chen,M., Chen,L.,
+            Xie,P., Kwan,H.Y., Zhao,X. and Sun,X.
+  TITLE     DNA methylation of miR-181a-5p mediated by DNMT3b drives renal
+            interstitial fibrosis developed from acute kidney injury
+  JOURNAL   Epigenomics 16 (13), 945-960 (2024)
+   PUBMED   39023272
+  REMARK    GeneRIF: DNA methylation of miR-181a-5p mediated by DNMT3b drives
+            renal interstitial fibrosis developed from acute kidney injury.
+REFERENCE   6  (bases 1 to 4336)
+  AUTHORS   Okano,M., Bell,D.W., Haber,D.A. and Li,E.
+  TITLE     DNA methyltransferases Dnmt3a and Dnmt3b are essential for de novo
+            methylation and mammalian development
+  JOURNAL   Cell 99 (3), 247-257 (1999)
+   PUBMED   10555141
+REFERENCE   7  (bases 1 to 4336)
+  AUTHORS   Xie,S., Wang,Z., Okano,M., Nogami,M., Li,Y., He,W.W., Okumura,K. and
+            Li,E.
+  TITLE     Cloning, expression and chromosome locations of the human DNMT3 gene
+            family
+  JOURNAL   Gene 236 (1), 87-95 (1999)
+   PUBMED   10433969
+REFERENCE   8  (bases 1 to 4336)
+  AUTHORS   Robertson,K.D., Uzvolgyi,E., Liang,G., Talmadge,C., Sumegi,J.,
+            Gonzales,F.A. and Jones,P.A.
+  TITLE     The human DNA methyltransferases (DNMTs) 1, 3a and 3b: coordinate
+            mRNA expression in normal tissues and overexpression in tumors
+  JOURNAL   Nucleic Acids Res 27 (11), 2291-2298 (1999)
+   PUBMED   10325416
+REFERENCE   9  (bases 1 to 4336)
+  AUTHORS   Okano,M., Xie,S. and Li,E.
+  TITLE     Cloning and characterization of a family of novel mammalian DNA
+            (cytosine-5) methyltransferases
+  JOURNAL   Nat Genet 19 (3), 219-220 (1998)
+   PUBMED   9662389
+REFERENCE   10  (bases 1 to 4336)
+  AUTHORS   Preston,M.K., Tawil,R. and Wang,L.H.
+  TITLE     Facioscapulohumeral Muscular Dystrophy
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301616
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AF331857.1, AF156488.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000328111.6/ ENSP00000328547.2
+            RefSeq Select criteria      :: based on conservation
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF331857.1 and AF156487.1.
+            On May 17, 2019 this sequence version replaced NM_006892.3.
+            Summary: CpG methylation is an epigenetic modification that is
+            important for embryonic development, imprinting, and X-chromosome
+            inactivation. Studies in mice have demonstrated that DNA
+            methylation is required for mammalian development. This gene
+            encodes a DNA methyltransferase which is thought to function in de
+            novo methylation, rather than maintenance methylation. The protein
+            localizes primarily to the nucleus and its expression is
+            developmentally regulated. Mutations in this gene cause the
+            immunodeficiency-centromeric instability-facial anomalies (ICF)
+            syndrome. Eight alternatively spliced transcript variants have been
+            described. The full length sequences of variants 4 and 5 have not
+            been determined. [provided by RefSeq, May 2011].
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4336
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+                     /map="20q11.21"
+     gene            1..4336
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="DNA methyltransferase 3 beta"
+                     /db_xref="GeneID:1789"
+                     /db_xref="HGNC:HGNC:2979"
+                     /db_xref="MIM:602900"
+     exon            1..315
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            316..463
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             322..2883
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /EC_number="2.1.1.37"
+                     /note="isoform 1 is encoded by transcript variant 1; DNA
+                     methyltransferase HsaIIIB; DNA MTase HsaIIIB; DNA
+                     (cytosine-5)-methyltransferase 3B; DNA
+                     (cytosine-5-)-methyltransferase 3 beta; DNA
+                     cytosine-5--methyltransferase 3 beta"
+                     /codon_start=1
+                     /product="DNA (cytosine-5)-methyltransferase 3B isoform 1"
+                     /protein_id="NP_008823.1"
+                     /db_xref="CCDS:CCDS13205.1"
+                     /db_xref="GeneID:1789"
+                     /db_xref="HGNC:HGNC:2979"
+                     /db_xref="MIM:602900"
+                     /translation="MKGDTRHLNGEEDAGGREDSILVNGACSDQSSDSPPILEAIRTPE
+                     IRGRRSSSRLSKREVSSLLSYTQDLTGDGDGEDGDGSDTPVMPKLFRETRTRSESPAVR
+                     TRNNNSVSSRERHRPSPRSTRGRQGRNHVDESPVEFPATRSLRRRATASAGTPWPSPPS
+                     SYLTIDLTDDTEDTHGTPQSSSTPYARLAQDSQQGGMESPQVEADSGDGDSSEYQDGKE
+                     FGIGDLVWGKIKGFSWWPAMVVSWKATSKRQAMSGMRWVQWFGDGKFSEVSADKLVALG
+                     LFSQHFNLATFNKLVSYRKAMYHALEKARVRAGKTFPSSPGDSLEDQLKPMLEWAHGGF
+                     KPTGIEGLKPNNTQPVVNKSKVRRAGSRKLESRKYENKTRRRTADDSATSDYCPAPKRL
+                     KTNCYNNGKDRGDEDQSREQMASDVANNKSSLEDGCLSCGRKNPVSFHPLFEGGLCQTC
+                     RDRFLELFYMYDDDGYQSYCTVCCEGRELLLCSNTSCCRCFCVECLEVLVGTGTAAEAK
+                     LQEPWSCYMCLPQRCHGVLRRRKDWNVRLQAFFTSDTGLEYEAPKLYPAIPAARRRPIR
+                     VLSLFDGIATGYLVLKELGIKVGKYVASEVCEESIAVGTVKHEGNIKYVNDVRNITKKN
+                     IEEWGPFDLVIGGSPCNDLSNVNPARKGLYEGTGRLFFEFYHLLNYSRPKEGDDRPFFW
+                     MFENVVAMKVGDKRDISRFLECNPVMIDAIKVSAAHRARYFWGNLPGMNRPVIASKNDK
+                     LELQDCLEYNRIAKLKKVQTITTKSNSIKQGKNQLFPVVMNGKEDVLWCTELERIFGFP
+                     VHYTDVSNMGRGARQKLLGRSWSVPVIRHLFAPLKDYFACE"
+     misc_feature    322..1215
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UBC3.1);
+                     Region: Interaction with DNMT1 and DNMT3A.
+                     /evidence=ECO:0000269|PubMed:12145218"
+     misc_feature    322..975
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UBC3.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    565..567
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9UBC3.1); phosphorylation site"
+     misc_feature    607..609
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9UBC3.1); phosphorylation site"
+     misc_feature    619..621
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9UBC3.1); phosphorylation site"
+     misc_feature    649..651
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9UBC3.1); phosphorylation site"
+     misc_feature    727..729
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (Q9UBC3.1);
+                     phosphorylation site"
+     misc_feature    904..906
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9UBC3.1); phosphorylation site"
+     misc_feature    925..927
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9UBC3.1); phosphorylation site"
+     misc_feature    946..948
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9UBC3.1); phosphorylation site"
+     misc_feature    1342..1590
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UBC3.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1624..1902
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UBC3.1);
+                     Region: Interaction with the PRC2/EED-EZH2 complex.
+                     /evidence=ECO:0000250"
+     exon            464..525
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            526..627
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            628..753
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            754..975
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            976..1134
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1135..1242
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1243..1387
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1388..1447
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1448..1573
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1574..1618
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1619..1698
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1699..1811
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1812..1995
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1996..2080
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2081..2226
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2227..2317
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2318..2466
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2467..2552
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2553..2622
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2623..2741
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2742..4336
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4316..4321
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="hexamer: ATTAAA"
+     polyA_site      4336
+                     /gene="DNMT3B"
+                     /gene_synonym="FSHD4; ICF; ICF1; M.HsaIIIB"
+                     /note="major polyA site"
+ORIGIN
+        1 acccactccc gctgccccgt ccggcccgcg ccgcttcctc gcagcagctg ctcccggctc
+       61 cgcggccgca gcccgcgtgg acgctccgag cgccccccga cggacgggac cggctccctg
+      121 gcggtcgggc gagcgggcgg caacgctgcc cggccggcag cgctggggtt aagtggccca
+      181 agtaaaccta gctcggcgat cggcgccgga gattcgcgag cccagcgccc tgcacggccg
+      241 ccagccggcc tcccgccagc cagccccgac ccgcggctcc gccgcccagc cgcgccccag
+      301 ccagccctgc ggcaggaaag catgaaggga gacaccaggc atctcaatgg agaggaggac
+      361 gccggcggga gggaagactc gatcctcgtc aacggggcct gcagcgacca gtcctccgac
+      421 tcgcccccaa tcctggaggc tatccgcacc ccggagatca gaggccgaag atcaagctcg
+      481 cgactctcca agagggaggt gtccagtctg ctaagctaca cacaggactt gacaggcgat
+      541 ggcgacgggg aagatgggga tggctctgac accccagtca tgccaaagct cttccgggaa
+      601 accaggactc gttcagaaag cccagctgtc cgaactcgaa ataacaacag tgtctccagc
+      661 cgggagaggc acaggccttc cccacgttcc acccgaggcc ggcagggccg caaccatgtg
+      721 gacgagtccc ccgtggagtt cccggctacc aggtccctga gacggcgggc aacagcatcg
+      781 gcaggaacgc catggccgtc ccctcccagc tcttacctta ccatcgacct cacagacgac
+      841 acagaggaca cacatgggac gccccagagc agcagtaccc cctacgcccg cctagcccag
+      901 gacagccagc aggggggcat ggagtccccg caggtggagg cagacagtgg agatggagac
+      961 agttcagagt atcaggatgg gaaggagttt ggaatagggg acctcgtgtg gggaaagatc
+     1021 aagggcttct cctggtggcc cgccatggtg gtgtcttgga aggccacctc caagcgacag
+     1081 gctatgtctg gcatgcggtg ggtccagtgg tttggcgatg gcaagttctc cgaggtctct
+     1141 gcagacaaac tggtggcact ggggctgttc agccagcact ttaatttggc caccttcaat
+     1201 aagctcgtct cctatcgaaa agccatgtac catgctctgg agaaagctag ggtgcgagct
+     1261 ggcaagacct tccccagcag ccctggagac tcattggagg accagctgaa gcccatgttg
+     1321 gagtgggccc acgggggctt caagcccact gggatcgagg gcctcaaacc caacaacacg
+     1381 caaccagtgg ttaataagtc gaaggtgcgt cgtgcaggca gtaggaaatt agaatcaagg
+     1441 aaatacgaga acaagactcg aagacgcaca gctgacgact cagccacctc tgactactgc
+     1501 cccgcaccca agcgcctcaa gacaaattgc tataacaacg gcaaagaccg aggggatgaa
+     1561 gatcagagcc gagaacaaat ggcttcagat gttgccaaca acaagagcag cctggaagat
+     1621 ggctgtttgt cttgtggcag gaaaaacccc gtgtccttcc accctctctt tgaggggggg
+     1681 ctctgtcaga catgccggga tcgcttcctt gagctgtttt acatgtatga tgacgatggc
+     1741 tatcagtctt actgcactgt gtgctgcgag ggccgagagc tgctgctttg cagcaacacg
+     1801 agctgctgcc ggtgtttctg tgtggagtgc ctggaggtgc tggtgggcac aggcacagcg
+     1861 gccgaggcca agcttcagga gccctggagc tgttacatgt gtctcccgca gcgctgtcat
+     1921 ggcgtcctgc ggcgccggaa ggactggaac gtgcgcctgc aggccttctt caccagtgac
+     1981 acggggcttg aatatgaagc ccccaagctg taccctgcca ttcccgcagc ccgaaggcgg
+     2041 cccattcgag tcctgtcatt gtttgatggc atcgcgacag gctacctagt cctcaaagag
+     2101 ttgggcataa aggtaggaaa gtacgtcgct tctgaagtgt gtgaggagtc cattgctgtt
+     2161 ggaaccgtga agcacgaggg gaatatcaaa tacgtgaacg acgtgaggaa catcacaaag
+     2221 aaaaatattg aagaatgggg cccatttgac ttggtgattg gcggaagccc atgcaacgat
+     2281 ctctcaaatg tgaatccagc caggaaaggc ctgtatgagg gtacaggccg gctcttcttc
+     2341 gaattttacc acctgctgaa ttactcacgc cccaaggagg gtgatgaccg gccgttcttc
+     2401 tggatgtttg agaatgttgt agccatgaag gttggcgaca agagggacat ctcacggttc
+     2461 ctggagtgta atccagtgat gattgatgcc atcaaagttt ctgctgctca cagggcccga
+     2521 tacttctggg gcaacctacc cgggatgaac aggcccgtga tagcatcaaa gaatgataaa
+     2581 ctcgagctgc aggactgctt ggaatacaat aggatagcca agttaaagaa agtacagaca
+     2641 ataaccacca agtcgaactc gatcaaacag gggaaaaacc aacttttccc tgttgtcatg
+     2701 aatggcaaag aagatgtttt gtggtgcact gagctcgaaa ggatctttgg ctttcctgtg
+     2761 cactacacag acgtgtccaa catgggccgt ggtgcccgcc agaagctgct gggaaggtcc
+     2821 tggagcgtgc ctgtcatccg acacctcttc gcccctctga aggactactt tgcatgtgaa
+     2881 tagttccagc caggccccaa gcccactggg gtgtgtggca gagccaggac ccaggaggtg
+     2941 tgattcctga aggcatcccc aggccctgct cttcctcagc tgtgtgggtc ataccgtgta
+     3001 cctcagttcc ctcttgctca gtgggggcag agccacctga ctcttgcagg ggtagcctga
+     3061 ggtgccgcct ccttgtgcac aaatcagacc tggctgcttg gagcagccta acacggtgct
+     3121 cattttttct tctcctaaaa ctttaaaact tgaagtaggt agcaacgtgg cttttttttt
+     3181 ttcccttcct gggtctacca ctcagagaaa caatggctaa gataccaaaa ccacagtgcc
+     3241 gacagctctc caatactcag gttaatgctg aaaaatcatc caagacagtt attgcaagag
+     3301 tttaattttt gaaaactggc tactgctctg tgtttacaga cgtgtgcagt tgtaggcatg
+     3361 tagctacagg acatttttaa gggcccagga tcgttttttc ccagggcaag cagaagagaa
+     3421 aatgttgtat atgtctttta cccggcacat tccccttgcc taaatacaag ggctggagtc
+     3481 tgcacgggac ctattagagt attttccaca atgatgatga tttcagcagg gatgacgtca
+     3541 tcatcacatt cagggctatt ttttccccca caaacccaag ggcaggggcc actcttagct
+     3601 aaatccctcc ccgtgactgc aatagaaccc tctggggagc tcaggaaggg gtgtgctgag
+     3661 ttctataata taagctgcca tatattttgt agacaagtat ggctcctcca tatctccctc
+     3721 ttccctagga gaggagtgtg aagcaaggag cttagataag acaccccctc aaacccattc
+     3781 cctctccagg agacctaccc tccacaggca caggtcccca gatgagaagt ctgctaccct
+     3841 catttctcat ctttttacta aactcagagg cagtgacagc agtcagggac agacatacat
+     3901 ttctcatacc ttccccacat ctgagagatg acagggaaaa ctgcaaagct cggtgctccc
+     3961 tttggagatt ttttaatcct tttttattcc ataagaagtc gtttttaggg agaacgggaa
+     4021 ttcagacaag ctgcatttca gaaatgctgt cataatggtt tttaacacct tttactcttc
+     4081 ttactggtgc tattttgtag aataaggaac aacgttgaca agttttgtgg ggctttttat
+     4141 acacttttta aaatctcaaa cttctatttt tatgtttaac gttttcatta aaattttttt
+     4201 tgtaactgga gccacgacgt aacaaatatg gggaaaaaac tgtgccttgt ttcaacagtt
+     4261 tttgctaatt tttaggctga aagatgacgg atgcctagag tttaccttat gtttaattaa
+     4321 aatcagtatt tgtcta
+//

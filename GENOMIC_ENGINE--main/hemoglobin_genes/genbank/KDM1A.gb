@@ -1,0 +1,322 @@
+LOCUS       NM_001009999            3085 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens lysine demethylase 1A (KDM1A), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001009999
+VERSION     NM_001009999.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3085)
+  AUTHORS   Liu,Y., Chen,Y., Batzorig,U., Li,J., Fernandez-Mendez,C.,
+            Mahapatra,S., Li,F., Sam,S., Dokoshi,T., Hong,S.P., Nakatsuji,T.,
+            Gallo,R.L. and Sen,G.L.
+  TITLE     The transcription regulators ZNF750 and LSD1/KDM1A dampen
+            inflammation on the skin's surface by silencing pattern recognition
+            receptors
+  JOURNAL   Immunity 57 (10), 2296-2309 (2024)
+   PUBMED   39353440
+  REMARK    GeneRIF: The transcription regulators ZNF750 and LSD1/KDM1A dampen
+            inflammation on the skin's surface by silencing pattern recognition
+            receptors.
+REFERENCE   2  (bases 1 to 3085)
+  AUTHORS   Zhang,N., Chen,Z., Xin,B., Shi,Y., Yao,Y., Yang,J., Wang,X. and
+            Hu,X.
+  TITLE     LSD1 inhibits the invasion and migration of breast cancer through
+            exosomes
+  JOURNAL   Sci Rep 14 (1), 20817 (2024)
+   PUBMED   39242625
+  REMARK    GeneRIF: LSD1 inhibits the invasion and migration of breast cancer
+            through exosomes. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 3085)
+  AUTHORS   Zhao,Y., Zheng,Y., Fu,J., Zhang,J., Shao,H., Liu,S., Lai,J.,
+            Zhou,X., Liang,R., Jia,L., Cui,W., Yang,J., Wu,C. and Wang,L.
+  TITLE     KDM1A, a potent and selective target, for the treatment of
+            DNMT3A-deficient non-small cell lung cancer
+  JOURNAL   Br J Cancer 131 (4), 655-667 (2024)
+   PUBMED   38951697
+  REMARK    GeneRIF: KDM1A, a potent and selective target, for the treatment of
+            DNMT3A-deficient non-small cell lung cancer.
+REFERENCE   4  (bases 1 to 3085)
+  AUTHORS   Jing,T., Wei,D., Xu,X., Wu,C., Yuan,L., Huang,Y., Liu,Y., Jiang,Y.
+            and Wang,B.
+  TITLE     Transposable elements-mediated recruitment of KDM1A epigenetically
+            silences HNF4A expression to promote hepatocellular carcinoma
+  JOURNAL   Nat Commun 15 (1), 5631 (2024)
+   PUBMED   38965210
+  REMARK    GeneRIF: Transposable elements-mediated recruitment of KDM1A
+            epigenetically silences HNF4A expression to promote hepatocellular
+            carcinoma. Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3085)
+  AUTHORS   Venhuizen,J., van Bergen,M.G.J.M., Bergevoet,S.M., Gilissen,D.,
+            Spruijt,C.G., Wingens,L., van den Akker,E., Vermeulen,M.,
+            Jansen,J.H., Martens,J.H.A. and van der Reijden,B.A.
+  TITLE     GFI1B and LSD1 repress myeloid traits during megakaryocyte
+            differentiation
+  JOURNAL   Commun Biol 7 (1), 374 (2024)
+   PUBMED   38548886
+  REMARK    GeneRIF: GFI1B and LSD1 repress myeloid traits during megakaryocyte
+            differentiation. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 3085)
+  AUTHORS   Lee,M.G., Wynder,C., Cooch,N. and Shiekhattar,R.
+  TITLE     An essential role for CoREST in nucleosomal histone 3 lysine 4
+            demethylation
+  JOURNAL   Nature 437 (7057), 432-435 (2005)
+   PUBMED   16079794
+  REMARK    GeneRIF: nucleosomal demethylation is the result of CoREST enhancing
+            the association between BHC110 and nucleosomes
+REFERENCE   7  (bases 1 to 3085)
+  AUTHORS   Forneris,F., Binda,C., Vanoni,M.A., Mattevi,A. and Battaglioli,E.
+  TITLE     Histone demethylation catalysed by LSD1 is a flavin-dependent
+            oxidative process
+  JOURNAL   FEBS Lett 579 (10), 2203-2207 (2005)
+   PUBMED   15811342
+  REMARK    GeneRIF: in vivo LSD1 might not necessarily function as an oxidase,
+            but it might use alternative electron acceptors
+REFERENCE   8  (bases 1 to 3085)
+  AUTHORS   Shi,Y., Lan,F., Matson,C., Mulligan,P., Whetstine,J.R., Cole,P.A.,
+            Casero,R.A. and Shi,Y.
+  TITLE     Histone demethylation mediated by the nuclear amine oxidase homolog
+            LSD1
+  JOURNAL   Cell 119 (7), 941-953 (2004)
+   PUBMED   15620353
+  REMARK    GeneRIF: results thus identify a histone demethylase conserved from
+            S. pombe to human and reveal dynamic regulation of histone
+            methylation by both histone methylases and demethylases
+REFERENCE   9  (bases 1 to 3085)
+  AUTHORS   Hakimi,M.A., Dong,Y., Lane,W.S., Speicher,D.W. and Shiekhattar,R.
+  TITLE     A candidate X-linked mental retardation gene is a component of a new
+            family of histone deacetylase-containing complexes
+  JOURNAL   J Biol Chem 278 (9), 7234-7239 (2003)
+   PUBMED   12493763
+REFERENCE   10  (bases 1 to 3085)
+  AUTHORS   Hakimi,M.A., Bochar,D.A., Chenoweth,J., Lane,W.S., Mandel,G. and
+            Shiekhattar,R.
+  TITLE     A core-BRAF35 complex containing histone deacetylase mediates
+            repression of neuronal-specific genes
+  JOURNAL   Proc Natl Acad Sci U S A 99 (11), 7420-7425 (2002)
+   PUBMED   12032298
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660805.236503.1,
+            SRR1803612.147078.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2145743,
+            SAMEA2154665 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000400181.9/ ENSP00000383042.5
+            RefSeq Select criteria :: based on manual assertion, conservation
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BG717076.1, BC048134.1,
+            BC040194.2 and BC025362.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 2, 2019 this sequence version replaced NM_001009999.2.
+            Summary: This gene encodes a nuclear protein containing a SWIRM
+            domain, a FAD-binding motif, and an amine oxidase domain. This
+            protein is a component of several histone deacetylase complexes,
+            though it silences genes by functioning as a histone demethylase.
+            Alternative splicing results in multiple transcript variants.
+            [provided by RefSeq, Apr 2009].
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (a).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3085
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p36.12"
+     gene            1..3085
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /note="lysine demethylase 1A"
+                     /db_xref="GeneID:23028"
+                     /db_xref="HGNC:HGNC:29079"
+                     /db_xref="MIM:609132"
+     exon            1..480
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             130..2760
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /EC_number="1.14.99.66"
+                     /note="isoform a is encoded by transcript variant 1; amine
+                     oxidase (flavin containing) domain 2; FAD-binding protein
+                     BRAF35-HDAC complex, 110 kDa subunit; BRAF35-HDAC complex
+                     protein BHC110; lysine-specific histone demethylase 1;
+                     flavin-containing amine oxidase domain-containing protein
+                     2; lysine (K)-specific demethylase 1A; [histone
+                     H3]-dimethyl-L-lysine(4) FAD-dependent demethylase 1A"
+                     /codon_start=1
+                     /product="lysine-specific histone demethylase 1A isoform a"
+                     /protein_id="NP_001009999.1"
+                     /db_xref="CCDS:CCDS53278.1"
+                     /db_xref="GeneID:23028"
+                     /db_xref="HGNC:HGNC:29079"
+                     /db_xref="MIM:609132"
+                     /translation="MLSGKKAAAAAAAAAAAATGTEAGPGTAGGSENGSEVAAQPAGLS
+                     GPAEVGPGAVGERTPRKKEPPRASPPGGLAEPPGSAGPQAGPTVVPGSATPMETGIAET
+                     PEGRRTSRRKRAKVEYREMDESLANLSEDEYYSEEERNAKAEKEKKLPPPPPQAPPEEE
+                     NESEPEEPSGQAGGLQDDSSGGYGDGQASGVEGAAFQSRLPHDRMTSQEAACFPDIISG
+                     PQQTQKVFLFIRNRTLQLWLDNPKIQLTFEATLQQLEAPYNSDTVLVHRVHSYLERHGL
+                     INFGIYKRIKPLPTKKTGKVIIIGSGVSGLAAARQLQSFGMDVTLLEARDRVGGRVATF
+                     RKGNYVADLGAMVVTGLGGNPMAVVSKQVNMELAKIKQKCPLYEANGQADTVKVPKEKD
+                     EMVEQEFNRLLEATSYLSHQLDFNVLNNKPVSLGQALEVVIQLQEKHVKDEQIEHWKKI
+                     VKTQEELKELLNKMVNLKEKIKELHQQYKEASEVKPPRDITAEFLVKSKHRDLTALCKE
+                     YDELAETQGKLEEKLQELEANPPSDVYLSSRDRQILDWHFANLEFANATPLSTLSLKHW
+                     DQDDDFEFTGSHLTVRNGYSCVPVALAEGLDIKLNTAVRQVRYTASGCEVIAVNTRSTS
+                     QTFIYKCDAVLCTLPLGVLKQQPPAVQFVPPLPEWKTSAVQRMGFGNLNKVVLCFDRVF
+                     WDPSVNLFGHVGSTTASRGELFLFWNLYKAPILLALVAGEAAGIMENISDDVIVGRCLA
+                     ILKGIFGSSAVPQPKETVVSRWRADPWARGSYSYVAAGSSGNDYDLMAQPITPGPSIPG
+                     APQPIPRLFFAGEHTIRNYPATVHGALLSGLREAGRIADQFLGAMYTLPRQATPGVPAQ
+                     QSPSM"
+     exon            481..646
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            647..706
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            707..840
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            841..919
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            920..1012
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1013..1119
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1120..1201
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1202..1296
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1297..1308
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1309..1451
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1452..1542
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1543..1677
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1678..1751
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1752..1863
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1864..1996
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1997..2184
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2185..2299
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2300..2427
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2428..2574
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2575..3085
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3064..3069
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /note="hexamer: AATAAA"
+     polyA_site      3085
+                     /gene="KDM1A"
+                     /gene_synonym="AIMAH3; AOF2; BHC110; CPRF; KDM1; LSD1"
+                     /note="major polyA site"
+ORIGIN
+        1 ggcgcgtgcg tacgcgacgg cggttggcgg cgcgcgggca gcgtgaagcg aggcgaggca
+       61 aggcttttcg gacccacgga gcgacagagc gagcggcccc tacggccgtc ggcggcccgg
+      121 cggcccgaga tgttatctgg gaagaaggcg gcagccgcgg cggcggcggc tgcagcggca
+      181 gcaaccggga cggaggctgg ccctgggaca gcaggcggct ccgagaacgg gtctgaggtg
+      241 gccgcgcagc ccgcgggcct gtcgggccca gccgaggtcg ggccgggggc ggtgggggag
+      301 cgcacacccc gcaagaaaga gcctccgcgg gcctcgcccc ccgggggcct ggcggaaccg
+      361 ccggggtccg cagggcctca ggccggccct actgtcgtgc ctgggtctgc gacccccatg
+      421 gaaactggaa tagcagagac tccggagggg cgtcggacca gccggcgcaa gcgggcgaag
+      481 gtagagtaca gagagatgga tgaaagcttg gccaacctct cagaagatga gtattattca
+      541 gaagaagaga gaaatgccaa agcagagaag gaaaagaagc ttcccccacc accccctcaa
+      601 gccccacctg aggaagaaaa tgaaagtgag cctgaagaac catcggggca agcaggagga
+      661 cttcaagacg acagttctgg agggtatgga gacggccaag catcaggtgt ggagggcgca
+      721 gctttccaga gccgacttcc tcatgaccgg atgacttctc aagaagcagc ctgttttcca
+      781 gatattatca gtggaccaca acagacccag aaggtttttc ttttcattag aaaccgcaca
+      841 ctgcagttgt ggttggataa tccaaagatt cagctgacat ttgaggctac tctccaacaa
+      901 ttagaagcac cttataacag tgatactgtg cttgtccacc gagttcacag ttatttagag
+      961 cgtcatggtc ttatcaactt cggcatctat aagaggataa aacccctacc aactaaaaag
+     1021 acaggaaagg taattattat aggctctggg gtctcaggct tggcagcagc tcgacagtta
+     1081 caaagttttg gaatggatgt cacacttttg gaagccaggg atcgtgtggg tggacgagtt
+     1141 gccacatttc gcaaaggaaa ctatgtagct gatcttggag ccatggtggt aacaggtctt
+     1201 ggagggaatc ctatggctgt ggtcagcaaa caagtaaata tggaactggc caagatcaag
+     1261 caaaaatgcc cactttatga agccaacgga caagctgaca ctgtcaaggt tcctaaagag
+     1321 aaagatgaaa tggtagagca agagtttaac cggttgctag aagctacatc ttaccttagt
+     1381 catcaactag acttcaatgt cctcaataat aagcctgtgt cccttggcca ggcattggaa
+     1441 gttgtcattc agttacaaga gaagcatgtc aaagatgagc agattgaaca ttggaagaag
+     1501 atagtgaaaa ctcaggaaga attgaaagaa cttcttaata agatggtaaa tttgaaagag
+     1561 aaaattaaag aactccatca gcaatacaaa gaagcatctg aagtaaagcc acccagagat
+     1621 attactgccg agttcttagt gaaaagcaaa cacagggatc tgaccgccct atgcaaggaa
+     1681 tatgatgaat tagctgaaac acaaggaaag ctagaagaaa aacttcagga gttggaagcg
+     1741 aatcccccaa gtgatgtata tctctcatca agagacagac aaatacttga ttggcatttt
+     1801 gcaaatcttg aatttgctaa tgccacacct ctctcaactc tctcccttaa gcactgggat
+     1861 caggatgatg actttgagtt cactggcagc cacctgacag taaggaatgg ctactcgtgt
+     1921 gtgcctgtgg ctttagcaga aggcctagac attaaactga atacagcagt gcgacaggtt
+     1981 cgctacacgg cttcaggatg tgaagtgata gctgtgaata cccgctccac gagtcaaacc
+     2041 tttatttata aatgcgacgc agttctctgt acccttcccc tgggtgtgct gaagcagcag
+     2101 ccaccagccg ttcagtttgt gccacctctc cctgagtgga aaacatctgc agtccaaagg
+     2161 atgggatttg gcaaccttaa caaggtggtg ttgtgttttg atcgggtgtt ctgggatcca
+     2221 agtgtcaatt tgttcgggca tgttggcagt acgactgcca gcaggggtga gctcttcctc
+     2281 ttctggaacc tctataaagc tccaatactg ttggcactag tggcaggaga agctgctggt
+     2341 atcatggaaa acataagtga cgatgtgatt gttggccgat gcctggccat tctcaaaggg
+     2401 atttttggta gcagtgcagt acctcagccc aaagaaactg tggtgtctcg ttggcgtgct
+     2461 gatccctggg ctcggggctc ttattcctat gttgctgcag gatcatctgg aaatgactat
+     2521 gatttaatgg ctcagccaat cactcctggc ccctcgattc caggtgcccc acagccgatt
+     2581 ccacgactct tctttgcggg agaacatacg atccgtaact acccagccac agtgcatggt
+     2641 gctctgctga gtgggctgcg agaagcggga agaattgcag accagttttt gggggccatg
+     2701 tatacgctgc ctcgccaggc cacaccaggt gttcctgcac agcagtcccc aagcatgtga
+     2761 gacagatgca ttctaaggga agaggcccat gtgcctgttt ctgccatgta aggaaggctc
+     2821 ttctagcaat actagatccc actgagaaaa tccaccctgg catctgggct cctgatcagc
+     2881 tgatggagct cctgatttga caaaggagct tgcctccttt gaatgaccta gagcacaggg
+     2941 aggaacttgt ccattagttt ggaattgtgt tcttcgtaaa gactgaggca agcaagtgct
+     3001 gtgaaataac atcatcttag tcccttggtg tgtggggttt ttgttttttt tttatatttt
+     3061 gagaataaaa cttcatataa aattg
+//

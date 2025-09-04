@@ -1,0 +1,139 @@
+LOCUS       NM_001003938             524 bp    mRNA    linear   PRI 16-SEP-2018
+DEFINITION  Homo sapiens hemoglobin subunit mu (HBM), mRNA.
+ACCESSION   NM_001003938
+VERSION     NM_001003938.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 524)
+  AUTHORS   Hutten M, Kohne E, Yagmur E, Schaible T, Wenzl T, Wagner N and
+            Heimann K.
+  TITLE     Persistent cyanosis in a 4 month old infant with severe pneumonia
+            and haemoglobin M
+  JOURNAL   Klin Padiatr 221 (5), 305-307 (2009)
+   PUBMED   19199228
+  REMARK    GeneRIF: HbM Saskatoon is normally a harmless variant. However, in
+            conjunction with severe pneumonia, we assume that it did not only
+            affect clinical evaluation, but also exacerbated pneumonia by
+            reducing the oxygen binding capacity.
+REFERENCE   2  (bases 1 to 524)
+  AUTHORS   Cooper SJ, Wheeler D, De Leo A, Cheng JF, Holland RA, Marshall
+            Graves JA and Hope RM.
+  TITLE     The mammalian alphaD-globin gene lineage and a new model for the
+            molecular evolution of alpha-globin gene clusters at the stem of the
+            mammalian radiation
+  JOURNAL   Mol. Phylogenet. Evol. 38 (2), 439-448 (2006)
+   PUBMED   16024261
+REFERENCE   3  (bases 1 to 524)
+  AUTHORS   Goh SH, Lee YT, Bhanu NV, Cam MC, Desper R, Martin BM, Moharram R,
+            Gherman RB and Miller JL.
+  TITLE     A newly discovered human alpha-globin gene
+  JOURNAL   Blood 106 (4), 1466-1472 (2005)
+   PUBMED   15855277
+  REMARK    GeneRIF: results suggest the human genome encodes a previously
+            unrecognized globin member of the avian alpha-D family that is
+            transcribed in a highly regulated pattern in erythroid cells
+REFERENCE   4  (bases 1 to 524)
+  AUTHORS   Higgs DR, Vickers MA, Wilkie AO, Pretorius IM, Jarman AP and
+            Weatherall DJ.
+  TITLE     A review of the molecular genetics of the human alpha-globin gene
+            cluster
+  JOURNAL   Blood 73 (5), 1081-1104 (1989)
+   PUBMED   2649166
+  REMARK    Review article
+REFERENCE   5  (bases 1 to 524)
+  AUTHORS   Fischel-Ghodsian N, Nicholls RD and Higgs DR.
+  TITLE     Unusual features of CpG-rich (HTF) islands in the human alpha globin
+            complex: association with non-functional pseudogenes and presence
+            within the 3' portion of the zeta gene
+  JOURNAL   Nucleic Acids Res. 15 (22), 9215-9225 (1987)
+   PUBMED   2825132
+REFERENCE   6  (bases 1 to 524)
+  AUTHORS   Hardison,R.C., Sawada,I., Cheng,J.F., Shen,C.K. and Schmid,C.W.
+  TITLE     A previously undetected pseudogene in the human alpha globin gene
+            cluster
+  JOURNAL   Nucleic Acids Res. 14 (4), 1903-1911 (1986)
+   PUBMED   3952001
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AY698022.2, BC067870.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2142853,
+            SAMEA2149004 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AY698022.2 and BC035682.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On Nov 23, 2018 this sequence was replaced by
+            NM_001003938.4.
+            On May 4, 2006 this sequence version replaced NM_001003938.2.
+            Summary: The human alpha globin gene cluster located on chromosome
+            16 spans about 30 kb and includes seven loci: 5'- zeta - pseudozeta
+            - mu - pseudoalpha-1 - alpha-2 - alpha-1 - theta - 3'. This gene
+            has an ORF encoding a 141 aa polypeptide which is similar to the
+            delta globins found in reptiles and birds. This locus was
+            originally described as a pseudogene; however, it is currently
+            thought to be a protein-coding gene. [provided by RefSeq, Jul
+            2008].
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p13.3"
+     gene            1..524
+                     /gene="HBM"
+                     /gene_synonym="HBAP2; HBK"
+                     /note="hemoglobin subunit mu"
+                     /db_xref="GeneID:3042"
+                     /db_xref="HGNC:HGNC:4826"
+                     /db_xref="MIM:609639"
+     exon            1..116
+                     /gene="HBM"
+                     /gene_synonym="HBAP2; HBK"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             25..450
+                     /gene="HBM"
+                     /gene_synonym="HBAP2; HBK"
+                     /note="hemoglobin, alpha pseudogene 2; alpha globin
+                     pseudogene 2; hemoglobin mu chain; mu-globin; hemoglobin,
+                     mu"
+                     /codon_start=1
+                     /product="hemoglobin subunit mu"
+                     /protein_id="NP_001003938.1"
+                     /db_xref="CCDS:CCDS32347.1"
+                     /db_xref="GeneID:3042"
+                     /db_xref="HGNC:HGNC:4826"
+                     /db_xref="MIM:609639"
+                     /translation="MLSAQERAQIAQVWDLIAGHEAQFGAELLLRLFTVYPSTKVYFPH
+                     LSACQDATQLLSHGQRMLAAVGAAVQHVDNLRAALSPLADLHALVLRVDPANFPLLIQC
+                     FHVVLASHLQDEFTVQMQAAWDKFLTGVAVVLTEKYR"
+     exon            117..321
+                     /gene="HBM"
+                     /gene_synonym="HBAP2; HBK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            322..510
+                     /gene="HBM"
+                     /gene_synonym="HBAP2; HBK"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      486..491
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBM"
+                     /gene_synonym="HBAP2; HBK"
+     polyA_site      510
+                     /gene="HBM"
+                     /gene_synonym="HBAP2; HBK"
+ORIGIN
+        1 ccccagagca cgtcaggcgg cgccatgctc agcgcccagg agcgcgccca aatcgcgcag
+       61 gtctgggacc tgattgcggg ccacgaggcg caattcgggg cggagctgct gctcaggctc
+      121 ttcacggtgt accccagcac caaggtctac ttcccgcacc tgagcgcctg ccaggacgcg
+      181 acgcagctgc tgagccacgg gcagcgcatg ctggcggctg tgggcgcggc ggtgcagcac
+      241 gtggacaacc tgcgcgccgc gctgagcccg ctggcggacc tgcacgcgct cgtgctgcgc
+      301 gtggacccag ccaactttcc gctgctaatc cagtgtttcc acgtcgtgct ggcctcccac
+      361 ctgcaggacg agttcaccgt gcaaatgcaa gcggcgtggg acaagttcct gactggtgtg
+      421 gccgtggtgc tgaccgaaaa ataccgctga gccctgtgct gcgcaggcct tggtctgtgc
+      481 ctgtcaataa acagaggccc gaaccatctg aaaaaaaaaa aaaa
+//

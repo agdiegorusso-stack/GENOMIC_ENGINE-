@@ -1,0 +1,853 @@
+LOCUS       NM_001130823            5274 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens DNA methyltransferase 1 (DNMT1), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001130823
+VERSION     NM_001130823.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5274)
+  AUTHORS   De,I., Weidenhausen,J., Concha,N. and Muller,C.W.
+  TITLE     Structural insight into the DNMT1 reaction cycle by cryo-electron
+            microscopy
+  JOURNAL   PLoS One 19 (9), e0307850 (2024)
+   PUBMED   39226277
+  REMARK    GeneRIF: Structural insight into the DNMT1 reaction cycle by
+            cryo-electron microscopy. Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5274)
+  AUTHORS   Wang,R., Yu,X., Ye,H., Ao,M., Xi,M. and Hou,M.
+  TITLE     LncRNA FAM83H-AS1 inhibits ferroptosis of endometrial cancer by
+            promoting DNMT1-mediated CDO1 promoter hypermethylation
+  JOURNAL   J Biol Chem 300 (9), 107680 (2024)
+   PUBMED   39159808
+  REMARK    GeneRIF: LncRNA FAM83H-AS1 inhibits ferroptosis of endometrial
+            cancer by promoting DNMT1-mediated CDO1 promoter hypermethylation.
+REFERENCE   3  (bases 1 to 5274)
+  AUTHORS   Bonfils,C., Beaulieu,N., Chan,E., Cotton-Montpetit,J. and
+            MacLeod,A.R.
+  TITLE     Characterization of the human DNA methyltransferase splice variant
+            Dnmt1b
+  JOURNAL   J Biol Chem 275 (15), 10754-10760 (2000)
+   PUBMED   10753866
+REFERENCE   4  (bases 1 to 5274)
+  AUTHORS   Bigey,P., Ramchandani,S., Theberge,J., Araujo,F.D. and Szyf,M.
+  TITLE     Transcriptional regulation of the human DNA Methyltransferase
+            (dnmt1) gene
+  JOURNAL   Gene 242 (1-2), 407-418 (2000)
+   PUBMED   10721735
+REFERENCE   5  (bases 1 to 5274)
+  AUTHORS   Hsu,D.W., Lin,M.J., Lee,T.L., Wen,S.C., Chen,X. and Shen,C.K.
+  TITLE     Two major forms of DNA (cytosine-5) methyltransferase in human
+            somatic tissues
+  JOURNAL   Proc Natl Acad Sci U S A 96 (17), 9751-9756 (1999)
+   PUBMED   10449766
+REFERENCE   6  (bases 1 to 5274)
+  AUTHORS   Yoder,J.A., Yen,R.W., Vertino,P.M., Bestor,T.H. and Baylin,S.B.
+  TITLE     New 5' regions of the murine and human genes for DNA
+            (cytosine-5)-methyltransferase
+  JOURNAL   J Biol Chem 271 (49), 31092-31097 (1996)
+   PUBMED   8940105
+REFERENCE   7  (bases 1 to 5274)
+  AUTHORS   Klein,C.J.
+  TITLE     DNMT1-Related Disorder
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   22338191
+REFERENCE   8  (bases 1 to 5274)
+  AUTHORS   Yen,R.W., Vertino,P.M., Nelkin,B.D., Yu,J.J., el-Deiry,W.,
+            Cumaraswamy,A., Lennon,G.G., Trask,B.J., Celano,P. and Baylin,S.B.
+  TITLE     Isolation and characterization of the cDNA encoding human DNA
+            methyltransferase
+  JOURNAL   Nucleic Acids Res 20 (9), 2287-2291 (1992)
+   PUBMED   1594447
+REFERENCE   9  (bases 1 to 5274)
+  AUTHORS   el-Deiry,W.S., Nelkin,B.D., Celano,P., Yen,R.W., Falco,J.P.,
+            Hamilton,S.R. and Baylin,S.B.
+  TITLE     High expression of the DNA methyltransferase gene characterizes
+            human neoplastic cells and progression stages of colon cancer
+  JOURNAL   Proc Natl Acad Sci U S A 88 (8), 3470-3474 (1991)
+   PUBMED   2014266
+REFERENCE   10  (bases 1 to 5274)
+  AUTHORS   Bestor,T.H.
+  TITLE     DNA methylation: evolution of a bacterial immune function into a
+            regulator of gene expression and genome structure in higher
+            eukaryotes
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 326 (1235), 179-187 (1990)
+   PUBMED   1968655
+  REMARK    Review article
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC144093.1, SRR11853567.15044.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000359526.9/ ENSP00000352516.3
+            RefSeq Select criteria :: based on conservation, longest protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC126227.1, BC092517.1,
+            DA653750.1 and X63692.1.
+            On Nov 24, 2018 this sequence version replaced NM_001130823.2.
+            Summary: This gene encodes an enzyme that transfers methyl groups
+            to cytosine nucleotides of genomic DNA. This protein is the major
+            enzyme responsible for maintaining methylation patterns following
+            DNA replication and shows a preference for hemi-methylated DNA.
+            Methylation of DNA is an important component of mammalian
+            epigenetic gene regulation. Aberrant methylation patterns are found
+            in human tumors and associated with developmental abnormalities.
+            Variation in this gene has been associated with cerebellar ataxia,
+            deafness, and narcolepsy, and neuropathy, hereditary sensory, type
+            IE. Alternative splicing results in multiple transcript variants.
+            [provided by RefSeq, Jan 2016].
+            Transcript Variant: This variant (1, also known as Dnmt1b in PMIDs
+            10449766 and 10753866) represents the longest transcript and
+            encodes the longest isoform (a).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..5274
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19p13.2"
+     gene            1..5274
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="DNA methyltransferase 1"
+                     /db_xref="GeneID:1786"
+                     /db_xref="HGNC:HGNC:2976"
+                     /db_xref="MIM:126375"
+     exon            1..134
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             55..4953
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /EC_number="2.1.1.37"
+                     /note="isoform a is encoded by transcript variant 1; DNA
+                     MTase HsaI; DNA methyltransferase HsaI; CXXC-type zinc
+                     finger protein 9; DNA (cytosine-5-)-methyltransferase 1"
+                     /codon_start=1
+                     /product="DNA (cytosine-5)-methyltransferase 1 isoform a"
+                     /protein_id="NP_001124295.1"
+                     /db_xref="CCDS:CCDS45958.1"
+                     /db_xref="GeneID:1786"
+                     /db_xref="HGNC:HGNC:2976"
+                     /db_xref="MIM:126375"
+                     /translation="MPARTAPARVPTLAVPAISLPDDVRRRLKDLERDSLTEKECVKEK
+                     LNLLHEFLQTEIKNQLCDLETKLRKEELSEEGYLAKVKSLLNKDLSLENGAHAYNREVN
+                     GRLENGNQARSEARRVGMADANSPPKPLSKPRTPRRSKSDGEAKRSRDPPASASQVTGI
+                     RAEPSPSPRITRKSTRQTTITSHFAKGPAKRKPQEESERAKSDESIKEEDKDQDEKRRR
+                     VTSRERVARPLPAEEPERAKSGTRTEKEEERDEKEEKRLRSQTKEPTPKQKLKEEPDRE
+                     ARAGVQADEDEDGDEKDEKKHRSQPKDLAAKRRPEEKEPEKVNPQISDEKDEDEKEEKR
+                     RKTTPKEPTEKKMARAKTVMNSKTHPPKCIQCGQYLDDPDLKYGQHPPDAVDEPQMLTN
+                     EKLSIFDANESGFESYEALPQHKLTCFSVYCKHGHLCPIDTGLIEKNIELFFSGSAKPI
+                     YDDDPSLEGGVNGKNLGPINEWWITGFDGGEKALIGFSTSFAEYILMDPSPEYAPIFGL
+                     MQEKIYISKIVVEFLQSNSDSTYEDLINKIETTVPPSGLNLNRFTEDSLLRHAQFVVEQ
+                     VESYDEAGDSDEQPIFLTPCMRDLIKLAGVTLGQRRAQARRQTIRHSTREKDRGPTKAT
+                     TTKLVYQIFDTFFAEQIEKDDREDKENAFKRRRCGVCEVCQQPECGKCKACKDMVKFGG
+                     SGRSKQACQERRCPNMAMKEADDDEEVDDNIPEMPSPKKMHQGKKKKQNKNRISWVGEA
+                     VKTDGKKSYYKKVCIDAETLEVGDCVSVIPDDSSKPLYLARVTALWEDSSNGQMFHAHW
+                     FCAGTDTVLGATSDPLELFLVDECEDMQLSYIHSKVKVIYKAPSENWAMEGGMDPESLL
+                     EGDDGKTYFYQLWYDQDYARFESPPKTQPTEDNKFKFCVSCARLAEMRQKEIPRVLEQL
+                     EDLDSRVLYYSATKNGILYRVGDGVYLPPEAFTFNIKLSSPVKRPRKEPVDEDLYPEHY
+                     RKYSDYIKGSNLDAPEPYRIGRIKEIFCPKKSNGRPNETDIKIRVNKFYRPENTHKSTP
+                     ASYHADINLLYWSDEEAVVDFKAVQGRCTVEYGEDLPECVQVYSMGGPNRFYFLEAYNA
+                     KSKSFEDPPNHARSPGNKGKGKGKGKGKPKSQACEPSEPEIEIKLPKLRTLDVFSGCGG
+                     LSEGFHQAGISDTLWAIEMWDPAAQAFRLNNPGSTVFTEDCNILLKLVMAGETTNSRGQ
+                     RLPQKGDVEMLCGGPPCQGFSGMNRFNSRTYSKFKNSLVVSFLSYCDYYRPRFFLLENV
+                     RNFVSFKRSMVLKLTLRCLVRMGYQCTFGVLQAGQYGVAQTRRRAIILAAAPGEKLPLF
+                     PEPLHVFAPRACQLSVVVDDKKFVSNITRLSSGPFRTITVRDTMSDLPEVRNGASALEI
+                     SYNGEPQSWFQRQLRGAQYQPILRDHICKDMSALVAARMRHIPLAPGSDWRDLPNIEVR
+                     LSDGTMARKLRYTHHDRKNGRSSSGALRGVCSCVEAGKACDPAARQFNTLIPWCLPHTG
+                     NRHNHWAGLYGRLEWDGFFSTTVTNPEPMGKQGRVLHPEQHRVVSVRECARSQGFPDTY
+                     RLFGNILDKHRQVGNAVPPPLAKAIGLEIKLCMLAKARESASAKIKEEEAAKD"
+     misc_feature    55..498
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Interaction with DNMT3A.
+                     /evidence=ECO:0000269|PubMed:12145218"
+     misc_feature    55..414
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Interaction with DMAP1.
+                     /evidence=ECO:0000269|PubMed:10888872"
+     misc_feature    262..264
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6,N6-dimethyllysine.
+                     /evidence=ECO:0000269|PubMed:18438403; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); methylation site"
+     misc_feature    433..435
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     phosphorylation site"
+     misc_feature    451..453
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    463..465
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    475..477
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13864; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    478..480
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-methyllysine, by SETD7.
+                     /evidence=ECO:0000269|PubMed:21151116; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); methylation site"
+     misc_feature    481..483
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine, by PKB/AKT1.
+                     /evidence=ECO:0000269|PubMed:21151116,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     phosphorylation site"
+     misc_feature    547..753
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Interaction with DNMT3B.
+                     /evidence=ECO:0000269|PubMed:12145218"
+     misc_feature    556..558
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    562..564
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:21565170,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     phosphorylation site"
+     misc_feature    580..582
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    589..624
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Interaction with PCNA.
+                     /evidence=ECO:0000269|PubMed:9302295"
+     misc_feature    598..600
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    619..621
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    631..717
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Nuclear localization signal. /evidence=ECO:0000255"
+     misc_feature    664..666
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    877..879
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    1024..1920
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Interaction with the PRC2/EED-EZH2 complex.
+                     /evidence=ECO:0000250"
+     misc_feature    1030..1608
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Homodimerization"
+     misc_feature    1036..1038
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    1093..1752
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: DNA replication foci-targeting sequence.
+                     /evidence=ECO:0000250"
+     misc_feature    1198..1200
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    1282..1284
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     phosphorylation site"
+     misc_feature    1294..1296
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    1627..1629
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Important for activity. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (P26358.2); other
+                     site"
+     misc_feature    1627..1629
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13864; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    1747..1749
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    2053..2193
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Required for activity"
+     misc_feature    2179..2364
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Autoinhibitory linker"
+     misc_feature    2197..2289
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2242..2244
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    2296..2298
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18220336; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    2347..2349
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    2734..2736
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); phosphorylation site"
+     misc_feature    2773..2775
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    2971..2973
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    2983..2985
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3025..3027
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3262..3264
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3385..3492
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    3427..3462
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: 6 X 2 AA tandem repeats of K-G"
+     misc_feature    3433..3435
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282,
+                     ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3439..3441
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282,
+                     ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3445..3447
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282,
+                     ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3451..3453
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine, by EHMT2.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3457..3459
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P13864; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3463..4950
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Interaction with the PRC2/EED-EZH2 complex.
+                     /evidence=ECO:0000250"
+     misc_feature    3463..3465
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P13864; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    3517..4950
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26358.2);
+                     Region: Catalytic"
+     misc_feature    4147..4149
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     misc_feature    4345..4347
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:21947282; propagated from
+                     UniProtKB/Swiss-Prot (P26358.2); acetylation site"
+     exon            135..171
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            172..279
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            280..499
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            500..547
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            548..623
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            624..702
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            703..737
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            738..822
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            823..857
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            858..945
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            946..980
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            981..1062
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1063..1097
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1098..1143
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1144..1224
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1225..1334
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1335..1453
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1454..1546
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1547..1698
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1699..1886
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1887..2073
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2074..2171
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2172..2319
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2320..2435
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2436..2640
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2641..2774
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2775..2948
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2949..3170
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3171..3363
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3364..3448
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3449..3577
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3578..3860
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3861..4002
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4003..4169
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4170..4347
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4348..4543
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4544..4710
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4711..4827
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4828..4918
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4919..5274
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5253..5258
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="hexamer: AATAAA"
+     polyA_site      5274
+                     /gene="DNMT1"
+                     /gene_synonym="ADCADN; AIM; CXXC9; DNMT; HSN1E; m.HsaI;
+                     MCMT"
+                     /note="major polyA site"
+ORIGIN
+        1 gcgaaaagcc ggggcgcctg cgctgccgcc gccgcgtctg ctgaagcctc cgagatgccg
+       61 gcgcgtaccg ccccagcccg ggtgcccaca ctggccgtcc cggccatctc gctgcccgac
+      121 gatgtccgca ggcggctcaa agatttggaa agagacagct taacagaaaa ggaatgtgtg
+      181 aaggagaaat tgaatctctt gcacgaattt ctgcaaacag aaataaagaa tcagttatgt
+      241 gacttggaaa ccaaattacg taaagaagaa ttatccgagg agggctacct ggctaaagtc
+      301 aaatcccttt taaataaaga tttgtccttg gagaacggtg ctcatgctta caaccgggaa
+      361 gtgaatggac gtctagaaaa cgggaaccaa gcaagaagtg aagcccgtag agtgggaatg
+      421 gcagatgcca acagcccccc caaacccctt tccaaacctc gcacgcccag gaggagcaag
+      481 tccgatggag aggctaagcg ttcaagagac cctcctgcct cagcctccca agtaactggg
+      541 attagagctg aaccttcacc tagccccagg attacaagga aaagcaccag gcaaaccacc
+      601 atcacatctc attttgcaaa gggccctgcc aaacggaaac ctcaggaaga gtctgaaaga
+      661 gccaaatcgg atgagtccat caaggaagaa gacaaagacc aggatgagaa gagacgtaga
+      721 gttacatcca gagaacgagt tgctagaccg cttcctgcag aagaacctga aagagcaaaa
+      781 tcaggaacgc gcactgaaaa ggaagaagaa agagatgaaa aagaagaaaa gagactccga
+      841 agtcaaacca aagaaccaac acccaaacag aaactgaagg aggagccgga cagagaagcc
+      901 agggcaggcg tgcaggctga cgaggacgaa gatggagacg agaaagatga gaagaagcac
+      961 agaagtcaac ccaaagatct agctgccaaa cggaggcccg aagaaaaaga acctgaaaaa
+     1021 gtaaatccac agatttctga tgaaaaagac gaggatgaaa aggaggagaa gagacgcaaa
+     1081 acgaccccca aagaaccaac ggagaaaaaa atggctcgcg ccaaaacagt catgaactcc
+     1141 aagacccacc ctcccaagtg cattcagtgc gggcagtacc tggacgaccc tgacctcaaa
+     1201 tatgggcagc acccaccaga cgcggtggat gagccacaga tgctgacaaa tgagaagctg
+     1261 tccatctttg atgccaacga gtctggcttt gagagttatg aggcgcttcc ccagcacaaa
+     1321 ctgacctgct tcagtgtgta ctgtaagcac ggtcacctgt gtcccatcga caccggcctc
+     1381 atcgagaaga atatcgaact cttcttttct ggttcagcaa aaccaatcta tgatgatgac
+     1441 ccatctcttg aaggtggtgt taatggcaaa aatcttggcc ccataaatga atggtggatc
+     1501 actggctttg atggaggtga aaaggccctc atcggcttca gcacctcatt tgccgaatac
+     1561 attctgatgg atcccagtcc cgagtatgcg cccatatttg ggctgatgca ggagaagatc
+     1621 tacatcagca agattgtggt ggagttcctg cagagcaatt ccgactcgac ctatgaggac
+     1681 ctgatcaaca agatcgagac cacggttcct ccttctggcc tcaacttgaa ccgcttcaca
+     1741 gaggactccc tcctgcgaca cgcgcagttt gtggtggagc aggtggagag ttatgacgag
+     1801 gccggggaca gtgatgagca gcccatcttc ctgacaccct gcatgcggga cctgatcaag
+     1861 ctggctgggg tcacgctggg acagaggcga gcccaggcga ggcggcagac catcaggcat
+     1921 tctaccaggg agaaggacag gggacccacg aaagccacca ccaccaagct ggtctaccag
+     1981 atcttcgata ctttcttcgc agagcaaatt gaaaaggatg acagagaaga caaggagaac
+     2041 gcctttaagc gccggcgatg tggcgtctgt gaggtgtgtc agcagcctga gtgtgggaaa
+     2101 tgtaaagcct gcaaggacat ggttaaattt ggtggcagtg gacggagcaa gcaggcttgc
+     2161 caagagcgga ggtgtcccaa tatggccatg aaggaggcag atgacgatga ggaagtcgat
+     2221 gataacatcc cagagatgcc gtcacccaaa aaaatgcacc aggggaagaa gaagaaacag
+     2281 aacaagaatc gcatctcttg ggtcggagaa gccgtcaaga ctgatgggaa gaagagttac
+     2341 tataagaagg tgtgcattga tgcggaaacc ctggaagtgg gggactgtgt ctctgttatt
+     2401 ccagatgatt cctcaaaacc gctgtatcta gcaagggtca cggcgctgtg ggaggacagc
+     2461 agcaacgggc agatgtttca cgcccactgg ttctgcgctg ggacagacac agtcctcggg
+     2521 gccacgtcgg accctctgga gctgttcttg gtggatgaat gtgaggacat gcagctttca
+     2581 tatatccaca gcaaagtgaa agtcatctac aaagccccct ccgaaaactg ggccatggag
+     2641 ggaggcatgg atcccgagtc cctgctggag ggggacgacg ggaagaccta cttctaccag
+     2701 ctgtggtatg atcaagacta cgcgagattc gagtcccctc caaaaaccca gccaacagag
+     2761 gacaacaagt tcaaattctg tgtgagctgt gcccgtctgg ctgagatgag gcaaaaagaa
+     2821 atccccaggg tcctggagca gctcgaggac ctggatagcc gggtcctcta ctactcagcc
+     2881 accaagaacg gcatcctgta ccgagttggt gatggtgtgt acctgccccc tgaggccttc
+     2941 acgttcaaca tcaagctgtc cagtcccgtg aaacgcccac ggaaggagcc cgtggatgag
+     3001 gacctgtacc cagagcacta ccggaaatac tccgactaca tcaaaggcag caacctggat
+     3061 gcccctgagc cctaccgaat tggccggatc aaagagatct tctgtcccaa gaagagcaac
+     3121 ggcaggccca atgagactga catcaaaatc cgggtcaaca agttctacag gcctgagaac
+     3181 acccacaagt ccactccagc gagctaccac gcagacatca acctgctcta ctggagcgac
+     3241 gaggaggccg tggtggactt caaggctgtg cagggccgct gcaccgtgga gtatggggag
+     3301 gacctgcccg agtgcgtcca ggtgtactcc atgggcggcc ccaaccgctt ctacttcctc
+     3361 gaggcctata atgcaaagag caaaagcttt gaagatcctc ccaaccatgc ccgtagccct
+     3421 ggaaacaaag ggaagggcaa gggaaaaggg aagggcaagc ccaagtccca agcctgtgag
+     3481 ccgagcgagc cagagataga gatcaagctg cccaagctgc ggaccctgga tgtgttttct
+     3541 ggctgcgggg ggttgtcgga gggattccac caagcaggca tctctgacac gctgtgggcc
+     3601 atcgagatgt gggaccctgc ggcccaggcg ttccggctga acaaccccgg ctccacagtg
+     3661 ttcacagagg actgcaacat cctgctgaag ctggtcatgg ctggggagac caccaactcc
+     3721 cgcggccagc ggctgcccca gaagggagac gtggagatgc tgtgcggcgg gccgccctgc
+     3781 cagggcttca gcggcatgaa ccgcttcaat tcgcgcacct actccaagtt caaaaactct
+     3841 ctggtggttt ccttcctcag ctactgcgac tactaccggc cccggttctt cctcctggag
+     3901 aatgtcagga actttgtctc cttcaagcgc tccatggtcc tgaagctcac cctccgctgc
+     3961 ctggtccgca tgggctatca gtgcaccttc ggcgtgctgc aggccggtca gtacggcgtg
+     4021 gcccagacta ggaggcgggc catcatcctg gccgcggccc ctggagagaa gctccctctg
+     4081 ttcccggagc cactgcacgt gtttgctccc cgggcctgcc agctgagcgt ggtggtggat
+     4141 gacaagaagt ttgtgagcaa cataaccagg ttgagctcgg gtcctttccg gaccatcacg
+     4201 gtgcgagaca cgatgtccga cctgccggag gtgcggaatg gagcctcggc actggagatc
+     4261 tcctacaacg gggagcctca gtcctggttc cagaggcagc tccggggcgc acagtaccag
+     4321 cccatcctca gggaccacat ctgtaaggac atgagtgcat tggtggctgc ccgcatgcgg
+     4381 cacatcccct tggccccagg gtcagactgg cgcgatctgc ccaacatcga ggtgcggctc
+     4441 tcagacggca ccatggccag gaagctgcgg tatacccacc atgacaggaa gaacggccgc
+     4501 agcagctctg gggccctccg tggggtctgc tcctgcgtgg aagccggcaa agcctgcgac
+     4561 cccgcagcca ggcagttcaa caccctcatc ccctggtgcc tgccccacac cgggaaccgg
+     4621 cacaaccact gggctggcct ctatggaagg ctcgagtggg acggcttctt cagcacaacc
+     4681 gtcaccaacc ccgagcccat gggcaagcag ggccgcgtgc tccacccaga gcagcaccgt
+     4741 gtggtgagcg tgcgggagtg tgcccgctcc cagggcttcc ctgacaccta ccggctcttc
+     4801 ggcaacatcc tggacaagca ccggcaggtg ggcaatgccg tgccaccgcc cctggccaaa
+     4861 gccattggct tggagatcaa gctttgtatg ttggccaaag cccgagagag tgcctcagct
+     4921 aaaataaagg aggaggaagc tgctaaggac tagttctgcc ctcccgtcac ccctgtttct
+     4981 ggcaccagga atccccaaca tgcactgatg ttgtgttttt aacatgtcaa tctgtccgtt
+     5041 cacatgtgtg gtacatggtg tttgtggcct tggctgacat gaagctgttg tgtgaggttc
+     5101 gcttatcaac taatgattta gtgatcaaat tgtgcagtac tttgtgcatt ctggatttta
+     5161 aaagtttttt attatgcatt atatcaaatc taccactgta tgagtggaaa ttaagacttt
+     5221 atgtagtttt tatatgttgt aatatttctt caaataaatc tctcctataa acca
+//

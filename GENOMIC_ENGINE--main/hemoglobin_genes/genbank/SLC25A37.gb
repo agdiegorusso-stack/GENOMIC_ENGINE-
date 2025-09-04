@@ -1,0 +1,353 @@
+LOCUS       NM_016612               4672 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens solute carrier family 25 member 37 (SLC25A37),
+            transcript variant 1, mRNA.
+ACCESSION   NM_016612
+VERSION     NM_016612.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4672)
+  AUTHORS   Shi,X., Reinstadler,B., Shah,H., To,T.L., Byrne,K., Summer,L.,
+            Calvo,S.E., Goldberger,O., Doench,J.G., Mootha,V.K. and Shen,H.
+  TITLE     Combinatorial GxGxE CRISPR screen identifies SLC25A39 in
+            mitochondrial glutathione transport linking iron homeostasis to
+            OXPHOS
+  JOURNAL   Nat Commun 13 (1), 2483 (2022)
+   PUBMED   35513392
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 4672)
+  AUTHORS   Morgenstern,M., Peikert,C.D., Lubbert,P., Suppanz,I., Klemm,C.,
+            Alka,O., Steiert,C., Naumenko,N., Schendzielorz,A., Melchionda,L.,
+            Muhlhauser,W.W.D., Knapp,B., Busch,J.D., Stiller,S.B.,
+            Dannenmaier,S., Lindau,C., Licheva,M., Eickhorst,C., Galbusera,R.,
+            Zerbes,R.M., Ryan,M.T., Kraft,C., Kozjak-Pavlovic,V., Drepper,F.,
+            Dennerlein,S., Oeljeklaus,S., Pfanner,N., Wiedemann,N. and
+            Warscheid,B.
+  TITLE     Quantitative high-confidence human mitochondrial proteome and its
+            dynamics in cellular context
+  JOURNAL   Cell Metab 33 (12), 2464-2483 (2021)
+   PUBMED   34800366
+REFERENCE   3  (bases 1 to 4672)
+  AUTHORS   Yang,Y. and Xu,X.
+  TITLE     Identification of key genes in coronary artery disease: an
+            integrative approach based on weighted gene co-expression network
+            analysis and their correlation with immune infiltration
+  JOURNAL   Aging (Albany NY) 13 (6), 8306-8319 (2021)
+   PUBMED   33686958
+  REMARK    GeneRIF: Identification of key genes in coronary artery disease: an
+            integrative approach based on weighted gene co-expression network
+            analysis and their correlation with immune infiltration.
+REFERENCE   4  (bases 1 to 4672)
+  AUTHORS   Yang,L., Kong,D., He,M., Gong,J., Nie,Y., Tai,S. and Teng,C.B.
+  TITLE     MiR-7 mediates mitochondrial impairment to trigger apoptosis and
+            necroptosis in Rhabdomyosarcoma
+  JOURNAL   Biochim Biophys Acta Mol Cell Res 1867 (12), 118826 (2020)
+   PUBMED   32810522
+  REMARK    GeneRIF: MiR-7 mediates mitochondrial impairment to trigger
+            apoptosis and necroptosis in Rhabdomyosarcoma.
+REFERENCE   5  (bases 1 to 4672)
+  AUTHORS   Luck,K., Kim,D.K., Lambourne,L., Spirohn,K., Begg,B.E., Bian,W.,
+            Brignall,R., Cafarelli,T., Campos-Laborie,F.J., Charloteaux,B.,
+            Choi,D., Cote,A.G., Daley,M., Deimling,S., Desbuleux,A., Dricot,A.,
+            Gebbia,M., Hardy,M.F., Kishore,N., Knapp,J.J., Kovacs,I.A.,
+            Lemmens,I., Mee,M.W., Mellor,J.C., Pollis,C., Pons,C.,
+            Richardson,A.D., Schlabach,S., Teeking,B., Yadav,A., Babor,M.,
+            Balcha,D., Basha,O., Bowman-Colin,C., Chin,S.F., Choi,S.G.,
+            Colabella,C., Coppin,G., D'Amata,C., De Ridder,D., De Rouck,S.,
+            Duran-Frigola,M., Ennajdaoui,H., Goebels,F., Goehring,L., Gopal,A.,
+            Haddad,G., Hatchi,E., Helmy,M., Jacob,Y., Kassa,Y., Landini,S.,
+            Li,R., van Lieshout,N., MacWilliams,A., Markey,D., Paulson,J.N.,
+            Rangarajan,S., Rasla,J., Rayhan,A., Rolland,T., San-Miguel,A.,
+            Shen,Y., Sheykhkarimli,D., Sheynkman,G.M., Simonovsky,E., Tasan,M.,
+            Tejeda,A., Tropepe,V., Twizere,J.C., Wang,Y., Weatheritt,R.J.,
+            Weile,J., Xia,Y., Yang,X., Yeger-Lotem,E., Zhong,Q., Aloy,P.,
+            Bader,G.D., De Las Rivas,J., Gaudet,S., Hao,T., Rak,J.,
+            Tavernier,J., Hill,D.E., Vidal,M., Roth,F.P. and Calderwood,M.A.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   6  (bases 1 to 4672)
+  AUTHORS   Haitina,T., Lindblom,J., Renstrom,T. and Fredriksson,R.
+  TITLE     Fourteen novel human members of mitochondrial solute carrier family
+            25 (SLC25) widely expressed in the central nervous system
+  JOURNAL   Genomics 88 (6), 779-790 (2006)
+   PUBMED   16949250
+REFERENCE   7  (bases 1 to 4672)
+  AUTHORS   Shaw,G.C., Cope,J.J., Li,L., Corson,K., Hersey,C., Ackermann,G.E.,
+            Gwynn,B., Lambert,A.J., Wingert,R.A., Traver,D., Trede,N.S.,
+            Barut,B.A., Zhou,Y., Minet,E., Donovan,A., Brownlie,A., Balzan,R.,
+            Weiss,M.J., Peters,L.L., Kaplan,J., Zon,L.I. and Paw,B.H.
+  TITLE     Mitoferrin is essential for erythroid iron assimilation
+  JOURNAL   Nature 440 (7080), 96-100 (2006)
+   PUBMED   16511496
+REFERENCE   8  (bases 1 to 4672)
+  AUTHORS   Li,Q.Z., Eckenrode,S., Ruan,Q.G., Wang,C.Y., Shi,J.D., McIndoe,R.A.
+            and She,J.X.
+  TITLE     Rapid decrease of RNA level of a novel mouse mitochondria solute
+            carrier protein (Mscp) gene at 4-5 weeks of age
+  JOURNAL   Mamm Genome 12 (11), 830-836 (2001)
+   PUBMED   11845285
+REFERENCE   9  (bases 1 to 4672)
+  AUTHORS   Hu,R.M., Han,Z.G., Song,H.D., Peng,Y.D., Huang,Q.H., Ren,S.X.,
+            Gu,Y.J., Huang,C.H., Li,Y.B., Jiang,C.L., Fu,G., Zhang,Q.H.,
+            Gu,B.W., Dai,M., Mao,Y.F., Gao,G.F., Rong,R., Ye,M., Zhou,J.,
+            Xu,S.H., Gu,J., Shi,J.X., Jin,W.R., Zhang,C.K., Wu,T.M., Huang,G.Y.,
+            Chen,Z., Chen,M.D. and Chen,J.L.
+  TITLE     Gene expression profiling in the human
+            hypothalamus-pituitary-adrenal axis and full-length cDNA cloning
+  JOURNAL   Proc Natl Acad Sci U S A 97 (17), 9543-9548 (2000)
+   PUBMED   10931946
+REFERENCE   10  (bases 1 to 4672)
+  AUTHORS   Liu,P., Perryman,M.B., Liao,W. and Siciliano,M.J.
+  TITLE     Efficiency and limitations of the hn-cDNA library approach for the
+            isolation of human transcribed genes from hybrid cells
+  JOURNAL   Somat Cell Mol Genet 18 (1), 7-18 (1992)
+   PUBMED   1372133
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR3476690.242489.1,
+            SRR3476690.1097362.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            MANE Ensembl match :: ENST00000519973.6/ ENSP00000429200.1
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC051642.5.
+            On Nov 23, 2018 this sequence version replaced NM_016612.3.
+            Summary: SLC25A37 is a solute carrier localized in the
+            mitochondrial inner membrane. It functions as an essential iron
+            importer for the synthesis of mitochondrial heme and iron-sulfur
+            clusters (summary by Chen et al., 2009 [PubMed 19805291]).[supplied
+            by OMIM, Jan 2011].
+            Transcript Variant: This variant (1) represents the shortest
+            transcript and encodes the longest isoform (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4672
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8p21.2"
+     gene            1..4672
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="solute carrier family 25 member 37"
+                     /db_xref="GeneID:51312"
+                     /db_xref="HGNC:HGNC:29786"
+                     /db_xref="MIM:610387"
+     exon            1..257
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             48..1064
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     mitoferrin; mitoferrin-1; mitochondrial solute carrier
+                     protein; predicted protein of HQ2217; mitochondrial iron
+                     transporter 1; solute carrier family 25 (mitochondrial iron
+                     transporter), member 37"
+                     /codon_start=1
+                     /product="mitoferrin-1 isoform 1"
+                     /protein_id="NP_057696.2"
+                     /db_xref="CCDS:CCDS47828.1"
+                     /db_xref="GeneID:51312"
+                     /db_xref="HGNC:HGNC:29786"
+                     /db_xref="MIM:610387"
+                     /translation="MELRSGSVGSQAVARRMDGDSRDGGGGKDATGSEDYENLPTSASV
+                     STHMTAGAMAGILEHSVMYPVDSVKTRMQSLSPDPKAQYTSIYGALKKIMRTEGFWRPL
+                     RGVNVMIMGAGPAHAMYFACYENMKRTLNDVFHHQGNSHLANGIAGSMATLLHDAVMNP
+                     AEVVKQRLQMYNSQHRSAISCIRTVWRTEGLGAFYRSYTTQLTMNIPFQSIHFITYEFL
+                     QEQVNPHRTYNPQSHIISGGLAGALAAAATTPLDVCKTLLNTQENVALSLANISGRLSG
+                     MANAFRTVYQLNGLAGYFKGIQARVIYQMPSTAISWSVYEFFKYFLTKRQLENRAPY"
+     misc_feature    48..173
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    174..440
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     Region: Solcar 1"
+     misc_feature    180..239
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     transmembrane region"
+     misc_feature    363..422
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     transmembrane region"
+     misc_feature    468..722
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     Region: Solcar 2"
+     misc_feature    474..533
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     transmembrane region"
+     misc_feature    645..704
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     transmembrane region"
+     misc_feature    741..1025
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     Region: Solcar 3"
+     misc_feature    747..806
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     transmembrane region"
+     misc_feature    948..1007
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NYZ2.2);
+                     transmembrane region"
+     exon            258..486
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /inference="alignment:Splign:2.1.0"
+     exon            487..543
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /inference="alignment:Splign:2.1.0"
+     exon            544..4672
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1740..1745
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="hexamer: AATAAA"
+     polyA_site      1759
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+     regulatory      4652..4657
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="hexamer: AATAAA"
+     polyA_site      4672
+                     /gene="SLC25A37"
+                     /gene_synonym="HT015; MFRN; MFRN1; MSC; MSCP; PRO1278;
+                     PRO1584; PRO2217"
+                     /note="major polyA site"
+ORIGIN
+        1 ctccctgccc acctcctgca gcctcctgcg ccccgccgag ctggcggatg gagctgcgca
+       61 gcgggagcgt gggcagccag gcggtggcgc ggaggatgga tggggacagc cgagatggcg
+      121 gcggcggcaa ggacgccacc gggtcggagg actacgagaa cctgccgact agcgcctccg
+      181 tgtccaccca catgacagca ggagcgatgg ccgggatcct ggagcactcg gtcatgtacc
+      241 cggtggactc ggtgaagaca cgaatgcaga gtttgagtcc agatcccaaa gcccagtaca
+      301 caagtatcta cggagccctc aagaaaatca tgcggaccga aggcttctgg aggcccttgc
+      361 gaggcgtcaa cgtcatgatc atgggtgcag ggccggccca tgccatgtat tttgcctgct
+      421 atgaaaacat gaaaaggact ttaaatgacg ttttccacca ccaaggaaac agccacctag
+      481 ccaacgggat agctgggagt atggccaccc tgctccacga tgcggtaatg aatccagcag
+      541 aagtggtgaa gcagcgcttg cagatgtaca actcgcagca ccggtcagca atcagctgca
+      601 tccggacggt gtggaggacc gaggggttgg gggccttcta ccggagctac accacgcagc
+      661 tgaccatgaa catccccttc cagtccatcc acttcatcac ctatgagttc ctgcaggagc
+      721 aggtcaaccc ccaccggacc tacaacccgc agtcccacat catctcaggc gggctggccg
+      781 gggccctcgc cgcggccgcc acgacccccc tggacgtctg taagaccctt ctgaacactc
+      841 aggagaacgt ggccctctcg ctggccaaca tcagcggccg gctgtcgggt atggccaatg
+      901 ccttccggac ggtgtaccag ctcaacggcc tggccggcta cttcaaaggc atccaggcgc
+      961 gtgtcatcta ccagatgccc tccaccgcca tttcttggtc tgtctatgag ttcttcaagt
+     1021 actttctcac caagcgccag ctggaaaatc gagctccata ctaaaggaag ggatcataga
+     1081 atcttttctt aaagtcattc tctgcctgca tccagcccct tgccctctcc tcacacgtag
+     1141 atcatttttt ttttgcaggg tgctgcctat gggccctctg ctccccaatg ccttagagag
+     1201 aggaggggac ggcacggccg ctcaccggaa ggctgtgtgc ggggacatcc gaggtggtgg
+     1261 tggacaggaa ggacttggga aggggagcga gaaattgctt tttctcttcc tccctgggca
+     1321 gaatgtagct tttctgcttc actgtggcag cctcctccct ggatccttag atcccagagg
+     1381 agggaagaaa atttgcagtg actgaaaaca gtaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     1441 aaaaaaaaaa aaaaaaattt atgtatataa aagttgcatt acacagtaca aaatagatgg
+     1501 ataatgttta tcctttattt ttctatgtag aagtttttga atttgtgtgt gtgcttgtgc
+     1561 gtgtctacac ctagtattac ggctgggact ctccagctgt ttttgttgtt gttatgtttt
+     1621 taagagggtt gaattcttcc atcaggtgaa cgaaaaaggc aacaaagtaa taaatcagtg
+     1681 aatgtggccg gcagctgtgt ttagcccctc cagatggaag tttcacttga atgtaaaata
+     1741 ataaagttta tattttgaat ttctcttttc atgggggaaa aaaggtacgt taaaaaaatc
+     1801 aaaataatga tatgtcactt gcagctacct ttttttttct tttaaattca atcagccacc
+     1861 ttcatgtgcc tttttccttt gtctttcccc aaaattccag gaccagagat ctggccctgg
+     1921 cctattttct cttgctgtgt acacacacgc acacatgctg ggtggcagga tctcgcccgc
+     1981 tggagggtgg tggagcccag tagaattggg gtgactgggc ataaacctgc tgagactgct
+     2041 tccttccctg gttgtgagtg atgtgaatgc ctgccttccc cggtcagcac ttagaagccc
+     2101 ttgataggca gcatttggcg acttgtgggg caggtgtttg ggataaatcc taccttcatc
+     2161 ctaggactta tttctgcatc agccttttaa ctcaggcact tcaggtaacg tgatctatgt
+     2221 gtgttttgac tgaatctcat ctcctgtgtt tccctgtgca gtctagggaa gcatgtctcc
+     2281 agtctttgtc cctgtcttgt cccaaccatt aattctcatg tcacagcttc tcactgcatg
+     2341 tgacaagagc caggcctatc tgctagggcc ctgcggctga ggtctgacct ggaccctcat
+     2401 gcccgagtcg gaagacccct ctccagaagc cattctgcat ccttgtctgc tctgcgtcac
+     2461 ccgagaacac aggcttcgca gcctcgcttt ctgaaatggt gtgtgccgag tcagattgcc
+     2521 gctcagagaa aatacaagcc cgttttccct agctgtgcca tttggtgctc tgccaggctg
+     2581 ccgtgcaagg gaataccgac gagacgagct gcactgtctc tgatttggag ccctcaccgg
+     2641 agcttgtctt taaaaatgag caggaagctc atgtatgttt gcatttcagt gagccgggtc
+     2701 ctgacctgcc gccacccatc acggtcagcg tggtgcatct taccgaggag gcgcaggcct
+     2761 ggattctttt gagtggtgct actgcctagg aagtaacacg tggagaattt ccatcttggg
+     2821 accatgcaca cagtgccttg gggagtagat tttgccctaa tagcgatgaa gaattttatc
+     2881 agtcagtgga gttccttttt cagatcaggg atgggaaaga gccaaactgg gtacctccca
+     2941 cgtgtgcccc gtgaacagcc ctttgcagct gggctgtggg gcttggctgc tgccctgtcc
+     3001 catctggcag ttaacgcctt ctccctgctc tgccccccac tccccaaaac cagttgcagc
+     3061 ctcaacccac atggggatgt agaaagccgt aaagtccacg ctactgttga aaatgtttac
+     3121 atctccgctc tcaacctgcc ttgggttcgt gttaaatggt gttaaattct gcaaatggag
+     3181 gggaaaaaaa tcaaattcta aatttcaaag tagaatttaa agcaaatttg taaaaaaatt
+     3241 atcctaccac cccttttggt ccacttaaga tatgccacgc tgaagcaagg tatttcctac
+     3301 tggattttgc tttcactggt gtttagaaaa taaacttgat ttctctagga gcactccttt
+     3361 ggttagaggg atgcaagaag gagaggtgaa ggtggcgtgt ggtggctcat gcctgtaatc
+     3421 ccagcacttt ggggaggccg aggcaggcgg atcacttgag gccagcagtt tgagaccagc
+     3481 ctggccaaca tgatgaaacc ccatctctac taaaaataca aaaaattagc tgggcatggt
+     3541 ggcaggcacc tgtaatccca gttacttggg aggctgaggc aggagaattg cttgaaccca
+     3601 ggaggtggag gttgcagtga gctgagattg tgccactgca cttcagcctg ggcgacagag
+     3661 tgactctgtc aaaaaggaaa ggcaaaaacc ggaccctgga gctctgtggg ccctgattgc
+     3721 aggcccctcc ctgtgtgatg agggatgagt cagcttgggg agccacttgg ccagcctgca
+     3781 tgcctggtca tcaggaggtt gagaaaagcc ttgaaagttg tgaagcactg agcagataca
+     3841 agtgtttgtt aattttgtag aaattaactt tcccatctgg cctttatctc caaagttggt
+     3901 attgttgctc cacgcagact gcagtccggt ttcttattgt gactttgaca atgcaaagtg
+     3961 caaaatagga agaggcctcc ccaccccact atcccaccct ggtgaccaat tcagtgtaac
+     4021 ctttgcacgt actcagtcat tggtgtcttt ggagtgacat ctgcagccag ttagtgccac
+     4081 ctgagtacag cactcgtact tttacatgat gtgtgtgtga gtagctcttc tgtccaaacc
+     4141 atgatttgag gttcaactac ctgtagatca aagctttatt ttagaacgat aaactgattt
+     4201 tttccaaatg ggtgaaatct tctccccatg actatgtttt cttaactttg cattgaatct
+     4261 atttactggg ttacattcta tgtgtagttt gctttcttca tttttttttc ttttaaaatg
+     4321 ctcatgtctt attccaagca ccttcctcca aagtccccat aaagctgcat ctccaacaca
+     4381 ttgttatgcc aataaggttt tatttaactt tatttaagga tgattgtgtc tttgaatgac
+     4441 aaatgtactg ctgcttccta cctgcaagac gaacaatgta tgtttcaagg gtgagcaagt
+     4501 gttatttctt aaatttctca aatgcctgta gtaactattg tttctgcctc tcaattgttg
+     4561 ccagctcttt gaagaagggg agaattgtgt gtttttgtgt ggggatgttt ctgatatgct
+     4621 gctacagttg caaaacactg gagctagaga aaataaagta ctgatcttcg aa
+//

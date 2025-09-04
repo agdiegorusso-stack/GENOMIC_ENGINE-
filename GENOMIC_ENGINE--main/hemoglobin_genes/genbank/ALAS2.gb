@@ -1,0 +1,284 @@
+LOCUS       NM_000032               1940 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens 5'-aminolevulinate synthase 2 (ALAS2), transcript
+            variant 1, mRNA; nuclear gene for mitochondrial product.
+ACCESSION   NM_000032
+VERSION     NM_000032.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1940)
+  AUTHORS   Zhao,Y., Zhu,L., Shi,D., Gao,J. and Fan,M.
+  TITLE     Key Genes FECH and ALAS2 under Acute High-Altitude Exposure: A Gene
+            Expression and Network Analysis Based on Expression Profile Data
+  JOURNAL   Genes (Basel) 15 (8), 1075 (2024)
+   PUBMED   39202434
+  REMARK    GeneRIF: Key Genes FECH and ALAS2 under Acute High-Altitude
+            Exposure: A Gene Expression and Network Analysis Based on Expression
+            Profile Data. Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1940)
+  AUTHORS   Ono,K., Fujiwara,T., Saito,K., Nishizawa,H., Takahashi,N.,
+            Suzuki,C., Ochi,T., Kato,H., Ishii,Y., Onodera,K., Ichikawa,S.,
+            Fukuhara,N., Onishi,Y., Yokoyama,H., Yamada,R., Nakamura,Y.,
+            Igarashi,K. and Harigae,H.
+  TITLE     Congenital sideroblastic anemia model due to ALAS2 mutation is
+            susceptible to ferroptosis
+  JOURNAL   Sci Rep 12 (1), 9024 (2022)
+   PUBMED   35637209
+  REMARK    GeneRIF: Congenital sideroblastic anemia model due to ALAS2 mutation
+            is susceptible to ferroptosis. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1940)
+  AUTHORS   de Gennes,C., Lamoril,J., Borgel,A., Boi,C., Yao,R., Boileau,C. and
+            Tchernitchko,D.
+  TITLE     Severe iron overload in a woman with homeostatic iron regulator
+            (HFE) and a novel 5'-aminolevulinate synthase 2 (ALAS2) mutations:
+            interactions of multiple genetic determinants
+  JOURNAL   Br J Haematol 196 (2), e17-e20 (2022)
+   PUBMED   34490613
+  REMARK    GeneRIF: Severe iron overload in a woman with homeostatic iron
+            regulator (HFE) and a novel 5'-aminolevulinate synthase 2 (ALAS2)
+            mutations: interactions of multiple genetic determinants.
+REFERENCE   4  (bases 1 to 1940)
+  AUTHORS   Oakley,J.H., Campagna,D.R., Sun,L., Rockowitz,S., Sliz,P.,
+            Boudreaux,J., Woods,G. and Fleming,M.D.
+  TITLE     A synonymous coding variant that alters ALAS2 splicing and causes
+            X-linked sideroblastic anemia
+  JOURNAL   Pediatr Blood Cancer 69 (1), e29309 (2022)
+   PUBMED   34411431
+  REMARK    GeneRIF: A synonymous coding variant that alters ALAS2 splicing and
+            causes X-linked sideroblastic anemia.
+REFERENCE   5  (bases 1 to 1940)
+  AUTHORS   Morgenstern,M., Peikert,C.D., Lubbert,P., Suppanz,I., Klemm,C.,
+            Alka,O., Steiert,C., Naumenko,N., Schendzielorz,A., Melchionda,L.,
+            Muhlhauser,W.W.D., Knapp,B., Busch,J.D., Stiller,S.B.,
+            Dannenmaier,S., Lindau,C., Licheva,M., Eickhorst,C., Galbusera,R.,
+            Zerbes,R.M., Ryan,M.T., Kraft,C., Kozjak-Pavlovic,V., Drepper,F.,
+            Dennerlein,S., Oeljeklaus,S., Pfanner,N., Wiedemann,N. and
+            Warscheid,B.
+  TITLE     Quantitative high-confidence human mitochondrial proteome and its
+            dynamics in cellular context
+  JOURNAL   Cell Metab 33 (12), 2464-2483 (2021)
+   PUBMED   34800366
+REFERENCE   6  (bases 1 to 1940)
+  AUTHORS   Balwani,M. and Desnick,R.
+  CONSRTM   Porphyrias Consortium of the NIH-Sponsored Rare Diseases Clinical
+            Research Network
+  TITLE     X-Linked Protoporphyria
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   23409301
+REFERENCE   7  (bases 1 to 1940)
+  AUTHORS   Cotter,P.D., Baumann,M. and Bishop,D.F.
+  TITLE     Enzymatic defect in 'X-linked' sideroblastic anemia: molecular
+            evidence for erythroid delta-aminolevulinate synthase deficiency
+  JOURNAL   Proc Natl Acad Sci U S A 89 (9), 4028-4032 (1992)
+   PUBMED   1570328
+REFERENCE   8  (bases 1 to 1940)
+  AUTHORS   Cotter,P.D., Willard,H.F., Gorski,J.L. and Bishop,D.F.
+  TITLE     Assignment of human erythroid delta-aminolevulinate synthase (ALAS2)
+            to a distal subregion of band Xp11.21 by PCR analysis of somatic
+            cell hybrids containing X; autosome translocations
+  JOURNAL   Genomics 13 (1), 211-212 (1992)
+   PUBMED   1577484
+REFERENCE   9  (bases 1 to 1940)
+  AUTHORS   Gardner,L.C., Smith,S.J. and Cox,T.M.
+  TITLE     Biosynthesis of delta-aminolevulinic acid and the regulation of heme
+            formation by immature erythroid cells in man
+  JOURNAL   J Biol Chem 266 (32), 22010-22018 (1991)
+   PUBMED   1939222
+REFERENCE   10  (bases 1 to 1940)
+  AUTHORS   Cox,T.C., Bawden,M.J., Martin,A. and May,B.K.
+  TITLE     Human erythroid 5-aminolevulinate synthase: promoter analysis and
+            identification of an iron-responsive element in the mRNA
+  JOURNAL   EMBO J 10 (7), 1891-1902 (1991)
+   PUBMED   2050125
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: X60364.1, SRR3476690.828307.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1966682, SAMEA1968540
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            MANE Ensembl match :: ENST00000650242.1/ ENSP00000497236.1
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK313118.1 and BQ182291.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 8, 2018 this sequence version replaced NM_000032.4.
+            Summary: The product of this gene specifies an erythroid-specific
+            mitochondrially located enzyme. The encoded protein catalyzes the
+            first step in the heme biosynthetic pathway. Defects in this gene
+            cause X-linked pyridoxine-responsive sideroblastic anemia.
+            Alternatively spliced transcript variants encoding different
+            isoforms have been identified. [provided by RefSeq, Jul 2008].
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (a).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1940
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp11.21"
+     gene            1..1940
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /note="5'-aminolevulinate synthase 2"
+                     /db_xref="GeneID:212"
+                     /db_xref="HGNC:HGNC:397"
+                     /db_xref="MIM:301300"
+     exon            1..36
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            37..232
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             52..1815
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /EC_number="2.3.1.37"
+                     /note="isoform a precursor is encoded by transcript variant
+                     1; delta-ALA synthetase; 5-aminolevulinate synthase,
+                     erythroid-specific, mitochondrial; delta-ALA synthase 2;
+                     5-aminolevulinic acid synthase 2; delta-aminolevulinate
+                     synthase 2; aminolevulinate, delta-, synthase 2;
+                     erythroid-specific delta-aminolevulinate synthase"
+                     /codon_start=1
+                     /product="5-aminolevulinate synthase, erythroid-specific,
+                     mitochondrial isoform a precursor"
+                     /protein_id="NP_000023.2"
+                     /db_xref="CCDS:CCDS14366.1"
+                     /db_xref="GeneID:212"
+                     /db_xref="HGNC:HGNC:397"
+                     /db_xref="MIM:301300"
+                     /translation="MVTAAMLLQCCPVLARGPTSLLGKVVKTHQFLFGIGRCPILATQG
+                     PNCSQIHLKATKAGGDSPSWAKGHCPFMLSELQDGKSKIVQKAAPEVQEDVKAFKTDLP
+                     SSLVSVSLRKPFSGPQEQEQISGKVTHLIQNNMPGNYVFSYDQFFRDKIMEKKQDHTYR
+                     VFKTVNRWADAYPFAQHFSEASVASKDVSVWCSNDYLGMSRHPQVLQATQETLQRHGAG
+                     AGGTRNISGTSKFHVELEQELAELHQKDSALLFSSCFVANDSTLFTLAKILPGCEIYSD
+                     AGNHASMIQGIRNSGAAKFVFRHNDPDHLKKLLEKSNPKIPKIVAFETVHSMDGAICPL
+                     EELCDVSHQYGALTFVDEVHAVGLYGSRGAGIGERDGIMHKIDIISGTLGKAFGCVGGY
+                     IASTRDLVDMVRSYAAGFIFTTSLPPMVLSGALESVRLLKGEEGQALRRAHQRNVKHMR
+                     QLLMDRGLPVIPCPSHIIPIRVGNAALNSKLCDLLLSKHGIYVQAINYPTVPRGEELLR
+                     LAPSPHHSPQMMEDFVEKLLLAWTAVGLPLQDVSVAACNFCRRPVHFELMSEWERSYFG
+                     NMGPQYVTTYA"
+     transit_peptide 52..198
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000269|PubMed:14643893; propagated from
+                     UniProtKB/Swiss-Prot (P22557.2)"
+     mat_peptide     199..1812
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /product="5-aminolevulinate synthase, erythroid-specific,
+                     mitochondrial. /id=PRO_0000001223"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22557.2)"
+     exon            233..355
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            356..466
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            467..689
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            690..874
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            875..1054
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1055..1219
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1220..1488
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1489..1651
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1652..1940
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1920..1925
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /note="hexamer: AATAAA"
+     polyA_site      1940
+                     /gene="ALAS2"
+                     /gene_synonym="ALAS-E; ALASE; ANH1; ASB; SIDBA1; XLDPP;
+                     XLEPP; XLSA"
+                     /note="major polyA site"
+ORIGIN
+        1 acctgtcatt cgttcgtcct cagtgcaggg caacaggact ttaggttcaa gatggtgact
+       61 gcagccatgc tgctacagtg ctgcccagtg cttgcccggg gccccacaag cctcctaggc
+      121 aaggtggtta agactcacca gttcctgttt ggtattggac gctgtcccat cctggctacc
+      181 caaggaccaa actgttctca aatccacctt aaggcaacaa aggctggagg agattctcca
+      241 tcttgggcga agggccactg tcccttcatg ctgtcggaac tccaggatgg gaagagcaag
+      301 attgtgcaga aggcagcccc agaagtccag gaagatgtga aggctttcaa gacagatctg
+      361 cctagctccc tggtctcagt cagcctaagg aagccatttt ccggtcccca ggagcaggag
+      421 cagatctctg ggaaggtcac acacctgatt cagaacaata tgcctggaaa ctatgtcttc
+      481 agttatgacc agtttttcag ggacaagatc atggagaaga aacaggatca cacctaccgt
+      541 gtgttcaaga ctgtgaaccg ctgggctgat gcatatccct ttgcccaaca tttctctgag
+      601 gcatctgtgg cctcaaagga tgtgtccgtc tggtgtagta atgattacct gggcatgagc
+      661 cgacaccctc aggtcttgca agccacacag gagaccctgc agcgtcatgg tgctggagct
+      721 ggtggcaccc gcaacatctc aggcaccagt aagtttcatg tggagcttga gcaggagctg
+      781 gctgagctgc accagaagga ctcagccctg ctcttctcct cctgctttgt tgccaatgac
+      841 tctactctct tcaccttggc caagatcctg ccagggtgcg agatttactc agacgcaggc
+      901 aaccatgctt ccatgatcca aggtatccgt aacagtggag cagccaagtt tgtcttcagg
+      961 cacaatgacc ctgaccacct aaagaaactt ctagagaagt ctaaccctaa gatacccaaa
+     1021 attgtggcct ttgagactgt ccactccatg gatggtgcca tctgtcccct cgaggagttg
+     1081 tgtgatgtgt cccaccagta tggggccctg accttcgtgg atgaggtcca tgctgtagga
+     1141 ctgtatgggt cccggggcgc tgggattggg gagcgtgatg gaattatgca taagattgac
+     1201 atcatctctg gaactcttgg caaggccttt ggctgtgtgg gcggctacat tgccagcacc
+     1261 cgtgacttgg tggacatggt gcgctcctat gctgcaggct tcatctttac cacttctctg
+     1321 ccccccatgg tgctctctgg agctctagaa tctgtgcggc tgctcaaggg agaggagggc
+     1381 caagccctga ggcgagccca ccagcgcaat gtcaagcaca tgcgccagct actcatggac
+     1441 aggggccttc ctgtcatccc ctgccccagc cacatcatcc ccatccgggt gggcaatgca
+     1501 gcactcaaca gcaagctctg tgatctcctg ctctccaagc atggcatcta tgtgcaggcc
+     1561 atcaactacc caactgtccc ccggggtgaa gagctcctgc gcttggcacc ctccccccac
+     1621 cacagccctc agatgatgga agattttgtg gagaagctgc tgctggcttg gactgcggtg
+     1681 gggctgcccc tccaggatgt gtctgtggct gcctgcaatt tctgtcgccg tcctgtacac
+     1741 tttgagctca tgagtgagtg ggaacgttcc tacttcggga acatggggcc ccagtatgtc
+     1801 accacctatg cctgagaagc cagctgccta ggattcacac cccacctgcg cttcacttgg
+     1861 gtccaggcct actcctgtct tctgctttgt tgtgtgcctc tagctgaatt gagcctaaaa
+     1921 ataaagcaca aaccacagca
+//

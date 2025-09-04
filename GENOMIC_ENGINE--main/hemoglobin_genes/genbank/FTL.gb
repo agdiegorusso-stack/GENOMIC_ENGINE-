@@ -1,0 +1,197 @@
+LOCUS       NM_000146                871 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens ferritin light chain (FTL), mRNA.
+ACCESSION   NM_000146
+VERSION     NM_000146.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 871)
+  AUTHORS   Swanson,M.E.V., Mrkela,M., Murray,H.C., Cao,M.C., Turner,C.,
+            Curtis,M.A., Faull,R.L.M., Walker,A.K. and Scotter,E.L.
+  TITLE     Microglial CD68 and L-ferritin upregulation in response to
+            phosphorylated-TDP-43 pathology in the amyotrophic lateral sclerosis
+            brain
+  JOURNAL   Acta Neuropathol Commun 11 (1), 69 (2023)
+   PUBMED   37118836
+  REMARK    GeneRIF: Microglial CD68 and L-ferritin upregulation in response to
+            phosphorylated-TDP-43 pathology in the amyotrophic lateral sclerosis
+            brain. Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 871)
+  AUTHORS   Yang,X., Ding,Y., Sun,L., Shi,M., Zhang,P., Huang,Z., Wang,J.,
+            He,A., Wang,J., Wei,J., Liu,M., Liu,J., Wang,G., Yang,X. and Li,R.
+  TITLE     Ferritin light chain deficiency-induced ferroptosis is involved in
+            preeclampsia pathophysiology by disturbing uterine spiral artery
+            remodelling
+  JOURNAL   Redox Biol 58, 102555 (2022)
+   PUBMED   36446230
+  REMARK    GeneRIF: Ferritin light chain deficiency-induced ferroptosis is
+            involved in preeclampsia pathophysiology by disturbing uterine
+            spiral artery remodelling.
+REFERENCE   3  (bases 1 to 871)
+  AUTHORS   Yang,Y., Lin,T., Kuang,P. and Chen,X.
+  TITLE     Ferritin L-subunit gene mutation and hereditary hyperferritinaemia
+            cataract syndrome (HHCS): a case report and literature review
+  JOURNAL   Hematology 26 (1), 896-903 (2021)
+   PUBMED   34789084
+  REMARK    GeneRIF: Ferritin L-subunit gene mutation and hereditary
+            hyperferritinaemia cataract syndrome (HHCS): a case report and
+            literature review. Review article
+REFERENCE   4  (bases 1 to 871)
+  AUTHORS   Otsu,W., Ishida,K., Chinen,N., Nakamura,S., Shimazawa,M., Tsusaki,H.
+            and Hara,H.
+  TITLE     Cigarette smoke extract and heated tobacco products promote ferritin
+            cleavage and iron accumulation in human corneal epithelial cells
+  JOURNAL   Sci Rep 11 (1), 18555 (2021)
+   PUBMED   34535730
+  REMARK    GeneRIF: Cigarette smoke extract and heated tobacco products promote
+            ferritin cleavage and iron accumulation in human corneal epithelial
+            cells. Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 871)
+  AUTHORS   Gregory,A., A Kurian,M., Wilson,J. and Hayflick,S.
+  TITLE     Neurodegeneration with Brain Iron Accumulation Disorders Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   23447832
+REFERENCE   6  (bases 1 to 871)
+  AUTHORS   Klein,C., Lohmann,K., Marras,C. and Munchau,A.
+  TITLE     Hereditary Dystonia Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301334
+REFERENCE   7  (bases 1 to 871)
+  AUTHORS   Chinnery,P.F.
+  TITLE     Neuroferritinopathy
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301320
+REFERENCE   8  (bases 1 to 871)
+  AUTHORS   Gatti,R.A., Shaked,R., Mohandas,T.K. and Salser,W.
+  TITLE     Human ferritin genes: chromosomal assignments and polymorphisms
+  JOURNAL   Am J Hum Genet 41 (4), 654-667 (1987)
+   PUBMED   2821803
+REFERENCE   9  (bases 1 to 871)
+  AUTHORS   Lebo,R.V., Kan,Y.W., Cheung,M.C., Jain,S.K. and Drysdale,J.
+  TITLE     Human ferritin light chain gene sequences mapped to several sorted
+            chromosomes
+  JOURNAL   Hum Genet 71 (4), 325-328 (1985)
+   PUBMED   3000916
+REFERENCE   10  (bases 1 to 871)
+  AUTHORS   Arosio,P., Adelman,T.G. and Drysdale,J.W.
+  TITLE     On ferritin heterogeneity. Further evidence for heteropolymers
+  JOURNAL   J Biol Chem 253 (12), 4451-4458 (1978)
+   PUBMED   659425
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189658.170280.1,
+            SRR3476690.1169062.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000331825.11/ ENSP00000366525.2
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK130191.1 and BC004245.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 23, 2018 this sequence version replaced NM_000146.3.
+            Summary: This gene encodes the light subunit of the ferritin
+            protein. Ferritin is the major intracellular iron storage protein
+            in prokaryotes and eukaryotes. It is composed of 24 subunits of the
+            heavy and light ferritin chains. Variation in ferritin subunit
+            composition may affect the rates of iron uptake and release in
+            different tissues. A major function of ferritin is the storage of
+            iron in a soluble and nontoxic state. Defects in this light chain
+            ferritin gene are associated with several neurodegenerative
+            diseases and hyperferritinemia-cataract syndrome. This gene has
+            multiple pseudogenes. [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..871
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.33"
+     gene            1..871
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /note="ferritin light chain"
+                     /db_xref="GeneID:2512"
+                     /db_xref="HGNC:HGNC:3999"
+                     /db_xref="MIM:134790"
+     exon            1..301
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             200..727
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /note="ferritin light polypeptide-like 3; ferritin L
+                     subunit; ferritin L-chain; ferritin, light polypeptide;
+                     epididymis secretory sperm binding protein"
+                     /codon_start=1
+                     /product="ferritin light chain"
+                     /protein_id="NP_000137.2"
+                     /db_xref="CCDS:CCDS33070.1"
+                     /db_xref="GeneID:2512"
+                     /db_xref="HGNC:HGNC:3999"
+                     /db_xref="MIM:134790"
+                     /translation="MSSQIRQNYSTDVEAAVNSLVNLYLQASYTYLSLGFYFDRDDVAL
+                     EGVSHFFRELAEEKREGYERLLKMQNQRGGRALFQDIKKPAEDEWGKTPDAMKAAMALE
+                     KKLNQALLDLHALGSARTDPHLCDFLETHFLDEEVKLIKKMGDHLTNLHRLGGPEAGLG
+                     EYLFERLTLKHD"
+     misc_feature    203..205
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /note="N-acetylserine.
+                     /evidence=ECO:0000269|PubMed:6653779; propagated from
+                     UniProtKB/Swiss-Prot (P02792.2); acetylation site"
+     misc_feature    359..382
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02792.2);
+                     Region: Catalytic site for iron oxidation"
+     exon            302..448
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            449..574
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            575..871
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      853..858
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /note="hexamer: AATAAA"
+     polyA_site      871
+                     /gene="FTL"
+                     /gene_synonym="FTL1; LFTD; NBIA3"
+                     /note="major polyA site"
+ORIGIN
+        1 gcagttcggc ggtcccgcgg gtctgtctct tgcttcaaca gtgtttggac ggaacagatc
+       61 cggggactct cttccagcct ccgaccgccc tccgatttcc tctccgcttg caacctccgg
+      121 gaccatcttc tcggccatct cctgcttctg ggacctgcca gcaccgtttt tgtggttagc
+      181 tccttcttgc caaccaacca tgagctccca gattcgtcag aattattcca ccgacgtgga
+      241 ggcagccgtc aacagcctgg tcaatttgta cctgcaggcc tcctacacct acctctctct
+      301 gggcttctat ttcgaccgcg atgatgtggc tctggaaggc gtgagccact tcttccgcga
+      361 attggccgag gagaagcgcg agggctacga gcgtctcctg aagatgcaaa accagcgtgg
+      421 cggccgcgct ctcttccagg acatcaagaa gccagctgaa gatgagtggg gtaaaacccc
+      481 agacgccatg aaagctgcca tggccctgga gaaaaagctg aaccaggccc ttttggatct
+      541 tcatgccctg ggttctgccc gcacggaccc ccatctctgt gacttcctgg agactcactt
+      601 cctagatgag gaagtgaagc ttatcaagaa gatgggtgac cacctgacca acctccacag
+      661 gctgggtggc ccggaggctg ggctgggcga gtatctcttc gaaaggctca ctctcaagca
+      721 cgactaagag ccttctgagc ccagcgactt ctgaagggcc ccttgcaaag taatagggct
+      781 tctgcctaag cctctccctc cagccaatag gcagctttct taactatcct aacaagcctt
+      841 ggaccaaatg gaaataaagc tttttgatgc a
+//

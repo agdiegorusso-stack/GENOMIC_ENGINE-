@@ -1,0 +1,368 @@
+LOCUS       NM_015898               6482 bp    mRNA    linear   PRI 21-OCT-2018
+DEFINITION  Homo sapiens zinc finger and BTB domain containing 7A (ZBTB7A),
+            transcript variant 1, mRNA.
+ACCESSION   NM_015898
+VERSION     NM_015898.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6482)
+  AUTHORS   Liang X, Zhao Q, Geng T, Luo S and He Q.
+  TITLE     MiR-106b regulates the apoptosis and tumorigenesis of hepatocellular
+            carcinoma via targeting Zinc finger and BTB domain-containing
+            protein 7A (Zbtb7a)
+  JOURNAL   J. Biochem. Mol. Toxicol. 32 (8), e22169 (2018)
+   PUBMED   29975452
+  REMARK    GeneRIF: provide the evidence for the regulatory role of miR-106b in
+            HCC, which is causally linked to targeting of Zbtb7a
+REFERENCE   2  (bases 1 to 6482)
+  AUTHORS   Ramos Pittol JM, Oruba A, Mittler G, Saccani S and van Essen D.
+  TITLE     Zbtb7a is a transducer for the control of promoter accessibility by
+            NF-kappa B and multiple other transcription factors
+  JOURNAL   PLoS Biol. 16 (5), e2004526 (2018)
+   PUBMED   29813070
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 6482)
+  AUTHORS   Joo JW, Kim HS, Do SI and Sung JY.
+  TITLE     Expression of Zinc Finger and BTB Domain-containing 7A in Colorectal
+            Carcinoma
+  JOURNAL   Anticancer Res. 38 (5), 2787-2792 (2018)
+   PUBMED   29715100
+  REMARK    GeneRIF: Our data suggest that ZBTB7A is involved in the development
+            and progression of colorectal carcinoma
+REFERENCE   4  (bases 1 to 6482)
+  AUTHORS   Liu F, Tang F, Lan J, Jiao W, Si Y, Lu W, Mo M, Li B, Lu J, Wei J,
+            Qin Y, Xiao R, Zhang B, Wang Y and Xiong W.
+  TITLE     Stable knockdown of ZBTB7A promotes cell proliferation and
+            progression in nasopharyngeal carcinoma
+  JOURNAL   Tumori 104 (1), 37-42 (2018)
+   PUBMED   29699474
+  REMARK    GeneRIF: Results indicate the reverse association between the
+            expression of ZBTB7A and the tumorigenicity of nasopharyngeal
+            carcinoma (NPC).
+REFERENCE   5  (bases 1 to 6482)
+  AUTHORS   Zhang L, Wang Y, Li X, Xia X, Li N, He R, He H, Han C and Zhao W.
+  TITLE     ZBTB7A Enhances Osteosarcoma Chemoresistance by Transcriptionally
+            Repressing lncRNALINC00473-IL24 Activity
+  JOURNAL   Neoplasia 19 (11), 908-918 (2017)
+   PUBMED   28942243
+  REMARK    GeneRIF: ZBTB7A is increased in cisplatin-resistant osteosarcoma
+            cells and elevated ZBTB7A inhibits cisplatin-induced apoptosis by
+            repressing LINC00473 expression.
+REFERENCE   6  (bases 1 to 6482)
+  AUTHORS   Pessler F and Hernandez N.
+  TITLE     Flexible DNA binding of the BTB/POZ-domain protein FBI-1
+  JOURNAL   J. Biol. Chem. 278 (31), 29327-29335 (2003)
+   PUBMED   12750370
+  REMARK    GeneRIF: found that FBI-1 binds to inverted sequence repeats
+            downstream of the HIV-1 transcription start site
+REFERENCE   7  (bases 1 to 6482)
+  AUTHORS   Lee DK, Suh D, Edenberg HJ and Hur MW.
+  TITLE     POZ domain transcription factor, FBI-1, represses transcription of
+            ADH5/FDH by interacting with the zinc finger and interfering with
+            DNA binding activity of Sp1
+  JOURNAL   J. Biol. Chem. 277 (30), 26761-26768 (2002)
+   PUBMED   12004059
+  REMARK    GeneRIF: POZ domain of FBI1 represses transcription of ADH5.
+REFERENCE   8  (bases 1 to 6482)
+  AUTHORS   Pendergrast PS, Wang C, Hernandez N and Huang S.
+  TITLE     FBI-1 can stimulate HIV-1 Tat activity and is targeted to a novel
+            subnuclear domain that includes the Tat-P-TEFb-containing nuclear
+            speckles
+  JOURNAL   Mol. Biol. Cell 13 (3), 915-929 (2002)
+   PUBMED   11907272
+  REMARK    GeneRIF: Results suggest that FBI-1 is a cellular factor that
+            preferentially associates with active chromatin and that can
+            specifically stimulate Tat-activated HIV-1 transcription.
+REFERENCE   9  (bases 1 to 6482)
+  AUTHORS   Morrison DJ, Pendergrast PS, Stavropoulos P, Colmenares SU,
+            Kobayashi R and Hernandez N.
+  TITLE     FBI-1, a factor that binds to the HIV-1 inducer of short transcripts
+            (IST), is a POZ domain protein
+  JOURNAL   Nucleic Acids Res. 27 (5), 1251-1262 (1999)
+   PUBMED   9973611
+REFERENCE   10  (bases 1 to 6482)
+  AUTHORS   Davies JM, Hawe N, Kabarowski J, Huang QH, Zhu J, Brand NJ, Leprince
+            D, Dhordain P, Cook M, Morriss-Kay G and Zelent A.
+  TITLE     Novel BTB/POZ domain zinc-finger protein, LRF, is a potential target
+            of the LAZ-3/BCL-6 oncogene
+  JOURNAL   Oncogene 18 (2), 365-375 (1999)
+   PUBMED   9927193
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1163657.474873.1, AF000561.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1968540,
+            SAMEA1968968 [ECO:0000348]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC016586.9 and BC084568.1.
+            [WARNING] On Nov 22, 2018 this sequence was replaced by
+            NM_015898.4.
+            On Dec 18, 2015 this sequence version replaced NM_015898.2.
+            Transcript Variant: This variant (1) represents the longer
+            transcript. Variants 1 and 2 encode the same protein.
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..6482
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19p13.3"
+     gene            1..6482
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /note="zinc finger and BTB domain containing 7A"
+                     /db_xref="GeneID:51341"
+                     /db_xref="HGNC:HGNC:18078"
+                     /db_xref="MIM:605878"
+     exon            1..264
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            265..1541
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             280..2034
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /note="zinc finger and BTB domain containing 7A, HIV-1
+                     inducer of short transcripts binding protein; lymphoma
+                     related factor; HIV-1 1st-binding protein 1;
+                     TTF-I-interacting peptide 21; factor binding IST protein 1;
+                     leukemia/lymphoma-related factor; POK erythroid myeloid
+                     ontogenic factor; pokemon 1; POZ and Krueppel erythroid
+                     myeloid ontogenic factor; factor that binds to inducer of
+                     short transcripts protein 1; zinc finger protein 857A"
+                     /codon_start=1
+                     /product="zinc finger and BTB domain-containing protein 7A"
+                     /protein_id="NP_056982.1"
+                     /db_xref="CCDS:CCDS12119.1"
+                     /db_xref="GeneID:51341"
+                     /db_xref="HGNC:HGNC:18078"
+                     /db_xref="MIM:605878"
+                     /translation="MAGGVDGPIGIPFPDHSSDILSGLNEQRTQGLLCDVVILVEGREF
+                     PTHRSVLAACSQYFKKLFTSGAVVDQQNVYEIDFVSAEALTALMDFAYTATLTVSTANV
+                     GDILSAARLLEIPAVSHVCADLLDRQILAADAGADAGQLDLVDQIDQRNLLRAKEYLEF
+                     FQSNPMNSLPPAAAAAAASFPWSAFGASDDDLDATKEAVAAAVAAVAAGDCNGLDFYGP
+                     GPPAERPPTGDGDEGDSNPGLWPERDEDAPTGGLFPPPVAPPAATQNGHYGRGGEEEAA
+                     SLSEAAPEPGDSPGFLSGAAEGEDGDGPDVDGLAASTLLQQMMSSVGRAGAAAGDSDEE
+                     SRADDKGVMDYYLKYFSGAHDGDVYPAWSQKVEKKIRAKAFQKCPICEKVIQGAGKLPR
+                     HIRTHTGEKPYECNICKVRFTRQDKLKVHMRKHTGEKPYLCQQCGAAFAHNYDLKNHMR
+                     VHTGLRPYQCDSCCKTFVRSDHLHRHLKKDGCNGVPSRRGRKPRVRGGAPDPSPGATAT
+                     PGAPAQPSSPDARRNGQEKHFKDEDEDEDVASPDGLGRLNVAGAGGGGDSGGGPGAATD
+                     GNFTAGLA"
+     misc_feature    1108..2031
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95365.1);
+                     Region: Mediates interaction with KHDRBS1.
+                     {ECO:0000269|PubMed:24514149}"
+     misc_feature    1288..1290
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17081983,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:23186163,
+                     ECO:0000244|PubMed:24275569}; propagated from
+                     UniProtKB/Swiss-Prot (O95365.1); other site"
+     misc_feature    1300..1302
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (O95365.1); other
+                     site"
+     misc_feature    1324..2031
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95365.1);
+                     Region: Mediates interaction with RELA.
+                     {ECO:0000250|UniProtKB:O88939}"
+     misc_feature    1408..2031
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95365.1);
+                     Region: Mediates interaction with SMAD4.
+                     {ECO:0000269|PubMed:25514493}"
+     misc_feature    1810..1812
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:19690332};
+                     propagated from UniProtKB/Swiss-Prot (O95365.1); other
+                     site"
+     misc_feature    1852..1854
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:19690332};
+                     propagated from UniProtKB/Swiss-Prot (O95365.1); other
+                     site"
+     misc_feature    1855..1857
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (O95365.1); other
+                     site"
+     misc_feature    1924..1926
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17081983,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:23186163,
+                     ECO:0000244|PubMed:24275569}; propagated from
+                     UniProtKB/Swiss-Prot (O95365.1); other site"
+     exon            1542..6482
+                     /gene="ZBTB7A"
+                     /gene_synonym="FBI-1; FBI1; LRF; pokemon; TIP21; ZBTB7;
+                     ZNF857A"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN
+        1 ggcggctgcg gcacctttaa gacaagggag gacccctctt gccctcggag aaaccaggaa
+       61 gggagtcgcg agcatcatac ggggctttgg ctgtactgta cagttactgt aggggcagtg
+      121 acgccgccgc cgccgcgcga gggagcgacc agggcagcgc gacgcgggca gagcgagcgc
+      181 cgcggacccc ggaggcgagc ggccgaggga gcccagtccc aacttcgggc cccggccccg
+      241 cgcgccccgg cccggccccg cgaggtctcg gcgcggaaga tggccggcgg cgtggacggc
+      301 cccatcggga tcccgttccc cgaccacagc agcgacatcc tgagtgggct gaacgagcag
+      361 cggacgcagg gcctgctgtg cgacgtggtg atcctggtgg agggccgcga gttccccacg
+      421 caccgctcgg tgctggccgc ctgcagccag tacttcaaga agctgttcac gtcgggcgcc
+      481 gtggtggacc agcagaacgt gtacgagatc gacttcgtca gcgccgaggc gctcaccgcg
+      541 ctcatggact tcgcctacac ggccacgctc accgtcagca cagccaacgt gggtgacatc
+      601 ctcagcgccg cccgcctgct ggagatcccc gccgtgagcc acgtgtgcgc cgacctcctg
+      661 gaccggcaga tcctggcggc cgacgcgggc gccgacgccg ggcagctgga ccttgtagat
+      721 caaattgatc agcgcaacct cctccgcgcc aaggagtacc tcgagttctt ccagagcaac
+      781 cccatgaaca gcctgccccc cgcggccgcc gccgccgctg ccagcttccc gtggtccgcc
+      841 tttggggcgt ccgatgatga cctggatgcc accaaggagg ccgtggccgc cgctgtggcc
+      901 gccgtggccg cgggcgactg caacggctta gacttctatg ggccgggccc cccggccgag
+      961 cggcccccga cgggggacgg ggacgagggc gacagcaacc cgggtctgtg gccagagcgg
+     1021 gatgaggacg cccccaccgg gggtctcttt ccgccgccgg tggccccgcc ggccgccacg
+     1081 cagaacggcc actacggccg cggcggagag gaggaggccg cctcgctgtc ggaggcggcc
+     1141 cccgagccgg gcgactctcc gggcttcctg tcgggagcgg ccgagggcga ggacggggac
+     1201 gggcccgacg tggacgggct ggcggccagc acgctgctgc agcagatgat gtcatcggtg
+     1261 ggccgggcgg gggccgcggc gggggacagc gacgaggagt cgcgggccga cgacaagggc
+     1321 gtcatggact actacctgaa gtacttcagc ggcgcccacg acggcgacgt ctacccggcc
+     1381 tggtcgcaga aggtggagaa gaagatccga gccaaggcct tccagaagtg ccccatctgc
+     1441 gagaaggtca tccagggcgc cggcaagctg ccgcgacaca tccgcaccca cacgggcgag
+     1501 aagccctacg agtgcaacat ctgcaaggtc cgcttcacca ggcaggacaa gctgaaggtg
+     1561 cacatgcgga agcacacggg cgagaagccg tacctgtgcc agcagtgcgg cgccgccttt
+     1621 gcccacaact acgacctgaa gaaccacatg cgcgtgcaca cgggcctgcg cccctaccag
+     1681 tgcgacagct gctgcaagac cttcgtccgc tccgaccacc tgcacagaca cctcaagaaa
+     1741 gacggctgca acggcgtccc ctcgcgccgc ggccgcaagc cccgcgtccg gggcggggcg
+     1801 cccgacccca gcccgggggc caccgcgacc cccggcgccc ccgcccagcc cagctccccc
+     1861 gacgcccggc gcaacggcca ggagaagcac tttaaggacg aggacgagga cgaggacgtg
+     1921 gccagccccg acggcttggg ccggttgaat gtagcgggcg ccggtggagg aggtgacagc
+     1981 ggaggtggcc ccggggccgc caccgacggt aacttcacag ccggactcgc ctaaaaacca
+     2041 aaaagagaaa acagaaaccc gagaaagaga gagacagaga gagagaaaaa aaatcaccca
+     2101 ccaccccccc aaaaacacaa aaaaagaaaa tctatctata tacagatatc tatatctata
+     2161 tatatatata cagatatata tatatgacgc gtcacagaat ctagggtagc gctttctcag
+     2221 atttccctcc tttctgacgt ttttctccct ccgcaggggc cccggccctc cctggctccc
+     2281 cttcccccca ccaccccatc gctgggtttc ggggcttggt ttggggtttt ttgtaggaca
+     2341 caaggaatcc gagaccccgc acagccccct gggcacccgg catggggcct ggggcccgat
+     2401 ccgaggccct gggctggggg gagggtagac gtgggggcgc tgggggggga ctggggtggg
+     2461 cttttaattt cctcccctcg ctggtttcta tgagtctttc agacaagacc ttaaatgatt
+     2521 tctgtctgct ctgagcggac gttaaaatgg gcccccgtcc cccgacccgc accctccttc
+     2581 ctcagggcac ttactaaggg aggggtctcc ctctccatct ccccagtggc ctccccgcct
+     2641 ccaaccctgc ctgcggcctc cccccgtcgc ccaccccacg tctcctggcc actgagacac
+     2701 aaacctattt atttctaggc ctggagaaag gagatcggac tggggttccc ggtggggcgc
+     2761 caggatggct cctgggggtg ctcctgccgc cttccttcac ggcacttaca accggcggga
+     2821 cccccaggga ccacccctca gggcgccccc ccacccccgc ccggtccacc tagaccccca
+     2881 cgtttggaga ttcaaaactt ctgtcttcgt cctctccccc gagccccctc tcccaaattt
+     2941 ttaaagcact ttttagattt ttttttctct ttcctcctta aaaacaaaat ttatatatag
+     3001 atatatatat atatataaat aatatacttt tcctcagagg agcaggcaac agtgtgggat
+     3061 aaacagagtc acgatcagag gaaccccagg gtctggtgat ggcagggatg gggggagaga
+     3121 gagaaaatcc acaaattcca atgtcacaaa agcaataaaa caaactagaa aaaaaaaagg
+     3181 ttttacaaaa tgaaaggaag gaaaaaaaaa aaggcaacca accacattag aagtcttggc
+     3241 actttgtaac ggaacgggta ctacacttta tcttaattct taatttaaaa acatgtttac
+     3301 aagttacaac caacttctat gaaaagttga aaagacaaaa aaaaaaaaaa aaagcgagcg
+     3361 agagagagag cgagagagag agcgagagca gaagaaattc ctaaaagtcg atttattttt
+     3421 gtacaaaata ataaaaaaaa aaacccacca caaacgtaga atccacttct gttccccaaa
+     3481 aagcgagaag gggggttcag gaggaagcca tcgcagggga cctgggagac gccccgaggt
+     3541 gtttgtgctt cacccccaga cgtcagcctc gaaggcagga ctgtggggtg ttcgtgctgt
+     3601 gttccccccg ctcccccttt ctgtcccctt ttttggttct gacgtgaaga ggtcttagcg
+     3661 cccgcttctg tccacggggt ctctccttcc tcctccctag ctcagggatg ggccttccag
+     3721 ccggagcacc ccgatcccca tccggcaccc cccaatcccc caacacgcct gtccctcccg
+     3781 catggccacc aaggagctgg accttggatg cgcctaccct gctgaggtgg gtgacagggg
+     3841 ccccccacct ccagggcctt agaaccaccg cccctctccc caccccaggc acccctcttt
+     3901 ttactcaaag gcactgactg taatccaggg ggactgggac ctgcctcccc ccaacctctg
+     3961 gctcccacaa ggcccggtgt tgaccgagcc acaggccacg gacaggggcc ggggttgggg
+     4021 agactatgtc gccagatgcc aggacgccct caccccgttt gcatatgcaa tgctagcatg
+     4081 ggaccccgaa aatagacgct ctgctgcact gagacttctt gtcaatgccc aaccggcggg
+     4141 ggggtgtctc cctgcccccg acccccccat acccccttct ctgtgacaca cacatcttct
+     4201 cgtctctttt tctttcattg ttaaagggaa gctttttaag aaggcaattt tcatattgtt
+     4261 tctacaggat ggttttggtt cccttccctt cccacccccc cttaagcctg tcagccccct
+     4321 ccaaatgtct caggatcccc cctctcccct ggggctgggt gacagcaccc cggctgcgtt
+     4381 cacaccccag tgtcacaggg cgagctgttc tggagagaaa accatctgtc gtggctgagc
+     4441 ggggagcttg aacacccagg ccagggacac ccctccccag ctcccagaga ggccccctga
+     4501 ggggtgagcc ctctttccac cttcccctat ccatgcaccc cctcgcaata aaaccaactc
+     4561 taaaatcaca gctgtcgtcc tagccagtgg gggcgaccgg acttgggggg tggagccctc
+     4621 tgggacttcc gtaggaacaa gggctgcggc ccaccgcgac acttacacag acctcgggga
+     4681 ttgcactaaa ccctcgttcc tagctccgca ctcagcttcg cctgtcctgc ccgcccactt
+     4741 tgccttaact acccgcccgt cctgggggcc acagcctctg catgggccca gagccgggac
+     4801 ccccccagcc cagccccgcc ctccccagac tccgcgcaat cacatactgt atatagacgt
+     4861 gaatcgattt tatttttatt ctttaaatta aggtcgtgat aaagtgttgc caaagatacc
+     4921 tgctgaattc tcgcgtttca ggaaacaaac aaacaaaaaa aaatgatatt tgaggagggt
+     4981 cgtgttgact ccatatgaaa ggacacagct caaagctttt ttgtttggtt gtttggggtt
+     5041 ttttgtgttt tctttttttg gggtgttttt tttttaactg cctggtacaa aaaaaaaaag
+     5101 agaaaaaaaa aaaagaaaaa caatgcgaaa ttgttatttc cattctcatg gtgaagttgc
+     5161 gtggacgcgt gtgtgcgtgt gtgcaagaga gcgggagtga ggtccaggct ggggttgggg
+     5221 ggcttcaggc gggggcgccc gggggccggg gaggtggccg ggccggagcc cccgtctgca
+     5281 gtgcccccca gcctgccggg cccaggagag agagagaagc atctttgcta ctagctgttg
+     5341 ctgctacctg cctctgcccc ccgacgcccc ccgccttttg agattaagga aaaaaaaaaa
+     5401 aagtcaaaaa agtttttaaa aatgaaaaaa aaaaattata aaccagtgaa tgtaaaatgc
+     5461 cggagcaggc ccggcctggc atgggtgtgg acctgcagcc aggcaggctc gagcgggcga
+     5521 taccaaagtc tgccccccca ccattgtggc catgcagtcc tgtcactgtc tttttgcttc
+     5581 cttccgaggg gggtccccca gcctcttcca gggtcttccc ctggaagtgg gcggctgcag
+     5641 ggaaggtggg ggacaggggt ctttgcacga ttcagacccc ggggccgtgg caggagcggt
+     5701 cacctcacag gtggtgacac tgaggcaggg gcctcggggt gccccctccc gcccggcaac
+     5761 cagaatggtt ggaggcaaga cagagagaat gaaaggaaaa acagaagaaa aaaaaatatt
+     5821 aaaaaccaac aaaaaaagca aaaatcctat tttttgagaa agaaagatat ttatatttgc
+     5881 agttttattt taaaaagtta tttaagttga agcagccttc ctggaggtgg gggggggggg
+     5941 gtggtgggtg gctggcgcag gacgggtcag gggcctggag gctgggggtg ccccaggagc
+     6001 tacaacctca gagttaagac tagctcgcat taaatacata gatttacggg gggggggggg
+     6061 gggggccggg cccagggggt ggagggggcc agggagaccc ccatccctcg ccggggctgc
+     6121 ctggaggctg tggaccagga tccgatgccc aggtcccgcc ccccacccca ccccaggccc
+     6181 agaatcgagg tgccttggac tttggagggg ccaggcctgg tgaatggggg gcggggcggc
+     6241 gccctcaggg tacagagcac agacagatag acattccaga gactgtattg agagtcttta
+     6301 taaagtgtgg gagatttaaa aaaaaaaaaa actgataaaa atgcactttt tgggagtggg
+     6361 gagggagaag ctttaaaagt aataaaaaac aaacaaaaac acaaaagatg aaaaaacaaa
+     6421 aaaattcatt tttcttgtac ataaaaaaaa aaaaagaacc actaaacgca gcctgttacg
+     6481 ac
+//

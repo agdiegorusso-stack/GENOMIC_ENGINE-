@@ -1,0 +1,390 @@
+LOCUS       NM_005689               2980 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens ATP binding cassette subfamily B member 6 (LAN blood
+            group) (ABCB6), transcript variant 1, mRNA.
+ACCESSION   NM_005689
+VERSION     NM_005689.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2980)
+  AUTHORS   Choi,S.H., Lee,S.S., Lee,H.Y., Kim,S., Kim,J.W. and Jin,M.S.
+  TITLE     Cryo-EM structure of cadmium-bound human ABCB6
+  JOURNAL   Commun Biol 7 (1), 672 (2024)
+   PUBMED   38822018
+  REMARK    GeneRIF: Cryo-EM structure of cadmium-bound human ABCB6. Publication
+            Status: Online-Only
+REFERENCE   2  (bases 1 to 2980)
+  AUTHORS   Singh,H., Shyamveer, Mahajan,S.D., Aalinkeel,R., Kaliyappan,K.,
+            Schwartz,S.A., Bhattacharya,M., Parvez,M.K. and Al-Dosari,M.S.
+  TITLE     Identification of novel genetic variations in ABCB6 and GRN genes
+            associated with HIV-associated lipodystrophy
+  JOURNAL   Clin Chim Acta 556, 117830 (2024)
+   PUBMED   38354999
+  REMARK    GeneRIF: Identification of novel genetic variations in ABCB6 and GRN
+            genes associated with HIV-associated lipodystrophy.
+REFERENCE   3  (bases 1 to 2980)
+  AUTHORS   Lee,S.S., Park,J.G., Jang,E., Choi,S.H., Kim,S., Kim,J.W. and
+            Jin,M.S.
+  TITLE     W546 stacking disruption traps the human porphyrin transporter ABCB6
+            in an outward-facing transient state
+  JOURNAL   Commun Biol 6 (1), 960 (2023)
+   PUBMED   37735522
+  REMARK    GeneRIF: W546 stacking disruption traps the human porphyrin
+            transporter ABCB6 in an outward-facing transient state. Publication
+            Status: Online-Only
+REFERENCE   4  (bases 1 to 2980)
+  AUTHORS   Shibahara,M., Kurita,T., Murakami,M., Harada,H., Koi,C., Izumi,H.
+            and Yoshino,K.
+  TITLE     Association of UBE2L6 and ABCB6 Expression With Platinum Resistance
+            in Serous Ovarian Carcinoma
+  JOURNAL   Anticancer Res 43 (8), 3787-3792 (2023)
+   PUBMED   37500176
+  REMARK    GeneRIF: Association of UBE2L6 and ABCB6 Expression With Platinum
+            Resistance in Serous Ovarian Carcinoma.
+REFERENCE   5  (bases 1 to 2980)
+  AUTHORS   She,Q., Dong,Y., Li,D., An,R., Zhou,T., Nie,X., Pan,R. and Deng,Y.
+  TITLE     ABCB6 knockdown suppresses melanogenesis through the
+            GSK3-beta/beta-catenin signaling axis in human melanoma and
+            melanocyte cell lines
+  JOURNAL   J Dermatol Sci 106 (2), 101-110 (2022)
+   PUBMED   35461746
+  REMARK    GeneRIF: ABCB6 knockdown suppresses melanogenesis through the
+            GSK3-beta/beta-catenin signaling axis in human melanoma and
+            melanocyte cell lines.
+REFERENCE   6  (bases 1 to 2980)
+  AUTHORS   Visapaa,I., Fellman,V., Lanyi,L. and Peltonen,L.
+  TITLE     ABCB6 (MTABC3) excluded as the causative gene for the growth
+            retardation syndrome with aminoaciduria, cholestasis, iron overload,
+            and lactacidosis
+  JOURNAL   Am J Med Genet 109 (3), 202-205 (2002)
+   PUBMED   11977179
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   7  (bases 1 to 2980)
+  AUTHORS   Emadi-Konjin,H.P., Zhang,H., Anandan,V., Sun,D., Schuetz,J. and
+            Furuya,K.N.
+  TITLE     Isolation of a genomic clone containing the promoter region of the
+            human ATP binding cassette (ABC) transporter, ABCB6
+  JOURNAL   Biochim Biophys Acta 1574 (2), 117-130 (2002)
+   PUBMED   11955620
+REFERENCE   8  (bases 1 to 2980)
+  AUTHORS   Mitsuhashi,N., Miki,T., Senbongi,H., Yokoi,N., Yano,H., Miyazaki,M.,
+            Nakajima,N., Iwanaga,T., Yokoyama,Y., Shibata,T. and Seino,S.
+  TITLE     MTABC3, a novel mitochondrial ATP-binding cassette protein involved
+            in iron homeostasis
+  JOURNAL   J Biol Chem 275 (23), 17536-17540 (2000)
+   PUBMED   10837493
+REFERENCE   9  (bases 1 to 2980)
+  AUTHORS   Furuya,K.N., Bradley,G., Sun,D., Schuetz,E.G. and Schuetz,J.D.
+  TITLE     Identification of a new P-glycoprotein-like ATP-binding cassette
+            transporter gene that is overexpressed during hepatocarcinogenesis
+  JOURNAL   Cancer Res 57 (17), 3708-3716 (1997)
+   PUBMED   9288777
+REFERENCE   10  (bases 1 to 2980)
+  AUTHORS   Allikmets,R., Gerrard,B., Hutchinson,A. and Dean,M.
+  TITLE     Characterization of the human ABC superfamily: isolation and mapping
+            of 21 new genes using the expressed sequence tags database
+  JOURNAL   Hum Mol Genet 5 (10), 1649-1655 (1996)
+   PUBMED   8894702
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC000559.2, AF308472.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            MANE Ensembl match :: ENST00000265316.9/ ENSP00000265316.3
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC068946.4, AF308472.1 and
+            AW664349.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 22, 2018 this sequence version replaced NM_005689.3.
+            Summary: This gene encodes a member of the ATP-binding cassette
+            (ABC) transporter superfamily. ABC proteins transport various
+            molecules across extra- and intra-cellular membranes. This protein
+            is a member of the heavy metal importer subfamily and plays a role
+            in porphyrin transport. This gene is the molecular basis of the
+            Langereis (Lan) blood group antigen and mutations in this gene
+            underlie familial pseudohyperkalemia and dyschromatosis universalis
+            hereditaria. [provided by RefSeq, Mar 2017].
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2980
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q35"
+     gene            1..2980
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="ATP binding cassette subfamily B member 6 (LAN blood
+                     group)"
+                     /db_xref="GeneID:10058"
+                     /db_xref="HGNC:HGNC:47"
+                     /db_xref="MIM:605452"
+     exon            1..834
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    124..126
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="upstream in-frame stop codon"
+     CDS             286..2814
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /EC_number="7.6.2.5"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     ATP-binding cassette, sub-family B (MDR/TAP), member 6
+                     (Langereis blood group); ATP-binding cassette
+                     half-transporter; mt-ABC transporter 3; ATP binding
+                     cassette subfamily B member 6 (Langereis blood group);
+                     P-glycoprotein-related protein; mitochondrial ABC
+                     transporter 3; ubiquitously-expressed mammalian ABC half
+                     transporter; ABC-type heme transporter ABCB6; ATP-binding
+                     cassette sub-family B member 6"
+                     /codon_start=1
+                     /product="ATP-binding cassette sub-family B member 6
+                     isoform 1"
+                     /protein_id="NP_005680.1"
+                     /db_xref="CCDS:CCDS2436.1"
+                     /db_xref="GeneID:10058"
+                     /db_xref="HGNC:HGNC:47"
+                     /db_xref="MIM:605452"
+                     /translation="MVTVGNYCEAEGPVGPAWMQDGLSPCFFFTLVPSTRMALGTLALV
+                     LALPCRRRERPAGADSLSWGAGPRISPYVLQLLLATLQAALPLAGLAGRVGTARGAPLP
+                     SYLLLASVLESLAGACGLWLLVVERSQARQRLAMGIWIKFRHSPGLLLLWTVAFAAENL
+                     ALVSWNSPQWWWARADLGQQVQFSLWVLRYVVSGGLFVLGLWAPGLRPQSYTLQVHEED
+                     QDVERSQVRSAAQQSTWRDFGRKLRLLSGYLWPRGSPALQLVVLICLGLMGLERALNVL
+                     VPIFYRNIVNLLTEKAPWNSLAWTVTSYVFLKFLQGGGTGSTGFVSNLRTFLWIRVQQF
+                     TSRRVELLIFSHLHELSLRWHLGRRTGEVLRIADRGTSSVTGLLSYLVFNVIPTLADII
+                     IGIIYFSMFFNAWFGLIVFLCMSLYLTLTIVVTEWRTKFRRAMNTQENATRARAVDSLL
+                     NFETVKYYNAESYEVERYREAIIKYQGLEWKSSASLVLLNQTQNLVIGLGLLAGSLLCA
+                     YFVTEQKLQVGDYVLFGTYIIQLYMPLNWFGTYYRMIQTNFIDMENMFDLLKEETEVKD
+                     LPGAGPLRFQKGRIEFENVHFSYADGRETLQDVSFTVMPGQTLALVGPSGAGKSTILRL
+                     LFRFYDISSGCIRIDGQDISQVTQASLRSHIGVVPQDTVLFNDTIADNIRYGRVTAGND
+                     EVEAAAQAAGIHDAIMAFPEGYRTQVGERGLKLSGGEKQRVAIARTILKAPGIILLDEA
+                     TSALDTSNERAIQASLAKVCANRTTIVVAHRLSTVVNADQILVIKDGCIVERGRHEALL
+                     SRGGVYADMWQLQQGQEETSEDTKPQTMER"
+     misc_feature    286..993
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     Region: Required for ATPase activity.
+                     /evidence=ECO:0000269|PubMed:33007128"
+     misc_feature    286..900
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     Region: Required for the lysosomal targeting.
+                     /evidence=ECO:0000269|PubMed:25627919"
+     misc_feature    301..303
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:21199866; propagated from
+                     UniProtKB/Swiss-Prot (Q9NP58.1); glycosylation site"
+     misc_feature    364..426
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    502..564
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    604..666
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    727..789
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    841..903
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    1075..1137
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    1159..1221
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    1411..1473
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    1477..1539
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    1783..1845
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     misc_feature    1873..1935
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP58.1);
+                     transmembrane region"
+     exon            835..972
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            973..1153
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1154..1255
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1256..1439
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1440..1561
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1562..1671
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1672..1737
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1738..1863
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1864..1940
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1941..2004
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2005..2090
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2091..2148
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2149..2253
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2254..2428
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2429..2541
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2542..2636
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2637..2705
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2706..2980
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2962..2967
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="hexamer: AATAAA"
+     polyA_site      2980
+                     /gene="ABCB6"
+                     /gene_synonym="ABC; LAN; MTABC3; PRP; umat"
+                     /note="major polyA site"
+ORIGIN
+        1 attcccgtgg gcctgcagtt ggcaggaggg tcccgggccc agagccagcg gggccgtgct
+       61 gagacggcgt acgtgccctg cgtgagtgcg tggcggcggc gcgtgcgcta ggggagtggg
+      121 cggtgaggcc tggtccacgt gcgtcccttc ccgggacccc cgcagcttgg cgcccagcgg
+      181 ctacgtgagc caaggcaccc ggatgtccgc gcccctctcc gagtgaccag tcccggcctc
+      241 cggtcccgca gtgcccgcag cctcggccgg cgtccacgca ttgccatggt gactgtgggc
+      301 aactactgcg aggccgaagg gcccgtgggt ccggcctgga tgcaggatgg cctgagtccc
+      361 tgcttcttct tcacgctcgt gccctcgacg cggatggctc tggggactct ggccttggtg
+      421 ctggctcttc cctgcagacg ccgggagcgg cccgctggtg ctgattcgct gtcttggggg
+      481 gccggccctc gcatctctcc ctacgtgctg cagctgcttc tggccacact tcaggcggcg
+      541 ctgcccctgg ccggcctggc tggccgggtg ggcactgccc ggggggcccc actgccaagc
+      601 tatctacttc tggcctccgt gctggagagt ctggccggcg cctgtggcct gtggctgctt
+      661 gtcgtggagc ggagccaggc acggcagcgt ctggcaatgg gcatctggat caagttcagg
+      721 cacagccctg gtctcctgct cctctggact gtggcgtttg cagctgagaa cttggccctg
+      781 gtgtcttgga acagcccaca gtggtggtgg gcaagggcag acttgggcca gcaggttcag
+      841 tttagcctgt gggtgctgcg gtatgtggtc tctggagggc tgtttgtcct gggtctctgg
+      901 gcccctggac ttcgtcccca gtcctataca ttgcaggttc atgaagagga ccaagatgtg
+      961 gaaaggagcc aggttcggtc agcagcccaa cagtctacct ggcgagattt tggcaggaag
+     1021 ctccgcctcc tgagtggcta cctgtggcct cgagggagtc cagctctgca gctggtggtg
+     1081 ctcatctgcc tggggctcat gggtttggaa cgggcactca atgtgttggt gcctatattc
+     1141 tataggaaca ttgtgaactt gctgactgag aaggcacctt ggaactctct ggcctggact
+     1201 gttaccagtt acgtcttcct caagttcctc caggggggtg gcactggcag tacaggcttc
+     1261 gtgagcaacc tgcgcacctt cctgtggatc cgggtgcagc agttcacgtc tcggcgggtg
+     1321 gagctgctca tcttctccca cctgcacgag ctctcactgc gctggcacct ggggcgccgc
+     1381 acaggggagg tgctgcggat cgcggatcgg ggcacatcca gtgtcacagg gctgctcagc
+     1441 tacctggtgt tcaatgtcat ccccacgctg gccgacatca tcattggcat catctacttc
+     1501 agcatgttct tcaacgcctg gtttggcctc attgtgttcc tgtgcatgag tctttacctc
+     1561 accctgacca ttgtggtcac tgagtggaga accaagtttc gtcgtgctat gaacacacag
+     1621 gagaacgcta cccgggcacg agcagtggac tctctgctaa acttcgagac ggtgaagtat
+     1681 tacaacgccg agagttacga agtggaacgc tatcgagagg ccatcatcaa atatcagggt
+     1741 ttggagtgga agtcgagcgc ttcactggtt ttactaaatc agacccagaa cctggtgatt
+     1801 gggctcgggc tcctcgccgg ctccctgctt tgcgcatact ttgtcactga gcagaagcta
+     1861 caggttgggg actatgtgct ctttggcacc tacattatcc agctgtacat gcccctcaat
+     1921 tggtttggca cctactacag gatgatccag accaacttca ttgacatgga gaacatgttt
+     1981 gacttgctga aagaggagac agaagtgaag gaccttcctg gagcagggcc ccttcgcttt
+     2041 cagaagggcc gtattgagtt tgagaacgtg cacttcagct atgccgatgg gcgggagact
+     2101 ctgcaggacg tgtctttcac tgtgatgcct ggacagacac ttgccctggt gggcccatct
+     2161 ggggcaggga agagcacaat tttgcgcctg ctgtttcgct tctacgacat cagctctggc
+     2221 tgcatccgaa tagatgggca ggacatttca caggtgaccc aggcctctct ccggtctcac
+     2281 attggagttg tgccccaaga cactgtcctc tttaatgaca ccatcgccga caatatccgt
+     2341 tacggccgtg tcacagctgg gaatgatgag gtggaggctg ctgctcaggc tgcaggcatc
+     2401 catgatgcca ttatggcttt ccctgaaggg tacaggacac aggtgggcga gcggggactg
+     2461 aagctgagcg gcggggagaa gcagcgcgtc gccattgccc gcaccatcct caaggctccg
+     2521 ggcatcattc tgctggatga ggcaacgtca gcgctggata catctaatga gagggccatc
+     2581 caggcttctc tggccaaagt ctgtgccaac cgcaccacca tcgtagtggc acacaggctc
+     2641 tcaactgtgg tcaatgctga ccagatcctc gtcatcaagg atggctgcat cgtggagagg
+     2701 ggacgacacg aggctctgtt gtcccgaggt ggggtgtatg ctgacatgtg gcagctgcag
+     2761 cagggacagg aagaaacctc tgaagacact aagcctcaga ccatggaacg gtgacaaaag
+     2821 tttggccact tccctctcaa agactaaccc agaagggaat aagatgtgtc tcctttccct
+     2881 ggcttatttc atcctggtct tggggtatgg tgctagctat ggtaagggaa agggaccttt
+     2941 ccgaaaaaca tcttttgggg aaataaaaat gtggactgtg
+//
