@@ -1,0 +1,240 @@
+LOCUS       NM_000309               1672 bp    mRNA    linear   PRI 29-APR-2025
+DEFINITION  Homo sapiens protoporphyrinogen oxidase (PPOX), transcript variant
+            1, mRNA.
+ACCESSION   NM_000309
+VERSION     NM_000309.5
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1672)
+  AUTHORS   Novakova,Z., Mikesova,J., Ondrakova,M., Kutil,Z., Vesela,K.,
+            Martasek,P. and Barinka,C.
+  TITLE     Molecular characterization of a novel His333Arg variant of human
+            protoporphyrinogen oxidase IX
+  JOURNAL   Biochem Biophys Res Commun 588, 182-186 (2022)
+   PUBMED   34968794
+  REMARK    GeneRIF: Molecular characterization of a novel His333Arg variant of
+            human protoporphyrinogen oxidase IX.
+REFERENCE   2  (bases 1 to 1672)
+  AUTHORS   Morgenstern,M., Peikert,C.D., Lubbert,P., Suppanz,I., Klemm,C.,
+            Alka,O., Steiert,C., Naumenko,N., Schendzielorz,A., Melchionda,L.,
+            Muhlhauser,W.W.D., Knapp,B., Busch,J.D., Stiller,S.B.,
+            Dannenmaier,S., Lindau,C., Licheva,M., Eickhorst,C., Galbusera,R.,
+            Zerbes,R.M., Ryan,M.T., Kraft,C., Kozjak-Pavlovic,V., Drepper,F.,
+            Dennerlein,S., Oeljeklaus,S., Pfanner,N., Wiedemann,N. and
+            Warscheid,B.
+  TITLE     Quantitative high-confidence human mitochondrial proteome and its
+            dynamics in cellular context
+  JOURNAL   Cell Metab 33 (12), 2464-2483 (2021)
+   PUBMED   34800366
+REFERENCE   3  (bases 1 to 1672)
+  AUTHORS   Wang,B., Zhang,Z., Zhu,H., Niu,C., Wen,X. and Xi,Z.
+  TITLE     The hydrogen bonding network involved Arg59 in human
+            protoporphyrinogen IX oxidase is essential for enzyme activity
+  JOURNAL   Biochem Biophys Res Commun 557, 20-25 (2021)
+   PUBMED   33857841
+  REMARK    GeneRIF: The hydrogen bonding network involved Arg59 in human
+            protoporphyrinogen IX oxidase is essential for enzyme activity.
+REFERENCE   4  (bases 1 to 1672)
+  AUTHORS   de Vooght,K.M., van Wijk,R. and van Solinge,W.W.
+  TITLE     GATA-1 binding sites in exon 1 direct erythroid-specific
+            transcription of PPOX
+  JOURNAL   Gene 409 (1-2), 83-91 (2008)
+   PUBMED   18191920
+  REMARK    GeneRIF: GATA-1 binding sites in exon 1 constitute key regulatory
+            elements in differential expression of PPOX in erythroid and
+            non-erythroid cells.
+REFERENCE   5  (bases 1 to 1672)
+  AUTHORS   Morgan,R.R., Errington,R. and Elder,G.H.
+  TITLE     Identification of sequences required for the import of human
+            protoporphyrinogen oxidase to mitochondria
+  JOURNAL   Biochem J 377 (Pt 2), 281-287 (2004)
+   PUBMED   14535846
+  REMARK    GeneRIF: Information required for targeting to the mitochondria is
+            contained within the first 250 amino acid residues of human PPOX.
+REFERENCE   6  (bases 1 to 1672)
+  AUTHORS   Dailey,T.A., Dailey,H.A., Meissner,P. and Prasad,A.R.
+  TITLE     Cloning, sequence, and expression of mouse protoporphyrinogen
+            oxidase
+  JOURNAL   Arch Biochem Biophys 324 (2), 379-384 (1995)
+   PUBMED   8554330
+REFERENCE   7  (bases 1 to 1672)
+  AUTHORS   Taketani,S., Inazawa,J., Abe,T., Furukawa,T., Kohno,H., Tokunaga,R.,
+            Nishimura,K. and Inokuchi,H.
+  TITLE     The human protoporphyrinogen oxidase gene (PPOX): organization and
+            location to chromosome 1
+  JOURNAL   Genomics 29 (3), 698-703 (1995)
+   PUBMED   8575762
+REFERENCE   8  (bases 1 to 1672)
+  AUTHORS   Nishimura,K., Taketani,S. and Inokuchi,H.
+  TITLE     Cloning of a human cDNA for protoporphyrinogen oxidase by
+            complementation in vivo of a hemG mutant of Escherichia coli
+  JOURNAL   J Biol Chem 270 (14), 8076-8080 (1995)
+   PUBMED   7713909
+REFERENCE   9  (bases 1 to 1672)
+  AUTHORS   Dailey,T.A., Meissner,P. and Dailey,H.A.
+  TITLE     Expression of a cloned protoporphyrinogen oxidase
+  JOURNAL   J Biol Chem 269 (2), 813-815 (1994)
+   PUBMED   8288631
+REFERENCE   10  (bases 1 to 1672)
+  AUTHORS   Singal,A.K. and Anderson,K.E.
+  TITLE     Variegate Porphyria
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   23409300
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC002357.2, U26446.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC002357.2 and AI357309.1.
+            On May 31, 2019 this sequence version replaced NM_000309.4.
+            Summary: This gene encodes the penultimate enzyme of heme
+            biosynthesis, which catalyzes the 6-electron oxidation of
+            protoporphyrinogen IX to form protoporphyrin IX. Mutations in this
+            gene cause variegate porphyria, an autosomal dominant disorder of
+            heme metabolism resulting from a deficiency in protoporphyrinogen
+            oxidase, an enzyme located on the inner mitochondrial membrane.
+            Alternatively spliced transcript variants encoding the same protein
+            have been identified. [provided by RefSeq, Jul 2008].
+            Transcript Variant: This variant (1) encodes isoform 1. Variants 1,
+            2 and 7 encode the same protein (isoform 1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1672
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1q23.3"
+     gene            1..1672
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /note="protoporphyrinogen oxidase"
+                     /db_xref="GeneID:5498"
+                     /db_xref="HGNC:HGNC:9280"
+                     /db_xref="MIM:600923"
+     exon            1..186
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    141..143
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /note="upstream in-frame stop codon"
+     exon            187..281
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             195..1628
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /EC_number="1.3.3.4"
+                     /note="isoform 1 is encoded by transcript variant 1"
+                     /codon_start=1
+                     /product="protoporphyrinogen oxidase isoform 1"
+                     /protein_id="NP_000300.1"
+                     /db_xref="CCDS:CCDS1221.1"
+                     /db_xref="GeneID:5498"
+                     /db_xref="HGNC:HGNC:9280"
+                     /db_xref="MIM:600923"
+                     /translation="MGRTVVVLGGGISGLAASYHLSRAPCPPKVVLVESSERLGGWIRS
+                     VRGPNGAIFELGPRGIRPAGALGARTLLLVSELGLDSEVLPVRGDHPAAQNRFLYVGGA
+                     LHALPTGLRGLLRPSPPFSKPLFWAGLRELTKPRGKEPDETVHSFAQRRLGPEVASLAM
+                     DSLCRGVFAGNSRELSIRSCFPSLFQAEQTHRSILLGLLLGAGRTPQPDSALIRQALAE
+                     RWSQWSLRGGLEMLPQALETHLTSRGVSVLRGQPVCGLSLQAEGRWKVSLRDSSLEADH
+                     VISAIPASVLSELLPAEAAPLARALSAITAVSVAVVNLQYQGAHLPVQGFGHLVPSSED
+                     PGVLGIVYDSVAFPEQDGSPPGLRVTVMLGGSWLQTLEASGCVLSQELFQQRAQEAAAT
+                     QLGLKEMPSHCLVHLHKNCIPQYTLGHWQKLESARQFLTAHRLPLTLAGASYEGVAVND
+                     CIESGRQAAVSVLGTEPNS"
+     exon            282..416
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            417..532
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            533..665
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            666..810
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            811..1001
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1002..1062
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1063..1181
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1182..1292
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1293..1442
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1443..1485
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1486..1672
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1650..1655
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /note="hexamer: AATAAA"
+     polyA_site      1670
+                     /gene="PPOX"
+                     /gene_synonym="PPO; V290M; VP; VPCO"
+                     /note="major polyA site"
+ORIGIN
+        1 ggacggagcg taggagagac cgaaaaggct gggggtggga gtagcggatt tgaagcactt
+       61 gttggcctac agaggtgtgg caagcagagc acctcagaac tcaggcgtac tgcccgccgc
+      121 ccgagccctg cgagggccga tagcgagggt gtggccctta tctgcaccca gcagagcgcc
+      181 ggcggggttt ccgcatgggc cggaccgtgg tcgtgctggg cggaggcatc agcggcttgg
+      241 ccgccagtta ccacctgagc cgggccccct gcccccctaa ggtggtccta gtggagagca
+      301 gtgagcgtct gggaggctgg attcgctccg ttcgaggccc taatggtgct atctttgagc
+      361 ttggacctcg gggaattagg ccagcgggag ccctaggggc ccggaccttg ctcctggttt
+      421 ctgagcttgg cttggattca gaagtgctgc ctgtccgggg agaccaccca gctgcccaga
+      481 acaggttcct ctacgtgggc ggtgccctgc atgccctacc cactggcctc agggggctac
+      541 tccgcccttc accccccttc tccaaacctc tgttttgggc tgggctgagg gagctgacca
+      601 agccccgggg caaagagcct gatgagactg tgcacagttt tgcccagcgc cgccttggac
+      661 ctgaggtggc gtctctagcc atggacagtc tctgccgtgg agtgtttgca ggcaacagcc
+      721 gtgagctcag catcaggtcc tgctttccca gtctcttcca agctgagcaa acccatcgtt
+      781 ccatattact gggcctgctg ctgggggcag ggcggacccc acagccagac tcagcactca
+      841 ttcgccaggc cttggctgag cgctggagcc agtggtcact tcgtggaggt ctagagatgt
+      901 tgcctcaggc ccttgaaacc cacctgacta gtaggggggt cagtgttctc agaggccagc
+      961 cggtctgtgg gctcagcctc caggcagaag ggcgctggaa ggtatctcta agggacagca
+     1021 gtctggaggc tgaccacgtt attagtgcca ttccagcttc agtgctcagt gagctgctcc
+     1081 ctgctgaggc tgcccctctg gctcgtgccc tgagtgccat cactgcagtg tctgtagctg
+     1141 tggtgaatct gcagtaccaa ggagcccatc tgcctgtcca gggatttgga catttggtgc
+     1201 catcttcaga agatccagga gtcctgggaa tcgtgtatga ctcagttgct ttccctgagc
+     1261 aggacgggag cccccctggc ctcagagtga ctgtgatgct gggaggttcc tggttacaga
+     1321 cactggaggc tagtggctgt gtcttatctc aggagctgtt tcaacagcgg gcccaggaag
+     1381 cagctgctac acaattagga ctgaaggaga tgccgagcca ctgcttggtc catctacaca
+     1441 agaactgcat tccccagtat acactaggtc actggcaaaa actagagtca gctaggcaat
+     1501 tcctgactgc tcacaggttg cccctgactc tggctggagc ctcctatgag ggagttgctg
+     1561 ttaatgactg tatagagagt gggcgccagg cagcagtcag tgtcctgggc acagaaccta
+     1621 acagctgatc cccaactctc attcatgaaa ataaaaattg ctggagcttg gc
+//

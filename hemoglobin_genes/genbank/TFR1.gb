@@ -1,0 +1,443 @@
+LOCUS       NM_003234               5224 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens transferrin receptor (TFRC), transcript variant 1,
+            mRNA.
+ACCESSION   NM_003234
+VERSION     NM_003234.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5224)
+  AUTHORS   Xing,P., Zhou,M., Sun,J., Wang,D., Huang,W. and An,P.
+  TITLE     NAT10-mediated ac4C acetylation of TFRC promotes sepsis-induced
+            pulmonary injury through regulating ferroptosis
+  JOURNAL   Mol Med 30 (1), 140 (2024)
+   PUBMED   39251905
+  REMARK    GeneRIF: NAT10-mediated ac[4]C acetylation of TFRC promotes
+            sepsis-induced pulmonary injury through regulating ferroptosis.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5224)
+  AUTHORS   Ji,W., Zhang,W., Zhang,X. and Ke,Y.
+  TITLE     TRIM33 enhances the ubiquitination of TFRC to enhance the
+            susceptibility of liver cancer cells to ferroptosis
+  JOURNAL   Cell Signal 121, 111268 (2024)
+   PUBMED   38909931
+  REMARK    GeneRIF: TRIM33 enhances the ubiquitination of TFRC to enhance the
+            susceptibility of liver cancer cells to ferroptosis.
+REFERENCE   3  (bases 1 to 5224)
+  AUTHORS   Shang,X., Wang,H., Gu,J., Zhao,X., Zhang,J., Sun,B. and Zhu,X.
+  TITLE     Ferroptosis-related gene transferrin receptor protein 1 expression
+            correlates with the prognosis and tumor immune microenvironment in
+            cervical cancer
+  JOURNAL   PeerJ 12, e17842 (2024)
+   PUBMED   39131609
+  REMARK    GeneRIF: Ferroptosis-related gene transferrin receptor protein 1
+            expression correlates with the prognosis and tumor immune
+            microenvironment in cervical cancer. Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 5224)
+  AUTHORS   Qin,J., Li,Z., Su,L., Wen,X., Tang,X., Huang,M. and Wu,J.
+  TITLE     Expression of transferrin receptor/TFRC protein in bladder cancer
+            cell T24 and its role in inducing iron death in bladder cancer
+  JOURNAL   Int J Biol Macromol 274 (Pt 1), 133323 (2024)
+   PUBMED   38908617
+  REMARK    GeneRIF: Expression of transferrin receptor/TFRC protein in bladder
+            cancer cell T24 and its role in inducing iron death in bladder
+            cancer.
+REFERENCE   5  (bases 1 to 5224)
+  AUTHORS   Pacella,I., Pinzon Grimaldos,A., Rossi,A., Tucci,G., Zagaglioni,M.,
+            Potenza,E., Pinna,V., Rotella,I., Cammarata,I., Cancila,V.,
+            Belmonte,B., Tripodo,C., Pietropaolo,G., Di Censo,C., Sciume,G.,
+            Licursi,V., Peruzzi,G., Antonucci,Y., Campello,S., Guerrieri,F.,
+            Iebba,V., Prota,R., Di Chiara,M., Terrin,G., De Peppo,V.,
+            Grazi,G.L., Barnaba,V. and Piconese,S.
+  TITLE     Iron capture through CD71 drives perinatal and tumor-associated Treg
+            expansion
+  JOURNAL   JCI Insight 9 (15), e167967 (2024)
+   PUBMED   38954474
+  REMARK    GeneRIF: Iron capture through CD71 drives perinatal and
+            tumor-associated Treg expansion. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 5224)
+  AUTHORS   Chicz,R.M., Urban,R.G., Lane,W.S., Gorga,J.C., Stern,L.J.,
+            Vignali,D.A. and Strominger,J.L.
+  TITLE     Predominant naturally processed peptides bound to HLA-DR1 are
+            derived from MHC-related molecules and are heterogeneous in size
+  JOURNAL   Nature 358 (6389), 764-768 (1992)
+   PUBMED   1380674
+REFERENCE   7  (bases 1 to 5224)
+  AUTHORS   Hayes,G.R., Enns,C.A. and Lucas,J.J.
+  TITLE     Identification of the O-linked glycosylation site of the human
+            transferrin receptor
+  JOURNAL   Glycobiology 2 (4), 355-359 (1992)
+   PUBMED   1421757
+REFERENCE   8  (bases 1 to 5224)
+  AUTHORS   Do,S.I. and Cummings,R.D.
+  TITLE     Presence of O-linked oligosaccharide on a threonine residue in the
+            human transferrin receptor
+  JOURNAL   Glycobiology 2 (4), 345-353 (1992)
+   PUBMED   1421756
+REFERENCE   9  (bases 1 to 5224)
+  AUTHORS   Baynes,R.D., Shih,Y.J., Hudson,B.G. and Cook,J.D.
+  TITLE     Characterization of transferrin receptor released by K562
+            erythroleukemia cells
+  JOURNAL   Proc Soc Exp Biol Med 197 (4), 416-423 (1991)
+   PUBMED   1871153
+REFERENCE   10  (bases 1 to 5224)
+  AUTHORS   Shih,Y.J., Baynes,R.D., Hudson,B.G., Flowers,C.H., Skikne,B.S. and
+            Cook,J.D.
+  TITLE     Serum transferrin receptor is a truncated form of tissue receptor
+  JOURNAL   J Biol Chem 265 (31), 19077-19081 (1990)
+   PUBMED   2229063
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803615.128948.1, AK291723.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK291723.1, BC001188.1,
+            X01060.1 and BX537966.1.
+            On May 31, 2019 this sequence version replaced NM_003234.3.
+            Summary: This gene encodes a cell surface receptor necessary for
+            cellular iron uptake by the process of receptor-mediated
+            endocytosis. This receptor is required for erythropoiesis and
+            neurologic development. Multiple alternatively spliced variants
+            have been identified. [provided by RefSeq, Sep 2015].
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1). Variants 1 and 2
+            encode the same isoform (1).
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..5224
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3q29"
+     gene            1..5224
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="transferrin receptor"
+                     /db_xref="GeneID:7037"
+                     /db_xref="HGNC:HGNC:11763"
+                     /db_xref="MIM:190010"
+     exon            1..260
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    50..52
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="upstream in-frame stop codon"
+     exon            261..319
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             284..2566
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     transferrin receptor protein 1"
+                     /codon_start=1
+                     /product="transferrin receptor protein 1 isoform 1"
+                     /protein_id="NP_003225.2"
+                     /db_xref="CCDS:CCDS3312.1"
+                     /db_xref="GeneID:7037"
+                     /db_xref="HGNC:HGNC:11763"
+                     /db_xref="MIM:190010"
+                     /translation="MMDQARSAFSNLFGGEPLSYTRFSLARQVDGDNSHVEMKLAVDEE
+                     ENADNNTKANVTKPKRCSGSICYGTIAVIVFFLIGFMIGYLGYCKGVEPKTECERLAGT
+                     ESPVREEPGEDFPAARRLYWDDLKRKLSEKLDSTDFTGTIKLLNENSYVPREAGSQKDE
+                     NLALYVENQFREFKLSKVWRDQHFVKIQVKDSAQNSVIIVDKNGRLVYLVENPGGYVAY
+                     SKAATVTGKLVHANFGTKKDFEDLYTPVNGSIVIVRAGKITFAEKVANAESLNAIGVLI
+                     YMDQTKFPIVNAELSFFGHAHLGTGDPYTPGFPSFNHTQFPPSRSSGLPNIPVQTISRA
+                     AAEKLFGNMEGDCPSDWKTDSTCRMVTSESKNVKLTVSNVLKEIKILNIFGVIKGFVEP
+                     DHYVVVGAQRDAWGPGAAKSGVGTALLLKLAQMFSDMVLKDGFQPSRSIIFASWSAGDF
+                     GSVGATEWLEGYLSSLHLKAFTYINLDKAVLGTSNFKVSASPLLYTLIEKTMQNVKHPV
+                     TGQFLYQDSNWASKVEKLTLDNAAFPFLAYSGIPAVSFCFCEDTDYPYLGTTMDTYKEL
+                     IERIPELNKVARAAAEVAGQFVIKLTHDVELNLDYERYNSQLLSFVRDLNQYRADIKEM
+                     GLSLQWLYSARGDFFRATSRLTTDFGNAEKTDRFVMKKLNDRVMRVEYHFLSPYVSPKE
+                     SPFRHVFWGSGSHTLPALLENLKLRKQNNGAFNETLFRNQLALATWTIQGAANALSGDV
+                     WDIDNEF"
+     misc_feature    284..484
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     Region: Mediates interaction with SH3BP4.
+                     /evidence=ECO:0000269|PubMed:16325581"
+     misc_feature    311..313
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P02786.2); phosphorylation site"
+     misc_feature    338..340
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q62351; propagated from
+                     UniProtKB/Swiss-Prot (P02786.2); phosphorylation site"
+     misc_feature    341..352
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     Region: Endocytosis signal.
+                     /evidence=ECO:0000269|PubMed:2298808"
+     misc_feature    341..343
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (P02786.2); phosphorylation site"
+     misc_feature    344..346
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P02786.2); phosphorylation site"
+     misc_feature    353..355
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="Phosphoserine. /evidence=ECO:0000269|PubMed:9782058;
+                     propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     phosphorylation site"
+     misc_feature    455..466
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     Region: Stop-transfer sequence.
+                     /evidence=ECO:0000303|PubMed:6090955"
+     misc_feature    485..547
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     transmembrane region"
+     misc_feature    581..586
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="Cleavage, by trypsin, to produce soluble form;
+                     propagated from UniProtKB/Swiss-Prot (P02786.2); cleavage
+                     site"
+     mat_peptide     584..2563
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /product="Transferrin receptor protein 1, serum form.
+                     /id=PRO_0000292265"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02786.2)"
+     misc_feature    593..595
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:1421756,
+                     ECO:0000269|PubMed:1421757. /id=CAR_000072; propagated from
+                     UniProtKB/Swiss-Prot (P02786.2); glycosylation site"
+     misc_feature    1034..1036
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:10531064,
+                     ECO:0000269|PubMed:16335952, ECO:0000269|PubMed:19159218,
+                     ECO:0000269|PubMed:19349973, ECO:0007744|PDB:1CX8;
+                     propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     glycosylation site"
+     misc_feature    1232..1234
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:10531064,
+                     ECO:0007744|PDB:1CX8; propagated from UniProtKB/Swiss-Prot
+                     (P02786.2); glycosylation site"
+     misc_feature    1988..2563
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     Region: Ligand-binding"
+     misc_feature    2219..2227
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02786.2);
+                     Region: Cell attachment site, required for binding to
+                     transferrin"
+     misc_feature    2462..2464
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:10531064,
+                     ECO:0000269|PubMed:19159218, ECO:0000269|PubMed:7780197,
+                     ECO:0007744|PDB:1CX8. /id=CAR_000173; propagated from
+                     UniProtKB/Swiss-Prot (P02786.2); glycosylation site"
+     exon            320..521
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            522..717
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            718..867
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            868..970
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            971..1084
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1085..1183
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1184..1323
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1324..1481
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1482..1601
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1602..1687
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1688..1751
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1752..1819
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1820..1878
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1879..1960
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1961..2182
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2183..2323
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2324..5224
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5204..5209
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="hexamer: AATAAA"
+     polyA_site      5224
+                     /gene="TFRC"
+                     /gene_synonym="CD71; IMD46; p90; T9; TFR; TFR1; TR; TRFR"
+                     /note="major polyA site"
+ORIGIN
+        1 agagcgtcgg gatatcgggt ggcggctcgg gacggaggac gcgctagtgt gagtgcgggc
+       61 ttctagaact acaccgaccc tcgtgtcctc ccttcatcct gcggggctgg ctggagcggc
+      121 cgctccggtg ctgtccagca gccataggga gccgcacggg gagcgggaaa gcggtcgcgg
+      181 ccccaggcgg ggcggccggg atggagcggg gccgcgagcc tgtggggaag gggctgtggc
+      241 ggcgcctcga gcggctgcag gttcttctgt gtggcagttc agaatgatgg atcaagctag
+      301 atcagcattc tctaacttgt ttggtggaga accattgtca tatacccggt tcagcctggc
+      361 tcggcaagta gatggcgata acagtcatgt ggagatgaaa cttgctgtag atgaagaaga
+      421 aaatgctgac aataacacaa aggccaatgt cacaaaacca aaaaggtgta gtggaagtat
+      481 ctgctatggg actattgctg tgatcgtctt tttcttgatt ggatttatga ttggctactt
+      541 gggctattgt aaaggggtag aaccaaaaac tgagtgtgag agactggcag gaaccgagtc
+      601 tccagtgagg gaggagccag gagaggactt ccctgcagca cgtcgcttat attgggatga
+      661 cctgaagaga aagttgtcgg agaaactgga cagcacagac ttcaccggca ccatcaagct
+      721 gctgaatgaa aattcatatg tccctcgtga ggctggatct caaaaagatg aaaatcttgc
+      781 gttgtatgtt gaaaatcaat ttcgtgaatt taaactcagc aaagtctggc gtgatcaaca
+      841 ttttgttaag attcaggtca aagacagcgc tcaaaactcg gtgatcatag ttgataagaa
+      901 cggtagactt gtttacctgg tggagaatcc tgggggttat gtggcgtata gtaaggctgc
+      961 aacagttact ggtaaactgg tccatgctaa ttttggtact aaaaaagatt ttgaggattt
+     1021 atacactcct gtgaatggat ctatagtgat tgtcagagca gggaaaatca cctttgcaga
+     1081 aaaggttgca aatgctgaaa gcttaaatgc aattggtgtg ttgatataca tggaccagac
+     1141 taaatttccc attgttaacg cagaactttc attctttgga catgctcatc tggggacagg
+     1201 tgacccttac acacctggat tcccttcctt caatcacact cagtttccac catctcggtc
+     1261 atcaggattg cctaatatac ctgtccagac aatctccaga gctgctgcag aaaagctgtt
+     1321 tgggaatatg gaaggagact gtccctctga ctggaaaaca gactctacat gtaggatggt
+     1381 aacctcagaa agcaagaatg tgaagctcac tgtgagcaat gtgctgaaag agataaaaat
+     1441 tcttaacatc tttggagtta ttaaaggctt tgtagaacca gatcactatg ttgtagttgg
+     1501 ggcccagaga gatgcatggg gccctggagc tgcaaaatcc ggtgtaggca cagctctcct
+     1561 attgaaactt gcccagatgt tctcagatat ggtcttaaaa gatgggtttc agcccagcag
+     1621 aagcattatc tttgccagtt ggagtgctgg agactttgga tcggttggtg ccactgaatg
+     1681 gctagaggga tacctttcgt ccctgcattt aaaggctttc acttatatta atctggataa
+     1741 agcggttctt ggtaccagca acttcaaggt ttctgccagc ccactgttgt atacgcttat
+     1801 tgagaaaaca atgcaaaatg tgaagcatcc ggttactggg caatttctat atcaggacag
+     1861 caactgggcc agcaaagttg agaaactcac tttagacaat gctgctttcc ctttccttgc
+     1921 atattctgga atcccagcag tttctttctg tttttgcgag gacacagatt atccttattt
+     1981 gggtaccacc atggacacct ataaggaact gattgagagg attcctgagt tgaacaaagt
+     2041 ggcacgagca gctgcagagg tcgctggtca gttcgtgatt aaactaaccc atgatgttga
+     2101 attgaacctg gactatgaga ggtacaacag ccaactgctt tcatttgtga gggatctgaa
+     2161 ccaatacaga gcagacataa aggaaatggg cctgagttta cagtggctgt attctgctcg
+     2221 tggagacttc ttccgtgcta cttccagact aacaacagat ttcgggaatg ctgagaaaac
+     2281 agacagattt gtcatgaaga aactcaatga tcgtgtcatg agagtggagt atcacttcct
+     2341 ctctccctac gtatctccaa aagagtctcc tttccgacat gtcttctggg gctccggctc
+     2401 tcacacgctg ccagctttac tggagaactt gaaactgcgt aaacaaaata acggtgcttt
+     2461 taatgaaacg ctgttcagaa accagttggc tctagctact tggactattc agggagctgc
+     2521 aaatgccctc tctggtgacg tttgggacat tgacaatgag ttttaaatgt gatacccata
+     2581 gcttccatga gaacagcagg gtagtctggt ttctagactt gtgctgatcg tgctaaattt
+     2641 tcagtagggc tacaaaacct gatgttaaaa ttccatccca tcatcttggt actactagat
+     2701 gtctttaggc agcagctttt aatacagggt agataacctg tacttcaagt taaagtgaat
+     2761 aaccacttaa aaaatgtcca tgatggaata ttcccctatc tctagaattt taagtgcttt
+     2821 gtaatgggaa ctgcctcttt cctgttgttg ttaatgaaaa tgtcagaaac cagttatgtg
+     2881 aatgatctct ctgaatccta agggctggtc tctgctgaag gttgtaagtg gtcgcttact
+     2941 ttgagtgatc ctccaacttc atttgatgct aaataggaga taccaggttg aaagaccttc
+     3001 tccaaatgag atctaagcct ttccataagg aatgtagctg gtttcctcat tcctgaaaga
+     3061 aacagttaac tttcagaaga gatgggcttg ttttcttgcc aatgaggtct gaaatggagg
+     3121 tccttctgct ggataaaatg aggttcaact gttgattgca ggaataaggc cttaatatgt
+     3181 taacctcagt gtcatttatg aaaagagggg accagaagcc aaagacttag tatattttct
+     3241 tttcctctgt cccttccccc ataagcctcc atttagttct ttgttatttt tgtttcttcc
+     3301 aaagcacatt gaaagagaac cagtttcagg tgtttagttg cagactcagt ttgtcagact
+     3361 ttaaagaata atatgctgcc aaattttggc caaagtgtta atcttagggg agagctttct
+     3421 gtccttttgg cactgagata tttattgttt atttatcagt gacagagttc actataaatg
+     3481 gtgttttttt aatagaatat aattatcgga agcagtgcct tccataatta tgacagttat
+     3541 actgtcggtt ttttttaaat aaaagcagca tctgctaata aaacccaaca gatactggaa
+     3601 gttttgcatt tatggtcaac acttaagggt tttagaaaac agccgtcagc caaatgtaat
+     3661 tgaataaagt tgaagctaag atttagagat gaattaaatt taattagggg ttgctaagaa
+     3721 gcgagcactg accagataag aatgctggtt ttcctaaatg cagtgaattg tgaccaagtt
+     3781 ataaatcaat gtcacttaaa ggctgtggta gtactcctgc aaaattttat agctcagttt
+     3841 atccaaggtg taactctaat tcccattttg caaaatttcc agtacctttg tcacaatcct
+     3901 aacacattat cgggagcagt gtcttccata atgtataaag aacaaggtag tttttaccta
+     3961 ccacagtgtc tgtatcggag acagtgatct ccatatgtta cactaagggt gtaagtaatt
+     4021 atcgggaaca gtgtttccca taattttctt catgcaatga catcttcaaa gcttgaagat
+     4081 cgttagtatc taacatgtat cccaactcct ataattccct atcttttagt tttagttgca
+     4141 gaaacatttt gtggtcatta agcattgggt gggtaaattc aaccactgta aaatgaaatt
+     4201 actacaaaat ttgaaattta gcttgggttt ttgttacctt tatggtttct ccaggtcctc
+     4261 tacttaatga gatagtagca tacatttata atgtttgcta ttgacaagtc attttaactt
+     4321 tatcacatta tttgcatgtt acctcctata aacttagtgc ggacaagttt taatccagaa
+     4381 ttgacctttt gacttaaagc agagggactt tgtatagaag gtttgggggc tgtggggaag
+     4441 gagagtcccc tgaaggtctg acacgtctgc ctacccattc gtggtgatca attaaatgta
+     4501 ggtatgaata agttcgaagc tccgtgagtg aaccatcatt ataaacgtga tgatcagctg
+     4561 tttgtcatag ggcagttgga aacggcctcc tagggaaaag ttcatagggt ctcttcaggt
+     4621 tcttagtgtc acttacctag atttacagcc tcacttgaat gtgtcactac tcacagtctc
+     4681 tttaatcttc agttttatct ttaatctcct cttttatctt ggactgacat ttagcgtagc
+     4741 taagtgaaaa ggtcatagct gagattcctg gttcgggtgt tacgcacacg tacttaaatg
+     4801 aaagcatgtg gcatgttcat cgtataacac aatatgaata cagggcatgc attttgcagc
+     4861 agtgagtctc ttcagaaaac ccttttctac agttagggtt gagttacttc ctatcaagcc
+     4921 agtacgtgct aacaggctca atattcctga atgaaatatc agactagtga caagctcctg
+     4981 gtcttgagat gtcttctcgt taaggagatg ggccttttgg aggtaaagga taaaatgaat
+     5041 gagttctgtc atgattcact attctagaac ttgcatgacc tttactgtgt tagctctttg
+     5101 aatgttcttg aaattttaga ctttctttgt aaacaaatga tatgtcctta tcattgtata
+     5161 aaagctgtta tgtgcaacag tgtggagatt ccttgtctga tttaataaaa tacttaaaca
+     5221 ctga
+//

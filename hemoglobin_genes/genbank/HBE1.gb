@@ -1,0 +1,221 @@
+LOCUS       NM_005330                623 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens hemoglobin subunit epsilon 1 (HBE1), mRNA.
+ACCESSION   NM_005330
+VERSION     NM_005330.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 623)
+  AUTHORS   Ejaz,S., Mustafa,G., Khaliq,S. and Mohsin,S.
+  TITLE     Molecular Characterization of Haemoglobin E
+  JOURNAL   J Pak Med Assoc 73 (12), 2357-2362 (2023)
+   PUBMED   38083912
+  REMARK    GeneRIF: Molecular Characterization of Haemoglobin E.
+REFERENCE   2  (bases 1 to 623)
+  AUTHORS   Phasit,A., Panyasai,S., Mayoon,M., Jettawan,N. and Satthakarn,S.
+  TITLE     Phenotypic Expression of Known and Novel Hemoglobin A2-Variants,
+            Hemoglobin A2-Mae Phrik [Delta 52(D3) Asp > Gly, HBD:c.158A > G],
+            Associated with Hemoglobin E [Beta 26(B8) Glu > Lys, HBB:c.79G > A]
+            in Thailand
+  JOURNAL   Genes (Basel) 13 (6), 959 (2022)
+   PUBMED   35741722
+  REMARK    GeneRIF: Phenotypic Expression of Known and Novel Hemoglobin
+            A2-Variants, Hemoglobin A2-Mae Phrik [Delta 52(D3) Asp &gt; Gly,
+            HBD:c.158A &gt; G], Associated with Hemoglobin E [Beta 26(B8) Glu
+            &gt; Lys, HBB:c.79G &gt; A] in Thailand. Publication Status:
+            Online-Only
+REFERENCE   3  (bases 1 to 623)
+  AUTHORS   Huttlin,E.L., Bruckner,R.J., Navarrete-Perea,J., Cannon,J.R.,
+            Baltier,K., Gebreab,F., Gygi,M.P., Thornock,A., Zarraga,G., Tam,S.,
+            Szpyt,J., Gassaway,B.M., Panov,A., Parzen,H., Fu,S., Golbazi,A.,
+            Maenpaa,E., Stricker,K., Guha Thakurta,S., Zhang,T., Rad,R., Pan,J.,
+            Nusinow,D.P., Paulo,J.A., Schweppe,D.K., Vaites,L.P., Harper,J.W.
+            and Gygi,S.P.
+  TITLE     Dual proteome-scale networks reveal cell-specific remodeling of the
+            human interactome
+  JOURNAL   Cell 184 (11), 3022-3040 (2021)
+   PUBMED   33961781
+REFERENCE   4  (bases 1 to 623)
+  AUTHORS   Das,S.S., Das,S., Byram,P.K., Rahaman,M., Dolai,T.K., Chatterjee,A.
+            and Chakravorty,N.
+  TITLE     MicroRNA expression patterns in HbE/beta-thalassemia patients: The
+            passwords to unlock fetal hemoglobin expression in
+            beta-hemoglobinopathies
+  JOURNAL   Blood Cells Mol Dis 87, 102523 (2021)
+   PUBMED   33242839
+  REMARK    GeneRIF: MicroRNA expression patterns in HbE/beta-thalassemia
+            patients: The passwords to unlock fetal hemoglobin expression in
+            beta-hemoglobinopathies.
+REFERENCE   5  (bases 1 to 623)
+  AUTHORS   Luck,K., Kim,D.K., Lambourne,L., Spirohn,K., Begg,B.E., Bian,W.,
+            Brignall,R., Cafarelli,T., Campos-Laborie,F.J., Charloteaux,B.,
+            Choi,D., Cote,A.G., Daley,M., Deimling,S., Desbuleux,A., Dricot,A.,
+            Gebbia,M., Hardy,M.F., Kishore,N., Knapp,J.J., Kovacs,I.A.,
+            Lemmens,I., Mee,M.W., Mellor,J.C., Pollis,C., Pons,C.,
+            Richardson,A.D., Schlabach,S., Teeking,B., Yadav,A., Babor,M.,
+            Balcha,D., Basha,O., Bowman-Colin,C., Chin,S.F., Choi,S.G.,
+            Colabella,C., Coppin,G., D'Amata,C., De Ridder,D., De Rouck,S.,
+            Duran-Frigola,M., Ennajdaoui,H., Goebels,F., Goehring,L., Gopal,A.,
+            Haddad,G., Hatchi,E., Helmy,M., Jacob,Y., Kassa,Y., Landini,S.,
+            Li,R., van Lieshout,N., MacWilliams,A., Markey,D., Paulson,J.N.,
+            Rangarajan,S., Rasla,J., Rayhan,A., Rolland,T., San-Miguel,A.,
+            Shen,Y., Sheykhkarimli,D., Sheynkman,G.M., Simonovsky,E., Tasan,M.,
+            Tejeda,A., Tropepe,V., Twizere,J.C., Wang,Y., Weatheritt,R.J.,
+            Weile,J., Xia,Y., Yang,X., Yeger-Lotem,E., Zhong,Q., Aloy,P.,
+            Bader,G.D., De Las Rivas,J., Gaudet,S., Hao,T., Rak,J.,
+            Tavernier,J., Hill,D.E., Vidal,M., Roth,F.P. and Calderwood,M.A.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   6  (bases 1 to 623)
+  AUTHORS   Higgs,D.R., Vickers,M.A., Wilkie,A.O., Pretorius,I.M., Jarman,A.P.
+            and Weatherall,D.J.
+  TITLE     A review of the molecular genetics of the human alpha-globin gene
+            cluster
+  JOURNAL   Blood 73 (5), 1081-1104 (1989)
+   PUBMED   2649166
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 623)
+  AUTHORS   Ley,T.J., Maloney,K.A., Gordon,J.I. and Schwartz,A.L.
+  TITLE     Globin gene expression in erythroid human fetal liver cells
+  JOURNAL   J Clin Invest 83 (3), 1032-1038 (1989)
+   PUBMED   2921315
+REFERENCE   8  (bases 1 to 623)
+  AUTHORS   Chabot,B., Black,D.L., LeMaster,D.M. and Steitz,J.A.
+  TITLE     The 3' splice site of pre-messenger RNA is recognized by a small
+            nuclear ribonucleoprotein
+  JOURNAL   Science 230 (4732), 1344-1349 (1985)
+   PUBMED   2933810
+REFERENCE   9  (bases 1 to 623)
+  AUTHORS   Proudfoot,N.J. and Baralle,F.E.
+  TITLE     Molecular cloning of human epsilon-globin gene
+  JOURNAL   Proc Natl Acad Sci U S A 76 (11), 5435-5439 (1979)
+   PUBMED   160554
+REFERENCE   10  (bases 1 to 623)
+  AUTHORS   Marotta,C.A., Forget,B.G., Cohne-Solal,M., Wilson,J.T. and
+            Weissman,S.M.
+  TITLE     Human beta-globin messenger RNA. I. Nucleotide sequences derived
+            from complementary RNA
+  JOURNAL   J Biol Chem 252 (14), 5019-5031 (1977)
+   PUBMED   873928
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189661.5364.1, BG496579.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMN03267750, SAMN03267752
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000396895.3/ ENSP00000380104.2
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC104389.8.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 26, 2018 this sequence version replaced NM_005330.3.
+            Summary: The epsilon globin gene (HBE) is normally expressed in the
+            embryonic yolk sac: two epsilon chains together with two zeta
+            chains (an alpha-like globin) constitute the embryonic hemoglobin
+            Hb Gower I; two epsilon chains together with two alpha chains form
+            the embryonic Hb Gower II. Both of these embryonic hemoglobins are
+            normally supplanted by fetal, and later, adult hemoglobin. The five
+            beta-like globin genes are found within a 45 kb cluster on
+            chromosome 11 in the following order:  5'-epsilon - G-gamma -
+            A-gamma - delta - beta-3' [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..623
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.4"
+     gene            1..623
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /note="hemoglobin subunit epsilon 1"
+                     /db_xref="GeneID:3046"
+                     /db_xref="HGNC:HGNC:4830"
+                     /db_xref="MIM:142100"
+     exon            1..147
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    1
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="alternative transcription start site"
+     misc_feature    3
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="alternative transcription start site"
+     misc_feature    32..34
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /note="upstream in-frame stop codon"
+     CDS             56..499
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /note="epsilon globin; hemoglobin epsilon chain;
+                     hemoglobin, epsilon 1"
+                     /codon_start=1
+                     /product="hemoglobin subunit epsilon"
+                     /protein_id="NP_005321.1"
+                     /db_xref="CCDS:CCDS7756.1"
+                     /db_xref="GeneID:3046"
+                     /db_xref="HGNC:HGNC:4830"
+                     /db_xref="MIM:142100"
+                     /translation="MVHFTAEEKAAVTSLWSKMNVEEAGGEALGRLLVVYPWTQRFFDS
+                     FGNLSSPSAILGNPKVKAHGKKVLTSFGDAIKNMDNLKPAFAKLSELHCDKLHVDPENF
+                     KLLGNVMVIILATHFGKEFTPEVQAAWQKLVSAVAIALAHKYH"
+     misc_feature    95..97
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P02100.2); phosphorylation site"
+     misc_feature    206..208
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P02100.2); phosphorylation site"
+     exon            148..370
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            371..623
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      593..598
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /note="hexamer: AATAAA"
+     polyA_site      623
+                     /gene="HBE1"
+                     /gene_synonym="HBE"
+                     /note="major polyA site"
+ORIGIN
+        1 acatatctgc ttccgacaca gctgcaatca ctagcaagct ctcaggcctg gcatcatggt
+       61 gcattttact gctgaggaga aggctgccgt cactagcctg tggagcaaga tgaatgtgga
+      121 agaggctgga ggtgaagcct tgggcagact cctcgttgtt tacccctgga cccagagatt
+      181 ttttgacagc tttggaaacc tgtcgtctcc ctctgccatc ctgggcaacc ccaaggtcaa
+      241 ggcccatggc aagaaggtgc tgacttcctt tggagatgct attaaaaaca tggacaacct
+      301 caagcccgcc tttgctaagc tgagtgagct gcactgtgac aagctgcatg tggatcctga
+      361 gaacttcaag ctcctgggta acgtgatggt gattattctg gctactcact ttggcaagga
+      421 gttcacccct gaagtgcagg ctgcctggca gaagctggtg tctgctgtcg ccattgccct
+      481 ggcccataag taccactgag ttctcttcca gtttgcaggt gttcctgtga ccctgacacc
+      541 ctccttctgc acatggggac tgggcttggc cttgagagaa agccttctgt ttaataaagt
+      601 acattttctt cagtaatcaa aaa
+//

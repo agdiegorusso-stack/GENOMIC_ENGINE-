@@ -1,0 +1,299 @@
+LOCUS       NM_017875               2156 bp    mRNA    linear   PRI 30-APR-2018
+DEFINITION  Homo sapiens solute carrier family 25 member 38 (SLC25A38),
+            transcript variant 1, mRNA.
+ACCESSION   NM_017875
+VERSION     NM_017875.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2156)
+  AUTHORS   Lunetti P, Damiano F, De Benedetto G, Siculella L, Pennetta A, Muto
+            L, Paradies E, Marobbio CM, Dolce V and Capobianco L.
+  TITLE     Characterization of Human and Yeast Mitochondrial Glycine Carriers
+            with Implications for Heme Biosynthesis and Anemia
+  JOURNAL   J. Biol. Chem. 291 (38), 19746-19759 (2016)
+   PUBMED   27476175
+  REMARK    GeneRIF: the biochemical and molecular characterization of yeast
+            Hem25p and human SLC25A38, providing evidence that they are
+            mitochondrial carriers for glycine. In particular, the hem25Delta
+            mutant manifests a defect in the biosynthesis of
+            delta-aminolevulinic acid and displays reduced levels of downstream
+            heme and mitochondrial cytochromes.
+REFERENCE   2  (bases 1 to 2156)
+  AUTHORS   Zhang C, Shi Z, Zhang L, Zhou Z, Zheng X, Liu G, Bu G, Fraser PE, Xu
+            H and Zhang YW.
+  TITLE     Appoptosin interacts with mitochondrial outer-membrane fusion
+            proteins and regulates mitochondrial morphology
+  JOURNAL   J. Cell. Sci. 129 (5), 994-1002 (2016)
+   PUBMED   26813789
+  REMARK    GeneRIF: Appoptosin can interact with mitochondrial outer-membrane
+            fusion proteins and regulates mitochondrial morphology.
+REFERENCE   3  (bases 1 to 2156)
+  AUTHORS   Fernandez-Murray JP, Prykhozhij SV, Dufay JN, Steele SL, Gaston D,
+            Nasrallah GK, Coombs AJ, Liwski RS, Fernandez CV, Berman JN and
+            McMaster CR.
+  TITLE     Glycine and Folate Ameliorate Models of Congenital Sideroblastic
+            Anemia
+  JOURNAL   PLoS Genet. 12 (1), e1005783 (2016)
+   PUBMED   26821380
+  REMARK    GeneRIF: Given the tolerability of glycine and folate in humans,
+            this study points to a potential novel treatment for SLC25A38
+            congenital sideroblastic anemia Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2156)
+  AUTHORS   Zhao Y, Tseng IC, Heyser CJ, Rockenstein E, Mante M, Adame A, Zheng
+            Q, Huang T, Wang X, Arslan PE, Chakrabarty P, Wu C, Bu G, Mobley WC,
+            Zhang YW, St George-Hyslop P, Masliah E, Fraser P and Xu H.
+  TITLE     Appoptosin-Mediated Caspase Cleavage of Tau Contributes to
+            Progressive Supranuclear Palsy Pathogenesis
+  JOURNAL   Neuron 87 (5), 963-975 (2015)
+   PUBMED   26335643
+  REMARK    GeneRIF: This study findings reveal a novel role for appoptosin in
+            neurological disorders with tau neuropathology, linking
+            caspase-3-mediated tau cleavage to synaptic dysfunction and
+            behavioral/motor defects.
+REFERENCE   5  (bases 1 to 2156)
+  AUTHORS   Wong WS, Wong HF, Cheng CK, Chang KO, Chan NP, Ng MH and Wong KF.
+  TITLE     Congenital sideroblastic anaemia with a novel frameshift mutation in
+            SLC25A38
+  JOURNAL   J. Clin. Pathol. 68 (3), 249-251 (2015)
+   PUBMED   25512395
+  REMARK    GeneRIF: Letter/Case Report: novel frameshift mutation in SLC25A38
+            causing congenital sideroblastic anaemia.
+REFERENCE   6  (bases 1 to 2156)
+  AUTHORS   Zhang H, Zhang YW, Chen Y, Huang X, Zhou F, Wang W, Xian B, Zhang X,
+            Masliah E, Chen Q, Han JD, Bu G, Reed JC, Liao FF, Chen YG and Xu H.
+  TITLE     Appoptosin is a novel pro-apoptotic protein and mediates cell death
+            in neurodegeneration
+  JOURNAL   J. Neurosci. 32 (44), 15565-15576 (2012)
+   PUBMED   23115192
+  REMARK    GeneRIF: Our study identifies appoptosin as a crucial player in
+            apoptosis and a novel pro-apoptotic protein involved in neuronal
+            cell death.
+REFERENCE   7  (bases 1 to 2156)
+  AUTHORS   Kannengiesser C, Sanchez M, Sweeney M, Hetet G, Kerr B, Moran E,
+            Fuster Soler JL, Maloum K, Matthes T, Oudot C, Lascaux A, Pondarre
+            C, Sevilla Navarro J, Vidyatilake S, Beaumont C, Grandchamp B and
+            May A.
+  TITLE     Missense SLC25A38 variations play an important role in autosomal
+            recessive inherited sideroblastic anemia
+  JOURNAL   Haematologica 96 (6), 808-813 (2011)
+   PUBMED   21393332
+  REMARK    GeneRIF: Mutations in the SLC25A38 gene cause severe, non-syndromic,
+            microcytic/hypochromic sideroblastic anemia in many populations.
+REFERENCE   8  (bases 1 to 2156)
+  AUTHORS   Bergmann AK, Campagna DR, McLoughlin EM, Agarwal S, Fleming MD,
+            Bottomley SS and Neufeld EJ.
+  TITLE     Systematic molecular genetic analysis of congenital sideroblastic
+            anemia: evidence for genetic heterogeneity and identification of
+            novel mutations
+  JOURNAL   Pediatr Blood Cancer 54 (2), 273-278 (2010)
+   PUBMED   19731322
+  REMARK    GeneRIF: Twelve CSA probands had biallelic mutations in SLC25A38
+REFERENCE   9  (bases 1 to 2156)
+  AUTHORS   Guernsey DL, Jiang H, Campagna DR, Evans SC, Ferguson M, Kellogg MD,
+            Lachance M, Matsuoka M, Nightingale M, Rideout A, Saint-Amant L,
+            Schmidt PJ, Orr A, Bottomley SS, Fleming MD, Ludman M, Dyack S,
+            Fernandez CV and Samuels ME.
+  TITLE     Mutations in mitochondrial carrier family gene SLC25A38 cause
+            nonsyndromic autosomal recessive congenital sideroblastic anemia
+  JOURNAL   Nat. Genet. 41 (6), 651-653 (2009)
+   PUBMED   19412178
+REFERENCE   10  (bases 1 to 2156)
+  AUTHORS   Haitina T, Lindblom J, Renstrom T and Fredriksson R.
+  TITLE     Fourteen novel human members of mitochondrial solute carrier family
+            25 (SLC25) widely expressed in the central nervous system
+  JOURNAL   Genomics 88 (6), 779-790 (2006)
+   PUBMED   16949250
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660805.111351.1,
+            SRR1660807.32734.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: inferred from homology
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB113609.1, AK225388.1,
+            AK000558.1 and AA760706.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On May 9, 2018 this sequence was replaced by NM_017875.4.
+            On Aug 29, 2017 this sequence version replaced NM_017875.2.
+            Summary: This gene is a member of the mitochondrial carrier family.
+            The encoded protein is required during erythropoiesis and is
+            important for the biosynthesis of heme. Mutations in this gene are
+            the cause of autosomal congenital sideroblastic anemia (anemia,
+            sideroblastic, 2, pyridoxine-refractory). A related pseudogene is
+            found on chromosome 1. [provided by RefSeq, Aug 2017].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2156
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p22.1"
+     gene            1..2156
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /note="solute carrier family 25 member 38"
+                     /db_xref="GeneID:54977"
+                     /db_xref="HGNC:HGNC:26054"
+                     /db_xref="MIM:610819"
+     exon            1..470
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    180..182
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /note="upstream in-frame stop codon"
+     CDS             402..1316
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     appoptosin; mitochondrial glycine transporter GlyC"
+                     /codon_start=1
+                     /product="mitochondrial glycine transporter isoform 1"
+                     /protein_id="NP_060345.2"
+                     /db_xref="CCDS:CCDS2685.1"
+                     /db_xref="GeneID:54977"
+                     /db_xref="HGNC:HGNC:26054"
+                     /db_xref="MIM:610819"
+                     /translation="MIQNSRPSLLQPQDVGDTVETLMLHPVIKAFLCGSISGTCSTLLF
+                     QPLDLLKTRLQTLQPSDHGSRRVGMLAVLLKVVRTESLLGLWKGMSPSIVRCVPGVGIY
+                     FGTLYSLKQYFLRGHPPTALESVMLGVGSRSVAGVCMSPITVIKTRYESGKYGYESIYA
+                     ALRSIYHSEGHRGLFSGLTATLLRDAPFSGIYLMFYNQTKNIVPHDQVDATLIPITNFS
+                     CGIFAGILASLVTQPADVIKTHMQLYPLKFQWIGQAVTLIFKDYGLRGFFQGGIPRALR
+                     RTLMAAMAWTVYEEMMAKMGLKS"
+     misc_feature    474..743
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     Region: Solcar 1. {ECO:0000255|HAMAP-Rule:MF_03064}"
+     misc_feature    492..569
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     transmembrane region"
+     misc_feature    666..746
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     transmembrane region"
+     misc_feature    762..1016
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     Region: Solcar 2. {ECO:0000255|HAMAP-Rule:MF_03064}"
+     misc_feature    780..857
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     transmembrane region"
+     misc_feature    939..1010
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     transmembrane region"
+     misc_feature    1044..1298
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     Region: Solcar 3. {ECO:0000255|HAMAP-Rule:MF_03064}"
+     misc_feature    1056..1136
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     transmembrane region"
+     misc_feature    1221..1277
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96DW6.1);
+                     transmembrane region"
+     exon            471..592
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            593..677
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            678..857
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            858..1026
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1027..1193
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1194..2147
+                     /gene="SLC25A38"
+                     /gene_synonym="SIDBA2"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN
+        1 ctcacgtgac aagcgtccca cccggaagcg aaatctcccc ttctacagag ttcctccggc
+       61 gcttcctcca ccccgggata cacagaacct catctcctac ggtgctgaag cctgcagcag
+      121 ggcaggatgg gcaggagagc agagccgcgg agtctgcggc gcgggtgaag agcggcgcgt
+      181 aattcccgca gcaagattgt tccgcgcccg cagcccctgg actagcagga tccgaacccc
+      241 ggcggctgcg tgcttatagg cgcagacgtc agagagcccg cggcttaaag cgcgtcgcct
+      301 ggctagcgcc accccctagc cttcttcaag gcctccaggg ctgggcccaa gcgcccgtcg
+      361 acggcaccct gggcccagag gactcgcggg cctcatctcc aatgattcag aactcacgtc
+      421 cgtcgctgct gcaaccccaa gatgtcggag acacggtgga aacgcttatg ttacatccgg
+      481 tgatcaaggc tttcctgtgt ggctccatca gtgggacctg ctctaccctc cttttccaac
+      541 ctctggatct ccttaaaaca cgcctgcaaa ccctccagcc ctcagatcat gggtctagac
+      601 gtgttgggat gttggctgta ctcttgaagg tggttcgcac ggagagtctt ttgggccttt
+      661 ggaaagggat gtccccttcc attgtgagat gtgtccctgg cgttggaatc tactttggca
+      721 ctctctactc tttgaagcag tatttcttgc gaggccatcc cccaaccgcc ctggagtcag
+      781 tcatgctggg ggtgggctct cgctctgttg caggggtctg tatgtcacct atcactgtaa
+      841 tcaagacgcg ctatgagagt gggaaatatg gctatgagag tatctacgct gccctgagga
+      901 gcatctatca cagtgagggg caccggggcc tcttcagtgg cctgacagca actctccttc
+      961 gagatgcgcc cttctcagga atctacctga tgttttacaa ccagaccaaa aatatagtgc
+     1021 ctcatgacca ggtggatgca acccttattc ctattacaaa tttcagctgt gggatatttg
+     1081 ctggtattct ggcctcactg gtaactcaac ctgcggatgt tatcaaaact catatgcagc
+     1141 tttatccact gaagtttcaa tggattggcc aagcagtgac acttattttc aaagactatg
+     1201 gactacgtgg cttcttccaa ggtggcatcc cccgagccct ccgcagaact ctaatggcag
+     1261 caatggcgtg gacggtgtat gaagagatga tggccaagat gggcctgaag tcctgaccaa
+     1321 gagaggactg ggaacgggtg aaatctgttg ccctgcttgg tttctgccaa gggctgctgc
+     1381 ttcttactat tctgcagtaa gatgaagtcc tacctggaaa accaggcaga aattgtgttg
+     1441 cctttgcctt cagtaatccc cttaaggaga aaatatatgg acctgatttc agccttcaga
+     1501 atctccaaaa gaggagtcat caattcatag agcacactag ggtgttagga gagagctttg
+     1561 catactctga gaggctactt ggaaaggcat tttcccagga gagctctgtc aggtggctgc
+     1621 gcttcagccc cacccctaca ccacagggtc tccttgggta tgttcttggg caagcaatca
+     1681 caaagccaga gaagctgtaa gctgcctgcc gggcctgagg agctccaacc agggaagact
+     1741 ggatgtgagg agaggagtca ctgtcaccag gtcacagact gactgaggtg atggtaggat
+     1801 gaggaggaac agatgccctt ctttaattgg ttctcagtta acttctcaga ggctctggag
+     1861 aacgggacag tggctttcta gcctctgaat gttccaaata aaattttttg gtcttggccc
+     1921 ctgtactgtt ttacctctaa attctggcat ttttttttcc ctgcaattaa agtgctgtac
+     1981 tttatttatt gaactttatc attgaaagct gtttggaaaa cctaaaagat gttgtcacac
+     2041 ttctgttttc tttacctgtg ccttataaaa atggaccaaa cccttttcta aaataaaata
+     2101 gttctagggt ggctggttat tgacctatgt aggtccctaa aacctaaaaa aaaaaa
+//

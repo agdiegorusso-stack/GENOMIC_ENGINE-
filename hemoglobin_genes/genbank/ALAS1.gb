@@ -1,0 +1,316 @@
+LOCUS       NM_000688               2375 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens 5'-aminolevulinate synthase 1 (ALAS1), transcript
+            variant 1, mRNA; nuclear gene for mitochondrial product.
+ACCESSION   NM_000688
+VERSION     NM_000688.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2375)
+  AUTHORS   Morgenstern,M., Peikert,C.D., Lubbert,P., Suppanz,I., Klemm,C.,
+            Alka,O., Steiert,C., Naumenko,N., Schendzielorz,A., Melchionda,L.,
+            Muhlhauser,W.W.D., Knapp,B., Busch,J.D., Stiller,S.B.,
+            Dannenmaier,S., Lindau,C., Licheva,M., Eickhorst,C., Galbusera,R.,
+            Zerbes,R.M., Ryan,M.T., Kraft,C., Kozjak-Pavlovic,V., Drepper,F.,
+            Dennerlein,S., Oeljeklaus,S., Pfanner,N., Wiedemann,N. and
+            Warscheid,B.
+  TITLE     Quantitative high-confidence human mitochondrial proteome and its
+            dynamics in cellular context
+  JOURNAL   Cell Metab 33 (12), 2464-2483 (2021)
+   PUBMED   34800366
+REFERENCE   2  (bases 1 to 2375)
+  AUTHORS   Nomura,K., Kitagawa,Y., Aihara,M., Ohki,Y., Furuyama,K. and
+            Hirokawa,T.
+  TITLE     Heme-dependent recognition of 5-aminolevulinate synthase by the
+            human mitochondrial molecular chaperone ClpX
+  JOURNAL   FEBS Lett 595 (24), 3019-3029 (2021)
+   PUBMED   34704252
+  REMARK    GeneRIF: Heme-dependent recognition of 5-aminolevulinate synthase by
+            the human mitochondrial molecular chaperone ClpX.
+REFERENCE   3  (bases 1 to 2375)
+  AUTHORS   Huttlin,E.L., Bruckner,R.J., Navarrete-Perea,J., Cannon,J.R.,
+            Baltier,K., Gebreab,F., Gygi,M.P., Thornock,A., Zarraga,G., Tam,S.,
+            Szpyt,J., Gassaway,B.M., Panov,A., Parzen,H., Fu,S., Golbazi,A.,
+            Maenpaa,E., Stricker,K., Guha Thakurta,S., Zhang,T., Rad,R., Pan,J.,
+            Nusinow,D.P., Paulo,J.A., Schweppe,D.K., Vaites,L.P., Harper,J.W.
+            and Gygi,S.P.
+  TITLE     Dual proteome-scale networks reveal cell-specific remodeling of the
+            human interactome
+  JOURNAL   Cell 184 (11), 3022-3040 (2021)
+   PUBMED   33961781
+REFERENCE   4  (bases 1 to 2375)
+  AUTHORS   Lahiji,A.P., Anderson,K.E., Chan,A., Simon,A., Desnick,R.J. and
+            Ramanujam,V.M.S.
+  TITLE     5-Aminolevulinate dehydratase porphyria: Update on hepatic
+            5-aminolevulinic acid synthase induction and long-term response to
+            hemin
+  JOURNAL   Mol Genet Metab 131 (4), 418-423 (2020)
+   PUBMED   33199206
+  REMARK    GeneRIF: 5-Aminolevulinate dehydratase porphyria: Update on hepatic
+            5-aminolevulinic acid synthase induction and long-term response to
+            hemin.
+REFERENCE   5  (bases 1 to 2375)
+  AUTHORS   Haenig,C., Atias,N., Taylor,A.K., Mazza,A., Schaefer,M.H., Russ,J.,
+            Riechers,S.P., Jain,S., Coughlin,M., Fontaine,J.F., Freibaum,B.D.,
+            Brusendorf,L., Zenkner,M., Porras,P., Stroedicke,M., Schnoegl,S.,
+            Arnsburg,K., Boeddrich,A., Pigazzini,L., Heutink,P., Taylor,J.P.,
+            Kirstein,J., Andrade-Navarro,M.A., Sharan,R. and Wanker,E.E.
+  TITLE     Interactome Mapping Provides a Network of Neurodegenerative Disease
+            Proteins and Uncovers Widespread Protein Aggregation in Affected
+            Brains
+  JOURNAL   Cell Rep 32 (7), 108050 (2020)
+   PUBMED   32814053
+REFERENCE   6  (bases 1 to 2375)
+  AUTHORS   Cotter,P.D., Drabkin,H.A., Varkony,T., Smith,D.I. and Bishop,D.F.
+  TITLE     Assignment of the human housekeeping delta-aminolevulinate synthase
+            gene (ALAS1) to chromosome band 3p21.1 by PCR analysis of somatic
+            cell hybrids
+  JOURNAL   Cytogenet Cell Genet 69 (3-4), 207-208 (1995)
+   PUBMED   7698013
+REFERENCE   7  (bases 1 to 2375)
+  AUTHORS   Bishop,D.F.
+  TITLE     Two different genes encode delta-aminolevulinate synthase in humans:
+            nucleotide sequences of cDNAs for the housekeeping and erythroid
+            genes
+  JOURNAL   Nucleic Acids Res 18 (23), 7187-7188 (1990)
+   PUBMED   2263504
+REFERENCE   8  (bases 1 to 2375)
+  AUTHORS   May,B.K., Bhasker,C.R., Bawden,M.J. and Cox,T.C.
+  TITLE     Molecular regulation of 5-aminolevulinate synthase. Diseases related
+            to heme biosynthesis
+  JOURNAL   Mol Biol Med 7 (5), 405-421 (1990)
+   PUBMED   2095458
+  REMARK    Review article
+REFERENCE   9  (bases 1 to 2375)
+  AUTHORS   Bishop,D.F., Henderson,A.S. and Astrin,K.H.
+  TITLE     Human delta-aminolevulinate synthase: assignment of the housekeeping
+            gene to 3p21 and the erythroid-specific gene to the X chromosome
+  JOURNAL   Genomics 7 (2), 207-214 (1990)
+   PUBMED   2347585
+REFERENCE   10  (bases 1 to 2375)
+  AUTHORS   Bawden,M.J., Borthwick,I.A., Healy,H.M., Morris,C.P., May,B.K. and
+            Elliott,W.H.
+  TITLE     Sequence of human 5-aminolevulinate synthase cDNA
+  JOURNAL   Nucleic Acids Res 15 (20), 8563 (1987)
+   PUBMED   3671094
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR3476690.314247.1,
+            SRR1803615.95332.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            MANE Ensembl match :: ENST00000484952.6/ ENSP00000418779.1
+            RefSeq Select criteria             :: based on conservation
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AU279391.1, BC011798.2, CD014147.1, X56351.1 and AI868691.1.
+            On Nov 22, 2018 this sequence version replaced NM_000688.5.
+            Summary: This gene encodes the mitochondrial enzyme which is
+            catalyzes the rate-limiting step in heme (iron-protoporphyrin)
+            biosynthesis. The enzyme encoded by this gene is the housekeeping
+            enzyme; a separate gene encodes a form of the enzyme that is
+            specific for erythroid tissue. The level of the mature encoded
+            protein is regulated by heme: high levels of heme down-regulate the
+            mature enzyme in mitochondria while low heme levels up-regulate. A
+            pseudogene of this gene is located on chromosome 12. Alternative
+            splicing results in multiple transcript variants encoding different
+            isoforms. [provided by RefSeq, Jan 2015].
+            Transcript Variant: This variant (1) represents the longest
+            transcript. Variants 1, 2, and 3 encode the same protein.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2375
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p21.2"
+     gene            1..2375
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="5'-aminolevulinate synthase 1"
+                     /db_xref="GeneID:211"
+                     /db_xref="HGNC:HGNC:396"
+                     /db_xref="MIM:125290"
+     exon            1..96
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            97..273
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    249..251
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="upstream in-frame stop codon"
+     exon            274..504
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             306..2228
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /EC_number="2.3.1.37"
+                     /note="isoform 1 precursor is encoded by transcript variant
+                     1; 5-aminolevulinate synthase, nonspecific, mitochondrial;
+                     migration-inducing protein 4; delta-ALA synthase 1;
+                     5-aminolevulinic acid synthase 1; delta-aminolevulinate
+                     synthase 1; aminolevulinate, delta-, synthase 1;
+                     5-aminolevulinate synthase, non-specific, mitochondrial"
+                     /codon_start=1
+                     /product="5-aminolevulinate synthase, non-specific,
+                     mitochondrial isoform 1 precursor"
+                     /protein_id="NP_000679.1"
+                     /db_xref="CCDS:CCDS2847.1"
+                     /db_xref="GeneID:211"
+                     /db_xref="HGNC:HGNC:396"
+                     /db_xref="MIM:125290"
+                     /translation="MESVVRRCPFLSRVPQAFLQKAGKSLLFYAQNCPKMMEVGAKPAP
+                     RALSTAAVHYQQIKETPPASEKDKTAKAKVQQTPDGSQQSPDGTQLPSGHPLPATSQGT
+                     ASKCPFLAAQMNQRGSSVFCKASLELQEDVQEMNAVRKEVAETSAGPSVVSVKTDGGDP
+                     SGLLKNFQDIMQKQRPERVSHLLQDNLPKSVSTFQYDRFFEKKIDEKKNDHTYRVFKTV
+                     NRRAHIFPMADDYSDSLITKKQVSVWCSNDYLGMSRHPRVCGAVMDTLKQHGAGAGGTR
+                     NISGTSKFHVDLERELADLHGKDAALLFSSCFVANDSTLFTLAKMMPGCEIYSDSGNHA
+                     SMIQGIRNSRVPKYIFRHNDVSHLRELLQRSDPSVPKIVAFETVHSMDGAVCPLEELCD
+                     VAHEFGAITFVDEVHAVGLYGARGGGIGDRDGVMPKMDIISGTLGKAFGCVGGYIASTS
+                     SLIDTVRSYAAGFIFTTSLPPMLLAGALESVRILKSAEGRVLRRQHQRNVKLMRQMLMD
+                     AGLPVVHCPSHIIPVRVADAAKNTEVCDELMSRHNIYVQAINYPTVPRGEELLRIAPTP
+                     HHTPQMMNYFLENLLVTWKQVGLELKPHSSAECNFCRRPLHFEVMSEREKSYFSGLSKL
+                     VSAQA"
+     transit_peptide 306..473
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:P07997; propagated from
+                     UniProtKB/Swiss-Prot (P13196.2)"
+     mat_peptide     474..2225
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /product="5-aminolevulinate synthase, non-specific,
+                     mitochondrial. /id=PRO_0000001230"
+                     /note="propagated from UniProtKB/Swiss-Prot (P13196.2)"
+     misc_feature    483..614
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P13196.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2031..2033
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="Hydroxyproline.
+                     /evidence=ECO:0000269|PubMed:16234850; propagated from
+                     UniProtKB/Swiss-Prot (P13196.2); hydroxylation site"
+     exon            505..732
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            733..882
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            883..1105
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1106..1290
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1291..1470
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1471..1635
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1636..1904
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1905..2067
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2068..2375
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2316..2321
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="hexamer: ATTAAA"
+     regulatory      2333..2338
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="hexamer: AGTAAA"
+     polyA_site      2340
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="major polyA site"
+     regulatory      2353..2358
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="hexamer: AATAAA"
+     polyA_site      2358
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+                     /note="major polyA site"
+     polyA_site      2375
+                     /gene="ALAS1"
+                     /gene_synonym="ALAS; ALAS-H; ALAS3; ALASH; MIG4"
+ORIGIN
+        1 aggctgctcc cggacaaggg caacgagcgt ttcgtttgga cttctcgact tgagtgcccg
+       61 cctccttcgc cgccgcctct gcagtcctca gcgcagttat gcccagttct tcccgctgtg
+      121 gggacacgac cacggaggaa tccttgcttc agggactcgg gaccctgctg gaccccttcc
+      181 tcgggtttag gggatgtggg gaccaggaga aagtcaggat ccctaagagt cttccctgcc
+      241 tggatggatg agtggcttct tctccaccta gattctttcc acaggagcca gcatacttcc
+      301 tgaacatgga gagtgttgtt cgccgctgcc cattcttatc ccgagtcccc caggcctttc
+      361 tgcagaaagc aggcaaatct ctgttgttct atgcccaaaa ctgccccaag atgatggaag
+      421 ttggggccaa gccagcccct cgggcattgt ccactgcagc agtacactac caacagatca
+      481 aagaaacccc tccggccagt gagaaagaca aaactgctaa ggccaaggtc caacagactc
+      541 ctgatggatc ccagcagagt ccagatggca cacagcttcc gtctggacac cccttgcctg
+      601 ccacaagcca gggcactgca agcaaatgcc ctttcctggc agcacagatg aatcagagag
+      661 gcagcagtgt cttctgcaaa gccagtcttg agcttcagga ggatgtgcag gaaatgaatg
+      721 ccgtgaggaa agaggttgct gaaacctcag caggccccag tgtggttagt gtgaaaaccg
+      781 atggagggga tcccagtgga ctgctgaaga acttccagga catcatgcaa aagcaaagac
+      841 cagaaagagt gtctcatctt cttcaagata acttgccaaa atctgtttcc acttttcagt
+      901 atgatcgttt ctttgagaaa aaaattgatg agaaaaagaa tgaccacacc tatcgagttt
+      961 ttaaaactgt gaaccggcga gcacacatct tccccatggc agatgactat tcagactccc
+     1021 tcatcaccaa aaagcaagtg tcagtctggt gcagtaatga ctacctagga atgagtcgcc
+     1081 acccacgggt gtgtggggca gttatggaca ctttgaaaca acatggtgct ggggcaggtg
+     1141 gtactagaaa tatttctgga actagtaaat tccatgtgga cttagagcgg gagctggcag
+     1201 acctccatgg gaaagatgcc gcactcttgt tttcctcgtg ctttgtggcc aatgactcaa
+     1261 ccctcttcac cctggctaag atgatgccag gctgtgagat ttactctgat tctgggaacc
+     1321 atgcctccat gatccaaggg attcgaaaca gccgagtgcc aaagtacatc ttccgccaca
+     1381 atgatgtcag ccacctcaga gaactgctgc aaagatctga cccctcagtc cccaagattg
+     1441 tggcatttga aactgtccat tcaatggatg gggcggtgtg cccactggaa gagctgtgtg
+     1501 atgtggccca tgagtttgga gcaatcacct tcgtggatga ggtccacgca gtggggcttt
+     1561 atggggctcg aggcggaggg attggggatc gggatggagt catgccaaaa atggacatca
+     1621 tttctggaac acttggcaaa gcctttggtt gtgttggagg gtacatcgcc agcacgagtt
+     1681 ctctgattga caccgtacgg tcctatgctg ctggcttcat cttcaccacc tctctgccac
+     1741 ccatgctgct ggctggagcc ctggagtctg tgcggatcct gaagagcgct gagggacggg
+     1801 tgcttcgccg ccagcaccag cgcaacgtca aactcatgag acagatgcta atggatgccg
+     1861 gcctccctgt tgtccactgc cccagccaca tcatccctgt gcgggttgca gatgctgcta
+     1921 aaaacacaga agtctgtgat gaactaatga gcagacataa catctacgtg caagcaatca
+     1981 attaccctac ggtgccccgg ggagaagagc tcctacggat tgcccccacc cctcaccaca
+     2041 caccccagat gatgaactac ttccttgaga atctgctagt cacatggaag caagtggggc
+     2101 tggaactgaa gcctcattcc tcagctgagt gcaacttctg caggaggcca ctgcattttg
+     2161 aagtgatgag tgaaagagag aagtcctatt tctcaggctt gagcaagttg gtatctgctc
+     2221 aggcctgagc atgacctcaa ttatttcact taaccccagg ccattatcat atccagatgg
+     2281 tcttcagagt tgtctttata tgtgaattaa gttatattaa attttaatct atagtaaaaa
+     2341 catagtcctg gaaataaatt cttgcttaaa tggtg
+//

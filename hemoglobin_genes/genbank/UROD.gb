@@ -1,0 +1,223 @@
+LOCUS       NM_000374               1193 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens uroporphyrinogen decarboxylase (UROD), transcript
+            variant 1, mRNA.
+ACCESSION   NM_000374
+VERSION     NM_000374.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1193)
+  AUTHORS   Cunha,L., Kuti,M., Bishop,D.F., Mezei,M., Zeng,L., Zhou,M.M. and
+            Desnick,R.J.
+  TITLE     Human uroporphyrinogen III synthase: NMR-based mapping of the active
+            site
+  JOURNAL   Proteins 71 (2), 855-873 (2008)
+   PUBMED   18004775
+REFERENCE   2  (bases 1 to 1193)
+  AUTHORS   Whitby,F.G., Phillips,J.D., Kushner,J.P. and Hill,C.P.
+  TITLE     Crystal structure of human uroporphyrinogen decarboxylase
+  JOURNAL   EMBO J 17 (9), 2463-2471 (1998)
+   PUBMED   9564029
+REFERENCE   3  (bases 1 to 1193)
+  AUTHORS   Rudnick,S., Phillips,J. and Bonkovsky,H.
+  CONSRTM   Porphyrias Consortium of the Rare Diseases Clinical Research Network
+  TITLE     Hepatoerythropoietic Porphyria
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   24175354
+REFERENCE   4  (bases 1 to 1193)
+  AUTHORS   Rudnick,S., Phillips,J. and Bonkovsky,H.
+  CONSRTM   Porphyrias Consortium of the Rare Diseases Clinical Research Network
+  TITLE     Familial Porphyria Cutanea Tarda
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   23741761
+REFERENCE   5  (bases 1 to 1193)
+  AUTHORS   de Verneuil,H., Bourgeois,F., de Rooij,F., Siersema,P.D.,
+            Wilson,J.H., Grandchamp,B. and Nordmann,Y.
+  TITLE     Characterization of a new mutation (R292G) and a deletion at the
+            human uroporphyrinogen decarboxylase locus in two patients with
+            hepatoerythropoietic porphyria
+  JOURNAL   Hum Genet 89 (5), 548-552 (1992)
+   PUBMED   1634232
+REFERENCE   6  (bases 1 to 1193)
+  AUTHORS   Garey,J.R., Hansen,J.L., Harrison,L.M., Kennedy,J.B. and
+            Kushner,J.P.
+  TITLE     A point mutation in the coding region of uroporphyrinogen
+            decarboxylase associated with familial porphyria cutanea tarda
+  JOURNAL   Blood 73 (4), 892-895 (1989)
+   PUBMED   2920211
+REFERENCE   7  (bases 1 to 1193)
+  AUTHORS   Romana,M., Dubart,A., Beaupain,D., Chabret,C., Goossens,M. and
+            Romeo,P.H.
+  TITLE     Structure of the gene for human uroporphyrinogen decarboxylase
+  JOURNAL   Nucleic Acids Res 15 (18), 7343-7356 (1987)
+   PUBMED   3658695
+REFERENCE   8  (bases 1 to 1193)
+  AUTHORS   Romeo,P.H., Raich,N., Dubart,A., Beaupain,D., Pryor,M., Kushner,J.,
+            Cohen-Solal,M. and Goossens,M.
+  TITLE     Molecular cloning and nucleotide sequence of a complete human
+            uroporphyrinogen decarboxylase cDNA
+  JOURNAL   J Biol Chem 261 (21), 9825-9831 (1986)
+   PUBMED   3015909
+REFERENCE   9  (bases 1 to 1193)
+  AUTHORS   Dubart,A., Mattei,M.G., Raich,N., Beaupain,D., Romeo,P.H.,
+            Mattei,J.F. and Goossens,M.
+  TITLE     Assignment of human uroporphyrinogen decarboxylase (URO-D) to the
+            p34 band of chromosome 1
+  JOURNAL   Hum Genet 73 (3), 277-279 (1986)
+   PUBMED   3460962
+REFERENCE   10  (bases 1 to 1193)
+  AUTHORS   Elder,G.H., Lee,G.B. and Tovey,J.A.
+  TITLE     Decreased activity of hepatic uroporphyrinogen decarboxylase in
+            sporadic porphyria cutanea tarda
+  JOURNAL   N Engl J Med 299 (6), 274-278 (1978)
+   PUBMED   661926
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189655.6910.1, SRR5189658.54891.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000246337.9/ ENSP00000246337.4
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK291877.1 and AL359473.22.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Aug 21, 2018 this sequence version replaced NM_000374.4.
+            Summary: This gene encodes an enzyme in the heme biosynthetic
+            pathway. This enzyme is responsible for catalyzing the conversion
+            of uroporphyrinogen to coproporphyrinogen through the removal of
+            four carboxymethyl side chains. Mutations and deficiency in this
+            enzyme are known to cause familial porphyria cutanea tarda and
+            hepatoerythropoetic porphyria.[provided by RefSeq, Aug 2010].
+            Transcript Variant: This variant (1) represents the shortest
+            transcript and encodes the functional protein.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1193
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p34.1"
+     gene            1..1193
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /note="uroporphyrinogen decarboxylase"
+                     /db_xref="GeneID:7389"
+                     /db_xref="HGNC:HGNC:12591"
+                     /db_xref="MIM:613521"
+     exon            1..32
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             13..1116
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /EC_number="4.1.1.37"
+                     /note="uroporphyrinogen III decarboxylase"
+                     /codon_start=1
+                     /product="uroporphyrinogen decarboxylase"
+                     /protein_id="NP_000365.3"
+                     /db_xref="CCDS:CCDS518.1"
+                     /db_xref="GeneID:7389"
+                     /db_xref="HGNC:HGNC:12591"
+                     /db_xref="MIM:613521"
+                     /translation="MEANGLGPQGFPELKNDTFLRAAWGEETDYTPVWCMRQAGRYLPE
+                     FRETRAAQDFFSTCRSPEACCELTLQPLRRFPLDAAIIFSDILVVPQALGMEVTMVPGK
+                     GPSFPEPLREEQDLERLRDPEVVASELGYVFQAITLTRQRLAGRVPLIGFAGAPWTLMT
+                     YMVEGGGSSTMAQAKRWLYQRPQASHQLLRILTDALVPYLVGQVVAGAQALQLFESHAG
+                     HLGPQLFNKFALPYIRDVAKQVKARLREAGLAPVPMIIFAKDGHFALEELAQAGYEVVG
+                     LDWTVAPKKARECVGKTVTLQGNLDPCALYASEEEIGQLVKQMLDDFGPHRYIANLGHG
+                     LYPDMDPEHVGAFVDAVHKHSRLLRQN"
+     misc_feature    13..15
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0007744|PubMed:19413330,
+                     ECO:0007744|PubMed:22223895, ECO:0007744|PubMed:22814378;
+                     propagated from UniProtKB/Swiss-Prot (P06132.2);
+                     acetylation site"
+     misc_feature    268..270
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /note="Transition state stabilizer.
+                     /evidence=ECO:0000269|PubMed:14633982; propagated from
+                     UniProtKB/Swiss-Prot (P06132.2); other site"
+     exon            33..145
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            146..225
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            226..288
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            289..486
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            487..648
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            649..786
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            787..887
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            888..954
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            955..1193
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1173..1178
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /note="hexamer: AATAAA"
+     polyA_site      1193
+                     /gene="UROD"
+                     /gene_synonym="PCT; UPD"
+                     /note="major polyA site"
+ORIGIN
+        1 agacagctga ccatggaagc gaatgggttg ggacctcagg gttttccgga gctgaagaat
+       61 gacacattcc tgcgagcagc ctggggagag gaaacagact acactcccgt ttggtgcatg
+      121 cgccaggcag gccgttactt accagagttt agggaaaccc gggctgccca ggactttttc
+      181 agcacgtgtc gctctcctga ggcctgctgt gaactgactc tgcagccact gcgtcgcttc
+      241 cctctggatg ctgccatcat tttctccgac atccttgttg taccccaggc actgggcatg
+      301 gaggtgacca tggtacctgg caaaggaccc agcttcccag agccattaag agaagagcag
+      361 gacctagaac gcctacggga tccagaagtg gtagcctctg agctaggcta tgtgttccaa
+      421 gccatcaccc ttacccgaca acgactggct ggacgtgtgc cgctgattgg ctttgctggt
+      481 gccccatgga ccctgatgac atacatggtt gagggtggtg gctcaagcac catggctcag
+      541 gccaagcgct ggctctatca gagacctcag gctagtcacc agctgcttcg catcctcact
+      601 gatgctctgg tcccatatct ggtaggacaa gtggtggctg gtgcccaggc attgcagctg
+      661 tttgagtccc atgcagggca tcttggccca cagctcttca acaagtttgc actgccttac
+      721 atccgtgatg tggccaagca agtgaaggcc aggttgcggg aggcaggcct ggcaccagtg
+      781 cccatgatca tctttgctaa ggatgggcat tttgccctgg aggagctggc ccaagctggc
+      841 tatgaggtgg ttgggcttga ctggacagtg gccccaaaga aagcccggga gtgtgtgggg
+      901 aagacggtga cattgcaggg caacctggac ccctgtgcct tgtatgcatc tgaggaggag
+      961 atcgggcagt tggtgaagca gatgctggat gactttggac cacatcgcta cattgccaac
+     1021 ctgggccatg ggctttatcc tgacatggac ccagaacatg tgggcgcctt tgtggatgct
+     1081 gtgcataaac actcacgtct gcttcgacag aactgagtgt atacctttac cctcaagtac
+     1141 cactaacaca gatgattgat cgtttccagg acaataaaag tttcggagtt gaa
+//

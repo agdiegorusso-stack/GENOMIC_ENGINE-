@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "created": "2025-09-04T13:32:04.355924",
+    "total_genes": 65,
+    "categories": [
+      "globin_structural",
+      "transcription_factors",
+      "heme_biosynthesis",
+      "iron_metabolism",
+      "chaperones_cofactors",
+      "epigenetic_modifiers"
+    ]
+  },
+  "genes": {
+    "HBZ": {
+      "category": "globin_structural",
+      "subcategory": "alpha_cluster",
+      "refseq": "NM_005332.3",
+      "chromosome": "16p13.3",
+      "description": "Zeta globin (embryonic)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBM": {
+      "category": "globin_structural",
+      "subcategory": "alpha_cluster",
+      "refseq": "NM_001003938.3",
+      "chromosome": "16p13.3",
+      "description": "Mu globin (embryonic)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBA2": {
+      "category": "globin_structural",
+      "subcategory": "alpha_cluster",
+      "refseq": "NM_000517.6",
+      "chromosome": "16p13.3",
+      "description": "Alpha-2 globin (adult)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBA1": {
+      "category": "globin_structural",
+      "subcategory": "alpha_cluster",
+      "refseq": "NM_000558.5",
+      "chromosome": "16p13.3",
+      "description": "Alpha-1 globin (adult)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBQ1": {
+      "category": "globin_structural",
+      "subcategory": "alpha_cluster",
+      "refseq": "NM_005331.4",
+      "chromosome": "16p13.3",
+      "description": "Theta globin (embryonic)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBE1": {
+      "category": "globin_structural",
+      "subcategory": "beta_cluster",
+      "refseq": "NM_005330.4",
+      "chromosome": "11p15.4",
+      "description": "Epsilon globin (embryonic)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBG2": {
+      "category": "globin_structural",
+      "subcategory": "beta_cluster",
+      "refseq": "NM_000184.3",
+      "chromosome": "11p15.4",
+      "description": "Gamma-G globin (fetal)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBG1": {
+      "category": "globin_structural",
+      "subcategory": "beta_cluster",
+      "refseq": "NM_000559.3",
+      "chromosome": "11p15.4",
+      "description": "Gamma-A globin (fetal)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBD": {
+      "category": "globin_structural",
+      "subcategory": "beta_cluster",
+      "refseq": "NM_000519.4",
+      "chromosome": "11p15.4",
+      "description": "Delta globin (minor adult)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBB": {
+      "category": "globin_structural",
+      "subcategory": "beta_cluster",
+      "refseq": "NM_000518.5",
+      "chromosome": "11p15.4",
+      "description": "Beta globin (adult)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "GATA1": {
+      "category": "transcription_factors",
+      "subcategory": "primary",
+      "refseq": "NM_002049.4",
+      "chromosome": "Xp11.23",
+      "description": "GATA binding protein 1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "KLF1": {
+      "category": "transcription_factors",
+      "subcategory": "primary",
+      "refseq": "NM_006563.5",
+      "chromosome": "19p13.13",
+      "description": "Kruppel-like factor 1 (EKLF)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "TAL1": {
+      "category": "transcription_factors",
+      "subcategory": "primary",
+      "refseq": "NM_003189.3",
+      "chromosome": "1p33",
+      "description": "TAL1/SCL transcription factor",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "NFE2": {
+      "category": "transcription_factors",
+      "subcategory": "primary",
+      "refseq": "NM_001136023.3",
+      "chromosome": "12q13.13",
+      "description": "Nuclear factor erythroid 2",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "NFE2L2": {
+      "category": "transcription_factors",
+      "subcategory": "primary",
+      "refseq": "NM_006164.5",
+      "chromosome": "2q31.2",
+      "description": "NFE2-like 2 (NRF2)",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "ZFPM1": {
+      "category": "transcription_factors",
+      "subcategory": "primary",
+      "refseq": "NM_002625.3",
+      "chromosome": "16q24.2",
+      "description": "FOG1 - GATA1 cofactor",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "BCL11A": {
+      "category": "transcription_factors",
+      "subcategory": "switch_regulators",
+      "refseq": "NM_022718.4",
+      "chromosome": "2p16.1",
+      "description": "BCL11 transcription factor A",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "ZBTB7A": {
+      "category": "transcription_factors",
+      "subcategory": "switch_regulators",
+      "refseq": "NM_015898.3",
+      "chromosome": "19p13.3",
+      "description": "LRF - fetal globin repressor",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "MYB": {
+      "category": "transcription_factors",
+      "subcategory": "switch_regulators",
+      "refseq": "NM_001130172.2",
+      "chromosome": "6q23.3",
+      "description": "c-Myb proto-oncogene",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "SOX6": {
+      "category": "transcription_factors",
+      "subcategory": "switch_regulators",
+      "refseq": "NM_033326.4",
+      "chromosome": "11p15.2",
+      "description": "SRY-box 6",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HBS1L": {
+      "category": "transcription_factors",
+      "subcategory": "switch_regulators",
+      "refseq": "NM_006620.3",
+      "chromosome": "6q23.3",
+      "description": "HBS1-like translational GTPase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "LDB1": {
+      "category": "transcription_factors",
+      "subcategory": "additional",
+      "refseq": "NM_001113407.2",
+      "chromosome": "10q24.32",
+      "description": "LIM domain binding 1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "GATA2": {
+      "category": "transcription_factors",
+      "subcategory": "additional",
+      "refseq": "NM_001145661.2",
+      "chromosome": "3q21.3",
+      "description": "GATA binding protein 2",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "TCF3": {
+      "category": "transcription_factors",
+      "subcategory": "additional",
+      "refseq": "NM_001136139.3",
+      "chromosome": "19p13.3",
+      "description": "E2A transcription factor",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "RUNX1": {
+      "category": "transcription_factors",
+      "subcategory": "additional",
+      "refseq": "NM_001754.5",
+      "chromosome": "21q22.12",
+      "description": "Runt-related TF1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "ALAS2": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000032.5",
+      "chromosome": "Xp11.21",
+      "description": "5-aminolevulinate synthase 2",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "ALAD": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000031.6",
+      "chromosome": "9q32",
+      "description": "Delta-aminolevulinic acid dehydratase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HMBS": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000190.4",
+      "chromosome": "11q23.3",
+      "description": "Hydroxymethylbilane synthase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "UROS": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000375.3",
+      "chromosome": "10q26.13",
+      "description": "Uroporphyrinogen III synthase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "UROD": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000374.5",
+      "chromosome": "1p34.1",
+      "description": "Uroporphyrinogen decarboxylase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "CPOX": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000097.6",
+      "chromosome": "3q11.2",
+      "description": "Coproporphyrinogen oxidase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "PPOX": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000309.5",
+      "chromosome": "1q23.3",
+      "description": "Protoporphyrinogen oxidase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "FECH": {
+      "category": "heme_biosynthesis",
+      "subcategory": "enzymes",
+      "refseq": "NM_000140.5",
+      "chromosome": "18q21.31",
+      "description": "Ferrochelatase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "ALAS1": {
+      "category": "heme_biosynthesis",
+      "subcategory": "regulation",
+      "refseq": "NM_000688.6",
+      "chromosome": "3p21.2",
+      "description": "5-aminolevulinate synthase 1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "ABCB6": {
+      "category": "heme_biosynthesis",
+      "subcategory": "regulation",
+      "refseq": "NM_005689.4",
+      "chromosome": "2q35",
+      "description": "ATP-binding cassette B6",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "SLC25A38": {
+      "category": "heme_biosynthesis",
+      "subcategory": "regulation",
+      "refseq": "NM_017875.3",
+      "chromosome": "3p22.1",
+      "description": "Glycine transporter",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "TFR1": {
+      "category": "iron_metabolism",
+      "subcategory": "transport",
+      "refseq": "NM_003234.4",
+      "chromosome": "3q29",
+      "description": "Transferrin receptor 1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "TFR2": {
+      "category": "iron_metabolism",
+      "subcategory": "transport",
+      "refseq": "NM_003227.3",
+      "chromosome": "7q22.1",
+      "description": "Transferrin receptor 2",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "SLC11A2": {
+      "category": "iron_metabolism",
+      "subcategory": "transport",
+      "refseq": "NM_001174125.2",
+      "chromosome": "12q13.12",
+      "description": "DMT1 - iron transporter",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "SLC40A1": {
+      "category": "iron_metabolism",
+      "subcategory": "transport",
+      "refseq": "NM_014585.6",
+      "chromosome": "2q32.2",
+      "description": "Ferroportin",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "SLC25A37": {
+      "category": "iron_metabolism",
+      "subcategory": "transport",
+      "refseq": "NM_016612.4",
+      "chromosome": "8p21.2",
+      "description": "Mitoferrin-1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "SLC25A28": {
+      "category": "iron_metabolism",
+      "subcategory": "transport",
+      "refseq": "NM_001319043.2",
+      "chromosome": "10q24.2",
+      "description": "Mitoferrin-2",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HAMP": {
+      "category": "iron_metabolism",
+      "subcategory": "regulation",
+      "refseq": "NM_021175.4",
+      "chromosome": "19q13.12",
+      "description": "Hepcidin",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HFE": {
+      "category": "iron_metabolism",
+      "subcategory": "regulation",
+      "refseq": "NM_000410.4",
+      "chromosome": "6p22.2",
+      "description": "Hemochromatosis protein",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HJV": {
+      "category": "iron_metabolism",
+      "subcategory": "regulation",
+      "refseq": "NM_213653.4",
+      "chromosome": "1q21.1",
+      "description": "Hemojuvelin",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "BMP6": {
+      "category": "iron_metabolism",
+      "subcategory": "regulation",
+      "refseq": "NM_001718.6",
+      "chromosome": "6p24.3",
+      "description": "Bone morphogenetic protein 6",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "TMPRSS6": {
+      "category": "iron_metabolism",
+      "subcategory": "regulation",
+      "refseq": "NM_153609.4",
+      "chromosome": "22q12.3",
+      "description": "Matriptase-2",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "ACO1": {
+      "category": "iron_metabolism",
+      "subcategory": "regulation",
+      "refseq": "NM_002197.3",
+      "chromosome": "9p21.1",
+      "description": "IRP1 - iron regulatory protein",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "FTL": {
+      "category": "iron_metabolism",
+      "subcategory": "storage",
+      "refseq": "NM_000146.4",
+      "chromosome": "19q13.33",
+      "description": "Ferritin light chain",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "FTH1": {
+      "category": "iron_metabolism",
+      "subcategory": "storage",
+      "refseq": "NM_002032.3",
+      "chromosome": "11q12.3",
+      "description": "Ferritin heavy chain",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "FTMT": {
+      "category": "iron_metabolism",
+      "subcategory": "storage",
+      "refseq": "NM_177478.3",
+      "chromosome": "5q23.1",
+      "description": "Mitochondrial ferritin",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "AHSP": {
+      "category": "chaperones_cofactors",
+      "subcategory": "hemoglobin_specific",
+      "refseq": "NM_016633.3",
+      "chromosome": "16p11.2",
+      "description": "Alpha hemoglobin stabilizing protein",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "GCLC": {
+      "category": "chaperones_cofactors",
+      "subcategory": "hemoglobin_specific",
+      "refseq": "NM_001498.4",
+      "chromosome": "6p12.1",
+      "description": "Glutamate-cysteine ligase catalytic",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "GCLM": {
+      "category": "chaperones_cofactors",
+      "subcategory": "hemoglobin_specific",
+      "refseq": "NM_002061.3",
+      "chromosome": "1p22.1",
+      "description": "Glutamate-cysteine ligase modifier",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "GSR": {
+      "category": "chaperones_cofactors",
+      "subcategory": "hemoglobin_specific",
+      "refseq": "NM_000637.5",
+      "chromosome": "8p12",
+      "description": "Glutathione reductase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "G6PD": {
+      "category": "chaperones_cofactors",
+      "subcategory": "hemoglobin_specific",
+      "refseq": "NM_001360016.2",
+      "chromosome": "Xq28",
+      "description": "Glucose-6-phosphate dehydrogenase",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HSPA8": {
+      "category": "chaperones_cofactors",
+      "subcategory": "protein_quality",
+      "refseq": "NM_006597.6",
+      "chromosome": "11q24.1",
+      "description": "Heat shock 70kDa protein 8",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HSP90AA1": {
+      "category": "chaperones_cofactors",
+      "subcategory": "protein_quality",
+      "refseq": "NM_005348.4",
+      "chromosome": "14q32.31",
+      "description": "Heat shock protein 90 alpha",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "DNAJB1": {
+      "category": "chaperones_cofactors",
+      "subcategory": "protein_quality",
+      "refseq": "NM_006145.3",
+      "chromosome": "19p13.2",
+      "description": "DnaJ homolog B1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "KDM1A": {
+      "category": "epigenetic_modifiers",
+      "subcategory": "chromatin",
+      "refseq": "NM_001009999.3",
+      "chromosome": "1p36.12",
+      "description": "Lysine demethylase 1A",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HDAC1": {
+      "category": "epigenetic_modifiers",
+      "subcategory": "chromatin",
+      "refseq": "NM_004964.3",
+      "chromosome": "1p35.2",
+      "description": "Histone deacetylase 1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "HDAC2": {
+      "category": "epigenetic_modifiers",
+      "subcategory": "chromatin",
+      "refseq": "NM_001527.4",
+      "chromosome": "6q21",
+      "description": "Histone deacetylase 2",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "DNMT1": {
+      "category": "epigenetic_modifiers",
+      "subcategory": "chromatin",
+      "refseq": "NM_001130823.3",
+      "chromosome": "19p13.2",
+      "description": "DNA methyltransferase 1",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "DNMT3A": {
+      "category": "epigenetic_modifiers",
+      "subcategory": "chromatin",
+      "refseq": "NM_022552.5",
+      "chromosome": "2p23.3",
+      "description": "DNA methyltransferase 3A",
+      "known_mutations": [],
+      "analysis_pending": true
+    },
+    "DNMT3B": {
+      "category": "epigenetic_modifiers",
+      "subcategory": "chromatin",
+      "refseq": "NM_006892.4",
+      "chromosome": "20q11.21",
+      "description": "DNA methyltransferase 3B",
+      "known_mutations": [],
+      "analysis_pending": true
+    }
+  }
+}

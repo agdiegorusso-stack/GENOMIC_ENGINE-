@@ -1,0 +1,307 @@
+LOCUS       NM_000637               3034 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens glutathione-disulfide reductase (GSR), transcript
+            variant 1, mRNA; nuclear gene for mitochondrial product.
+ACCESSION   NM_000637
+VERSION     NM_000637.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3034)
+  AUTHORS   Vyas,B., Bhowmik,R., Akhter,M. and Ahmad,F.J.
+  TITLE     Identification, analysis of deleterious SNPs of the human GSR gene
+            and their effects on the structure and functions of associated
+            proteins and other diseases
+  JOURNAL   Sci Rep 12 (1), 5474 (2022)
+   PUBMED   35361806
+  REMARK    GeneRIF: Identification, analysis of deleterious SNPs of the human
+            GSR gene and their effects on the structure and functions of
+            associated proteins and other diseases. Publication Status:
+            Online-Only
+REFERENCE   2  (bases 1 to 3034)
+  AUTHORS   Morgenstern,M., Peikert,C.D., Lubbert,P., Suppanz,I., Klemm,C.,
+            Alka,O., Steiert,C., Naumenko,N., Schendzielorz,A., Melchionda,L.,
+            Muhlhauser,W.W.D., Knapp,B., Busch,J.D., Stiller,S.B.,
+            Dannenmaier,S., Lindau,C., Licheva,M., Eickhorst,C., Galbusera,R.,
+            Zerbes,R.M., Ryan,M.T., Kraft,C., Kozjak-Pavlovic,V., Drepper,F.,
+            Dennerlein,S., Oeljeklaus,S., Pfanner,N., Wiedemann,N. and
+            Warscheid,B.
+  TITLE     Quantitative high-confidence human mitochondrial proteome and its
+            dynamics in cellular context
+  JOURNAL   Cell Metab 33 (12), 2464-2483 (2021)
+   PUBMED   34800366
+REFERENCE   3  (bases 1 to 3034)
+  AUTHORS   Zhang,C. and Zhao,D.
+  TITLE     MicroRNA-362-5p promotes the proliferation and inhibits apoptosis of
+            trophoblast cells via targeting glutathione-disulfide reductase
+  JOURNAL   Bioengineered 12 (1), 2410-2419 (2021)
+   PUBMED   34107852
+  REMARK    GeneRIF: MicroRNA-362-5p promotes the proliferation and inhibits
+            apoptosis of trophoblast cells via targeting glutathione-disulfide
+            reductase.
+REFERENCE   4  (bases 1 to 3034)
+  AUTHORS   Lorestani,S., Bahari,A., Asadi,M. and Zahedi Avval,F.
+  TITLE     Evaluation of glutathione reductase activity in colon tissue of
+            patients with irritable bowel syndrome
+  JOURNAL   Horm Mol Biol Clin Investig 42 (2), 195-198 (2021)
+   PUBMED   34090318
+  REMARK    GeneRIF: Evaluation of glutathione reductase activity in colon
+            tissue of patients with irritable bowel syndrome. Publication
+            Status: Online-Only
+REFERENCE   5  (bases 1 to 3034)
+  AUTHORS   Wang,Y.N., Lu,Y.X., Liu,J., Jin,Y., Bi,H.C., Zhao,Q., Liu,Z.X.,
+            Li,Y.Q., Hu,J.J., Sheng,H., Jiang,Y.M., Zhang,C., Tian,F., Chen,Y.,
+            Pan,Z.Z., Chen,G., Zeng,Z.L., Liu,K.Y., Ogasawara,M., Yun,J.P.,
+            Ju,H.Q., Feng,J.X., Xie,D., Gao,S., Jia,W.H., Kopetz,S., Xu,R.H. and
+            Wang,F.
+  TITLE     AMPKalpha1 confers survival advantage of colorectal cancer cells
+            under metabolic stress by promoting redox balance through the
+            regulation of glutathione reductase phosphorylation
+  JOURNAL   Oncogene 39 (3), 637-650 (2020)
+   PUBMED   31530934
+  REMARK    GeneRIF: AMPKalpha1 is overexpressed in colorectal cancer (CRC)
+            patient specimens and the high expression is correlated with poor
+            survival. AMPKalpha1 maintains high level of reduced glutathione to
+            keep redox homeostasis under stress conditions, thus promoting CRC
+            cell survival. Mechanistically, AMPKalpha1 regulate the glutathione
+            reductase (GSR) phosphorylation possibly through residue Thr507
+            which enhances its activity.
+REFERENCE   6  (bases 1 to 3034)
+  AUTHORS   Kelner,M.J. and Montoya,M.A.
+  TITLE     Structural organization of the human glutathione reductase gene:
+            determination of correct cDNA sequence and identification of a
+            mitochondrial leader sequence
+  JOURNAL   Biochem Biophys Res Commun 269 (2), 366-368 (2000)
+   PUBMED   10708558
+REFERENCE   7  (bases 1 to 3034)
+  AUTHORS   Tutic,M., Lu,X.A., Schirmer,R.H. and Werner,D.
+  TITLE     Cloning and sequencing of mammalian glutathione reductase cDNA
+  JOURNAL   Eur J Biochem 188 (3), 523-528 (1990)
+   PUBMED   2185014
+REFERENCE   8  (bases 1 to 3034)
+  AUTHORS   Krohne-Ehrich,G., Schirmer,R.H. and Untucht-Grau,R.
+  TITLE     Glutathione reductase from human erythrocytes. Isolation of the
+            enzyme and sequence analysis of the redox-active peptide
+  JOURNAL   Eur J Biochem 80 (1), 65-71 (1977)
+   PUBMED   923580
+REFERENCE   9  (bases 1 to 3034)
+  AUTHORS   Sinet,P.M., Bresson,J.L., Couturier,J., Laurent,C., Prieur,M.,
+            Rethore,M.O., Taillemite,J.L., Toudic,D., Jerome,H. and Lejeune,J.
+  TITLE     [Possible localization of the glutathione reductase (EC 1.6.4.2) on
+            the 8p21 band]
+  JOURNAL   Ann Genet 20 (1), 13-17 (1977)
+   PUBMED   302667
+REFERENCE   10  (bases 1 to 3034)
+  AUTHORS   Loos,H., Roos,D., Weening,R. and Houwerzijl,J.
+  TITLE     Familial deficiency of glutathione reductase in human blood cells
+  JOURNAL   Blood 48 (1), 53-62 (1976)
+   PUBMED   947404
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC035691.1, FJ224321.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: PMID: 10708558; reported by
+            MitoCarta
+            MANE Ensembl match :: ENST00000221130.11/ ENSP00000221130.5
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC069244.1, AC103959.18 and
+            CA944703.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 23, 2018 this sequence version replaced NM_000637.4.
+            Summary: This gene encodes a member of the class-I pyridine
+            nucleotide-disulfide oxidoreductase family. This enzyme is a
+            homodimeric flavoprotein. It is a central enzyme of cellular
+            antioxidant defense, and reduces oxidized glutathione disulfide
+            (GSSG) to the sulfhydryl form GSH, which is an important cellular
+            antioxidant. Rare mutations in this gene result in hereditary
+            glutathione reductase deficiency. Multiple alternatively spliced
+            transcript variants encoding different isoforms have been found.
+            [provided by RefSeq, Aug 2010].
+            Transcript Variant: This variant (1) encodes the longest isoform
+            (1).
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3034
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="8"
+                     /map="8p12"
+     gene            1..3034
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /note="glutathione-disulfide reductase"
+                     /db_xref="GeneID:2936"
+                     /db_xref="HGNC:HGNC:4623"
+                     /db_xref="MIM:138300"
+     exon            1..317
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             12..1580
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /EC_number="1.8.1.7"
+                     /note="isoform 1 precursor is encoded by transcript variant
+                     1; glutathione reductase, mitochondrial; glutathione
+                     S-reductase; epididymis luminal protein 75; GRase;
+                     epididymis secretory sperm binding protein Li 122m"
+                     /codon_start=1
+                     /product="glutathione reductase, mitochondrial isoform 1
+                     precursor"
+                     /protein_id="NP_000628.2"
+                     /db_xref="CCDS:CCDS34877.1"
+                     /db_xref="GeneID:2936"
+                     /db_xref="HGNC:HGNC:4623"
+                     /db_xref="MIM:138300"
+                     /translation="MALLPRALSAGAGPSWRRAARAFRGFLLLLPEPAALTRALSRAMA
+                     CRQEPQPQGPPPAAGAVASYDYLVIGGGSGGLASARRAAELGARAAVVESHKLGGTCVN
+                     VGCVPKKVMWNTAVHSEFMHDHADYGFPSCEGKFNWRVIKEKRDAYVSRLNAIYQNNLT
+                     KSHIEIIRGHAAFTSDPKPTIEVSGKKYTAPHILIATGGMPSTPHESQIPGASLGITSD
+                     GFFQLEELPGRSVIVGAGYIAVEMAGILSALGSKTSLMIRHDKVLRSFDSMISTNCTEE
+                     LENAGVEVLKFSQVKEVKKTLSGLEVSMVTAVPGRLPVMTMIPDVDCLLWAIGRVPNTK
+                     DLSLNKLGIQTDDKGHIIVDEFQNTNVKGIYAVGDVCGKALLTPVAIAAGRKLAHRLFE
+                     YKEDSKLDYNNIPTVVFSHPPIGTVGLTEDEAIHKYGIENVKTYSTSFTPMYHAVTKRK
+                     TKCVMKMVCANKEEKVVGIHMQGLGCDEMLQGFAVAVKMGATKADFDNTVAIHPTSSEE
+                     LVTLR"
+     transit_peptide 12..140
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /note="Mitochondrion. /evidence=ECO:0000255; propagated
+                     from UniProtKB/Swiss-Prot (P00390.2)"
+     mat_peptide     141..1577
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /product="Glutathione reductase, mitochondrial.
+                     /id=PRO_0000030276"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00390.2)"
+     misc_feature    300..302
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P47791; propagated from
+                     UniProtKB/Swiss-Prot (P00390.2); acetylation site"
+     exon            318..344
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            345..433
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            434..503
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            504..651
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            652..706
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            707..806
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            807..893
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            894..1052
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1053..1164
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1165..1296
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1297..1430
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1431..3034
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3009..3014
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /note="hexamer: AATAAA"
+     polyA_site      3034
+                     /gene="GSR"
+                     /gene_synonym="CNSHA10; GR; GSRD; HEL-75; HEL-S-122m"
+                     /note="major polyA site"
+ORIGIN
+        1 cttccgcgtg catggccctg ctgccccgag ccctgagcgc cggcgcggga ccgagctggc
+       61 ggcgggcggc gcgcgccttc cgaggcttcc tgctgcttct gcccgagccc gcggccctca
+      121 cgcgcgccct ctcccgtgcc atggcctgca ggcaggagcc gcagccgcag ggcccgccgc
+      181 ccgctgctgg cgccgtggcc tcctatgact acctggtgat cgggggcggc tcgggcgggc
+      241 tggccagcgc gcgcagggcg gccgagctgg gtgccagggc cgccgtggtg gagagccaca
+      301 agctgggtgg cacttgcgtg aatgttggat gtgtacccaa aaaggtaatg tggaacacag
+      361 ctgtccactc tgaattcatg catgatcatg ctgattatgg ctttccaagt tgtgagggta
+      421 aattcaattg gcgtgttatt aaggaaaagc gggatgccta tgtgagccgc ctgaatgcca
+      481 tctatcaaaa caatctcacc aagtcccata tagaaatcat ccgtggccat gcagccttca
+      541 cgagtgatcc caagcccaca atagaggtca gtgggaaaaa gtacaccgcc ccacacatcc
+      601 tgatcgccac aggtggtatg ccctccaccc ctcatgagag ccagatcccc ggtgccagct
+      661 taggaataac cagcgatgga ttttttcagc tggaagaatt gcccggccgc agcgtcattg
+      721 ttggtgcagg ttacattgct gtggagatgg cagggatcct gtcagccctg ggttctaaga
+      781 catcactgat gatacggcat gataaggtac ttagaagttt tgattcaatg atcagcacca
+      841 actgcacgga ggagctggag aacgctggcg tggaggtgct gaagttctcc caggtcaagg
+      901 aggttaaaaa gactttgtcg ggcttggaag tcagcatggt tactgcagtt cccggtaggc
+      961 taccagtcat gaccatgatt ccagatgttg actgcctgct ctgggccatt gggcgggtcc
+     1021 cgaataccaa ggacctgagt ttaaacaaac tggggattca aaccgatgac aagggtcata
+     1081 tcatcgtaga cgaattccag aataccaacg tcaaaggcat ctatgcagtt ggggatgtat
+     1141 gtggaaaagc tcttcttact ccagttgcaa tagctgctgg ccgaaaactt gcccatcgac
+     1201 tttttgaata taaggaagat tccaaattag attataacaa catcccaact gtggtcttca
+     1261 gccacccccc tattgggaca gtgggactca cggaagatga agccattcat aaatatggaa
+     1321 tagaaaatgt gaagacctat tcaacgagct ttaccccgat gtatcacgca gttaccaaaa
+     1381 ggaaaacaaa atgtgtgatg aaaatggtct gtgctaacaa ggaagaaaag gtggttggga
+     1441 tccatatgca gggacttggg tgtgatgaaa tgctgcaggg ttttgctgtt gcagtgaaga
+     1501 tgggagcaac gaaggcagac tttgacaaca cagtcgccat tcaccctacc tcttcagaag
+     1561 agctggtcac acttcgttga gaaccaggag acacgtgtgg cgggcagtgg gacccataga
+     1621 tcttctgaaa tgaaacaaat aatcacattg acttactgtt tgagttttat gtatttcttt
+     1681 attttaatca ggatcttctg atagtggaaa tttttagtac ataatagaac ttatttatgg
+     1741 agttagaaat ttgtagtgtt atccaggatt gattttcatt tgatcacatc tcacagtaat
+     1801 taatattttc aagttttttt tttattaaca gctctgtgct agtttttttt ttctgtttta
+     1861 gcctcatccc aaatataaag ctttgtgaag tacaattaac ttaatgtact tgaatgaata
+     1921 gaacttgcta cttttttttt tttttttttt gagacagagt tttgctctca ttgcccaggc
+     1981 tggagtgcgg tggtgctatt tcagctcacc acaacctctg cctcctgggt tcaagtgatt
+     2041 ctcctgcctt agcctcccga atagctggaa ttacaggcac gcaccaccat gcctgactaa
+     2101 ttttgtattt ttagtagaca tggggtttct ccatgttggt caggctggtc tcaaactccc
+     2161 accttcaggt gatccgccca cctcggcctc ctgaggtgct gagattacag gcgtgagcca
+     2221 ctgtgccagc ttgctaattt tcacagaagt tgatggcaat tcttcacatg taaacagtgc
+     2281 cagtgcacag aacctttata tattttttga agccagtact gtgctctgca tataacaaag
+     2341 ctgcttcaag gatgagacct ttttctaaaa gcatgtaatg tgagaagccg gcctgcctta
+     2401 ttttcttttt tcttttttaa tgattaaaaa tagtttgtgg caaggcacgg tggctcaggc
+     2461 ctgtaattct agcactttgg gaggccgagg caggaggatt acttgagcct acaagtttga
+     2521 ggccagcatg cacagcatag caagactgca tctctacaga gagtaaaaaa aattacccga
+     2581 gtgtggtgat gtgcatctgt aatctcagct acttgggagg ctgaggtgag aggatcactt
+     2641 gagcttgggt gaggtgaggc tgcagtgagt cctgatcatg ctgctgcact caatcttgga
+     2701 caacagagca agaccctgtc tcaaaaaaaa aaaaaaaaaa tatatatata tatatatatt
+     2761 atttttatga ggtgaagtgc atcaaacttg ggaaagattt gaggaggctg ggaacctcct
+     2821 ggaaaaccac tccttgaaga aagatatgag agacatttag aagtgattcc tgctttcaga
+     2881 aggaggtgga ttcaaataca tcaaaagtcc cttcctctgc taagtgttta tagttcaatg
+     2941 aataatttca atatttgtat gtgttcttgt cattttattt ttttctgaaa aacttccaaa
+     3001 aatttgaaaa taaaattaca gccttttctt ctta
+//

@@ -1,0 +1,287 @@
+LOCUS       NM_000031               3129 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens aminolevulinate dehydratase (ALAD), transcript variant
+            2, mRNA.
+ACCESSION   NM_000031
+VERSION     NM_000031.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3129)
+  AUTHORS   Palir,N., Stajnko,A., Snoj Tratnik,J., Mazej,D., Briski,A.S.,
+            France-Stiglic,A., Rosolen,V., Mariuz,M., Giordani,E., Barbone,F.,
+            Horvat,M. and Falnoga,I.
+  TITLE     ALAD and APOE polymorphisms are associated with lead and mercury
+            levels in Italian pregnant women and their newborns with adequate
+            nutritional status of zinc and selenium
+  JOURNAL   Environ Res 220, 115226 (2023)
+   PUBMED   36621546
+  REMARK    GeneRIF: ALAD and APOE polymorphisms are associated with lead and
+            mercury levels in Italian pregnant women and their newborns with
+            adequate nutritional status of zinc and selenium.
+REFERENCE   2  (bases 1 to 3129)
+  AUTHORS   Qader,A., Rehman,K. and Akash,M.S.H.
+  TITLE     Genetic susceptibility of delta-ALAD associated with lead (Pb)
+            intoxication: sources of exposure, preventive measures, and
+            treatment interventions
+  JOURNAL   Environ Sci Pollut Res Int 28 (33), 44818-44832 (2021)
+   PUBMED   34244947
+  REMARK    GeneRIF: Genetic susceptibility of delta-ALAD associated with lead
+            (Pb) intoxication: sources of exposure, preventive measures, and
+            treatment interventions. Review article
+REFERENCE   3  (bases 1 to 3129)
+  AUTHORS   Perini,J.A., Silva,M.C., Vasconcellos,A.C.S., Viana,P.V.S.,
+            Lima,M.O., Jesus,I.M., Kempton,J.W., Oliveira,R.A.A., Hacon,S.S. and
+            Basta,P.C.
+  TITLE     Genetic Polymorphism of Delta Aminolevulinic Acid Dehydratase (ALAD)
+            Gene and Symptoms of Chronic Mercury Exposure in Munduruku
+            Indigenous Children within the Brazilian Amazon
+  JOURNAL   Int J Environ Res Public Health 18 (16), 8746 (2021)
+   PUBMED   34444495
+  REMARK    GeneRIF: Genetic Polymorphism of Delta Aminolevulinic Acid
+            Dehydratase (ALAD) Gene and Symptoms of Chronic Mercury Exposure in
+            Munduruku Indigenous Children within the Brazilian Amazon.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 3129)
+  AUTHORS   Liu,G., Sil,D., Maio,N., Tong,W.H., Bollinger,J.M. Jr., Krebs,C. and
+            Rouault,T.A.
+  TITLE     Heme biosynthesis depends on previously unrecognized acquisition of
+            iron-sulfur cofactors in human amino-levulinic acid dehydratase
+  JOURNAL   Nat Commun 11 (1), 6310 (2020)
+   PUBMED   33298951
+  REMARK    GeneRIF: Heme biosynthesis depends on previously unrecognized
+            acquisition of iron-sulfur cofactors in human amino-levulinic acid
+            dehydratase. Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3129)
+  AUTHORS   Gevaert,K., Goethals,M., Martens,L., Van Damme,J., Staes,A.,
+            Thomas,G.R. and Vandekerckhove,J.
+  TITLE     Exploring proteomes and analyzing protein processing by mass
+            spectrometric identification of sorted N-terminal peptides
+  JOURNAL   Nat Biotechnol 21 (5), 566-569 (2003)
+   PUBMED   12665801
+REFERENCE   6  (bases 1 to 3129)
+  AUTHORS   Dawson,S.J. and White,L.A.
+  TITLE     Treatment of Haemophilus aphrophilus endocarditis with ciprofloxacin
+  JOURNAL   J Infect 24 (3), 317-320 (1992)
+   PUBMED   1602151
+REFERENCE   7  (bases 1 to 3129)
+  AUTHORS   Ishida,N., Fujita,H., Fukuda,Y., Noguchi,T., Doss,M., Kappas,A. and
+            Sassa,S.
+  TITLE     Cloning and expression of the defective genes from a patient with
+            delta-aminolevulinate dehydratase porphyria
+  JOURNAL   J Clin Invest 89 (5), 1431-1437 (1992)
+   PUBMED   1569184
+REFERENCE   8  (bases 1 to 3129)
+  AUTHORS   Astrin,K.H., Kaya,A.H., Wetmur,J.G. and Desnick,R.J.
+  TITLE     RsaI polymorphism in the human delta-aminolevulinate dehydratase
+            gene at 9q34
+  JOURNAL   Nucleic Acids Res 19 (15), 4307 (1991)
+   PUBMED   1678509
+REFERENCE   9  (bases 1 to 3129)
+  AUTHORS   Wetmur,J.G., Bishop,D.F., Cantelmo,C. and Desnick,R.J.
+  TITLE     Human delta-aminolevulinate dehydratase: nucleotide sequence of a
+            full-length cDNA clone
+  JOURNAL   Proc Natl Acad Sci U S A 83 (20), 7703-7707 (1986)
+   PUBMED   3463993
+REFERENCE   10  (bases 1 to 3129)
+  AUTHORS   Roels,H.A., Buchet,J.P., Lauwerys,R.R. and Sonnet,J.
+  TITLE     Comparison of in vivo effect of inorganic lead and cadmium on
+            glutathione reductase system and delta-aminolevulinate dehydratase
+            in human erythrocytes
+  JOURNAL   Br J Ind Med 32 (3), 181-192 (1975)
+   PUBMED   1156566
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803617.172413.1,
+            SRR1660805.72089.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            CDS uses downstream in-frame AUG :: experimental evidence
+            (PMID:12665801)
+            MANE Ensembl match :: ENST00000409155.8/ ENSP00000386284.3
+            RefSeq Select criteria :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA805310.1, AK290490.1,
+            AK131490.1, BC000977.3 and BU625796.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 20, 2018 this sequence version replaced NM_000031.5.
+            Summary: The ALAD enzyme is composed of 8 identical subunits and
+            catalyzes the condensation of 2 molecules of delta-aminolevulinate
+            to form porphobilinogen (a precursor of heme, cytochromes and other
+            hemoproteins). ALAD catalyzes the second step in the porphyrin and
+            heme biosynthetic pathway; zinc is essential for enzymatic
+            activity. ALAD enzymatic activity is inhibited by lead and a defect
+            in the ALAD structural gene can cause increased sensitivity to lead
+            poisoning and acute hepatic porphyria. Alternative splicing of this
+            gene results in multiple transcript variants encoding different
+            isoforms. [provided by RefSeq, Dec 2015].
+            Transcript Variant: This variant (2) lacks a segment of the coding
+            region and initiates translation from an alternate start codon,
+            compared to variant 1. The resulting isoform (b) has a distinct
+            N-terminus, compared to isoform a.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3129
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="9"
+                     /map="9q32"
+     gene            1..3129
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /note="aminolevulinate dehydratase"
+                     /db_xref="GeneID:210"
+                     /db_xref="HGNC:HGNC:395"
+                     /db_xref="MIM:125270"
+     exon            1..73
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            74..261
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    122..124
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /note="upstream_AUG_codon; putative N-terminal extension:
+                     MPLCPLAHA"
+     CDS             149..1141
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /EC_number="4.2.1.24"
+                     /note="isoform b is encoded by transcript variant 2;
+                     porphobilinogen synthase; aminolevulinate, delta-,
+                     dehydratase; testicular tissue protein Li 95;
+                     delta-aminolevulinic acid dehydratase"
+                     /codon_start=1
+                     /product="delta-aminolevulinic acid dehydratase isoform b"
+                     /protein_id="NP_000022.3"
+                     /db_xref="CCDS:CCDS6794.2"
+                     /db_xref="GeneID:210"
+                     /db_xref="HGNC:HGNC:395"
+                     /db_xref="MIM:125270"
+                     /translation="MQPQSVLHSGYFHPLLRAWQTATTTLNASNLIYPIFVTDVPDDIQ
+                     PITSLPGVARYGVKRLEEMLRPLVEEGLRCVLIFGVPSRVPKDERGSAADSEESPAIEA
+                     IHLLRKTFPNLLVACDVCLCPYTSHGHCGLLSENGAFRAEESRQRLAEVALAYAKAGCQ
+                     VVAPSDMMDGRVEAIKEALMAHGLGNRVSVMSYSAKFASCFYGPFRDAAKSSPAFGDRR
+                     CYQLPPGARGLALRAVDRDVREGADMLMVKPGMPYLDIVREVKDKHPDLPLAVYHVSGE
+                     FAMLWHGAQAGAFDLKAAVLEAMTAFRRAGADIIITYYTPQLLQWLKEE"
+     misc_feature    791..793
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P10518; propagated from
+                     UniProtKB/Swiss-Prot (P13716.1); phosphorylation site"
+     exon            262..312
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            313..409
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            410..545
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            546..629
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            630..718
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            719..774
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            775..862
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            863..949
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            950..1079
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1080..3129
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3104..3109
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /note="hexamer: AATAAA"
+     polyA_site      3129
+                     /gene="ALAD"
+                     /gene_synonym="ALADH; PBGS"
+                     /note="major polyA site"
+ORIGIN
+        1 acgcggtctg tgggagaccg gagcgggaga cagcggtgac aggagcagcg gccgggagcc
+       61 cttagggagg cagacagagc ctgcagccaa tgccccagga gccctcggtt ccaaccaact
+      121 gatgcccctg tgcccactgg cccacgccat gcagccccag tccgttctgc acagcggcta
+      181 cttccaccca ctacttcggg cctggcagac agccaccacc accctcaatg cctccaacct
+      241 catctacccc atctttgtca cggatgttcc tgatgacata cagcctatca ccagcctccc
+      301 aggagtggcc aggtatggtg tgaagcggct ggaagagatg ctgaggccct tggtggaaga
+      361 gggcctacgc tgtgtcttga tctttggcgt ccccagcaga gttcccaagg acgagcgggg
+      421 ttccgcagct gactccgagg agtccccagc tattgaggca atccatctgt tgaggaagac
+      481 cttccccaac ctcctggtgg cctgtgatgt ctgcctgtgt ccctacacct cccatggtca
+      541 ctgcgggctc ctgagtgaaa acggagcatt ccgggctgag gagagccgcc agcggctggc
+      601 tgaggtggca ttggcgtatg ccaaggcagg atgtcaggtg gtagccccgt cggacatgat
+      661 ggatggacgc gtggaagcca tcaaagaggc cctgatggca catggacttg gcaacagggt
+      721 atcggtgatg agctacagtg ccaaatttgc ttcctgtttc tatggccctt tccgggatgc
+      781 agctaagtca agcccagctt ttggggaccg ccgctgctac cagctgcccc ctggagcacg
+      841 aggcctggct ctccgagctg tggaccggga tgtacgggaa ggagctgaca tgctcatggt
+      901 gaagccggga atgccctacc tggacatcgt gcgggaggta aaggacaagc accctgacct
+      961 ccctctcgcc gtgtaccacg tctctggaga gtttgccatg ctgtggcatg gagcccaggc
+     1021 cggggcattt gatctcaagg ctgccgtact ggaggccatg actgccttcc gcagagcagg
+     1081 tgctgacatc atcatcacct actacacacc gcagctgctg cagtggctga aggaggaatg
+     1141 atggagacag tgccaggccc aagaactaga actttaaaac gttcccgggg cctcagacaa
+     1201 gtgaaaacca aagtaaatgc tgcttttaga actgtgccct catgccctct tcctgctcac
+     1261 atgctagcgg ggcccagcag ccctgggtgg ttttgccagc atgctaactc ttgtaactcg
+     1321 cagctgcatc ctatgagctc tcccaagctt ccccgcccct cccctgggtc agccgtgagg
+     1381 cccacctttg ccaccctcag ctctttcctc tggtgtggct tcagcttgaa agcaacctgg
+     1441 agtcgggggc acagcctttg gggcctggct gggagagggt cttggagcat taggggaaga
+     1501 agagagcagt gggatcttgg ggcctgagaa gccttggaac gcttctggca gcagagctgg
+     1561 gtgtgggaat gaggcctaga tcgatatccc tgggttagag ttgaaatttg ccgcaattcc
+     1621 actggaaggc atttcccacg aggccagagg ttgccaggct gcctgaggtc tcctattcta
+     1681 ctctgaacca taaacccaga gaagaattac tcattaacca gcataaatac tgcctgagga
+     1741 tcaaaactca gaggcaaaga gggagttcct gactgctaga ggtgccacca ccacaaacac
+     1801 tttttattca ggagatactt tttgagaatc tctgctctgt tcctaggttc agtgctgggt
+     1861 cctgggaata cagcaggaca gacctcagct tatctcttca tagaaattat acaaagagaa
+     1921 ttggggagac agctaagaag aaaacaaaga aataaagcag ttacaaattg tgataagtgc
+     1981 tttgaaggaa agaaggggtc tgagacaaca acagggaagg ggcctctctt gaaacagtag
+     2041 ttgggaagga ggcagacatg caccagtgat gtggtgacag gtgctctgaa ggaggtcacc
+     2101 aggacctgac ctctttgaag gatcagaaaa tacttccctg aaggactgac atttgagcct
+     2161 agacctgaag ggtgagccat caagctaaga caattgggga agagcattcc agggagaggg
+     2221 aggagttgtg caaaggccct ggggctcctt ctagctggag gaatgcaagg ctagcttgtc
+     2281 tggagcactg agaggatggc ctgaactgag tggagagaga cagaccagga ccaaaccatg
+     2341 cagaggtcaa gggccacatt caccttttca gagtgactca atcaaatttg tagtttgtaa
+     2401 aagtatttta acagctctgc ggcaaagtgc aaatgaaaag tcttgatggc atggactgga
+     2461 gcggggacag tggggatgga gaaaggggaa tggattgtgg atgtgtttag aaggtagatt
+     2521 cgatgtgaag gatgaatctg gcttgacctt ctgggtggct gatgggccat ttactgagat
+     2581 ggggcagcct ggaagaggaa cagaagcagg gtcggggtgg agggagaata ctaaacttag
+     2641 cttgagacat tttgcaataa ggaagctata tctagagtgc ttatgtgact cacctaaggc
+     2701 cactcaacaa gtttgtggca gaactggatt agaactgcac agaaaacagc caagctggga
+     2761 tttgaaccca tgtagtccaa ctccaaggcc tctgccccta accactgtgc cataccacct
+     2821 cccaataatc aacagcaaaa ttataggtct aacaatgttt tatagacacc cctccattta
+     2881 tgtgatgggt ttgcatcctg ataaacccat cataagttga aaatatgatc ataagttgaa
+     2941 aatatgatca taagtcaaaa atgtatttaa tatacctaac ctaccaaaca tcatagctta
+     3001 gcctagcctg ccttaaacat gctcagaaca cttacattag cctacagtgg gcaaaactat
+     3061 ccaacacaaa atctatattg taataaagtt gtaaagaatt ttgaataaaa attcaatatt
+     3121 tgaagtaca
+//

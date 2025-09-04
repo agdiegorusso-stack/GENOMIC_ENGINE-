@@ -1,0 +1,252 @@
+LOCUS       NM_002032               1203 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens ferritin heavy chain 1 (FTH1), mRNA.
+ACCESSION   NM_002032
+VERSION     NM_002032.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1203)
+  AUTHORS   Li,L., Zeng,J., He,S., Yang,Y. and Wang,C.
+  TITLE     METTL14 decreases FTH1 mRNA stability via m6A methylation to promote
+            sorafenib-induced ferroptosis of cervical cancer
+  JOURNAL   Cancer Biol Ther 25 (1), 2349429 (2024)
+   PUBMED   38738555
+  REMARK    GeneRIF: METTL14 decreases FTH1 mRNA stability via m6A methylation
+            to promote sorafenib-induced ferroptosis of cervical cancer.
+REFERENCE   2  (bases 1 to 1203)
+  AUTHORS   Park,J.M., Su,Y.H., Fan,C.S., Chen,H.H., Qiu,Y.K., Chen,L.L.,
+            Chen,H.A., Ramasamy,T.S., Chang,J.S., Huang,S.Y., Chang,W.W.,
+            Lee,A.Y., Huang,T.S., Kuo,C.C. and Chiu,C.F.
+  TITLE     Crosstalk between FTH1 and PYCR1 dysregulates proline metabolism and
+            mediates cell growth in KRAS-mutant pancreatic cancer cells
+  JOURNAL   Exp Mol Med 56 (9), 2065-2081 (2024)
+   PUBMED   39294443
+  REMARK    GeneRIF: Crosstalk between FTH1 and PYCR1 dysregulates proline
+            metabolism and mediates cell growth in KRAS-mutant pancreatic cancer
+            cells. Erratum:[Exp Mol Med. 2025 Mar;57(3):700-701. doi:
+            10.1038/s12276-025-01437-w. PMID: 40148571]
+REFERENCE   3  (bases 1 to 1203)
+  AUTHORS   Yuan,Z., Yang,L., Li,Y., Li,X., Peng,C., Pan,J. and Cai,D.
+  TITLE     FTH1 protects against osteoarthritis by MAPK pathway inhibition of
+            extracellular matrix degradation
+  JOURNAL   BMC Musculoskelet Disord 25 (1), 282 (2024)
+   PUBMED   38609896
+  REMARK    GeneRIF: FTH1 protects against osteoarthritis by MAPK pathway
+            inhibition of extracellular matrix degradation. Publication Status:
+            Online-Only
+REFERENCE   4  (bases 1 to 1203)
+  AUTHORS   Wu,Q., Carlos,A.R., Braza,F., Bergman,M.L., Kitoko,J.Z.,
+            Bastos-Amador,P., Cuadrado,E., Martins,R., Oliveira,B.S.,
+            Martins,V.C., Scicluna,B.P., Landry,J.J., Jung,F.E., Ademolue,T.W.,
+            Peitzsch,M., Almeida-Santos,J., Thompson,J., Cardoso,S., Ventura,P.,
+            Slot,M., Rontogianni,S., Ribeiro,V., Domingues,V.D.S., Cabral,I.A.,
+            Weis,S., Groth,M., Ameneiro,C., Fidalgo,M., Wang,F., Demengeot,J.,
+            Amsen,D. and Soares,M.P.
+  TITLE     Ferritin heavy chain supports stability and function of the
+            regulatory T cell lineage
+  JOURNAL   EMBO J 43 (8), 1445-1483 (2024)
+   PUBMED   38499786
+  REMARK    GeneRIF: Ferritin heavy chain supports stability and function of the
+            regulatory T cell lineage.
+REFERENCE   5  (bases 1 to 1203)
+  AUTHORS   He,M., Wang,Y., Xie,J., Pu,J., Shen,Z., Wang,A., Li,T., Wang,T.,
+            Li,G., Liu,Y., Mei,Z., Ren,Z., Wang,W., Liu,X., Hong,J., Liu,Q.,
+            Lei,H., He,X., Du,W., Yuan,Y. and Yang,L.
+  TITLE     M7G modification of FTH1 and pri-miR-26a regulates ferroptosis and
+            chemotherapy resistance in osteosarcoma
+  JOURNAL   Oncogene 43 (5), 341-353 (2024)
+   PUBMED   38040806
+  REMARK    GeneRIF: M[7]G modification of FTH1 and pri-miR-26a regulates
+            ferroptosis and chemotherapy resistance in osteosarcoma.
+            Erratum:[Oncogene. 2024 Apr;43(17):1316. doi:
+            10.1038/s41388-024-02978-6. PMID: 38418547]
+REFERENCE   6  (bases 1 to 1203)
+  AUTHORS   Lawson,D.M., Artymiuk,P.J., Yewdall,S.J., Smith,J.M.,
+            Livingstone,J.C., Treffry,A., Luzzago,A., Levi,S., Arosio,P.,
+            Cesareni,G. et al.
+  TITLE     Solving the structure of human H ferritin by genetically engineering
+            intermolecular crystal contacts
+  JOURNAL   Nature 349 (6309), 541-544 (1991)
+   PUBMED   1992356
+REFERENCE   7  (bases 1 to 1203)
+  AUTHORS   Hentze,M.W., Keim,S., Papadopoulos,P., O'Brien,S., Modi,W.,
+            Drysdale,J., Leonard,W.J., Harford,J.B. and Klausner,R.D.
+  TITLE     Cloning, characterization, expression, and chromosomal localization
+            of a human ferritin heavy-chain gene
+  JOURNAL   Proc Natl Acad Sci U S A 83 (19), 7226-7230 (1986)
+   PUBMED   3020541
+REFERENCE   8  (bases 1 to 1203)
+  AUTHORS   Chou,C.C., Gatti,R.A., Fuller,M.L., Concannon,P., Wong,A., Chada,S.,
+            Davis,R.C. and Salser,W.A.
+  TITLE     Structure and expression of ferritin genes in a human promyelocytic
+            cell line that differentiates in vitro
+  JOURNAL   Mol Cell Biol 6 (2), 566-573 (1986)
+   PUBMED   3023856
+REFERENCE   9  (bases 1 to 1203)
+  AUTHORS   Costanzo,F., Colombo,M., Staempfli,S., Santoro,C., Marone,M.,
+            Frank,R., Delius,H. and Cortese,R.
+  TITLE     Structure of gene and pseudogenes of human apoferritin H
+  JOURNAL   Nucleic Acids Res 14 (2), 721-736 (1986)
+   PUBMED   3003694
+REFERENCE   10  (bases 1 to 1203)
+  AUTHORS   Arosio,P., Adelman,T.G. and Drysdale,J.W.
+  TITLE     On ferritin heterogeneity. Further evidence for heteropolymers
+  JOURNAL   J Biol Chem 253 (12), 4451-4458 (1978)
+   PUBMED   659425
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: L20941.1, M97164.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000273550.12/ ENSP00000273550.7
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BQ887222.1, BC000857.1,
+            M97164.1 and BM971420.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 22, 2018 this sequence version replaced NM_002032.2.
+            Summary: This gene encodes the heavy subunit of ferritin, the major
+            intracellular iron storage protein in prokaryotes and eukaryotes.
+            It is composed of 24 subunits of the heavy and light ferritin
+            chains. Variation in ferritin subunit composition may affect the
+            rates of iron uptake and release in different tissues. A major
+            function of ferritin is the storage of iron in a soluble and
+            nontoxic state. Defects in ferritin proteins are associated with
+            several neurodegenerative diseases. This gene has multiple
+            pseudogenes. Several alternatively spliced transcript variants have
+            been observed, but their biological validity has not been
+            determined. [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1203
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q12.3"
+     gene            1..1203
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="ferritin heavy chain 1"
+                     /db_xref="GeneID:2495"
+                     /db_xref="HGNC:HGNC:3976"
+                     /db_xref="MIM:134770"
+     exon            1..323
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    96..98
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="upstream in-frame stop codon"
+     CDS             210..761
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /EC_number="1.16.3.1"
+                     /note="apoferritin; placenta immunoregulatory factor;
+                     ferritin, heavy polypeptide 1; proliferation-inducing
+                     protein 15; ferritin H subunit; cell proliferation-inducing
+                     gene 15 protein; H-ferritin"
+                     /codon_start=1
+                     /product="ferritin heavy chain"
+                     /protein_id="NP_002023.2"
+                     /db_xref="CCDS:CCDS41655.1"
+                     /db_xref="GeneID:2495"
+                     /db_xref="HGNC:HGNC:3976"
+                     /db_xref="MIM:134770"
+                     /translation="MTTASTSQVRQNYHQDSEAAINRQINLELYASYVYLSMSYYFDRD
+                     DVALKNFAKYFLHQSHEEREHAEKLMKLQNQRGGRIFLQDIKKPDCDDWESGLNAMECA
+                     LHLEKNVNQSLLELHKLATDKNDPHLCDFIETHYLNEQVKAIKELGDHVTNLRKMGAPE
+                     SGLAEYLFDKHTLGDSDNES"
+     misc_feature    210..212
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (P02794.2); acetylation site"
+     misc_feature    213..215
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="N-acetylthreonine, in Ferritin heavy chain,
+                     N-terminally processed.
+                     /evidence=ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (P02794.2); acetylation site"
+     misc_feature    276..278
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="Essential for association with cargo receptor NCOA4.
+                     /evidence=ECO:0000269|PubMed:26436293; propagated from
+                     UniProtKB/Swiss-Prot (P02794.2); other site"
+     misc_feature    744..746
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18318008, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (P02794.2);
+                     phosphorylation site"
+     misc_feature    756..758
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18318008; propagated from
+                     UniProtKB/Swiss-Prot (P02794.2); phosphorylation site"
+     exon            324..470
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            471..596
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            597..1203
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      903..908
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="hexamer: AATAAA"
+     polyA_site      925
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="major polyA site"
+     regulatory      1181..1186
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+                     /note="hexamer: AATAAA"
+     polyA_site      1203
+                     /gene="FTH1"
+                     /gene_synonym="FHC; FTH; FTHL6; HFE5; NBIA9; PIG15; PLIF"
+ORIGIN
+        1 gccagacgtt cttcgccgag agtcgtcggg gtttcctgct tcaacagtgc ttggacggaa
+       61 cccggcgctc gttccccacc ccggccggcc gcccatagcc agccctccgt cacctcttca
+      121 ccgcaccctc ggactgcccc aaggcccccg ccgccgctcc agcgccgcgc agccaccgcc
+      181 gccgccgccg cctctcctta gtcgccgcca tgacgaccgc gtccacctcg caggtgcgcc
+      241 agaactacca ccaggactca gaggccgcca tcaaccgcca gatcaacctg gagctctacg
+      301 cctcctacgt ttacctgtcc atgtcttact actttgaccg cgatgatgtg gctttgaaga
+      361 actttgccaa atactttctt caccaatctc atgaggagag ggaacatgct gagaaactga
+      421 tgaagctgca gaaccaacga ggtggccgaa tcttccttca ggatatcaag aaaccagact
+      481 gtgatgactg ggagagcggg ctgaatgcaa tggagtgtgc attacatttg gaaaaaaatg
+      541 tgaatcagtc actactggaa ctgcacaaac tggccactga caaaaatgac ccccatttgt
+      601 gtgacttcat tgagacacat tacctgaatg agcaggtgaa agccatcaaa gaattgggtg
+      661 accacgtgac caacttgcgc aagatgggag cgcccgaatc tggcttggcg gaatatctct
+      721 ttgacaagca caccctggga gacagtgata atgaaagcta agcctcgggc taatttcccc
+      781 atagccgtgg ggtgacttcc ctggtcacca aggcagtgca tgcatgttgg ggtttccttt
+      841 accttttcta taagttgtac caaaacatcc acttaagttc tttgatttgt accattcctt
+      901 caaataaaga aatttggtac ccaggtgttg tctttgaggt cttgggatga atcagaaatc
+      961 tatccaggct atcttccaga ttccttaagt gccgttgttc agttctaatc acactaatca
+     1021 aaaagaaacg agtatttgta tttattaaac tcattagttt gggcagtata ctaaggtgtg
+     1081 gctgtcttgg attcagatag aactaagggt tcccgactct gaatccagag tctgagttaa
+     1141 atgtttccaa tggttcagtc tagctttcac agtttttatg aataaaaggc attaaaggct
+     1201 gaa
+//

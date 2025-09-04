@@ -1,0 +1,359 @@
+LOCUS       NM_001136139            4084 bp    mRNA    linear   PRI 13-OCT-2018
+DEFINITION  Homo sapiens transcription factor 3 (TCF3), transcript variant 2,
+            mRNA.
+ACCESSION   NM_001136139
+VERSION     NM_001136139.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4084)
+  AUTHORS   Yamazaki T, Liu L, Lazarev D, Al-Zain A, Fomin V, Yeung PL, Chambers
+            SM, Lu CW, Studer L and Manley JL.
+  TITLE     TCF3 alternative splicing controlled by hnRNP H/F regulates
+            E-cadherin expression and hESC pluripotency
+  JOURNAL   Genes Dev. 32 (17-18), 1161-1174 (2018)
+   PUBMED   30115631
+  REMARK    GeneRIF: hnRNP H/F are important for maintenance and differentiation
+            of embryonic stem cells and that this at least in part reflects a
+            switch in TCF3 alternative splicing that leads to repression of
+            CDH1/E-cadherin.
+REFERENCE   2  (bases 1 to 4084)
+  AUTHORS   Hong Y, Zhao X, Qin Y, Zhou S, Chang Y, Wang Y, Zhang X, Xu L and
+            Huang X.
+  TITLE     The prognostic role of E2A-PBX1 expression detected by real-time
+            quantitative reverse transcriptase polymerase chain reaction
+            (RQ-PCR) in B cell acute lymphoblastic leukemia after allogeneic
+            hematopoietic stem cell transplantation
+  JOURNAL   Ann. Hematol. 97 (9), 1547-1554 (2018)
+   PUBMED   29705861
+  REMARK    GeneRIF: B-cell acute lymphoblastic leukemia patients with positive
+            E2A-PBX1 fusion expression after transplant will have a poor
+            prognosis.
+REFERENCE   3  (bases 1 to 4084)
+  AUTHORS   Yin ZN, Ding JL, Zhang Y, Li SJ, Zhang Y and Yang J.
+  TITLE     Expression of E2A in mid-secretory endometrium of women suffering
+            from recurrent miscarriage
+  JOURNAL   J. Huazhong Univ. Sci. Technol. Med. Sci. 37 (6), 910-914 (2017)
+   PUBMED   29270752
+  REMARK    GeneRIF: It was concluded that the abnormal expression of
+            endometrial E2A existed in mid-secretory endometrium of women with
+            recurrent miscarriage, and there was a positive correlation between
+            E2A and FOXP3, and E2A and CTLA-4, suggesting the possible
+            regulatory role of E2A in endometrium receptivity.
+REFERENCE   4  (bases 1 to 4084)
+  AUTHORS   Ma J, Wang XB, Li R, Xuan SH, Wang F, Li XH, Zhang ZP, Tan L and Li
+            L.
+  TITLE     RNAi-mediated TCF-3 gene silencing inhibits proliferation of Eca-109
+            esophageal cancer cells by inducing apoptosis
+  JOURNAL   Biosci. Rep. 37 (6) (2017)
+   PUBMED   28864779
+  REMARK    GeneRIF: TCF3 gene silencing inhibits esophageal cancer cells growth
+            and proliferation, suppresses cell cycle progression, and promotes
+            apoptosis. Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 4084)
+  AUTHORS   Shestakova EA, Boutin M, Bourassa S, Bonneil E and Bijl JJ.
+  TITLE     [Identification of proteins associated with transcription factors
+            HOXA9 and E2A-PBX1 by tandem affinity purification]
+  JOURNAL   Mol. Biol. (Mosk.) 51 (3), 490-501 (2017)
+   PUBMED   28707666
+  REMARK    GeneRIF: This is the first time the protein partners of either
+            E2A-PBX1 or HOXA9 oncoproteins were identified using an unbiased
+            biochemical approach. The identification of translation initiation
+            factors associated with HOXA9 might indicate a novel function for
+            HOX proteins independent of their transcriptional activity.
+REFERENCE   6  (bases 1 to 4084)
+  AUTHORS   Chakraborty T, Martin JF and Olson EN.
+  TITLE     Analysis of the oligomerization of myogenin and E2A products in vivo
+            using a two-hybrid assay system
+  JOURNAL   J. Biol. Chem. 267 (25), 17498-17501 (1992)
+   PUBMED   1325437
+REFERENCE   7  (bases 1 to 4084)
+  AUTHORS   Inaba T, Roberts WM, Shapiro LH, Jolly KW, Raimondi SC, Smith SD and
+            Look AT.
+  TITLE     Fusion of the leucine zipper gene HLF to the E2A gene in human acute
+            B-lineage leukemia
+  JOURNAL   Science 257 (5069), 531-534 (1992)
+   PUBMED   1386162
+REFERENCE   8  (bases 1 to 4084)
+  AUTHORS   Sommer L, Hagenbuchle O, Wellauer PK and Strubin M.
+  TITLE     Nuclear targeting of the transcription factor PTF1 is mediated by a
+            protein subunit that does not bind to the PTF1 cognate sequence
+  JOURNAL   Cell 67 (5), 987-994 (1991)
+   PUBMED   1720355
+REFERENCE   9  (bases 1 to 4084)
+  AUTHORS   Lassar AB, Davis RL, Wright WE, Kadesch T, Murre C, Voronova A,
+            Baltimore D and Weintraub H.
+  TITLE     Functional activity of myogenic HLH proteins requires
+            hetero-oligomerization with E12/E47-like proteins in vivo
+  JOURNAL   Cell 66 (2), 305-315 (1991)
+   PUBMED   1649701
+REFERENCE   10  (bases 1 to 4084)
+  AUTHORS   Hunger SP, Galili N, Carroll AJ, Crist WM, Link MP and Cleary ML.
+  TITLE     The t(1;19)(q23;p13) results in consistent fusion of E2A and PBX1
+            coding sequences in acute lymphoblastic leukemias
+  JOURNAL   Blood 77 (4), 687-693 (1991)
+   PUBMED   1671560
+COMMENT     ##Evidence-Data-START##
+            CDS exon combination :: SRR1163655.194404.1 [ECO:0000331]
+            RNAseq introns :: mixed/partial sample support SAMEA1965299,
+            SAMEA1966682 [ECO:0000350]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CD674814.1, CD516687.1,
+            BU528547.1, BG284440.1, M24404.1, AW028755.1, AC005321.1 and
+            KC877695.1.
+            [WARNING] On Nov 23, 2018 this sequence was replaced by
+            NM_001136139.4.
+            On May 30, 2017 this sequence version replaced NM_001136139.2.
+            Summary: This gene encodes a member of the E protein (class I)
+            family of helix-loop-helix transcription factors. E proteins
+            activate transcription by binding to regulatory E-box sequences on
+            target genes as heterodimers or homodimers, and are inhibited by
+            heterodimerization with inhibitor of DNA-binding (class IV)
+            helix-loop-helix proteins. E proteins play a critical role in
+            lymphopoiesis, and the encoded protein is required for B and T
+            lymphocyte development. Deletion of this gene or diminished
+            activity of the encoded protein may play a role in lymphoid
+            malignancies. This gene is also involved in several chromosomal
+            translocations that are associated with lymphoid malignancies
+            including pre-B-cell acute lymphoblastic leukemia (t(1;19), with
+            PBX1), childhood leukemia (t(19;19), with TFPT) and acute leukemia
+            (t(12;19), with ZNF384). Alternatively spliced transcript variants
+            encoding multiple isoforms have been observed for this gene, and a
+            pseudogene of this gene is located on the short arm of chromosome
+            9. [provided by RefSeq, Sep 2011].
+            Transcript Variant: This variant (2) differs in the 3' UTR, lacks
+            an exon and includes an alternate exon in the 3' coding region, but
+            maintains the reading frame, compared to variant 1. The encoded
+            isoform (E47, also known as Pan-1) is shorter than isoform E12.
+            Variants 2 and 4 encode the same isoform (E47).
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..4084
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19p13.3"
+     gene            1..4084
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /note="transcription factor 3"
+                     /db_xref="GeneID:6929"
+                     /db_xref="HGNC:HGNC:11633"
+                     /db_xref="MIM:147141"
+     exon            1..111
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    13..15
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /note="upstream in-frame stop codon"
+     CDS             40..1995
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /note="isoform E47 is encoded by transcript variant 2; VDR
+                     interacting repressor; transcription factor E2-alpha;
+                     immunoglobulin transcription factor 1; kappa-E2-binding
+                     factor; transcription factor ITF-1; class B basic
+                     helix-loop-helix protein 21; vitamin D receptor-interacting
+                     repressor; negative vitamin D response element-binding
+                     protein; helix-loop-helix protein HE47; transcription
+                     factor 3 (E2A immunoglobulin enhancer binding factors
+                     E12/E47); transcription factor 3 variant 3; NOL1-TCF3
+                     fusion"
+                     /codon_start=1
+                     /product="transcription factor E2-alpha isoform E47"
+                     /protein_id="NP_001129611.1"
+                     /db_xref="CCDS:CCDS45899.1"
+                     /db_xref="GeneID:6929"
+                     /db_xref="HGNC:HGNC:11633"
+                     /db_xref="MIM:147141"
+                     /translation="MNQPQRMAPVGTDKELSDLLDFSMMFPLPVTNGKGRPASLAGAQF
+                     GGSGLEDRPSSGSWGSGDQSSSSFDPSRTFSEGTHFTESHSSLSSSTFLGPGLGGKSGE
+                     RGAYASFGRDAGVGGLTQAGFLSGELALNSPGPLSPSGMKGTSQYYPSYSGSSRRRAAD
+                     GSLDTQPKKVRKVPPGLPSSVYPPSSGEDYGRDATAYPSAKTPSSTYPAPFYVADGSLH
+                     PSAELWSPPGQAGFGPMLGGGSSPLPLPPGSGPVGSSGSSSTFGGLHQHERMGYQLHGA
+                     EVNGGLPSASSFSSAPGATYGGVSSHTPPVSGADSLLGSRGTTAGSSGDALGKALASIY
+                     SPDHSSNNFSSSPSTPVGSPQGLAGTSQWPRAGAPGALSPSYDGGLHGLQSKIEDHLDE
+                     AIHVLRSHAVGTAGDMHTLLPGHGALASGFTGPMSLGGRHAGLVGGSHPEDGLAGSTSL
+                     MHNHAALPSQPGTLPDLSRPPDSYSGLGRAGATAAASEIKREEKEDEENTSAADHSEEE
+                     KKELKAPRARTSSTDEVLSLEEKDLRDRERRMANNARERVRVRDINEAFRELGRMCQMH
+                     LKSDKAQTKLLILQQAVQVILGLEQQVRERNLNPKAACLKRREEEKVSGVVGDPQMVLS
+                     APHPGLSEAHNPAGHM"
+     exon            112..184
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            185..258
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            259..337
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            338..405
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            406..538
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            539..588
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            589..691
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            692..861
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            862..994
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            995..1053
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1054..1132
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1133..1206
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1207..1365
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1366..1489
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1490..1625
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1626..1852
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1853..1998
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1999..4084
+                     /gene="TCF3"
+                     /gene_synonym="AGM8; bHLHb21; E2A; E47; ITF1; p75; TCF-3;
+                     VDIR"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN
+        1 ggtttccagg cctgaggtgc ccgccctggc cccaggagaa tgaaccagcc gcagaggatg
+       61 gcgcctgtgg gcacagacaa ggagctcagt gacctcctgg acttcagcat gatgttcccg
+      121 ctgcctgtca ccaacgggaa gggccggccc gcctccctgg ccggggcgca gttcggaggt
+      181 tcaggtcttg aggaccggcc cagctcaggc tcctggggca gcggcgacca gagcagctcc
+      241 tcctttgacc ccagccggac cttcagcgag ggcacccact tcactgagtc gcacagcagc
+      301 ctctcttcat ccacattcct gggaccggga ctcggaggca agagcggtga gcggggcgcc
+      361 tatgcctcct tcgggagaga cgcaggcgtg ggcggcctga ctcaggctgg cttcctgtca
+      421 ggcgagctgg ccctcaacag ccccgggccc ctgtcccctt cgggcatgaa ggggacctcc
+      481 cagtactacc cctcctactc cggcagctcc cggcggagag cggcagacgg cagcctagac
+      541 acgcagccca agaaggtccg gaaggtcccg ccgggtcttc catcctcggt gtacccaccc
+      601 agctcaggtg aggactacgg cagggatgcc accgcctacc cgtccgccaa gacccccagc
+      661 agcacctatc ccgccccctt ctacgtggca gatggcagcc tgcacccctc agccgagctc
+      721 tggagtcccc cgggccaggc gggcttcggg cccatgctgg gtgggggctc atccccgctg
+      781 cccctcccgc ccggtagcgg cccggtgggc agcagtggaa gcagcagcac gtttggtggc
+      841 ctgcaccagc acgagcgtat gggctaccag ctgcatggag cagaggtgaa cggtgggctc
+      901 ccatctgcat cctccttctc ctcagccccc ggagccacgt acggcggcgt ctccagccac
+      961 acgccgcctg tcagcggggc cgacagcctc ctgggctccc gagggaccac agctggcagc
+     1021 tccggggatg ccctcggcaa agcactggcc tcgatctact ccccggatca ctcaagcaat
+     1081 aacttctcgt ccagcccttc tacccccgtg ggctcccccc agggcctggc aggaacgtca
+     1141 cagtggcctc gagcaggagc ccccggtgcc ttatcgccca gctacgacgg gggtctccac
+     1201 ggcctgcaga gtaagataga agaccacctg gacgaggcca tccacgtgct ccgcagccac
+     1261 gccgtgggca cagccggcga catgcacacg ctgctgcctg gccacggggc gctggcctca
+     1321 ggtttcaccg gccccatgtc actgggcggg cggcacgcag gcctggttgg aggcagccac
+     1381 cccgaggacg gcctcgcagg cagcaccagc ctcatgcaca accacgcggc cctccccagc
+     1441 cagccaggca ccctccctga cctgtctcgg cctcccgact cctacagtgg gctagggcga
+     1501 gcaggtgcca cggcggccgc cagcgagatc aagcgggagg agaaggagga cgaggagaac
+     1561 acgtcagcgg ctgaccactc ggaggaggag aagaaggagc tgaaggcccc ccgggcccgg
+     1621 accagcagta cggacgaggt gctgtccctg gaggagaaag acctgaggga ccgggagagg
+     1681 cgcatggcca ataacgcgcg ggagcgggtg cgcgtgcggg atattaacga ggccttccgg
+     1741 gagctggggc gcatgtgcca gatgcacctc aagtcggaca aagcgcagac caagctgctc
+     1801 atcctgcagc aggccgtgca ggtcatcctg gggctggagc agcaggtgcg agagcggaac
+     1861 ctgaatccca aagcagcctg tttgaaacgg cgagaagagg aaaaggtgtc aggtgtggtt
+     1921 ggagaccccc agatggtgct ttcagctccc cacccaggcc tgagcgaagc ccacaacccc
+     1981 gccgggcaca tgtgaaagta aacaaaacct gaaagcaagc aacaaaacat acactttgtc
+     2041 agagaagaaa aaaatgcctt aactataaaa agcggagaaa tggaaacata tcactcaagg
+     2101 gggatgctgt ggaaacctgg cttattcttc taaagccacc agcaaattgt gcctaagcga
+     2161 aatatttttt ttaaggaaaa taaaaacatt agttacaaga tttttttttt cttaatgtag
+     2221 atgaaaatta gcaaggatgc tgcctttggt ctctggtttt tttaagcttt ttttgcatat
+     2281 gttttgtaag caacaaattt ttttgtataa aagtcccgtg tctctcgcta tttctgctgc
+     2341 tgttcctaga ctgagcattg catttcttga tcaaccagat gattaaacgt tgtattaaaa
+     2401 agaccccgtg taaacctgag cccccccgtc cccccccccc cccggaagcc actgcacaca
+     2461 gacagaacgg ggacaggcgg cgggtctttt gtttttttga tgttgggggt tctcttggtt
+     2521 ttgtcatgtg gaaagtgatg cgtgggcgtt ccctgatgaa ggcaccttgg ggcttccctg
+     2581 ccgcatcctc tcccctcagg aaggggactg acctgggctt gggggaaggg acgtcagcaa
+     2641 ggtggctctg accctcccag gtgactctgc caagcagctg tggcccccag ggctacccta
+     2701 cacaacgccc tccccaggcc cccctaagct gctctccctt ggaacctgca cagctctctg
+     2761 aaatggggca ttttgttggg accagtgacc cctggcatgg ggaccacacc ctggagcccg
+     2821 gtgctgggga cctcctggac accctgtcct tcactccttt gccccaggga cccaggctca
+     2881 tgctctgaac tctggctgag aggatgctgc tcaggagcca gcacaggaca ccccccaccc
+     2941 caccccacca tgtccccatt acaccagagg gccatcgtga cgtagacagg atgccagggg
+     3001 cctggccagc ctcccccaat gctggggagc atccctgggc ctggggccac acctgctgcc
+     3061 ctccctctgt gtggtccaag ggcaagagtg gctggagccg ggggactgtg ctggtctgag
+     3121 ccccacgaag gccttgggct gtgcgtccga ccctgctgca gaaccagcag ggtgtcccct
+     3181 cgggcccatc tgtgtcccat gtcccagcac ccaggcctct ctccaggtct ccttttctgg
+     3241 tcttttgcca tgagggtaac cagctcttcc cagctggctg gggactgtct tgggtttaaa
+     3301 actgcaagtc tcctaccctg ggatcccatc cagttccaca cgaactaggg cagtggtcac
+     3361 tgtggcaccc aggtgtgggc ctggctagct gggggccttc atgtgccctt catgcccctc
+     3421 cctgcattga ggccttgtgg acccctgggc tggctgtgtt catccccgct gcaggtcggg
+     3481 cgtctccccc cgtgccactc ctgagactcc caccgttacc cccaggagat cctggactgc
+     3541 ctgactcccc tccccagact ggcttgggag cctgggcccc atggtagatg caagggaaac
+     3601 ctcaaggcca gctcaatgcc tggtatctgc ccccagtcca ggccaggcgg aggggagggg
+     3661 ctgtccggct gcctctccct tctcggtggc ttcccctacg ccctgggagt ttgatctctt
+     3721 aagggaactt gcctctccct cttgttttgc tcctggccct gcccctaggt ctgggtgggc
+     3781 agtggcccca tagcctctgg aactgtgcgt tctgcataga attcaaacga gattcaccca
+     3841 gcgcgaggag gaagaaacag cagttcctgg gaaccacaat tatggggggt ggggggtgtg
+     3901 atctgagtgc ctcaagatgg ttttcaaaaa aattttttta aagaaaataa ttgtatacgt
+     3961 gtcaacacag ctggctggat gattgggact ttaaaacgac cctctttcag gtggattcag
+     4021 agacctgtcc tgtatataac agcactgtag caataaacgt gacattttat aacgatgccc
+     4081 tgca
+//

@@ -1,0 +1,339 @@
+LOCUS       NM_006164               2446 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens NFE2 like bZIP transcription factor 2 (NFE2L2),
+            transcript variant 1, mRNA.
+ACCESSION   NM_006164
+VERSION     NM_006164.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2446)
+  AUTHORS   Liu,X., Zhang,F., Fan,Y., Qiu,C. and Wang,K.
+  TITLE     MCM4 potentiates evasion of hepatocellular carcinoma from
+            sorafenib-induced ferroptosis through Nrf2 signaling pathway
+  JOURNAL   Int Immunopharmacol 142 (Pt A), 113107 (2024)
+   PUBMED   39276458
+  REMARK    GeneRIF: MCM4 potentiates evasion of hepatocellular carcinoma from
+            sorafenib-induced ferroptosis through Nrf2 signaling pathway.
+REFERENCE   2  (bases 1 to 2446)
+  AUTHORS   Dewanjee,S., Bhattacharya,H., Bhattacharyya,C., Chakraborty,P.,
+            Fleishman,J., Alexiou,A., Papadakis,M. and Jha,S.K.
+  TITLE     Nrf2/Keap1/ARE regulation by plant secondary metabolites: a new
+            horizon in brain tumor management
+  JOURNAL   Cell Commun Signal 22 (1), 497 (2024)
+   PUBMED   39407193
+  REMARK    GeneRIF: Nrf2/Keap1/ARE regulation by plant secondary metabolites: a
+            new horizon in brain tumor management. Review article Publication
+            Status: Online-Only
+REFERENCE   3  (bases 1 to 2446)
+  AUTHORS   Blot,C., Lavernhe,M., Lugo-Villarino,G., Coulson,K., Salon,M.,
+            Tertrais,M., Planes,R., Santoni,K., Authier,H., Jacquemin,G.,
+            Rahabi,M., Parny,M., Letron,I.R., Meunier,E., Lefevre,L. and
+            Coste,A.
+  TITLE     Leishmania infantum exploits the anti-ferroptosis effects of Nrf2 to
+            escape cell death in macrophages
+  JOURNAL   Cell Rep 43 (9), 114720 (2024)
+   PUBMED   39244752
+  REMARK    GeneRIF: Leishmania infantum exploits the anti-ferroptosis effects
+            of Nrf2 to escape cell death in macrophages.
+REFERENCE   4  (bases 1 to 2446)
+  AUTHORS   Onoki,T., Kanczler,J., Rawlings,A., Smith,M., Kim,Y.H.,
+            Hashimoto,K., Aizawa,T. and Oreffo,R.O.C.
+  TITLE     Modulation of osteoblastogenesis by NRF2: NRF2 activation suppresses
+            osteogenic differentiation and enhances mineralization in human bone
+            marrow-derived mesenchymal stromal cells
+  JOURNAL   FASEB J 38 (17), e23892 (2024)
+   PUBMED   39230563
+  REMARK    GeneRIF: Modulation of osteoblastogenesis by NRF2: NRF2 activation
+            suppresses osteogenic differentiation and enhances mineralization in
+            human bone marrow-derived mesenchymal stromal cells.
+REFERENCE   5  (bases 1 to 2446)
+  AUTHORS   Shen,J., Lai,Y., Lu,Y., Liu,Y., Zhang,J., Wu,Y., Pan,Y., Chen,H.,
+            Gao,Q., Wei,Q., Chen,Y., Ye,J., Lin,Y., Liu,B., Jiang,J. and Nan,J.
+  TITLE     NRF2-HIF2alpha Signaling Attenuates Endothelial Cell Senescence and
+            Maintains Intercellular Junctions in Diabetes
+  JOURNAL   Int J Biol Sci 20 (10), 4055-4073 (2024)
+   PUBMED   39113713
+  REMARK    GeneRIF: NRF2-HIF2alpha Signaling Attenuates Endothelial Cell
+            Senescence and Maintains Intercellular Junctions in Diabetes.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2446)
+  AUTHORS   Itoh,K., Wakabayashi,N., Katoh,Y., Ishii,T., Igarashi,K., Engel,J.D.
+            and Yamamoto,M.
+  TITLE     Keap1 represses nuclear activation of antioxidant responsive
+            elements by Nrf2 through binding to the amino-terminal Neh2 domain
+  JOURNAL   Genes Dev 13 (1), 76-86 (1999)
+   PUBMED   9887101
+REFERENCE   7  (bases 1 to 2446)
+  AUTHORS   Venugopal,R. and Jaiswal,A.K.
+  TITLE     Nrf2 and Nrf1 in association with Jun proteins regulate antioxidant
+            response element-mediated expression and coordinated induction of
+            genes encoding detoxifying enzymes
+  JOURNAL   Oncogene 17 (24), 3145-3156 (1998)
+   PUBMED   9872330
+REFERENCE   8  (bases 1 to 2446)
+  AUTHORS   Toki,T., Itoh,J., Kitazawa,J., Arai,K., Hatakeyama,K., Akasaka,J.,
+            Igarashi,K., Nomura,N., Yokoyama,M., Yamamoto,M. and Ito,E.
+  TITLE     Human small Maf proteins form heterodimers with CNC family
+            transcription factors and recognize the NF-E2 motif
+  JOURNAL   Oncogene 14 (16), 1901-1910 (1997)
+   PUBMED   9150357
+REFERENCE   9  (bases 1 to 2446)
+  AUTHORS   Chan,J.Y., Cheung,M.C., Moi,P., Chan,K. and Kan,Y.W.
+  TITLE     Chromosomal localization of the human NF-E2 family of bZIP
+            transcription factors by fluorescence in situ hybridization
+  JOURNAL   Hum Genet 95 (3), 265-269 (1995)
+   PUBMED   7868116
+REFERENCE   10  (bases 1 to 2446)
+  AUTHORS   Moi,P., Chan,K., Asunis,I., Cao,A. and Kan,Y.W.
+  TITLE     Isolation of NF-E2-related factor 2 (Nrf2), a NF-E2-like basic
+            leucine zipper transcriptional activator that binds to the tandem
+            NF-E2/AP1 repeat of the beta-globin locus control region
+  JOURNAL   Proc Natl Acad Sci U S A 91 (21), 9926-9930 (1994)
+   PUBMED   7937919
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR3476690.909655.1,
+            SRR1660807.61784.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1968189,
+            SAMEA2142348 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000397062.8/ ENSP00000380252.3
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA438735.1 and BC011558.1.
+            On Dec 7, 2018 this sequence version replaced NM_006164.4.
+            Summary: This gene encodes a transcription factor which is a member
+            of a small family of basic leucine zipper (bZIP) proteins. The
+            encoded transcription factor regulates genes which contain
+            antioxidant response elements (ARE) in their promoters; many of
+            these genes encode proteins involved in response to injury and
+            inflammation which includes the production of free radicals.
+            Multiple transcript variants encoding different isoforms have been
+            characterized for this gene. [provided by RefSeq, Sep 2015].
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1).
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2446
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q31.2"
+     gene            1..2446
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="NFE2 like bZIP transcription factor 2"
+                     /db_xref="GeneID:4780"
+                     /db_xref="HGNC:HGNC:7782"
+                     /db_xref="MIM:600492"
+     exon            1..196
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             152..1969
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     nuclear factor erythroid 2-related factor 2; nuclear factor
+                     erythroid-derived 2-like 2; nuclear factor, erythroid 2
+                     like 2"
+                     /codon_start=1
+                     /product="nuclear factor erythroid 2-related factor 2
+                     isoform 1"
+                     /protein_id="NP_006155.2"
+                     /db_xref="CCDS:CCDS42782.1"
+                     /db_xref="GeneID:4780"
+                     /db_xref="HGNC:HGNC:7782"
+                     /db_xref="MIM:600492"
+                     /translation="MMDLELPPPGLPSQQDMDLIDILWRQDIDLGVSREVFDFSQRRKE
+                     YELEKQKKLEKERQEQLQKEQEKAFFAQLQLDEETGEFLPIQPAQHIQSETSGSANYSQ
+                     VAHIPKSDALYFDDCMQLLAQTFPFVDDNEVSSATFQSLVPDIPGHIESPVFIATNQAQ
+                     SPETSVAQVAPVDLDGMQQDIEQVWEELLSIPELQCLNIENDKLVETTMVPSPEAKLTE
+                     VDNYHFYSSIPSMEKEVGNCSPHFLNAFEDSFSSILSTEDPNQLTVNSLNSDATVNTDF
+                     GDEFYSAFIAEPSISNSMPSPATLSHSLSELLNGPIDVSDLSLCKAFNQNHPESTAEFN
+                     DSDSGISLNTSPSVASPEHSVESSSYGDTLLGLSDSEVEELDSAPGSVKQNGPKTPVHS
+                     SGDMVQPLSPSQGQSTHVHDAQCENTPEKELPVSPGHRKTPFTKDKHSSRLEAHLTRDE
+                     LRAKALHIPFPVEKIINLPVVDFNEMMSKEQFNEAQLALIRDIRRRGKNKVAAQNCRKR
+                     KLENIVELEQDLDHLKDEKEKLLKEKGENDKSLHLLKKQLSTLYLEVFSMLRDEDGKPY
+                     SPSEYSLQQTRDGNVFLVPKSKKPDVKKN"
+     misc_feature    236..244
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16236.3);
+                     Region: DLG motif. /evidence=ECO:0000250|UniProtKB:Q60795"
+     misc_feature    269..271
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="Phosphoserine, by PKC.
+                     /evidence=ECO:0000250|UniProtKB:O54968; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); phosphorylation site"
+     misc_feature    386..397
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16236.3);
+                     Region: ETGE motif. /evidence=ECO:0000250|UniProtKB:Q60795"
+     misc_feature    794..796
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); phosphorylation site"
+     misc_feature    1151..1498
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16236.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1535..1537
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:31398338; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); glycosylation site"
+     misc_feature    1565..1567
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:31398338; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); glycosylation site"
+     misc_feature    1610..1612
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:31398338; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); glycosylation site"
+     misc_feature    1646..1705
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16236.3);
+                     Region: Basic motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00978"
+     misc_feature    1646..1648
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N-linked (Glc) (glycation) arginine.
+                     /evidence=ECO:0000305|PubMed:31398338; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); glycosylation site"
+     misc_feature    1715..1738
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16236.3);
+                     Region: Leucine-zipper.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00978"
+     misc_feature    1856..1858
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N-linked (Glc) (glycation) arginine.
+                     /evidence=ECO:0000305|PubMed:31398338; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); glycosylation site"
+     misc_feature    1862..1966
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16236.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1871..1873
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:31398338; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); glycosylation site"
+     misc_feature    1922..1939
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16236.3);
+                     Region: Mediates interaction with CHD6 and is necessary to
+                     activate transcription.
+                     /evidence=ECO:0000250|UniProtKB:O54968"
+     misc_feature    1937..1939
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N6-acetyllysine, by CREBBP.
+                     /evidence=ECO:0000269|PubMed:21196497; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); acetylation site"
+     misc_feature    1946..1948
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="N6-acetyllysine, by CREBBP.
+                     /evidence=ECO:0000269|PubMed:21196497; propagated from
+                     UniProtKB/Swiss-Prot (Q16236.3); acetylation site"
+     exon            197..463
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            464..553
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            554..745
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            746..2446
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2421..2426
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="hexamer: AATAAA"
+     polyA_site      2446
+                     /gene="NFE2L2"
+                     /gene_synonym="HEBP1; IMDDHH; Nrf-2; NRF2"
+                     /note="major polyA site"
+ORIGIN
+        1 gattaccgag tgccggggag cccggaggag ccgccgacgc agccgccacc gccgccgccg
+       61 ccgccaccag agccgccctg tccgcgccgc gcctcggcag ccggaacagg gccgccgtcg
+      121 gggagcccca acacacggtc cacagctcat catgatggac ttggagctgc cgccgccggg
+      181 actcccgtcc cagcaggaca tggatttgat tgacatactt tggaggcaag atatagatct
+      241 tggagtaagt cgagaagtat ttgacttcag tcagcgacgg aaagagtatg agctggaaaa
+      301 acagaaaaaa cttgaaaagg aaagacaaga acaactccaa aaggagcaag agaaagcctt
+      361 tttcgctcag ttacaactag atgaagagac aggtgaattt ctcccaattc agccagccca
+      421 gcacatccag tcagaaacca gtggatctgc caactactcc caggttgccc acattcccaa
+      481 atcagatgct ttgtactttg atgactgcat gcagcttttg gcgcagacat tcccgtttgt
+      541 agatgacaat gaggtttctt cggctacgtt tcagtcactt gttcctgata ttcccggtca
+      601 catcgagagc ccagtcttca ttgctactaa tcaggctcag tcacctgaaa cttctgttgc
+      661 tcaggtagcc cctgttgatt tagacggtat gcaacaggac attgagcaag tttgggagga
+      721 gctattatcc attcctgagt tacagtgtct taatattgaa aatgacaagc tggttgagac
+      781 taccatggtt ccaagtccag aagccaaact gacagaagtt gacaattatc atttttactc
+      841 atctataccc tcaatggaaa aagaagtagg taactgtagt ccacattttc ttaatgcttt
+      901 tgaggattcc ttcagcagca tcctctccac agaagacccc aaccagttga cagtgaactc
+      961 attaaattca gatgccacag tcaacacaga ttttggtgat gaattttatt ctgctttcat
+     1021 agctgagccc agtatcagca acagcatgcc ctcacctgct actttaagcc attcactctc
+     1081 tgaacttcta aatgggccca ttgatgtttc tgatctatca ctttgcaaag ctttcaacca
+     1141 aaaccaccct gaaagcacag cagaattcaa tgattctgac tccggcattt cactaaacac
+     1201 aagtcccagt gtggcatcac cagaacactc agtggaatct tccagctatg gagacacact
+     1261 acttggcctc agtgattctg aagtggaaga gctagatagt gcccctggaa gtgtcaaaca
+     1321 gaatggtcct aaaacaccag tacattcttc tggggatatg gtacaaccct tgtcaccatc
+     1381 tcaggggcag agcactcacg tgcatgatgc ccaatgtgag aacacaccag agaaagaatt
+     1441 gcctgtaagt cctggtcatc ggaaaacccc attcacaaaa gacaaacatt caagccgctt
+     1501 ggaggctcat ctcacaagag atgaacttag ggcaaaagct ctccatatcc cattccctgt
+     1561 agaaaaaatc attaacctcc ctgttgttga cttcaacgaa atgatgtcca aagagcagtt
+     1621 caatgaagct caacttgcat taattcggga tatacgtagg aggggtaaga ataaagtggc
+     1681 tgctcagaat tgcagaaaaa gaaaactgga aaatatagta gaactagagc aagatttaga
+     1741 tcatttgaaa gatgaaaaag aaaaattgct caaagaaaaa ggagaaaatg acaaaagcct
+     1801 tcacctactg aaaaaacaac tcagcacctt atatctcgaa gttttcagca tgctacgtga
+     1861 tgaagatgga aaaccttatt ctcctagtga atactccctg cagcaaacaa gagatggcaa
+     1921 tgttttcctt gttcccaaaa gtaagaagcc agatgttaag aaaaactaga tttaggagga
+     1981 tttgaccttt tctgagctag tttttttgta ctattatact aaaagctcct actgtgatgt
+     2041 gaaatgctca tactttataa gtaattctat gcaaaatcat agccaaaact agtatagaaa
+     2101 ataatacgaa actttaaaaa gcattggagt gtcagtatgt tgaatcagta gtttcacttt
+     2161 aactgtaaac aatttcttag gacaccattt gggctagttt ctgtgtaagt gtaaatacta
+     2221 caaaaactta tttatactgt tcttatgtca tttgttatat tcatagattt atatgatgat
+     2281 atgacatctg gctaaaaaga aattattgca aaactaacca ctatgtactt ttttataaat
+     2341 actgtatgga caaaaaatgg cattttttat attaaattgt ttagctctgg caaaaaaaaa
+     2401 aaattttaag agctggtact aataaaggat tattatgact gttaaa
+//

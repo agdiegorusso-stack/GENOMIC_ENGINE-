@@ -1,0 +1,354 @@
+LOCUS       NM_002049               1464 bp    mRNA    linear   PRI 29-APR-2025
+DEFINITION  Homo sapiens GATA binding protein 1 (GATA1), mRNA.
+ACCESSION   NM_002049
+VERSION     NM_002049.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1464)
+  AUTHORS   Wang,C., Hu,M., Yu,K., Liu,W., Hu,A., Kuang,Y., Huang,L.,
+            Gajendran,B., Zacksenhaus,E., Xiao,X. and Ben-David,Y.
+  TITLE     An intricate regulatory circuit between FLI1 and
+            GATA1/GATA2/LDB1/ERG dictates erythroid vs. megakaryocytic
+            differentiation
+  JOURNAL   Mol Med Rep 29 (6) (2024)
+   PUBMED   38695236
+  REMARK    GeneRIF: An intricate regulatory circuit between FLI1 and
+            GATA1/GATA2/LDB1/ERG dictates erythroid vs. megakaryocytic
+            differentiation.
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Sessa,R., Trombetti,S., Bianco,A.L., Amendola,G., Catapano,R.,
+            Cesaro,E., Petruzziello,F., D'Armiento,M., Maruotti,G.M., Menna,G.,
+            Izzo,P. and Grosso,M.
+  TITLE     miR-1202 acts as anti-oncomiR in myeloid leukaemia by
+            down-modulating GATA-1S expression
+  JOURNAL   Open Biol 14 (2), 230319 (2024)
+   PUBMED   38350611
+  REMARK    GeneRIF: miR-1202 acts as anti-oncomiR in myeloid leukaemia by
+            down-modulating GATA-1S expression.
+REFERENCE   3  (bases 1 to 1464)
+  AUTHORS   Ding,B., Mao,Y., Li,Y., Xin,M., Jiang,S., Hu,X., Xu,Q., Ding,Q. and
+            Wang,X.
+  TITLE     A novel GATA1 variant p.G229D causing the defect of procoagulant
+            platelet formation
+  JOURNAL   Thromb Res 234, 39-50 (2024)
+   PUBMED   38159323
+  REMARK    GeneRIF: A novel GATA1 variant p.G229D causing the defect of
+            procoagulant platelet formation.
+REFERENCE   4  (bases 1 to 1464)
+  AUTHORS   Takasaki,K. and Chou,S.T.
+  TITLE     GATA1 in Normal and Pathologic Megakaryopoiesis and Platelet
+            Development
+  JOURNAL   Adv Exp Med Biol 1459, 261-287 (2024)
+   PUBMED   39017848
+  REMARK    GeneRIF: GATA1 in Normal and Pathologic Megakaryopoiesis and
+            Platelet Development. Review article
+REFERENCE   5  (bases 1 to 1464)
+  AUTHORS   Erwin,A., Balwani,M. and Desnick,R.J.
+  CONSRTM   Porphyrias Consortium of the NIH-Sponsored Rare Diseases Clinical
+            Research Network
+  TITLE     Congenital Erythropoietic Porphyria
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   24027798
+REFERENCE   6  (bases 1 to 1464)
+  AUTHORS   Sieff,C.
+  TITLE     Diamond-Blackfan Anemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301769
+REFERENCE   7  (bases 1 to 1464)
+  AUTHORS   Takasaki,K., Kacena,M.A., Raskind,W.H., Weiss,M.J. and Chou,S.T.
+  TITLE     GATA1-Related Cytopenia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301538
+REFERENCE   8  (bases 1 to 1464)
+  AUTHORS   Caiulo,A., Nicolis,S., Bianchi,P., Zuffardi,O., Bardoni,B.,
+            Maraschio,P., Ottolenghi,S., Camerino,G. and Giglioni,B.
+  TITLE     Mapping the gene encoding the human erythroid transcriptional factor
+            NFE1-GF1 to Xp11.23
+  JOURNAL   Hum Genet 86 (4), 388-390 (1991)
+   PUBMED   1999341
+REFERENCE   9  (bases 1 to 1464)
+  AUTHORS   Trainor,C.D., Evans,T., Felsenfeld,G. and Boguski,M.S.
+  TITLE     Structure and evolution of a human erythroid transcription factor
+  JOURNAL   Nature 343 (6253), 92-96 (1990)
+   PUBMED   2104960
+REFERENCE   10  (bases 1 to 1464)
+  AUTHORS   Zon,L.I., Tsai,S.F., Burgess,S., Matsudaira,P., Bruns,G.A. and
+            Orkin,S.H.
+  TITLE     The major human erythroid DNA-binding protein (GF-1): primary
+            sequence and localization of the gene to the X chromosome
+  JOURNAL   Proc Natl Acad Sci U S A 87 (2), 668-672 (1990)
+   PUBMED   2300555
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: X17254.1, M30601.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2142363,
+            SAMEA2144333 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000376670.9/ ENSP00000365858.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from X17254.1 and AI057349.1.
+            On Aug 31, 2019 this sequence version replaced NM_002049.3.
+            Summary: This gene encodes a protein which belongs to the GATA
+            family of transcription factors. The protein plays an important
+            role in erythroid development by regulating the switch of fetal
+            hemoglobin to adult hemoglobin. Mutations in this gene have been
+            associated with X-linked dyserythropoietic anemia and
+            thrombocytopenia. [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp11.23"
+     gene            1..1464
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="GATA binding protein 1"
+                     /db_xref="GeneID:2623"
+                     /db_xref="HGNC:HGNC:4170"
+                     /db_xref="MIM:305371"
+     exon            1..56
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            57..295
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             76..1317
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="globin transcription factor 1; transcription factor
+                     GATA1; NF-E1 DNA-binding protein; erythroid transcription
+                     factor 1; GATA-binding factor 1; nuclear factor, erythroid
+                     1"
+                     /codon_start=1
+                     /product="erythroid transcription factor"
+                     /protein_id="NP_002040.1"
+                     /db_xref="CCDS:CCDS14305.1"
+                     /db_xref="GeneID:2623"
+                     /db_xref="HGNC:HGNC:4170"
+                     /db_xref="MIM:305371"
+                     /translation="MEFPGLGSLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLDAAA
+                     SSTAPSTATAAAAALAYYRDAEAYRHSPVFQVYPLLNCMEGIPGGSPYAGWAYGKTGLY
+                     PASTVCPTREDSPPQAVEDLDGKGSTSFLETLKTERLSPDLLTLGPALPSSLPVPNSAY
+                     GGPDFSSTFFSPTGSPLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGH
+                     YLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGTQCTNCQTTTTTLWRRNASGDPVCNA
+                     CGLYYKLHQVNRPLTMRKDGIQTRNRKASGKGKKKRGSSLGGTGAAEGPAGGFMVVAGG
+                     SGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLLGSPTGSFPTGPM
+                     PPTTSTTVVAPLSS"
+     misc_feature    151..153
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    289..291
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    421..423
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    466..468
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    499..501
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:16371476; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    607..609
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    634..636
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    673..1065
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P15976.1);
+                     Region: Interaction with MED1 and CCAR1.
+                     /evidence=ECO:0000269|PubMed:24245781"
+     misc_feature    682..741
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P15976.1);
+                     Region: Required for interaction with ZFPM1"
+     misc_feature    772..774
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine, by EP300.
+                     /evidence=ECO:0000305|PubMed:9859997; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     misc_feature    808..810
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine, by EP300.
+                     /evidence=ECO:0000305|PubMed:9859997; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     misc_feature    811..813
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine, by CREBBP.
+                     /evidence=ECO:0000250|UniProtKB:P17679; N6-acetyllysine, by
+                     EP300. /evidence=ECO:0000305|PubMed:9859997; propagated
+                     from UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     misc_feature    820..1020
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P15976.1);
+                     Region: Interaction with CALCOCO1.
+                     /evidence=ECO:0000269|PubMed:24245781"
+     misc_feature    829..831
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine, by CREBBP.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     misc_feature    964..1056
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="propagated from UniProtKB/Swiss-Prot (P15976.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    997..999
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     misc_feature    1003..1005
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); phosphorylation site"
+     misc_feature    1009..1011
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine, by CREBBP.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     misc_feature    1015..1017
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     misc_feature    1018..1020
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P17679; propagated from
+                     UniProtKB/Swiss-Prot (P15976.1); acetylation site"
+     exon            296..673
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            674..819
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            820..945
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            946..1464
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1441..1446
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="hexamer: AATAAA"
+     polyA_site      1464
+                     /gene="GATA1"
+                     /gene_synonym="CNSHA9; ERYF1; GATA-1; GF-1; GF1; HAEADA;
+                     NF-E1; NFE1; XLANP; XLTDA; XLTT"
+                     /note="major polyA site"
+ORIGIN
+        1 acactgagct tgccacatcc ccaaggcggc cgaaccctcc gcaaccacca gcccaggtta
+       61 atccccagag gctccatgga gttccctggc ctggggtccc tggggacctc agagcccctc
+      121 ccccagtttg tggatcctgc tctggtgtcc tccacaccag aatcaggggt tttcttcccc
+      181 tctgggcctg agggcttgga tgcagcagct tcctccactg ccccgagcac agccaccgct
+      241 gcagctgcgg cactggccta ctacagggac gctgaggcct acagacactc cccagtcttt
+      301 caggtgtacc cattgctcaa ctgtatggag gggatcccag ggggctcacc atatgccggc
+      361 tgggcctacg gcaagacggg gctctaccct gcctcaactg tgtgtcccac ccgcgaggac
+      421 tctcctcccc aggccgtgga agatctggat ggaaaaggca gcaccagctt cctggagact
+      481 ttgaagacag agcggctgag cccagacctc ctgaccctgg gacctgcact gccttcatca
+      541 ctccctgtcc ccaatagtgc ttatgggggc cctgactttt ccagtacctt cttttctccc
+      601 accgggagcc ccctcaattc agcagcctat tcctctccca agcttcgtgg aactctcccc
+      661 ctgcctccct gtgaggccag ggagtgtgtg aactgcggag caacagccac tccactgtgg
+      721 cggagggaca ggacaggcca ctacctatgc aacgcctgcg gcctctatca caagatgaat
+      781 gggcagaaca ggcccctcat ccggcccaag aagcgcctga ttgtcagtaa acgggcaggt
+      841 actcagtgca ccaactgcca gacgaccacc acgacactgt ggcggagaaa tgccagtggg
+      901 gatcccgtgt gcaatgcctg cggcctctac tacaagctac accaggtgaa ccggccactg
+      961 accatgcgga aggatggtat tcagactcga aaccgcaagg catctggaaa agggaaaaag
+     1021 aaacggggct ccagtctggg aggcacagga gcagccgaag gaccagctgg tggctttatg
+     1081 gtggtggctg ggggcagcgg tagcgggaat tgtggggagg tggcttcagg cctgacactg
+     1141 ggccccccag gtactgccca tctctaccaa ggcctgggcc ctgtggtgct gtcagggcct
+     1201 gttagccacc tcatgccttt ccctggaccc ctactgggct cacccacggg ctccttcccc
+     1261 acaggcccca tgccccccac caccagcact actgtggtgg ctccgctcag ctcatgaggg
+     1321 cacagagcat ggcctccaga ggaggggtgg tgtccttctc ctcttgtagc cagaattctg
+     1381 gacaacccaa gtctctgggc cccaggcacc ccctggcttg aaccttcaaa gcttttgtaa
+     1441 aataaaacca ccaaagtcct gaaa
+//

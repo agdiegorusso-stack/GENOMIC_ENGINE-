@@ -1,0 +1,411 @@
+LOCUS       NM_002197               7443 bp    mRNA    linear   PRI 12-JUN-2025
+DEFINITION  Homo sapiens aconitase 1 (ACO1), transcript variant 2, mRNA.
+ACCESSION   NM_002197
+VERSION     NM_002197.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7443)
+  AUTHORS   Fahoum,L., Moshe-Belisowski,S., Zaydel,K., Ghatpande,N.,
+            Guttmann-Raviv,N., Zhang,W., Li,K., Tong,W.H., Nyska,A.,
+            Waterman,M., Weisshof,R., Zuckerman,A. and Meyron-Holtz,E.G.
+  TITLE     Iron regulatory protein 1 is required for the propagation of
+            inflammation in inflammatory bowel disease
+  JOURNAL   J Biol Chem 300 (9), 107639 (2024)
+   PUBMED   39122013
+  REMARK    GeneRIF: Iron regulatory protein 1 is required for the propagation
+            of inflammation in inflammatory bowel disease.
+REFERENCE   2  (bases 1 to 7443)
+  AUTHORS   Gu,W., Fillebeen,C. and Pantopoulos,K.
+  TITLE     Human IRP1 Translocates to the Nucleus in a Cell-Specific and
+            Iron-Dependent Manner
+  JOURNAL   Int J Mol Sci 23 (18), 10740 (2022)
+   PUBMED   36142654
+  REMARK    GeneRIF: Human IRP1 Translocates to the Nucleus in a Cell-Specific
+            and Iron-Dependent Manner. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 7443)
+  AUTHORS   Mo,X., Niu,Q., Ivanov,A.A., Tsang,Y.H., Tang,C., Shu,C., Li,Q.,
+            Qian,K., Wahafu,A., Doyle,S.P., Cicka,D., Yang,X., Fan,D.,
+            Reyna,M.A., Cooper,L.A.D., Moreno,C.S., Zhou,W., Owonikoko,T.K.,
+            Lonial,S., Khuri,F.R., Du,Y., Ramalingam,S.S., Mills,G.B. and Fu,H.
+  TITLE     Systematic discovery of mutation-directed neo-protein-protein
+            interactions in cancer
+  JOURNAL   Cell 185 (11), 1974-1985 (2022)
+   PUBMED   35512704
+REFERENCE   4  (bases 1 to 7443)
+  AUTHORS   Zhang,T., Sun,L., Hao,Y., Suo,C., Shen,S., Wei,H., Ma,W., Zhang,P.,
+            Wang,T., Gu,X., Li,S.T., Chen,Z., Yan,R., Zhang,Y., Cai,Y., Zhou,R.,
+            Jia,W., Huang,F., Gao,P. and Zhang,H.
+  TITLE     ENO1 suppresses cancer cell ferroptosis by degrading the mRNA of
+            iron regulatory protein 1
+  JOURNAL   Nat Cancer 3 (1), 75-89 (2022)
+   PUBMED   35121990
+  REMARK    GeneRIF: ENO1 suppresses cancer cell ferroptosis by degrading the
+            mRNA of iron regulatory protein 1.
+REFERENCE   5  (bases 1 to 7443)
+  AUTHORS   Hognon,C., Bignon,E., Harle,G., Touche,N., Grandemange,S. and
+            Monari,A.
+  TITLE     The Iron Maiden. Cytosolic Aconitase/IRP1 Conformational Transition
+            in the Regulation of Ferritin Translation and Iron Hemostasis
+  JOURNAL   Biomolecules 11 (9), 1329 (2021)
+   PUBMED   34572542
+  REMARK    GeneRIF: The Iron Maiden. Cytosolic Aconitase/IRP1 Conformational
+            Transition in the Regulation of Ferritin Translation and Iron
+            Hemostasis. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 7443)
+  AUTHORS   Philpott,C.C., Klausner,R.D. and Rouault,T.A.
+  TITLE     The bifunctional iron-responsive element binding protein/cytosolic
+            aconitase: the role of active-site residues in ligand binding and
+            regulation
+  JOURNAL   Proc Natl Acad Sci U S A 91 (15), 7321-7325 (1994)
+   PUBMED   8041788
+  REMARK    GeneRIF: Aco1 encodes a moonlighting protein that has aconitase
+            activity as well as mRNA binding ability.
+REFERENCE   7  (bases 1 to 7443)
+  AUTHORS   Haile,D.J., Rouault,T.A., Harford,J.B., Kennedy,M.C., Blondin,G.A.,
+            Beinert,H. and Klausner,R.D.
+  TITLE     Cellular regulation of the iron-responsive element binding protein:
+            disassembly of the cubane iron-sulfur cluster results in
+            high-affinity RNA binding
+  JOURNAL   Proc Natl Acad Sci U S A 89 (24), 11735-11739 (1992)
+   PUBMED   1281544
+REFERENCE   8  (bases 1 to 7443)
+  AUTHORS   Hirling,H., Emery-Goodman,A., Thompson,N., Neupert,B., Seiser,C. and
+            Kuhn,L.C.
+  TITLE     Expression of active iron regulatory factor from a full-length human
+            cDNA by in vitro transcription/translation
+  JOURNAL   Nucleic Acids Res 20 (1), 33-39 (1992)
+   PUBMED   1738601
+REFERENCE   9  (bases 1 to 7443)
+  AUTHORS   Kaptain,S., Downey,W.E., Tang,C., Philpott,C., Haile,D.,
+            Orloff,D.G., Harford,J.B., Rouault,T.A. and Klausner,R.D.
+  TITLE     A regulated RNA binding protein also possesses aconitase activity
+  JOURNAL   Proc Natl Acad Sci U S A 88 (22), 10109-10113 (1991)
+   PUBMED   1946430
+REFERENCE   10  (bases 1 to 7443)
+  AUTHORS   Hentze,M.W. and Argos,P.
+  TITLE     Homology between IRE-BP, a regulatory RNA-binding protein,
+            aconitase, and isopropylmalate isomerase
+  JOURNAL   Nucleic Acids Res 19 (8), 1739-1740 (1991)
+   PUBMED   1903202
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803617.88108.1,
+            SRR1803615.81823.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match :: ENST00000309951.8/ ENSP00000309477.5
+            multifunctional gene product(s) :: PMID: 8041788
+            RefSeq Select criteria          :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA409113.1, BC018103.1 and
+            AL161783.20.
+            On Nov 23, 2018 this sequence version replaced NM_002197.2.
+            Summary: The protein encoded by this gene is a bifunctional,
+            cytosolic protein that functions as an essential enzyme in the TCA
+            cycle and interacts with mRNA to control the levels of iron inside
+            cells. When cellular iron levels are high, this protein binds to a
+            4Fe-4S cluster and functions as an aconitase. Aconitases are
+            iron-sulfur proteins that function to catalyze the conversion of
+            citrate to isocitrate. When cellular iron levels are low, the
+            protein binds to iron-responsive elements (IREs), which are
+            stem-loop structures found in the 5' UTR of ferritin mRNA, and in
+            the 3' UTR of transferrin receptor mRNA. When the protein binds to
+            IRE, it results in repression of translation of ferritin mRNA, and
+            inhibition of degradation of the otherwise rapidly degraded
+            transferrin receptor mRNA. The encoded protein has been identified
+            as a moonlighting protein based on its ability to perform
+            mechanistically distinct functions. Alternative splicing results in
+            multiple transcript variants [provided by RefSeq, Jan 2014].
+            Transcript Variant: This variant (2) differs in the 5' UTR compared
+            to variant 1. Variants 1, 2 and 3 encode the same protein.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..7443
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="9"
+                     /map="9p21.1"
+     gene            1..7443
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /note="aconitase 1"
+                     /db_xref="GeneID:48"
+                     /db_xref="HGNC:HGNC:117"
+                     /db_xref="MIM:100880"
+     exon            1..93
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            94..212
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             116..2785
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /EC_number="4.2.1.3"
+                     /note="iron regulatory protein 1; ferritin repressor
+                     protein; epididymis luminal protein 60; citrate
+                     hydro-lyase; iron-responsive element-binding protein 1;
+                     aconitate hydratase, cytoplasmic; aconitase 1, soluble;
+                     soluble aconitase; cytoplasmic aconitase; cytosplasmic
+                     aconitase; epididymis secretory sperm binding protein"
+                     /codon_start=1
+                     /product="cytoplasmic aconitate hydratase"
+                     /protein_id="NP_002188.1"
+                     /db_xref="CCDS:CCDS6525.1"
+                     /db_xref="GeneID:48"
+                     /db_xref="HGNC:HGNC:117"
+                     /db_xref="MIM:100880"
+                     /translation="MSNPFAHLAEPLDPVQPGKKFFNLNKLEDSRYGRLPFSIRVLLEA
+                     AIRNCDEFLVKKQDIENILHWNVTQHKNIEVPFKPARVILQDFTGVPAVVDFAAMRDAV
+                     KKLGGDPEKINPVCPADLVIDHSIQVDFNRRADSLQKNQDLEFERNRERFEFLKWGSQA
+                     FHNMRIIPPGSGIIHQVNLEYLARVVFDQDGYYYPDSLVGTDSHTTMIDGLGILGWGVG
+                     GIEAEAVMLGQPISMVLPQVIGYRLMGKPHPLVTSTDIVLTITKHLRQVGVVGKFVEFF
+                     GPGVAQLSIADRATIANMCPEYGATAAFFPVDEVSITYLVQTGRDEEKLKYIKKYLQAV
+                     GMFRDFNDPSQDPDFTQVVELDLKTVVPCCSGPKRPQDKVAVSDMKKDFESCLGAKQGF
+                     KGFQVAPEHHNDHKTFIYDNTEFTLAHGSVVIAAITSCTNTSNPSVMLGAGLLAKKAVD
+                     AGLNVMPYIKTSLSPGSGVVTYYLQESGVMPYLSQLGFDVVGYGCMTCIGNSGPLPEPV
+                     VEAITQGDLVAVGVLSGNRNFEGRVHPNTRANYLASPPLVIAYAIAGTIRIDFEKEPLG
+                     VNAKGQQVFLKDIWPTRDEIQAVERQYVIPGMFKEVYQKIETVNESWNALATPSDKLFF
+                     WNSKSTYIKSPPFFENLTLDLQPPKSIVDAYVLLNLGDSVTTDHISPAGNIARNSPAAR
+                     YLTNRGLTPREFNSYGSRRGNDAVMARGTFANIRLLNRFLNKQAPQTIHLPSGEILDVF
+                     DAAERYQQAGLPLIVLAGKEYGAGSSRDWAAKGPFLLGIKAVLAESYERIHRSNLVGMG
+                     VIPLEYLPGENADALGLTGQERYTIIIPENLKPQMKVQVKLDTGKTFQAVMRFDTDVEL
+                     TYFLNGGILNYMIRKMAK"
+     misc_feature    1997..1999
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P21399.3); phosphorylation site"
+     exon            213..381
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            382..519
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            520..589
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            590..773
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            774..913
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            914..1085
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1086..1186
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1187..1303
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1304..1463
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1464..1599
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1600..1684
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1685..1841
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1842..1966
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1967..2071
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2072..2214
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2215..2362
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2363..2485
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2486..2671
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2672..7443
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3487..3492
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /note="hexamer: AATGAA"
+     polyA_site      3510
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /note="major polyA site"
+     regulatory      7423..7428
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+                     /note="hexamer: ATTAAA"
+     polyA_site      7443
+                     /gene="ACO1"
+                     /gene_synonym="ACONS; HEL60; IREB1; IREBP; IREBP1; IRP1"
+ORIGIN
+        1 gaggcggcag ctggaaccgc gcagcgcacg ggaacgcgtc ccgctgcttg ggtcaggttc
+       61 gccggtcgcg ggagccccgc cgtgcagtcg gaggaacacg tggccatcag taatcatgag
+      121 caacccattc gcacaccttg ctgagccatt ggatcctgta caaccaggaa agaaattctt
+      181 caatttgaat aaattggagg attcaagata tgggcgctta ccattttcga tcagagttct
+      241 tctggaagca gccattcgga attgtgatga gtttttggtg aagaaacagg atattgaaaa
+      301 tattctacat tggaatgtca cgcagcacaa gaacatagaa gtgccattta agcctgctcg
+      361 tgtcatcctg caggacttta cgggtgtgcc cgctgtggtt gactttgctg caatgcgtga
+      421 tgctgtgaaa aagttaggag gagatccaga gaaaataaac cctgtctgcc ctgctgatct
+      481 tgtaatagat cattccatcc aggttgattt caacagaagg gcagacagtt tacagaagaa
+      541 tcaagacctg gaatttgaaa gaaatagaga gcgatttgaa tttttaaagt ggggttccca
+      601 ggcttttcac aacatgcgga ttattccccc tggctcagga atcatccacc aggtgaattt
+      661 ggaatatttg gcaagagtgg tatttgatca ggatggatat tattacccag acagcctcgt
+      721 gggcacagac tcgcacacta ccatgattga tggcttgggc attcttggtt ggggtgtcgg
+      781 tggtattgaa gcagaagctg tcatgctggg tcagccaatc agtatggtgc ttcctcaggt
+      841 gattggctac aggctgatgg ggaagcccca ccctctggta acatccactg acatcgtgct
+      901 caccattacc aagcacctcc gccaggttgg ggtagtgggc aaatttgtcg agttcttcgg
+      961 gcctggagta gcccagttgt ccattgctga ccgagctacg attgctaaca tgtgtccaga
+     1021 gtacggagca actgctgcct ttttcccagt tgatgaagtt agtatcacgt acctggtgca
+     1081 aacaggtcgt gatgaagaaa aattaaagta tattaaaaaa tatcttcagg ctgtaggaat
+     1141 gtttcgagat ttcaatgacc cttctcaaga cccagacttc acccaggttg tggaattaga
+     1201 tttgaaaaca gtagtgcctt gctgtagtgg acccaaaagg cctcaggaca aagttgctgt
+     1261 gtccgacatg aaaaaggact ttgagagctg ccttggagcc aagcaaggat ttaaaggatt
+     1321 ccaagttgct cctgaacatc ataatgacca taagaccttt atctatgata acactgaatt
+     1381 cacccttgct catggttctg tggtcattgc tgccattact agctgcacaa acaccagtaa
+     1441 tccgtctgtg atgttagggg caggattgtt agcaaagaaa gctgtggatg ctggcctgaa
+     1501 cgtgatgcct tacatcaaaa ctagcctgtc tcctgggagt ggcgtggtca cctactacct
+     1561 acaagaaagc ggagtcatgc cttatctgtc tcagcttggg tttgacgtgg tgggctatgg
+     1621 ctgcatgacc tgcattggca acagtgggcc tttacctgaa cctgtggtag aagccatcac
+     1681 acagggagac cttgtagctg ttggagtact atctggaaac aggaattttg aaggtcgagt
+     1741 tcaccccaac acccgggcca actatttagc ctctcccccc ttagtaatag catatgcaat
+     1801 tgctggaacc atcagaatcg actttgagaa agagccattg ggagtaaatg caaagggaca
+     1861 gcaggtattt ctgaaagata tctggccgac tagagacgag atccaggcag tggagcgtca
+     1921 gtatgtcatc ccggggatgt ttaaggaagt ctatcagaaa atagagactg tgaatgaaag
+     1981 ctggaatgcc ttagcaaccc catcagataa gctgtttttc tggaattcca aatctacgta
+     2041 tatcaaatca ccaccattct ttgaaaacct gactttggat cttcagcccc ctaaatctat
+     2101 agtggatgcc tatgtgctgc taaatttggg agattcggta acaactgacc acatctcccc
+     2161 agctggaaat attgcaagaa acagtcctgc tgctcgctac ttaactaaca gaggcctaac
+     2221 tccacgagaa ttcaactcct atggctcccg ccgaggtaat gacgccgtca tggcacgggg
+     2281 aacatttgcc aacattcgct tgttaaacag atttttgaac aagcaggcac cacagactat
+     2341 ccatctgcct tctggggaaa tccttgatgt gtttgatgct gctgagcggt accagcaggc
+     2401 aggccttccc ctgatcgttc tggctggcaa agagtacggt gcaggcagct cccgagactg
+     2461 ggcagctaag ggccctttcc tgctgggaat caaagccgtc ctggccgaga gctacgagcg
+     2521 cattcaccgc agtaacctgg ttgggatggg tgtgatccca cttgaatatc tccctggtga
+     2581 gaatgcagat gccctggggc tcacagggca agaacgatac actatcatta ttccagaaaa
+     2641 cctcaaacca caaatgaaag tccaggtcaa gctggatact ggcaagacct tccaggctgt
+     2701 catgaggttt gacactgatg tggagctcac ttatttcctc aacgggggca tcctcaacta
+     2761 catgatccgc aagatggcca agtaggagac gtgcacttgg tgctgcgccc agggaggaag
+     2821 ccgcaccacc agccagcgca ggccctggtg gagaggcctc cctggctgcc tctgggaggg
+     2881 gtgctgcctt gtagatggag caagtgagca ctgagggtct ggtgccaatc ctgtaggcac
+     2941 aaaaccagaa gtttctacat tctctatttt tgttaatcat cttctctttt tccagaattt
+     3001 ggaagctaga atggtgggaa tgtcagtagt gccagaaaga gagaaccaag cttgtcttta
+     3061 aagttactga tcacaggacg ttgctttttc actgtttcct attaatcttc agctgaacac
+     3121 aagcaaacct tctcaggagg tgtctcctac cctcttattg ttcctcttac gctctgctca
+     3181 atgaaacctt cctcttgagg gtcattttcc tttctgtatt aattatacca gtgttaagtg
+     3241 acatagataa gaactttgca cacttcaaat cagagcagtg attctctctt ctctcccctt
+     3301 ttccttcaga gtgaatcatc cagactcctc atggataggt cgggtgttaa agttgttttg
+     3361 attatgtacc ttttgataga tccacataaa aagaaatgtg aagttttctt ttactatctt
+     3421 ttcatttatc aagcagagac ctttgttggg aggcggtttg ggagaacaca tttctaattt
+     3481 gaatgaaatg aaatctattt tcagtgaaaa cttgttgact ttgagttttg ctgtgtttgt
+     3541 ggctagagtt ttgggatatt tagtacagag tgaatctcac accatatcat tgggaagcct
+     3601 gaataacctt catattctcc catttttaca actctatcag aactgtacgg gtataacgga
+     3661 aatgtttagg aaccattatg ctcgctcttc cctgtttggg agcagacaag aaggaagagt
+     3721 agcctggtgg cagtggcaac gatataagta cataaggaaa agcagataaa cttcaggaca
+     3781 ctaaaaacca attatctgct catttttacc cctgtagtca tttctgggca tgccttagtt
+     3841 tgcttgggtt gctataatgt aatgccatag actggctgaa agaacagaaa tgtattttct
+     3901 cacagttatg gaggctggaa ttctgagatc aaagttgaag ccacttcatt ttctggtgag
+     3961 gacactcttc ctggtttaca gatggccacc ttcttgcttg ttctcacatg gcatttcttt
+     4021 ggtatgtgcc tggtggggga gagagaaaat aggctctcat gtctcttctt acagcaacac
+     4081 taattgtatt ggatcagggt cccactctta tggagaccca ggaaagctgg tggtataaca
+     4141 acttggttca agtccaaatg cctaagaacc tggggagggg catggggaat gctggtataa
+     4201 gtcccagagt ctgaatgccc aggaacaagc aggagctgtg atgtccaagg acaggagggc
+     4261 aggatctttg taatgaattt ttaatgtcaa ccttagcact caggggatat ggcctggtca
+     4321 tcagaacatc tggaatctaa tcctctttct acttctcacc agatgaggga tcaagacagg
+     4381 ttatttagca tccctgcact tgcggtcctg gggatcttat ttatattcat ttaaaaaata
+     4441 aattacaaac aaacagccag gcgcagtggc tcatgcctat aattccatca ctttgggagg
+     4501 ccgaggtggg tagatcacct gaggtcagga gttctagacc agcctggcca acatggtgaa
+     4561 accccgtctc tactaaaaat acaaaaaatt agccaggtgt ggtattgtgt gcctgtaatc
+     4621 ccagctacac aggaggctga ggcaggagaa ttgcttaaac ccgggatgca gaggctgcag
+     4681 tgagccgaga tcgtgccatt gcacgcccgc ctgggctaca agagcaaagc tccgtctcaa
+     4741 aaaaaaaaaa aaattacaaa caaacagaac tccattgtac aaaaaaacct gtgatcctca
+     4801 agttaagatc agtcctagaa taaaaacact aagaatggct gagaaaacag acctccaccc
+     4861 tctcagctct ccattactga gcagctgggg agctgtctcg ctccccgcat tcagtggctc
+     4921 ctgtggtctg tatttttgta tcctccccaa aattcaggtg gtgaaacctt aaccccccag
+     4981 gtaatggtaa tagaagctgg ggcctttgga aggtgattag atcatgaggg tagtgccttt
+     5041 taaaagagac tcaagataag atagagaccc cctcatttct tctgccatgg gagaacacag
+     5101 caagaagtca ccatccgtga accagaaagt gggttctcac cagatactga atctgccagt
+     5161 gccttgaacc tagactttcc agccagaact gtgagaaatt tctattgttt ataagccacc
+     5221 cagttgatat ttagttacag cagcccaacc aagactgtgg ttatgaggaa acaaacacat
+     5281 tattgtggct agactaatgg aattgggtcc cttacctcca agtacaccct ctgtcctttt
+     5341 cggtaaaaat atcttcgcca ggcacggtgt ctcatgccta tgatcccaac actttgggag
+     5401 gccgaggctg gagggttgct tgagcccaga agtttgagac cagcctgggc aacactctac
+     5461 aaaaaaaaaa ataaataaat aaataaataa aataaatcag ccaggtgtgc acctgtggtc
+     5521 ccagctgttc aggaggctga ggtgggagga tcacttgagc ctgggaggtc gtggctatga
+     5581 ttgctccact gcactccagc ctgggcaata gagtgagacc ctatcaatca atcaccaccc
+     5641 cccccccccc caaaaaaaaa agtatcttgg ccagtgtctc aaccttgccc actaacaagc
+     5701 ctaaataaac caacttcttt tacctggttc tttaagggct gctcgtctta ctatccaaat
+     5761 taaaaatctg ctgttctccc tcccatattc tttgcgaatg aagattcccc tgtttgtttg
+     5821 gatagttttc caaattcatt actgcattcc tggcatccgc agcaagctaa gagttagtta
+     5881 atatttttaa tatagcaaat aaggatgagg gatgcccttc atgtgtattt acacaccaga
+     5941 tttttatggt acatagggag taatctaggg aaaagatata ttaggcatga atcttagctg
+     6001 tggtagaagc acagctcaaa ttagcttaag gaaaaaaaaa aaaaagctgg ctcatagaac
+     6061 ttgaggacag tggtggccat gactatgggc ttgattggat ctagtgactc aagctccctt
+     6121 ccatttgccc ctccaaccac ccccccatcc ctccaccaat cataccttct gttggcctct
+     6181 gcagtagagt ggcctcttct gggcccttcc acatgccagg ggatatggcc accagcagtt
+     6241 ctggggaaac cattagtaat ttgtgatcgt agagatttgt ctcccagtat tccctagggc
+     6301 aaaaatattg ggagttccta gtcacctaaa tgaagaacct tatttttagc agtttccctt
+     6361 tcagggctct aacaggactg tggagtaatg tacggggtta tgtaggagca atgcagagcc
+     6421 acttttgaaa aacagtagcc aaggttctac tggctgcctt cttaggacat tattaaatat
+     6481 cataaacaca agtggaattt aacacccagc cagtttgtgt tcaaccagac agcgtcatta
+     6541 tgaacaaaga ttatataacg atagctgata ttaagtaagt tttaaaagtt gacatcccaa
+     6601 gagtgaagcc tacttattca gtacagattt gttgaatgaa attcgtagtt ttattttacg
+     6661 gcataatgaa acagagttcc agacatgtac ctgccaaatt tggttctggt tgtcttatcg
+     6721 tatgcaggct ggatacctgc tactgtgctt ctacaggatg ttaacagtgt cccctgagta
+     6781 aaacagttcc acggtcagta catttgggaa ccactgagtt aaatgggttt tatcactgca
+     6841 gaacagacac aagaacaatg tgtgctgtaa atcactgttt gcagggaagg tggcagcaaa
+     6901 tggcacagaa acccacctga ccacagactg ctttcttctg ggcgttcacg cactgtgctc
+     6961 cacaggatac tcttgagaaa cattgagcta tggttggtct gttgtttgaa attcaaataa
+     7021 taatgaatcc attttaagga caggaattgg tttactgacc ttgatgttgg gatgactctt
+     7081 catttcaggg tgaaaatatc acagcatcag cacaggccag gaccacagag ataacaaggt
+     7141 ggtagttgtg taacaggttg tgtctgaacc acaggagctt caaaacatac acggctggac
+     7201 accctgccag gatgctctaa tggggctggg catgtgtcca tgaaaaagac tccccagttg
+     7261 tttctaaaat gtggcctttg ttctagaaat gcaatgacca gcatttggga gtcagtcaaa
+     7321 agatccactt cctaaaagcc tacctgctca tttctttcat tcaatacata ttaaccaagt
+     7381 gcctactttg tttgagtcca tgcctggcaa tgacattatt ccattaaaag tcaaacaagg
+     7441 aaa
+//

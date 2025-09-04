@@ -1,0 +1,515 @@
+LOCUS       NM_006620               7163 bp    mRNA    linear   PRI 04-MAY-2019
+DEFINITION  Homo sapiens HBS1 like translational GTPase (HBS1L), transcript
+            variant 1, mRNA.
+ACCESSION   NM_006620
+VERSION     NM_006620.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7163)
+  AUTHORS   Mikobi TM, Tshilobo Lukusa P, Aloni MN, Lumaka AZ, Kaba DK,
+            Devriendt K, Matthijs G, Mbuyi Muamba JM and Race V.
+  TITLE     Protective BCL11A and HBS1L-MYB polymorphisms in a cohort of 102
+            Congolese patients suffering from sickle cell anemia
+  JOURNAL   J. Clin. Lab. Anal. 32 (1) (2018)
+   PUBMED   28332727
+  REMARK    GeneRIF: Studied association of BCL11A single nucleotide
+            polymorphisms(snps) and HBS1L-MYB Intergenic snps with Hereditary
+            Persistence of Fetal Hemoglobin (HPFH) in a cohort of sickle cell
+            patients.
+REFERENCE   2  (bases 1 to 7163)
+  AUTHORS   Lin BD, Carnero-Montoro E, Bell JT, Boomsma DI, de Geus EJ, Jansen
+            R, Kluft C, Mangino M, Penninx B, Spector TD, Willemsen G and
+            Hottenga JJ.
+  TITLE     2SNP heritability and effects of genetic variants for
+            neutrophil-to-lymphocyte and platelet-to-lymphocyte ratio
+  JOURNAL   J. Hum. Genet. 62 (11), 979-988 (2017)
+   PUBMED   29066854
+  REMARK    GeneRIF: genome-wide association analyses identified a new
+            genome-wide significant locus on the HBS1L-MYB intergenic region for
+            platelet-to-lymphocyte ratio
+REFERENCE   3  (bases 1 to 7163)
+  AUTHORS   Kalisiak,K., Kulinski,T.M., Tomecki,R., Cysewski,D., Pietras,Z.,
+            Chlebowski,A., Kowalska,K. and Dziembowski,A.
+  TITLE     A short splicing isoform of HBS1L links the cytoplasmic exosome and
+            SKI complexes in humans
+  JOURNAL   Nucleic Acids Res. 45 (4), 2068-2080 (2017)
+   PUBMED   28204585
+  REMARK    GeneRIF: Identification of HBS1LV3, a short splicing isoform of
+            HBS1L, as a linker between the human cytoplasmic exosome and the SKI
+            complex.
+REFERENCE   4  (bases 1 to 7163)
+  AUTHORS   Lai Y, Chen Y, Chen B, Zheng H, Yi S, Li G, Wei H, He S and Zheng C.
+  TITLE     Genetic Variants at BCL11A and HBS1L-MYB loci Influence Hb F Levels
+            in Chinese Zhuang beta-Thalassemia Intermedia Patients
+  JOURNAL   Hemoglobin 40 (6), 405-410 (2016)
+   PUBMED   28361591
+  REMARK    GeneRIF: high-risk genotypes of six Hb F-associated SNPs, rs9376090,
+            rs7776054, rs9399137, rs9389268, rs9402685 in the HBS1L-MYB
+            intergenic region and rs189984760 in the BCL11A locus, showed
+            association with high Hb F levels
+REFERENCE   5  (bases 1 to 7163)
+  AUTHORS   Mills EW, Wangen J, Green R and Ingolia NT.
+  TITLE     Dynamic Regulation of a Ribosome Rescue Pathway in Erythroid Cells
+            and Platelets
+  JOURNAL   Cell Rep 17 (1), 1-10 (2016)
+   PUBMED   27681415
+  REMARK    GeneRIF: Induction of ribosome rescue factors PELO and HBS1L is
+            required to support protein synthesis when ABCE1 levels fall in
+            platelets, including for hemoglobin production during blood cell
+            development.
+REFERENCE   6  (bases 1 to 7163)
+  AUTHORS   Lettre G, Sankaran VG, Bezerra MA, Araujo AS, Uda M, Sanna S, Cao A,
+            Schlessinger D, Costa FF, Hirschhorn JN and Orkin SH.
+  TITLE     DNA polymorphisms at the BCL11A, HBS1L-MYB, and beta-globin loci
+            associate with fetal hemoglobin levels and pain crises in sickle
+            cell disease
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 105 (33), 11869-11874 (2008)
+   PUBMED   18667698
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   7  (bases 1 to 7163)
+  AUTHORS   Menzel S, Jiang J, Silver N, Gallagher J, Cunningham J, Surdulescu
+            G, Lathrop M, Farrall M, Spector TD and Thein SL.
+  TITLE     The HBS1L-MYB intergenic region on chromosome 6q23.3 influences
+            erythrocyte, platelet, and monocyte counts in humans
+  JOURNAL   Blood 110 (10), 3624-3626 (2007)
+   PUBMED   17712044
+  REMARK    GeneRIF: The HBS1L-MYB intergenic region on chromosome 6q23.3
+            influences erythrocyte, platelet, and monocyte counts.
+REFERENCE   8  (bases 1 to 7163)
+  AUTHORS   Thein SL, Menzel S, Peng X, Best S, Jiang J, Close J, Silver N,
+            Gerovasilli A, Ping C, Yamaguchi M, Wahlberg K, Ulug P, Spector TD,
+            Garner C, Matsuda F, Farrall M and Lathrop M.
+  TITLE     Intergenic variants of HBS1L-MYB are responsible for a major
+            quantitative trait locus on chromosome 6q23 influencing fetal
+            hemoglobin levels in adults
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (27), 11346-11351 (2007)
+   PUBMED   17592125
+  REMARK    GeneRIF: HBS1L-related genetic variants play a key role in control
+            of fetal hemoglobin levels.
+REFERENCE   9  (bases 1 to 7163)
+  AUTHORS   Mungall AJ, Palmer SA, Sims SK, Edwards CA, Ashurst JL, Wilming L,
+            Jones MC, Horton R, Hunt SE, Scott CE, Gilbert JG, Clamp ME, Bethel
+            G, Milne S, Ainscough R, Almeida JP, Ambrose KD, Andrews TD, Ashwell
+            RI, Babbage AK, Bagguley CL, Bailey J, Banerjee R, Barker DJ, Barlow
+            KF, Bates K, Beare DM, Beasley H, Beasley O, Bird CP, Blakey S,
+            Bray-Allen S, Brook J, Brown AJ, Brown JY, Burford DC, Burrill W,
+            Burton J, Carder C, Carter NP, Chapman JC, Clark SY, Clark G, Clee
+            CM, Clegg S, Cobley V, Collier RE, Collins JE, Colman LK, Corby NR,
+            Coville GJ, Culley KM, Dhami P, Davies J, Dunn M, Earthrowl ME,
+            Ellington AE, Evans KA, Faulkner L, Francis MD, Frankish A,
+            Frankland J, French L, Garner P, Garnett J, Ghori MJ, Gilby LM,
+            Gillson CJ, Glithero RJ, Grafham DV, Grant M, Gribble S, Griffiths
+            C, Griffiths M, Hall R, Halls KS, Hammond S, Harley JL, Hart EA,
+            Heath PD, Heathcott R, Holmes SJ, Howden PJ, Howe KL, Howell GR,
+            Huckle E, Humphray SJ, Humphries MD, Hunt AR, Johnson CM, Joy AA,
+            Kay M, Keenan SJ, Kimberley AM, King A, Laird GK, Langford C, Lawlor
+            S, Leongamornlert DA, Leversha M, Lloyd CR, Lloyd DM, Loveland JE,
+            Lovell J, Martin S, Mashreghi-Mohammadi M, Maslen GL, Matthews L,
+            McCann OT, McLaren SJ, McLay K, McMurray A, Moore MJ, Mullikin JC,
+            Niblett D, Nickerson T, Novik KL, Oliver K, Overton-Larty EK, Parker
+            A, Patel R, Pearce AV, Peck AI, Phillimore B, Phillips S, Plumb RW,
+            Porter KM, Ramsey Y, Ranby SA, Rice CM, Ross MT, Searle SM, Sehra
+            HK, Sheridan E, Skuce CD, Smith S, Smith M, Spraggon L, Squares SL,
+            Steward CA, Sycamore N, Tamlyn-Hall G, Tester J, Theaker AJ, Thomas
+            DW, Thorpe A, Tracey A, Tromans A, Tubby B, Wall M, Wallis JM, West
+            AP, White SS, Whitehead SL, Whittaker H, Wild A, Willey DJ, Wilmer
+            TE, Wood JM, Wray PW, Wyatt JC, Young L, Younger RM, Bentley DR,
+            Coulson A, Durbin R, Hubbard T, Sulston JE, Dunham I, Rogers J and
+            Beck S.
+  TITLE     The DNA sequence and analysis of human chromosome 6
+  JOURNAL   Nature 425 (6960), 805-811 (2003)
+   PUBMED   14574404
+REFERENCE   10  (bases 1 to 7163)
+  AUTHORS   Wallrapp C, Verrier SB, Zhouravleva G, Philippe H, Philippe M, Gress
+            TM and Jean-Jean O.
+  TITLE     The product of the mammalian orthologue of the Saccharomyces
+            cerevisiae HBS1 gene is phylogenetically related to eukaryotic
+            release factor 3 (eRF3) but does not carry eRF3-like activity
+  JOURNAL   FEBS Lett. 440 (3), 387-392 (1998)
+   PUBMED   9872408
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AJ459826.1, SRR1660803.140634.1
+            [ECO:0000332]
+            RNAseq introns :: mixed/partial sample support SAMEA1965299,
+            SAMEA1966682 [ECO:0000350]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB051030.1, BC001465.2 and
+            AL445190.9.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On May 17, 2019 this sequence was replaced by
+            NM_006620.4.
+            On Jul 29, 2008 this sequence version replaced NM_006620.2.
+            Summary: This gene encodes a member of the GTP-binding elongation
+            factor family. It is expressed in multiple tissues with the highest
+            expression in heart and skeletal muscle. The intergenic region of
+            this gene and the MYB gene has been identified to be a quantitative
+            trait locus (QTL) controlling fetal hemoglobin level, and this
+            region influnces erythrocyte, platelet, and monocyte counts as well
+            as erythrocyte volume and hemoglobin content. DNA polymorphisms at
+            this region associate with fetal hemoglobin levels and pain crises
+            in sickle cell disease. A single nucleotide polymorphism in exon 1
+            of this gene is significantly associated with severity in
+            beta-thalassemia/Hemoglobin E. Multiple alternatively spliced
+            transcript variants encoding different protein isoforms have been
+            found for this gene. [provided by RefSeq, May 2009].
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longest isoform (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..7163
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6q23.3"
+     gene            1..7163
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /note="HBS1 like translational GTPase"
+                     /db_xref="GeneID:10767"
+                     /db_xref="HGNC:HGNC:4834"
+                     /db_xref="MIM:612450"
+     exon            1..250
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    175..177
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /note="upstream in-frame stop codon"
+     CDS             208..2262
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /note="isoform 1 is encoded by transcript variant 1; Hsp70
+                     subfamily B suppressor 1-like protein; HBS1-like protein;
+                     ERF3-similar protein; eRF3 family member"
+                     /codon_start=1
+                     /product="HBS1-like protein isoform 1"
+                     /protein_id="NP_006611.1"
+                     /db_xref="CCDS:CCDS5173.1"
+                     /db_xref="GeneID:10767"
+                     /db_xref="HGNC:HGNC:4834"
+                     /db_xref="MIM:612450"
+                     /translation="MARHRNVRGYNYDEDFEDDDLYGQSVEDDYCISPSTAAQFIYSRR
+                     DKPSVEPVEEYDYEDLKESSNSVSNHQLSGFDQARLYSCLDHMREVLGDAVPDEILIEA
+                     VLKNKFDVQKALSGVLEQDRVQSLKDKNEATVSTGKIAKGKPVDSQTSRSESEIVPKVA
+                     KMTVSGKKQTMGFEVPGVSSEENGHSFHTPQKGPPIEDAIASSDVLETASKSANPPHTI
+                     QASEEQSSTPAPVKKSGKLRQQIDVKAELEKRQGGKQLLNLVVIGHVDAGKSTLMGHML
+                     YLLGNINKRTMHKYEQESKKAGKASFAYAWVLDETGEERERGVTMDVGMTKFETTTKVI
+                     TLMDAPGHKDFIPNMITGAAQADVAVLVVDASRGEFEAGFETGGQTREHGLLVRSLGVT
+                     QLAVAVNKMDQVNWQQERFQEITGKLGHFLKQAGFKESDVGFIPTSGLSGENLITRSQS
+                     SELTKWYKGLCLLEQIDSFKPPQRSIDKPFRLCVSDVFKDQGSGFCITGKIEAGYIQTG
+                     DRLLAMPPNETCTVKGITLHDEPVDWAAAGDHVSLTLVGMDIIKINVGCIFCGPKVPIK
+                     ACTRFRARILIFNIEIPITKGFPVLLHYQTVSEPAVIKRLISVLNKSTGEVTKKKPKFL
+                     TKGQNALVELQTQRPIALELYKDFKELGRFMLRYGGSTIAAGVVTEIKE"
+     misc_feature    352..354
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     phosphorylation site"
+     misc_feature    406..408
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     phosphorylation site"
+     misc_feature    556..558
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     phosphorylation site"
+     misc_feature    586..588
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y450.1); phosphorylation site"
+     misc_feature    661..663
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:Q69ZS7};
+                     propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     phosphorylation site"
+     misc_feature    667..669
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     phosphorylation site"
+     misc_feature    898..900
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     phosphorylation site"
+     misc_feature    1006..1029
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     Region: G1. {ECO:0000255|PROSITE-ProRule:PRU01059}"
+     misc_feature    1174..1188
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     Region: G2. {ECO:0000255|PROSITE-ProRule:PRU01059}"
+     misc_feature    1237..1248
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     Region: G3. {ECO:0000255|PROSITE-ProRule:PRU01059}"
+     misc_feature    1423..1434
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     Region: G4. {ECO:0000255|PROSITE-ProRule:PRU01059}"
+     misc_feature    1540..1548
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     Region: G5. {ECO:0000255|PROSITE-ProRule:PRU01059}"
+     misc_feature    2071..2073
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:Q69ZS7};
+                     propagated from UniProtKB/Swiss-Prot (Q9Y450.1);
+                     acetylation site"
+     exon            251..316
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            317..442
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            443..637
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            638..746
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            747..1006
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1007..1172
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1173..1290
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1291..1437
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1438..1512
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1513..1630
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1631..1699
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1700..1804
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1805..1895
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1896..2004
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2005..2105
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2106..2250
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2251..7163
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2885..2890
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+     polyA_site      2916
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+     polyA_site      7163
+                     /gene="HBS1L"
+                     /gene_synonym="EF-1a; eRF3c; ERFS; HBS1; HSPC276"
+ORIGIN
+        1 agggaggcgg acagtgaccc tgaggcattg ccgtcgcgcg gtgcacagct aagacgtcgc
+       61 gcttgcgcag gcgctcggcg cagaggcctg cgggaagcca agatggcgca taggggttct
+      121 ccaggctgca gttggcgcct tatcagtatc taagcggagt gttttggaag gagttaaggg
+      181 gctgtggcaa acgccctctc cgccgtcatg gcccggcatc ggaatgttcg aggctataac
+      241 tacgatgaag attttgaaga tgatgatctc tacggccagt ctgtagagga tgattattgt
+      301 atttcgccgt caacagctgc tcagtttatt tattcacggc gtgacaaacc ttccgttgag
+      361 cctgtggaag aatatgatta tgaagatctg aaagaatctt ccaattctgt ttcaaaccat
+      421 cagctcagtg gatttgatca agctcgtctt tattcatgcc ttgatcacat gagagaggta
+      481 cttggagatg ctgtgccaga tgaaatatta attgaagcag ttctgaagaa caagtttgat
+      541 gtgcagaagg ctttgtcagg ggttctggaa caagatagag tgcagagttt gaaggacaag
+      601 aatgaggcaa cagtatctac aggaaagata gcaaaaggaa aaccagtaga ttcccagaca
+      661 tcgcgaagtg aatctgaaat tgtgccaaaa gttgctaaaa tgactgtatc tggaaagaag
+      721 caaactatgg gatttgaagt gcctggagta tcttctgaag aaaatggtca tagtttccac
+      781 acacctcaaa aaggaccgcc cattgaagat gccattgctt cttccgatgt tcttgagact
+      841 gcttctaaat ctgctaatcc accccacacg attcaagcat cagaagagca gagttcaacc
+      901 ccagcaccgg tgaaaaagtc tggcaagctg aggcagcaaa tagatgtgaa ggcggaactg
+      961 gagaagcggc aaggagggaa gcagctactc aacttagtgg tcattggtca tgttgatgct
+     1021 gggaaaagta ctctgatggg ccatatgctt tatcttctgg gtaatataaa caaaagaact
+     1081 atgcataagt atgaacagga gtctaaaaag gctggcaaag cttcgtttgc atatgcatgg
+     1141 gtcttggatg aaactggcga agaaagggaa aggggagtaa ccatggatgt tggtatgaca
+     1201 aagtttgaaa ccacaaccaa agttattaca ttaatggatg ctccaggcca taaggacttc
+     1261 attccaaata tgattacagg agcagcccag gcggatgtag ctgttttagt tgtagatgcc
+     1321 agcaggggag agtttgaagc tggatttgag actggaggac aaacacgaga gcatggactc
+     1381 ttggtccgtt ctctgggagt gacgcagctt gcagttgcag ttaataaaat ggatcaggtt
+     1441 aattggcaac aagaaaggtt tcaagagatt actggaaaac ttgggcactt tcttaagcaa
+     1501 gcaggtttta aggagagtga tgtaggtttt attcctacaa gtggtctcag tggtgaaaat
+     1561 ctaatcacaa gatctcagtc aagtgaactc acaaaatggt ataaaggact atgtttatta
+     1621 gaacaaattg attcctttaa gcctccccag cgatctattg acaaaccttt tagattatgt
+     1681 gtgtccgatg ttttcaaaga tcaaggatct ggattttgca taactggtaa aatagaagct
+     1741 ggttatatcc aaactggtga ccgactactg gcaatgcctc ctaatgaaac ttgtaccgtg
+     1801 aaaggaatca ctctgcatga tgaacctgtc gactgggcgg cagcaggcga tcatgttagt
+     1861 cttactttgg ttgggatgga tatcatcaaa atcaatgttg gctgcatatt ttgtggcccc
+     1921 aaagtaccca ttaaagcttg cactcgtttc agagcccgaa tcctcatctt taatattgaa
+     1981 attcctatca ctaaaggatt tcctgtgctg ttacactacc aaactgtcag tgaacccgcc
+     2041 gttattaaac gattgattag tgtcttaaac aaaagcacgg gtgaagtcac aaagaaaaag
+     2101 cctaagtttt tgactaaagg ccagaatgca ttggtagagc tacagacaca aagaccaata
+     2161 gctcttgagc tatataaaga ctttaaagag ctggggaggt tcatgctacg ttacggtggt
+     2221 tctacaatag ctgctggtgt tgtcactgag ataaaagaat gatgggtcag aatttctacc
+     2281 acgtttctgg atacagtgaa atagctaacc tctgtttcaa gaatgcagtt attaagtcaa
+     2341 aggaacaatg tgcaattgat atgtttttag atgagagaga aaaattaaag ctaaaattag
+     2401 ctgcaaagaa gtattaataa tcacctctgc aaaaattcta agttgccaac tggcaaagaa
+     2461 agtctaatgt taaaaacaac tttgcctttg aaacgttaat aaatggattt actttgctaa
+     2521 gatttatggc aagtgtcaaa aatagtatct gaagatactg aatcatcatg aaatgaactc
+     2581 tacttctggc caaagcacaa tgtatttgca gttttctctt ttgattcaat tatactgcac
+     2641 atgttttaag gaaaagtaac ttaattgggt ttttcaggca gttgatattt gacctaagct
+     2701 tttttttttt ttttttttcc agttaatgct aagaaaagat ttggggaagg ttataataaa
+     2761 agtattttgt ggtgaccata agaatgtccc tccccaaaca agtaaacttg tgaaagttta
+     2821 atttggaatt agtggaagct gttcctttga aagccaagat attatttaag ttgtaaagcc
+     2881 agctaataaa atgccttagt ttgagcataa tacaaactgt gttttgttct ttagacattt
+     2941 atgagattct ctgccactaa cagtaaatat gatttagggg ttttgtggga tctttttcac
+     3001 ctaagagttt cctagctctg tcacatgaat tcttttttat cctaatggca gatccaattt
+     3061 catctcattc atttttttaa ccataacttg cttttcccat tctcactttt agaattatac
+     3121 ctatgatggc cctttcttta tcttgcttac cttatagatt ataagtcccc tgtgagtaag
+     3181 taagagtcat gtttttcttt aaagtttcaa caacaaaccc caaggtttat ttatttaaca
+     3241 acaggtattc gttgaggtgc cttctgggtg caaggagctt tagagtagat tttgacctca
+     3301 gctgaacctg gaactctgat ctgatagact gtttatgata agcttttttt tttattagca
+     3361 gcgtgatttg tatatcgatg gcttaacata tacaacagca tttcttctcc ctgcaccttt
+     3421 tcgtgaacct gacattttga acataagcaa taacatctgt atggtaaagt aggcagatta
+     3481 tacatgtgtt gcttagtgaa tgattaccaa gtgaacacac ttggtatatt gctttaccaa
+     3541 aatacatgtg tagttgtcac ttcagattca ctgagttaag aaagttttat ttaaatatta
+     3601 atattaatca agaatttaac agatatatgt gacagaaatc taacttcaag tgactgaagc
+     3661 agaaagaaaa atttttgaat gacataactg agaaaattag aggtagctct agctttgatt
+     3721 ccatttagat cgagcagctc acacaatgtt agcaaggact catctccact ctgccttccc
+     3781 tggtgctggt tttgctctca aactctatat agaactctcg gccgggcgcg gtggctcaca
+     3841 cctgtaatca aaacactttg ggaggctgag tcgggaggat agcgtgagcc caggagtttg
+     3901 agaccagcta aggcaatata gtgagaccat gtctctacag aaaaaattta aaaacagatc
+     3961 agctgggtgt ggtgccacat gcctgtagtc ccagcttctc aggaggctgg ggtgggaaga
+     4021 tcacttgagc ccaggaggtc gaggctgcag tgagccatga tcacatcact gcagtccagc
+     4081 ctgggtgaca gagcaagacc tgtcaccctg ccacccataa aaaacctctt ctgtaatgcc
+     4141 aggttcttga caagatgtga taattccaca cttacatcct cagatctccc atccagggca
+     4201 aggacagact aaaagagcat atcttctcca gaagtcctag aaacatctca tcattgacta
+     4261 tgattgaatt ttatttatta atacttccct aggatatcct gtgtttgagt gtgaagttaa
+     4321 tatcacacaa agcatgtagc taacagttgt gtgagggttg gaaattcagg gtgctgttag
+     4381 gaaggggaaa tggattgggg tttaaggtag ggggagtaaa aacaagaaac catccactct
+     4441 gtatattata taagactgtg atcgaattaa gaattttagt ttacagttta gcataaacaa
+     4501 atagtagtag aaatgaatgc atttattcat tccttccttc tccaatagtg tttaagtaca
+     4561 atctttttat ttgcatttta ttgatgattg attgtggttg aaaggagtgg tgatattatt
+     4621 tcgaggatcc actgtgtaag aagactgttg gcagtggaag gctcgagttg attaagtgac
+     4681 aaagaggtaa agcagacatg cccaagcttg gttatgctct gatttcctac cctgttactt
+     4741 tcatccataa tttatagtac atccattttg tgtcattttg cttcaggtat ttcttgtcct
+     4801 gactgtcttc ttttttatga ttttactgtt tcttcacact aatggctttg tcctctgact
+     4861 ttgactcttt gtgagattct tctgagcagt taacctctag gataatgtgg cttgaacaca
+     4921 ttacagaact atgttttgac ttgttagtat tattcacaca ttcatgacaa ttgagcctct
+     4981 ctactgtgag aaatgtttta gaggccagtt tctaggcata gctgtttttc tcccatgagt
+     5041 atgcaaatca atagttttaa ccattgttaa aatgcaatca tagtgacttc agaaaatttg
+     5101 gaaaatacag aaaatatagg gaagaataaa attaacccac agttctgtca cctaaaggta
+     5161 actgctgcca atgttttcat gtatttcttt tctgtctctc caatgcattt ttttacatag
+     5221 ttgtgagcgt tagccaagtt attttcatgt tgttatgtaa tcaatatttt tcaatagaag
+     5281 tattagaggt tttttttatt gatataaaaa taacaattac agatcctgat atatagaagt
+     5341 tattcaaaat tatacagttt tcaaaaaatc aagacaagta ggcccaatac aaactactga
+     5401 atcatcttct aatttccctc taaaatattt atagaaatat gtaagtagaa aaacattcat
+     5461 cctttcctcg tctaattatg atcctgccat attccaggca caagagaaag ctctggggct
+     5521 tgagtcttaa tagggctgat agtccaacca ggggacaggg tatcataaag agataattca
+     5581 aaactttaag attggagggt aggtgatggt agaaaattct gcggcaaaca tttgttgatg
+     5641 ctcatcattt gttgatgtca tcaaagatca ccagggcata attataatca aaattagttt
+     5701 tattgatgct tgctgcagca agagagactg cacaccactg gggtctatgg gtgcttctca
+     5761 gtgggaaggt gtaaggaggg gcttgctaag aatttgagca catgtagcta attttaagga
+     5821 gggctcaagt gagcaagggt ttcttctgga ttgagtgctg tcagaaagtg gattgagtgc
+     5881 tgtcagaaag tgggagtgat tttgcaactg ggtatcttaa tttttatgtt gtgggtggga
+     5941 ggaaaggaaa gaagcaacag tcacccatgt tagccacaag aagaggttgg ctgtttatgg
+     6001 tttgcacagt gactttgttt ttatctgtgc tcaggcatga ttacagtatc tcattttatc
+     6061 cggattacag tgacctcatc tgatgttaga gatttgagaa ttgttaaatg ttcagcagga
+     6121 gaacgccacc gcctagtgtg aatgctaggt cagaagctgc tttttcacac tgaaaccatt
+     6181 taagtatgta caaataagtt aatagtgtaa atgtaggtgt aaaatacaat gcaaaacaaa
+     6241 ataatgaagt aagtgaatta aattattgca ccaaatatgg ggatatgaaa tagggaaaga
+     6301 aaagcattaa gttacttata gtccataaag ggactacatt attttgttac tctgataatc
+     6361 ccataaaaca aagttttaag aatgtttaca gtaaccatga atggaattag tgaaactatt
+     6421 catatcaatg caaaaaaaaa aaaaaaaaaa gcaaagaaac taagtctgta cagcaaaaga
+     6481 tggaaaggaa acaagaaaat taaatgaaga caaaggttgt gattattaca gtaaatgaaa
+     6541 ataggttttt atctttaaaa tgtagactca aactgcaaag ctaatgatat gctatctgca
+     6601 aaatattcct attttgtaaa taaataaaac catagattta aagaagaaag ggcacagatg
+     6661 tactggggag acaaaaataa ctgatccgtt gggtgtatac catgtgccaa gcaattttca
+     6721 tatactcatt taacatgaca tatctataat tatatgaggc agatattatt aacctcagtc
+     6781 tatagatgag aagactaaag ctcagaggga ttgctaaaaa ctagtaaata aattatggaa
+     6841 ccatgatttg aatttagatt taagtctgac tgaggcatgt tcagagacac tacactgcct
+     6901 ctccagaaat caggagtagc aatattaaca ctggacaaag aatttaaagc aagtaaaaaa
+     6961 aaattaagag aatttcatat taataacaag tataatgcac aataaaactg taccaaatga
+     7021 cataaaaatg cataatgaaa tttattagaa attaaaaatt aaagggcata gttacaatta
+     7081 ttgaggaatt ctcatagctc tgccttatag atcatgtaaa caaacaaggt catagaggac
+     7141 ttaaatagca aagcagaaaa aaa
+//

@@ -1,0 +1,403 @@
+LOCUS       NM_000140               7689 bp    mRNA    linear   PRI 12-JUN-2025
+DEFINITION  Homo sapiens ferrochelatase (FECH), transcript variant 2, mRNA;
+            nuclear gene for mitochondrial product.
+ACCESSION   NM_000140
+VERSION     NM_000140.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7689)
+  AUTHORS   Zhao,Y., Zhu,L., Shi,D., Gao,J. and Fan,M.
+  TITLE     Key Genes FECH and ALAS2 under Acute High-Altitude Exposure: A Gene
+            Expression and Network Analysis Based on Expression Profile Data
+  JOURNAL   Genes (Basel) 15 (8), 1075 (2024)
+   PUBMED   39202434
+  REMARK    GeneRIF: Key Genes FECH and ALAS2 under Acute High-Altitude
+            Exposure: A Gene Expression and Network Analysis Based on Expression
+            Profile Data. Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 7689)
+  AUTHORS   Obi,C.D., Dailey,H.A., Jami-Alahmadi,Y., Wohlschlegel,J.A. and
+            Medlock,A.E.
+  TITLE     Proteomic Analysis of Ferrochelatase Interactome in Erythroid and
+            Non-Erythroid Cells
+  JOURNAL   Life (Basel) 13 (2), 577 (2023)
+   PUBMED   36836934
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 7689)
+  AUTHORS   Morgenstern,M., Peikert,C.D., Lubbert,P., Suppanz,I., Klemm,C.,
+            Alka,O., Steiert,C., Naumenko,N., Schendzielorz,A., Melchionda,L.,
+            Muhlhauser,W.W.D., Knapp,B., Busch,J.D., Stiller,S.B.,
+            Dannenmaier,S., Lindau,C., Licheva,M., Eickhorst,C., Galbusera,R.,
+            Zerbes,R.M., Ryan,M.T., Kraft,C., Kozjak-Pavlovic,V., Drepper,F.,
+            Dennerlein,S., Oeljeklaus,S., Pfanner,N., Wiedemann,N. and
+            Warscheid,B.
+  TITLE     Quantitative high-confidence human mitochondrial proteome and its
+            dynamics in cellular context
+  JOURNAL   Cell Metab 33 (12), 2464-2483 (2021)
+   PUBMED   34800366
+REFERENCE   4  (bases 1 to 7689)
+  AUTHORS   Khayer,N., Jalessi,M., Jahanbakhshi,A., Tabib Khooei,A. and
+            Mirzaie,M.
+  TITLE     Nkx3-1 and Fech genes might be switch genes involved in pituitary
+            non-functioning adenoma invasiveness
+  JOURNAL   Sci Rep 11 (1), 20943 (2021)
+   PUBMED   34686726
+  REMARK    GeneRIF: Nkx3-1 and Fech genes might be switch genes involved in
+            pituitary non-functioning adenoma invasiveness. Erratum:[Sci Rep.
+            2021 Dec 14;11(1):24258. doi: 10.1038/s41598-021-03094-1. PMID:
+            34907222] Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 7689)
+  AUTHORS   Balwani,M., Bloomer,J. and Desnick,R.
+  CONSRTM   Porphyrias Consortium of the NIH-Sponsored Rare Diseases Clinical
+            Research Network
+  TITLE     Erythropoietic Protoporphyria, Autosomal Recessive
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   23016163
+REFERENCE   6  (bases 1 to 7689)
+  AUTHORS   Brenner,D.A., Didier,J.M., Frasier,F., Christensen,S.R., Evans,G.A.
+            and Dailey,H.A.
+  TITLE     A molecular defect in human protoporphyria
+  JOURNAL   Am J Hum Genet 50 (6), 1203-1210 (1992)
+   PUBMED   1376018
+REFERENCE   7  (bases 1 to 7689)
+  AUTHORS   Nakahashi,Y., Fujita,H., Taketani,S., Ishida,N., Kappas,A. and
+            Sassa,S.
+  TITLE     The molecular defect of ferrochelatase in a patient with
+            erythropoietic protoporphyria
+  JOURNAL   Proc Natl Acad Sci U S A 89 (1), 281-285 (1992)
+   PUBMED   1729699
+REFERENCE   8  (bases 1 to 7689)
+  AUTHORS   Nakahashi,Y., Taketani,S., Okuda,M., Inoue,K. and Tokunaga,R.
+  TITLE     Molecular cloning and sequence analysis of cDNA encoding human
+            ferrochelatase
+  JOURNAL   Biochem Biophys Res Commun 173 (2), 748-755 (1990)
+   PUBMED   2260980
+REFERENCE   9  (bases 1 to 7689)
+  AUTHORS   Buller,R.E., Schrader,W.T. and O'Maller,B.W.
+  TITLE     Steroids and the practical aspects of performing binding studies
+  JOURNAL   J Steroid Biochem 7 (5), 321-326 (1976)
+   PUBMED   180343
+REFERENCE   10  (bases 1 to 7689)
+  AUTHORS   Bonkowsky,H.L., Bloomer,J.R., Ebert,P.S. and Mahoney,M.J.
+  TITLE     Heme synthetase deficiency in human protoporphyria. Demonstration of
+            the defect in liver and cultured skin fibroblasts
+  JOURNAL   J Clin Invest 56 (5), 1139-1148 (1975)
+   PUBMED   1184741
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BX571744.1, BC039841.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            MANE Ensembl match :: ENST00000262093.11/ ENSP00000262093.6
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            expression
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC100847.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Oct 15, 2019 this sequence version replaced NM_000140.4.
+            Summary: The protein encoded by this gene is localized to the
+            mitochondrion, where it catalyzes the insertion of the ferrous form
+            of iron into protoporphyrin IX in the heme synthesis pathway.
+            Mutations in this gene are associated with erythropoietic
+            protoporphyria. Two transcript variants encoding different isoforms
+            have been found for this gene. A pseudogene of this gene is found
+            on chromosome 3.[provided by RefSeq, May 2010].
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..7689
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="18"
+                     /map="18q21.31"
+     gene            1..7689
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="ferrochelatase"
+                     /db_xref="GeneID:2235"
+                     /db_xref="HGNC:HGNC:3647"
+                     /db_xref="MIM:612386"
+     exon            1..149
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             83..1354
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /EC_number="4.98.1.1"
+                     /note="isoform b precursor is encoded by transcript variant
+                     2; protoporphyria; protoheme ferro-lyase; heme synthetase;
+                     ferrochelatase, mitochondrial; heme synthase"
+                     /codon_start=1
+                     /product="ferrochelatase, mitochondrial isoform b
+                     precursor"
+                     /protein_id="NP_000131.2"
+                     /db_xref="CCDS:CCDS11964.1"
+                     /db_xref="GeneID:2235"
+                     /db_xref="HGNC:HGNC:3647"
+                     /db_xref="MIM:612386"
+                     /translation="MRSLGANMAAALRAAGVLLRDPLASSSWRVCQPWRWKSGAAAAAV
+                     TTETAQHAQGAKPQVQPQKRKPKTGILMLNMGGPETLGDVHDFLLRLFLDRDLMTLPIQ
+                     NKLAPFIAKRRTPKIQEQYRRIGGGSPIKIWTSKQGEGMVKLLDELSPNTAPHKYYIGF
+                     RYVHPLTEEAIEEMERDGLERAIAFTQYPQYSCSTTGSSLNAIYRYYNQVGRKPTMKWS
+                     TIDRWPTHHLLIQCFADHILKELDHFPLEKRSEVVILFSAHSLPMSVVNRGDPYPQEVS
+                     ATVQKVMERLEYCNPYRLVWQSKVGPMPWLGPQTDESIKGLCERGRKNILLVPIAFTSD
+                     HIETLYELDIEYSQVLAKECGVENIRRAESLNGNPLFSKALADLVHSHIQSNELCSKQL
+                     TLSCPLCVNPVCRETKSFFTSQQL"
+     transit_peptide 83..244
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="Mitochondrion. /evidence=ECO:0000255; propagated
+                     from UniProtKB/Swiss-Prot (P22830.2)"
+     mat_peptide     245..1351
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /product="Ferrochelatase, mitochondrial.
+                     /id=PRO_0000008873"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22830.2)"
+     misc_feature    251..253
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P22315; propagated from
+                     UniProtKB/Swiss-Prot (P22830.2); acetylation site"
+     misc_feature    1325..1327
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P22315; propagated from
+                     UniProtKB/Swiss-Prot (P22830.2); acetylation site"
+     exon            150..276
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            277..396
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            397..545
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            546..680
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            681..787
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            788..886
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            887..994
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            995..1159
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1160..1219
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1220..7689
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2531..2536
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="hexamer: ATTAAA"
+     polyA_site      2558
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="major polyA site"
+     regulatory      2708..2713
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="hexamer: AATAAA"
+     polyA_site      2726
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+     regulatory      3738..3743
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="hexamer: AATAAA"
+     polyA_site      3758
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+     regulatory      6796..6801
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="hexamer: ATTAAA"
+     polyA_site      6818
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+     regulatory      7202..7207
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="hexamer: AACAAA"
+     polyA_site      7221
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+     regulatory      7656..7661
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+                     /note="hexamer: AGTAAA"
+     polyA_site      7689
+                     /gene="FECH"
+                     /gene_synonym="EPP; EPP1; FCE"
+ORIGIN
+        1 acccggctcg gccactgctg ggcggacacc tgggcgcgcc gccgcgggag gagcccggac
+       61 tcgggccgag gctgcccagg caatgcgttc actcggcgca aacatggctg cggccctgcg
+      121 cgccgcgggc gtcctgctcc gcgatccgct ggcatccagc agctggaggg tctgtcagcc
+      181 atggaggtgg aagtcaggtg cagctgcagc ggccgtcacc acagaaacag cccagcatgc
+      241 ccagggtgca aaacctcaag ttcaaccgca gaagaggaag ccgaaaactg gaatattaat
+      301 gctaaacatg ggaggccctg aaactcttgg agatgttcac gacttccttc tgagactctt
+      361 cttggaccga gacctcatga cacttcctat tcagaataag ctggcaccat tcatcgccaa
+      421 acgccgaacc cccaagattc aagagcagta ccgcaggatt ggaggcggat cccccatcaa
+      481 gatatggact tccaagcagg gagagggcat ggtgaagctg ctggatgaat tgtcccccaa
+      541 cacagcccct cacaaatact atattggatt tcggtacgtc catcctttaa cagaagaagc
+      601 aattgaagag atggagagag atggcctaga aagggctatt gctttcacac agtatccaca
+      661 gtacagctgc tccaccacag gcagcagctt aaatgccatt tacagatact ataatcaagt
+      721 gggacggaag cccacgatga agtggagcac tattgacagg tggcccacac atcacctcct
+      781 catccagtgc tttgcagatc atattctaaa ggaactggac cattttccac ttgagaagag
+      841 aagcgaggtg gtcattctgt tttctgctca ctcactgccc atgtctgtgg tcaacagagg
+      901 cgacccatat cctcaggagg taagcgccac tgtccaaaaa gtcatggaaa ggctggagta
+      961 ctgcaacccc taccgactgg tgtggcaatc caaggttggt ccaatgccct ggttgggtcc
+     1021 tcaaacagac gaatctatca aagggctttg tgagaggggg aggaagaata tcctcttggt
+     1081 tccgatagca tttaccagtg accatattga aacgctgtat gagctggaca tcgagtactc
+     1141 tcaagtttta gccaaggagt gtggagttga aaacatcaga agagctgagt ctcttaatgg
+     1201 aaatccattg ttctctaagg ccctggccga cttggtgcat tcacacatcc agtcaaacga
+     1261 gctgtgttcc aagcagctga ccctgagctg tccgctctgt gtcaatcctg tctgcaggga
+     1321 gactaaatcc ttcttcacca gccagcagct gtgacccccg ccggtggacc ccgtggcgtt
+     1381 aggcaaatgc ccaacctcca gatacctccg atgtggagag ggtgttattt agagatcaag
+     1441 gaaggaagtc atccttcctt gatatatata cagcctttgg gtacaaattg tgtggtttct
+     1501 tgaggattgg actcttgatg gatttctatt tttatataac tatacagtaa gcatttgtat
+     1561 tttctctctc taggtataag ttactagttt ggaatgtcca tcaggacctt taataaatga
+     1621 gttaaaaatt tgtcttatga gacacaccta tttaagtaca gattttggct ttattgccca
+     1681 aaaccctcct gaaagggtac ggagagtccc ctctgtgggc tggcagtgtg aatgagatct
+     1741 gtttagtctc gtgcatatag ttgctgtttt ttaaatgaac acagttgagt atttgaagtg
+     1801 aatttgaaaa agaaatgtta cttaatcttt ccctaagccc atgggttaca gaatgctagg
+     1861 gaggcaattt ggttacctgc aatggctgct tttgccagcg aggccaccat tcattggtca
+     1921 tcttggtatt tgtgtgtgaa tctcactttc ctcaatgtaa aaaggaatca agtatggatt
+     1981 tcagaggtgc tcttagattc cccatacacc caagggtaat aaacgtgtac aagtacagtg
+     2041 ttcatgatac gtgccttggt gggagtccgt ggtgccacag ggaaggggct cccactgctt
+     2101 ctggtctcca gggacagtgc tgctggaaag gctagtgatg agcttcaccc tggagctcct
+     2161 cccgggacct tgcaagcctc tccatccagc atcttctcta tcttagttga atgccttctt
+     2221 tctgaacatt tgttttaaga attattttat aaagtcaaca atactttgct tgaattcttt
+     2281 cttaatttac gattttttat tataaaaatg tatagtgata caatgggaca tgtgaagaat
+     2341 acagaaaagt aaccacttta atgcaataac tgttatcata atattgtatt tcgtggtagt
+     2401 cctttcctgt agatattttt aatgccattt aatgccattg tcaccttgga tttatgagtg
+     2461 aaaagtgttt ctaaaaatat agaaataatg tcagatcaga gtctgatctt ctatgtttgt
+     2521 atttaaatgg attaaaagat ccccggtggt tccatgaaga atttgtaaag atcactttct
+     2581 ctttcctcca agccctgaaa ctttgttctt caaaagagcg tttctttttt tttttttttt
+     2641 tagccagttt ataaagtgga agtattagga gattcataaa tcttctatat tgagaattgg
+     2701 ctatgttaat aaatattaca acatcattaa ggttttagct aagtttgatt catgctgtct
+     2761 gttaaatcaa aactgatcta aatcagaatt attaaatgtg aggagctttt ttaatacagg
+     2821 aaaagaaaca tgtcatccac ttgagttaat agttttccta cgttgatgac agccctcatg
+     2881 agtagcatcc acatttttaa aatttcaaat tggtttttct actagtagat tgtgtttcta
+     2941 gagaaagata caaggcatag gtgattgttt aggattttcc tctagccttt gccattacct
+     3001 ttttggggat gaggttcaca gtagactttg agtgaccgtc ccaccgtgaa gtgaattctc
+     3061 tgagctggtg gtgtggtgct ggaaggaagg ttatttttgg agccactctc tccccttaag
+     3121 gatatttccc aagggcctgc ttcaattctt tgatgacttt agaggtgaaa aaatattttt
+     3181 atggagatga tgcagaaaac tccaattcag gagcccttgc gagtatatct gaagcactta
+     3241 tttgctaagg aaacctgaat tgatagcagt actgtgctgt ctggaataat gtccttgata
+     3301 ctgagttggg accagactgg cttttatagt gacaggcaaa gaggaattta ttgagatcac
+     3361 tgctcatggc atttgttgct gtaagaagtg ttgcctttga ttgttactaa ccacggatgg
+     3421 gtaacggtca tacattaggc tagtgtttgg taggacaaaa tctttttaga gctttgagaa
+     3481 ttgtcatcct gttggtcaac tttgaaatac aaatgtttgc cctggtaatt agcaatgaac
+     3541 tgctggcagt ttcttcagct gtgtatatac ggatctggct tttaattgat gaatcaactt
+     3601 ctacagaaac ttttgcaggg acagtgttga tgaggcagtt tagcttgcca gggtgatgat
+     3661 aaagcccagg tccctgcatg tatagtgctc ttctaaagaa tatgcattct tgaactactt
+     3721 aactttttaa aaatcacaat aaatttttgc actcaaaatt tgcttcgtat caggagaaat
+     3781 gaactcattg ttttgttttg tttttttttt tttttaagat ggagtcttgc tatgtcaccc
+     3841 aggctggagg gcagtggtgc gatctcggct cactgctact tccacctcct gggctcaagt
+     3901 gatcctccca cctcagcctc caagtagctg ggactacagg agtgcttcac cacgctgggc
+     3961 tactttttta tattttttgt agagatgggg ttttgccatg ttgtccaggc tggtcttgaa
+     4021 ctcctgggct caagggattc tcctgcctca gtctcccaaa gtgctgggat tacaaggatg
+     4081 agcctctgca cctggccctg aactcattat taaaagccct ttaaatgtga ggctgggtgc
+     4141 cgtgccttac atgtgtaatt ccaatacttt ggaaggccaa ggttggagga ttgcttgatc
+     4201 ccaagagttc aagaccagcc tgggcaacat agggagaccc tgactctaca aaaaataaag
+     4261 taaaaattaa ctgggtgtag tgtcacatgc ctgtagttcc agctacttag gaggctgagg
+     4321 tggtaggatt gcttgagccc agcagtttga ggttgcagtg aggtgtgatt gcaccactgc
+     4381 actccagcct gggtgacaga ggaagaccct gtcccaaaac caaaaaaaag aaaagaaata
+     4441 cagagactgg gtcatttaca aaggaaagag gtttaattga ctcggttcgg ctttctgagg
+     4501 aagccttagg aaattgacaa tcatggcaga aggggaagca gatgtcttac atggcagtga
+     4561 gtgagagcaa gcaaagggga agagccccct tataaaacca tcagatctcg tgagaactgg
+     4621 ctgtcacaag aacagcatgg gggaactgtc tccatgttcc aatctccttc caccaggtcc
+     4681 ctccctcaac acgtggggat tatggggatt acaatttgaa atgagatttg ggtggggaac
+     4741 agagccaaat catatcattc caccctggcc cctcccaaat cacatgtcct ttttacattt
+     4801 caaaaccaat catgccttca caacagtcct ccagagtctt aactcattcc agcattaacc
+     4861 caaaagtcca agttcaaagt ctcatccaag acaaggcaag tcccttctgc ctgtgagcct
+     4921 gtaacattaa aagcaagtta gtgacttcca agatacaatg ggagtacaga cattggtaaa
+     4981 tgttcccatt ccaaatggga gaaattggcc aaaacacagg ggctacaggc cccatgcacc
+     5041 actgcactcc actgtgcaag tctgaaaccc ggcagggcac tccttaaatt tttttttttt
+     5101 ttttttgaga tggagtctcg ctctgttgcc caagctggag tacagtggca cgatctcggc
+     5161 tcactgcaac ctccgcctct tgggttcaaa ggatcatcct gcctcagcct ccggagtagc
+     5221 tgggctactc aggcgtgtgc caccatgccc ggctaatttt tgtattttta gtagagatgg
+     5281 ggcctgacca tgttggtcag gctggtctct aattcctgac ctcgtgatcc acccgcctca
+     5341 gcctctgaaa gtgttgggat tacaggcgtg agccaccatc cccggcctac tcaataaatc
+     5401 ttaaagttcc ggaataatct cctttgactc catgtctcac ctccaggtca cgctgatgca
+     5461 agaggtgggc taatctttct agtaaattcc atatttaatt caagaaacca taacttaagg
+     5521 catgtaaaag agatcctttg ctcaatgtga tgccattgtg cttatccaaa gtatattatt
+     5581 attacccaca aagggtgaga gattaggctg cagccatacc ccaagtggag tgagcagcaa
+     5641 gacctgcccc ctgctcagag tgtagatgac tgggggcacc tgcattccta ggggctctgc
+     5701 cgtatgagct cctgtcgatg cggcaaagga ccaccttgcc caacgacagc gggaaggcag
+     5761 aatttaaagc tggcagctgt aagcgaacgt ctatgtgtgc gcacgggggc acgtgaaggc
+     5821 acaggtgcat cagccaagaa cctccaattc acctcttaac cttctcacct cacctgaaac
+     5881 cccttctgcc agaatcctga aggtggccca ggaacagggc tcctaacgtt aggtggaaat
+     5941 gggaaattca ttgagatgtc acaagctgga ataagaaaat tctgagctca cccggaaact
+     6001 aatgccctaa attaagatta ttcagcttct caatttttaa tagcaaaatg gagacctgag
+     6061 tgtggataac ttttagtatc tgtgggggat cctggaacca attccctgcc aatatagaag
+     6121 gacaactgtc tacagtactt gaagtattat taactacatt cgccatgctg tatgttagat
+     6181 ccccagaaca tatttatcct gcatatctaa aattttgatc attttacaaa ctttctattt
+     6241 tttttgtcaa ttttctccag ctagacactt gtgcaatacg gctattatct gatctttgcc
+     6301 ttaaatgttg tgcttctttt ccatatgcac gtattttgca aaatataaag tgtgtagagc
+     6361 tatatagcac tcagccaagt ggtgggtacc tgcaggtgct tcagagaagt aaattgatgc
+     6421 tgctaatatt tgttgaatgg cacgaatatg atgagcaata gcaggtggtg cccttcagcc
+     6481 agaccatcgc tccgtgcgtc tgatgcatct tgccaaagag tagttctggg aggtggttgc
+     6541 ctctagagaa cacattcctc ctattctggg gtcccgtgag agaaagaaat gcttttgctt
+     6601 ttgatgtggg actcttacta agcctttctt cagagaaaag gaagtgaaaa atgcacccca
+     6661 tgataatcag tttcttacaa catactgtga tagtaccggc ttcgttgttt ttagctggaa
+     6721 tcattagctt ccatttttag aataacagct attggctaaa ttaggctaca gtaggccatt
+     6781 aagatggatg ttggaattaa aaacattttt ggaaaaaagc ctgctttgag cctttgttat
+     6841 aagcccttgg gtagagatct gggtcctgtt tctgatttct tgtgagcctt cactctgaca
+     6901 gttttgtttc cagaaacaca ctcttagcct gctcctgaaa tgggaacaga caggccaact
+     6961 tcccctctcc agtctcccct gcgggtcaaa gctttacttt cctgtcatgt taagaaagaa
+     7021 tagatttaac cttgataatc catgtagtat tctgtatttt taccttttcc ttatctgaaa
+     7081 aaaagtgtat atatggcatg gaattgattg cacaggcaca tggcatgttg gcttgtgaac
+     7141 caattgttaa aatttcaagt taatcattaa aataatatct ttcaaattaa gttatattaa
+     7201 aaacaaaggt aacattctaa attcattact ttctaattat ttcgcccttt tttttgtcgt
+     7261 tgattattta gacttaagaa agtgatggga aaaacgttaa taacacagta cataagttgt
+     7321 ttctgtagcc attacactgt gattttcaca aacacttgaa cacttgaata gtcttccatt
+     7381 atttgaaaac tattattcaa cttatccaag tgaagtattg gcatacaaag aagttgtttc
+     7441 atatttgcat tgctcatgaa tgtaaacaaa atgtcgatat gtgtgaacta tacttgttga
+     7501 tcaattgcaa ccataggttg gctgcagatg cgagagcttg gtaaacatca acaaaagcat
+     7561 tctctgagaa tgaattgact atatggaatt tgtaggaaag tgtattgtgt attttattat
+     7621 tatttgtaaa ttgtgtattc cacatctttt agattagtaa aatttatagt aaacatactc
+     7681 tcacaccta
+//

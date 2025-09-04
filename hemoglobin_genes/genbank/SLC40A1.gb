@@ -1,0 +1,348 @@
+LOCUS       NM_014585               3330 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens solute carrier family 40 member 1 (SLC40A1), mRNA.
+ACCESSION   NM_014585
+VERSION     NM_014585.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3330)
+  AUTHORS   Chen,J., Yang,X., Li,Q., Ma,J., Li,H., Wang,L., Chen,Z. and Quan,Z.
+  TITLE     Inhibiting DNA methyltransferase DNMT3B confers protection against
+            ferroptosis in nucleus pulposus and ameliorates intervertebral disc
+            degeneration via upregulating SLC40A1
+  JOURNAL   Free Radic Biol Med 220, 139-153 (2024)
+   PUBMED   38705495
+  REMARK    GeneRIF: Inhibiting DNA methyltransferase DNMT3B confers protection
+            against ferroptosis in nucleus pulposus and ameliorates
+            intervertebral disc degeneration via upregulating SLC40A1.
+REFERENCE   2  (bases 1 to 3330)
+  AUTHORS   Debbiche,R., Elbahnsi,A., Uguen,K., Ka,C., Callebaut,I. and Le
+            Gac,G.
+  TITLE     Insights into the role of glycerophospholipids on the iron export
+            function of SLC40A1 and the molecular mechanisms of ferroportin
+            disease
+  JOURNAL   FASEB J 38 (13), e23725 (2024)
+   PUBMED   38959016
+  REMARK    GeneRIF: Insights into the role of glycerophospholipids on the iron
+            export function of SLC40A1 and the molecular mechanisms of
+            ferroportin disease.
+REFERENCE   3  (bases 1 to 3330)
+  AUTHORS   Jiang,J., Duan,R., Zhu,J., Yan,J., Ye,J. and Luo,C.
+  TITLE     Influence of SLC40A1 on Cytokine Interactions and Immune
+            Infiltration in Glioblastoma
+  JOURNAL   Neuromolecular Med 26 (1), 21 (2024)
+   PUBMED   38750318
+  REMARK    GeneRIF: Influence of SLC40A1 on Cytokine Interactions and Immune
+            Infiltration in Glioblastoma. Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 3330)
+  AUTHORS   Zhang,G., Zhang,W., Dan,M., Zou,F., Qiu,C. and Sun,C.
+  TITLE     PRPF19 promotes the proliferation, migration, and inhibits autophagy
+            in prostate cancer by suppressing SLC40A1
+  JOURNAL   Chin J Physiol 66 (5), 379-387 (2023)
+   PUBMED   37929350
+  REMARK    GeneRIF: PRPF19 promotes the proliferation, migration, and inhibits
+            autophagy in prostate cancer by suppressing SLC40A1.
+REFERENCE   5  (bases 1 to 3330)
+  AUTHORS   Ohta,K., Ito,M., Chida,T., Nakashima,K., Sakai,S., Kanegae,Y.,
+            Kawasaki,H., Aoshima,T., Takabayashi,S., Takahashi,H., Kawata,K.,
+            Shoji,I., Sawasaki,T., Suda,T. and Suzuki,T.
+  TITLE     Role of hepcidin upregulation and proteolytic cleavage of
+            ferroportin 1 in hepatitis C virus-induced iron accumulation
+  JOURNAL   PLoS Pathog 19 (8), e1011591 (2023)
+   PUBMED   37585449
+  REMARK    GeneRIF: Role of hepcidin upregulation and proteolytic cleavage of
+            ferroportin 1 in hepatitis C virus-induced iron accumulation.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 3330)
+  AUTHORS   Simpson,J.C., Wellenreuther,R., Poustka,A., Pepperkok,R. and
+            Wiemann,S.
+  TITLE     Systematic subcellular localization of novel proteins identified by
+            large-scale cDNA sequencing
+  JOURNAL   EMBO Rep 1 (3), 287-292 (2000)
+   PUBMED   11256614
+REFERENCE   7  (bases 1 to 3330)
+  AUTHORS   Abboud,S. and Haile,D.J.
+  TITLE     A novel mammalian iron-regulated protein involved in intracellular
+            iron metabolism
+  JOURNAL   J Biol Chem 275 (26), 19906-19912 (2000)
+   PUBMED   10747949
+REFERENCE   8  (bases 1 to 3330)
+  AUTHORS   Donovan,A., Brownlie,A., Zhou,Y., Shepard,J., Pratt,S.J.,
+            Moynihan,J., Paw,B.H., Drejer,A., Barut,B., Zapata,A., Law,T.C.,
+            Brugnara,C., Lux,S.E., Pinkus,G.S., Pinkus,J.L., Kingsley,P.D.,
+            Palis,J., Fleming,M.D., Andrews,N.C. and Zon,L.I.
+  TITLE     Positional cloning of zebrafish ferroportin1 identifies a conserved
+            vertebrate iron exporter
+  JOURNAL   Nature 403 (6771), 776-781 (2000)
+   PUBMED   10693807
+REFERENCE   9  (bases 1 to 3330)
+  AUTHORS   McKie,A.T., Marciani,P., Rolfs,A., Brennan,K., Wehr,K., Barrow,D.,
+            Miret,S., Bomford,A., Peters,T.J., Farzaneh,F., Hediger,M.A.,
+            Hentze,M.W. and Simpson,R.J.
+  TITLE     A novel duodenal iron-regulated transporter, IREG1, implicated in
+            the basolateral transfer of iron to the circulation
+  JOURNAL   Mol Cell 5 (2), 299-309 (2000)
+   PUBMED   10882071
+REFERENCE   10  (bases 1 to 3330)
+  AUTHORS   Haile,D.J.
+  TITLE     Assignment of Slc11a3 to mouse chromosome 1 band 1B and SLC11A3 to
+            human chromosome 2q32 by in situ hybridization
+  JOURNAL   Cytogenet Cell Genet 88 (3-4), 328-329 (2000)
+   PUBMED   10828623
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC037733.1, AL136944.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000261024.7/ ENSP00000261024.3
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            expression, longest protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA806565.1 and BC037733.1.
+            On Dec 4, 2019 this sequence version replaced NM_014585.5.
+            Summary: The protein encoded by this gene is a cell membrane
+            protein that may be involved in iron export from duodenal
+            epithelial cells. Defects in this gene are a cause of
+            hemochromatosis type 4 (HFE4). [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3330
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q32.2"
+     gene            1..3330
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="solute carrier family 40 member 1"
+                     /db_xref="GeneID:30061"
+                     /db_xref="HGNC:HGNC:10909"
+                     /db_xref="MIM:604653"
+     exon            1..369
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    222..224
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="upstream in-frame stop codon"
+     CDS             327..2042
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="solute carrier family 11 (proton-coupled divalent
+                     metal ion transporters), member 3; iron regulated gene 1;
+                     solute carrier family 40 (iron-regulated transporter),
+                     member 1; SLC40 iron transporter"
+                     /codon_start=1
+                     /product="ferroportin"
+                     /protein_id="NP_055400.1"
+                     /db_xref="CCDS:CCDS2299.1"
+                     /db_xref="GeneID:30061"
+                     /db_xref="HGNC:HGNC:10909"
+                     /db_xref="MIM:604653"
+                     /translation="MTRAGDHNRQRGCCGSLADYLTSAKFLLYLGHSLSTWGDRMWHFA
+                     VSVFLVELYGNSLLLTAVYGLVVAGSVLVLGAIIGDWVDKNARLKVAQTSLVVQNVSVI
+                     LCGIILMMVFLHKHELLTMYHGWVLTSCYILIITIANIANLASTATAITIQRDWIVVVA
+                     GEDRSKLANMNATIRRIDQLTNILAPMAVGQIMTFGSPVIGCGFISGWNLVSMCVEYVL
+                     LWKVYQKTPALAVKAGLKEEETELKQLNLHKDTEPKPLEGTHLMGVKDSNIHELEHEQE
+                     PTCASQMAEPFRTFRDGWVSYYNQPVFLAGMGLAFLYMTVLGFDCITTGYAYTQGLSGS
+                     ILSILMGASAITGIMGTVAFTWLRRKCGLVRTGLISGLAQLSCLILCVISVFMPGSPLD
+                     LSVSPFEDIRSRFIQGESITPTKIPEITTEIYMSNGSNSANIVPETSPESVPIISVSLL
+                     FAGVIAARIGLWSFDLTVTQLLQENVIESERGIINGVQNSMNYLLDLLHFIMVILAPNP
+                     EAFGLLVLISVSFVAMGHIMYFRFAQNTLGNKLFACGPDAKEVRKENQANTSVV"
+     misc_feature    396..485
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    498..578
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    588..680
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    705..812
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    819..911
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    933..1013
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    1245..1325
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    1341..1424
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    1431..1499
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    1626..1628
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (Q9NP59.1); glycosylation site"
+     misc_feature    1686..1775
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    1791..1865
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     misc_feature    1875..1952
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9NP59.1);
+                     transmembrane region"
+     exon            370..437
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            438..597
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            598..713
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            714..840
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            841..1086
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1087..1728
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1729..3330
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3306..3311
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="hexamer: TATAAA"
+     polyA_site      3330
+                     /gene="SLC40A1"
+                     /gene_synonym="FPN; FPN1; HFE4; IREG1; MST079; MSTP079;
+                     MTP1; SLC11A3"
+                     /note="major polyA site"
+ORIGIN
+        1 ggcggcggcg gcggcggaga gagctggctc agggcgtccg ctaggctcgg acgacctgct
+       61 gagcctccca aaccgcttcc ataaggcttt gcctttccaa cttcagctac agtgttagct
+      121 aagtttggaa agaaggaaaa aagaaaatcc ctgggcccct tttcttttgt tctttgccaa
+      181 agtcgtcgtt gtagtctttt tgcccaaggc tgttgtgttt ttagaggtgc tatctccagt
+      241 tccttgcact cctgttaaca agcacctcag cgagagcagc agcagcgata gcagccgcag
+      301 aagagccagc ggggtcgcct agtgtcatga ccagggcggg agatcacaac cgccagagag
+      361 gatgctgtgg atccttggcc gactacctga cctctgcaaa attccttctc taccttggtc
+      421 attctctctc tacttgggga gatcggatgt ggcactttgc ggtgtctgtg tttctggtag
+      481 agctctatgg aaacagcctc cttttgacag cagtctacgg gctggtggtg gcagggtctg
+      541 ttctggtcct gggagccatc atcggtgact gggtggacaa gaatgctaga cttaaagtgg
+      601 cccagacctc gctggtggta cagaatgttt cagtcatcct gtgtggaatc atcctgatga
+      661 tggttttctt acataaacat gagcttctga ccatgtacca tggatgggtt ctcacttcct
+      721 gctatatcct gatcatcact attgcaaata ttgcaaattt ggccagtact gctactgcaa
+      781 tcacaatcca aagggattgg attgttgttg ttgcaggaga agacagaagc aaactagcaa
+      841 atatgaatgc cacaatacga aggattgacc agttaaccaa catcttagcc cccatggctg
+      901 ttggccagat tatgacattt ggctccccag tcatcggctg tggctttatt tcgggatgga
+      961 acttggtatc catgtgcgtg gagtacgttc tgctctggaa ggtttaccag aaaaccccag
+     1021 ctctagctgt gaaagctggt cttaaagaag aggaaactga attgaaacag ctgaatttac
+     1081 acaaagatac tgagccaaaa cccctggagg gaactcatct aatgggtgtg aaagactcta
+     1141 acatccatga gcttgaacat gagcaagagc ctacttgtgc ctcccagatg gctgagccct
+     1201 tccgtacctt ccgagatgga tgggtctcct actacaacca gcctgtgttt ctggctggca
+     1261 tgggtcttgc tttcctttat atgactgtcc tgggctttga ctgcatcacc acagggtacg
+     1321 cctacactca gggactgagt ggttccatcc tcagtatttt gatgggagca tcagctataa
+     1381 ctggaataat gggaactgta gcttttactt ggctacgtcg aaaatgtggt ttggttcgga
+     1441 caggtctgat ctcaggattg gcacagcttt cctgtttgat cttgtgtgtg atctctgtat
+     1501 tcatgcctgg aagccccctg gacttgtccg tttctccttt tgaagatatc cgatcaaggt
+     1561 tcattcaagg agagtcaatt acacctacca agatacctga aattacaact gaaatataca
+     1621 tgtctaatgg gtctaattct gctaatattg tcccggagac aagtcctgaa tctgtgccca
+     1681 taatctctgt cagtctgctg tttgcaggcg tcattgctgc tagaatcggt ctttggtcct
+     1741 ttgatttaac tgtgacacag ttgctgcaag aaaatgtaat tgaatctgaa agaggcatta
+     1801 taaatggtgt acagaactcc atgaactatc ttcttgatct tctgcatttc atcatggtca
+     1861 tcctggctcc aaatcctgaa gcttttggct tgctcgtatt gatttcagtc tcctttgtgg
+     1921 caatgggcca cattatgtat ttccgatttg cccaaaatac tctgggaaac aagctctttg
+     1981 cttgcggtcc tgatgcaaaa gaagttagga aggaaaatca agcaaataca tctgttgttt
+     2041 gagacagttt aactgttgct atcctgttac tagattatat agagcacatg tgcttatttt
+     2101 gtactgcaga attccaataa atggctgggt gttttgctct gtttttacca cagctgtgcc
+     2161 ttgagaacta aaagctgttt aggaaaccta agtcagcaga aattaactga ttaatttccc
+     2221 ttatgttgag gcatggaaaa aaaattggaa aagaaaaact cagtttaaat acggagacta
+     2281 taatgataac actgaattcc cctatttctc atgagtagat acaatcttac gtaaaagagt
+     2341 ggttagtcac gtgaattcag ttatcatttg acagattctt atctgtacta gaattcagat
+     2401 atgtcagttt tctgcaaaac tcactcttgt tcaagactag ctaatttatt tttttgcatc
+     2461 ttagttattt ttaaaaacaa attcttcaag tatgaagact aaattttgat aactaatatt
+     2521 atccttattg atcctattga tcttaaggta tttacatgta tgtggaaaaa caaaacactt
+     2581 aactagaatt ctctaataag gtttatggtt tagcttaaag agcacctttg tatttttatt
+     2641 atcagatggg gcaacatatt gtatgaagca tatgtagcac ttcacagcat ggttatcatg
+     2701 taagctgcag gtagaagcaa agctgtaaag tagatttatc acacaatgac tgcatacaga
+     2761 cttcaaatat gtcaatagtt tggtcataga acctagaagc caaaagccac acagaagggc
+     2821 aagaatccca atttaactca tgttatcatc attagtgatc tgtgttgtag aacatgaggg
+     2881 tgtaagcctt cagcctggca agttacatgt agaaagccca cacttgtgaa ggttttgttt
+     2941 tacaaatcac ttgatttaac acactcaggt agaatatttt tatttttact gttttatacc
+     3001 cagaagttat ttctacattg ttctacagca agaatattca taaaagtatc cctttcaaat
+     3061 gcctttgaga agaatagaag aaaaaaagtt tgtatatatt ttaaaaaatt gttttaaaag
+     3121 tcagtttgca acatgtctgt accaagatgg tactttgcct taaccgttta tatgcacttt
+     3181 catggagact gcaatacgtt gctatgagca ctttctttat ccttggagtt taatcctttg
+     3241 cttcatcttt ctacagtatg acataatgat ttgctatgtt gtaaaatctt tgtaaaaaat
+     3301 ttctatataa aaatattttg aaaatcttaa
+//

@@ -1,0 +1,349 @@
+LOCUS       NM_002625               1756 bp    mRNA    linear   PRI 01-MAY-2019
+DEFINITION  Homo sapiens 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1
+            (PFKFB1), transcript variant 1, mRNA.
+ACCESSION   NM_002625
+VERSION     NM_002625.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1756)
+  AUTHORS   Tiazhka,O.V., Minchenko,D.O., Davydov,V.V., Moliavko,O.S.,
+            Budreiko,O.A., Kulieshova,D.K. and Minchenko,O.H.
+  TITLE     [EXPRESSION OF GENES, WHICH CONTROL GLUCOSE METABOLISM, IN BLOOD
+            CELLS OF THE OBESE BOYS WITH INSULIN RESISTANCE]
+  JOURNAL   Lik. Sprava (3-4), 66-71 (2015)
+   PUBMED   26827442
+  REMARK    GeneRIF: Insulin resistance in obese boys leads to up-regulation of
+            INSIG2 gene expression as well as to down-regulation of PFKFB1,
+            PFKFB3, and HK2 genes in the blood cells as compared to obese
+            patients with normal insulin sensitivity.
+REFERENCE   2  (bases 1 to 1756)
+  AUTHORS   Hogan KJ, Burmester JK, Caldwell MD, Hogan QH, Coursin DB, Green DN,
+            Selzer RM, Broderick TP, Rusy DA, Poroli M, Lutz AL, Sanders AM,
+            Oldenburg MC, Koelbl JA, de Arruda-Indig M, Halsey JL, Day SP and
+            Domanico MJ.
+  TITLE     Perioperative genomic profiles using structure-specific
+            oligonucleotide probes
+  JOURNAL   Clin Med Res 7 (3), 69-84 (2009)
+   PUBMED   19474452
+  REMARK    GeneRIF: Observational study of genetic testing. (HuGE Navigator)
+REFERENCE   3  (bases 1 to 1756)
+  AUTHORS   Ross MT, Grafham DV, Coffey AJ, Scherer S, McLay K, Muzny D, Platzer
+            M, Howell GR, Burrows C, Bird CP, Frankish A, Lovell FL, Howe KL,
+            Ashurst JL, Fulton RS, Sudbrak R, Wen G, Jones MC, Hurles ME,
+            Andrews TD, Scott CE, Searle S, Ramser J, Whittaker A, Deadman R,
+            Carter NP, Hunt SE, Chen R, Cree A, Gunaratne P, Havlak P, Hodgson
+            A, Metzker ML, Richards S, Scott G, Steffen D, Sodergren E, Wheeler
+            DA, Worley KC, Ainscough R, Ambrose KD, Ansari-Lari MA, Aradhya S,
+            Ashwell RI, Babbage AK, Bagguley CL, Ballabio A, Banerjee R, Barker
+            GE, Barlow KF, Barrett IP, Bates KN, Beare DM, Beasley H, Beasley O,
+            Beck A, Bethel G, Blechschmidt K, Brady N, Bray-Allen S, Bridgeman
+            AM, Brown AJ, Brown MJ, Bonnin D, Bruford EA, Buhay C, Burch P,
+            Burford D, Burgess J, Burrill W, Burton J, Bye JM, Carder C, Carrel
+            L, Chako J, Chapman JC, Chavez D, Chen E, Chen G, Chen Y, Chen Z,
+            Chinault C, Ciccodicola A, Clark SY, Clarke G, Clee CM, Clegg S,
+            Clerc-Blankenburg K, Clifford K, Cobley V, Cole CG, Conquer JS,
+            Corby N, Connor RE, David R, Davies J, Davis C, Davis J, Delgado O,
+            Deshazo D, Dhami P, Ding Y, Dinh H, Dodsworth S, Draper H,
+            Dugan-Rocha S, Dunham A, Dunn M, Durbin KJ, Dutta I, Eades T,
+            Ellwood M, Emery-Cohen A, Errington H, Evans KL, Faulkner L, Francis
+            F, Frankland J, Fraser AE, Galgoczy P, Gilbert J, Gill R, Glockner
+            G, Gregory SG, Gribble S, Griffiths C, Grocock R, Gu Y, Gwilliam R,
+            Hamilton C, Hart EA, Hawes A, Heath PD, Heitmann K, Hennig S,
+            Hernandez J, Hinzmann B, Ho S, Hoffs M, Howden PJ, Huckle EJ, Hume
+            J, Hunt PJ, Hunt AR, Isherwood J, Jacob L, Johnson D, Jones S, de
+            Jong PJ, Joseph SS, Keenan S, Kelly S, Kershaw JK, Khan Z, Kioschis
+            P, Klages S, Knights AJ, Kosiura A, Kovar-Smith C, Laird GK,
+            Langford C, Lawlor S, Leversha M, Lewis L, Liu W, Lloyd C, Lloyd DM,
+            Loulseged H, Loveland JE, Lovell JD, Lozado R, Lu J, Lyne R, Ma J,
+            Maheshwari M, Matthews LH, McDowall J, McLaren S, McMurray A, Meidl
+            P, Meitinger T, Milne S, Miner G, Mistry SL, Morgan M, Morris S,
+            Muller I, Mullikin JC, Nguyen N, Nordsiek G, Nyakatura G, O'Dell CN,
+            Okwuonu G, Palmer S, Pandian R, Parker D, Parrish J, Pasternak S,
+            Patel D, Pearce AV, Pearson DM, Pelan SE, Perez L, Porter KM, Ramsey
+            Y, Reichwald K, Rhodes S, Ridler KA, Schlessinger D, Schueler MG,
+            Sehra HK, Shaw-Smith C, Shen H, Sheridan EM, Shownkeen R, Skuce CD,
+            Smith ML, Sotheran EC, Steingruber HE, Steward CA, Storey R, Swann
+            RM, Swarbreck D, Tabor PE, Taudien S, Taylor T, Teague B, Thomas K,
+            Thorpe A, Timms K, Tracey A, Trevanion S, Tromans AC, d'Urso M,
+            Verduzco D, Villasana D, Waldron L, Wall M, Wang Q, Warren J, Warry
+            GL, Wei X, West A, Whitehead SL, Whiteley MN, Wilkinson JE, Willey
+            DL, Williams G, Williams L, Williamson A, Williamson H, Wilming L,
+            Woodmansey RL, Wray PW, Yen J, Zhang J, Zhou J, Zoghbi H, Zorilla S,
+            Buck D, Reinhardt R, Poustka A, Rosenthal A, Lehrach H, Meindl A,
+            Minx PJ, Hillier LW, Willard HF, Wilson RK, Waterston RH, Rice CM,
+            Vaudin M, Coulson A, Nelson DL, Weinstock G, Sulston JE, Durbin R,
+            Hubbard T, Gibbs RA, Beck S, Rogers J and Bentley DR.
+  TITLE     The DNA sequence of the human X chromosome
+  JOURNAL   Nature 434 (7031), 325-337 (2005)
+   PUBMED   15772651
+REFERENCE   4  (bases 1 to 1756)
+  AUTHORS   Veech RL.
+  TITLE     A humble hexose monophosphate pathway metabolite regulates short-
+            and long-term control of lipogenesis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 100 (10), 5578-5580 (2003)
+   PUBMED   12721358
+  REMARK    Review article
+REFERENCE   5  (bases 1 to 1756)
+  AUTHORS   Lee YH, Li Y, Uyeda K and Hasemann CA.
+  TITLE     Tissue-specific structure/function differentiation of the liver
+            isoform of 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase
+  JOURNAL   J. Biol. Chem. 278 (1), 523-530 (2003)
+   PUBMED   12379646
+  REMARK    GeneRIF: Results describe structural differences between two
+            isozymes of 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase
+            from liver and testis.
+REFERENCE   6  (bases 1 to 1756)
+  AUTHORS   Batra RS, Hatchwell E, Rider S, Brown R, Brown GK and Craig IW.
+  TITLE     Localization of human liver
+            6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase (PFKFB1) within
+            a YAC contig in Xp11.21
+  JOURNAL   Genomics 40 (2), 358-361 (1997)
+   PUBMED   9119406
+REFERENCE   7  (bases 1 to 1756)
+  AUTHORS   Pilkis SJ, Claus TH, Kurland IJ and Lange AJ.
+  TITLE     6-Phosphofructo-2-kinase/fructose-2,6-bisphosphatase: a metabolic
+            signaling enzyme
+  JOURNAL   Annu. Rev. Biochem. 64, 799-835 (1995)
+   PUBMED   7574501
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 1756)
+  AUTHORS   Lange AJ and Pilkis SJ.
+  TITLE     Sequence of human liver
+            6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase
+  JOURNAL   Nucleic Acids Res. 18 (12), 3652 (1990)
+   PUBMED   2163524
+REFERENCE   9  (bases 1 to 1756)
+  AUTHORS   Marker AJ, Colosia AD, Tauler A, Solomon DH, Cayre Y, Lange AJ,
+            el-Maghrabi MR and Pilkis SJ.
+  TITLE     Glucocorticoid regulation of hepatic
+            6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase gene expression
+  JOURNAL   J. Biol. Chem. 264 (12), 7000-7004 (1989)
+   PUBMED   2540168
+REFERENCE   10  (bases 1 to 1756)
+  AUTHORS   Algaier J and Uyeda K.
+  TITLE     Molecular cloning, sequence analysis, and expression of a human
+            liver cDNA coding for
+            fructose-6-P,2-kinase:fructose-2,6-bisphosphatase
+  JOURNAL   Biochem. Biophys. Res. Commun. 153 (1), 328-333 (1988)
+   PUBMED   2837207
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: X52638.1, BC096078.2 [ECO:0000332]
+            RNAseq introns :: mixed/partial sample support SAMEA1965299,
+            SAMEA1966682 [ECO:0000350]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            CDS uses downstream in-frame AUG :: upstream AUG and CDS extension
+            is not conserved
+            RefSeq Select criteria :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from X52638.1, AK314089.1 and
+            AL703826.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On May 17, 2019 this sequence was replaced by
+            NM_002625.4.
+            On Nov 22, 2012 this sequence version replaced NM_002625.2.
+            Summary: This gene encodes a member of the family of bifunctional
+            6-phosphofructo-2-kinase:fructose-2,6-biphosphatase enzymes. The
+            enzyme forms a homodimer that catalyzes both the synthesis and
+            degradation of fructose-2,6-biphosphate using independent catalytic
+            domains. Fructose-2,6-biphosphate is an activator of the glycolysis
+            pathway and an inhibitor of the gluconeogenesis pathway.
+            Consequently, regulating fructose-2,6-biphosphate levels through
+            the activity of this enzyme is thought to regulate glucose
+            homeostasis. Multiple alternatively spliced transcript variants
+            have been found for this gene. [provided by RefSeq, Nov 2012].
+            Transcript Variant: This variant (1) encodes the longest isoform
+            (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1756
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp11.21"
+     gene            1..1756
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /note="6-phosphofructo-2-kinase/fructose-2,6-biphosphatase
+                     1"
+                     /db_xref="GeneID:5207"
+                     /db_xref="HGNC:HGNC:8872"
+                     /db_xref="MIM:311790"
+     exon            1..168
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    15..17
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /note="upstream in-frame stop codon"
+     misc_feature    48..50
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /note="upstream_AUG_codon; putative N-terminal extension:
+                     MSFGATPK"
+     CDS             72..1487
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /EC_number="2.7.1.105"
+                     /EC_number="3.1.3.46"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     fructose-6-phosphate,2-kinase:fructose-2,6-bisphosphatase;
+                     6PF-2-K/Fru-2,6-P2ASE liver isozyme; PFK/FBPase 1;
+                     6PF-2-K/Fru-2,6-P2ase 1;
+                     6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1"
+                     /codon_start=1
+                     /product="6-phosphofructo-2-kinase/fructose-2,
+                     6-bisphosphatase 1 isoform 1"
+                     /protein_id="NP_002616.2"
+                     /db_xref="CCDS:CCDS14364.1"
+                     /db_xref="GeneID:5207"
+                     /db_xref="HGNC:HGNC:8872"
+                     /db_xref="MIM:311790"
+                     /translation="MSPEMGELTQTRLQKIWIPHSSGSSRLQRRRGSSIPQFTNSPTMV
+                     IMVGLPARGKTYISTKLTRYLNWIGTPTKVFNLGQYRREAVSYKNYEFFLPDNMEALQI
+                     RKQCALAALKDVHNYLSHEEGHVAVFDATNTTRERRSLILQFAKEHGYKVFFIESICND
+                     PGIIAENIRQVKLGSPDYIDCDREKVLEDFLKRIECYEVNYQPLDEELDSHLSYIKIFD
+                     VGTRYMVNRVQDHIQSRTVYYLMNIHVTPRSIYLCRHGESELNIRGRIGGDSGLSVRGK
+                     QYAYALANFIQSQGISSLKVWTSHMKRTIQTAEALGVPYEQWKALNEIDAGVCEEMTYE
+                     EIQEHYPEEFALRDQDKYRYRYPKGESYEDLVQRLEPVIMELERQENVLVICHQAVMRC
+                     LLAYFLDKSSDELPYLKCPLHTVLKLTPVAYGCKVESIYLNVEAVNTHREKPENVDITR
+                     EPEEALDTVPAHY"
+     misc_feature    75..821
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P16118.3);
+                     Region: 6-phosphofructo-2-kinase"
+     misc_feature    75..77
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylserine. {ECO:0000250|UniProtKB:P07953};
+                     propagated from UniProtKB/Swiss-Prot (P16118.3);
+                     acetylation site"
+     misc_feature    168..170
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by PKA.
+                     {ECO:0000250|UniProtKB:P07953}; propagated from
+                     UniProtKB/Swiss-Prot (P16118.3); phosphorylation site"
+     misc_feature    492..494
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P07953};
+                     propagated from UniProtKB/Swiss-Prot (P16118.3);
+                     phosphorylation site"
+     misc_feature    822..1484
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P16118.3);
+                     Region: Fructose-2,6-bisphosphatase"
+     misc_feature    1248..1250
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Transition state stabilizer.
+                     {ECO:0000250|UniProtKB:P00950}; propagated from
+                     UniProtKB/Swiss-Prot (P16118.3); other site"
+     exon            169..294
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            295..388
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            389..455
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            456..530
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            531..587
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            588..709
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            710..917
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            918..1064
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1065..1169
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1170..1299
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1300..1362
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1363..1427
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1428..1756
+                     /gene="PFKFB1"
+                     /gene_synonym="F6PK; HL2K; PFRX"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN
+        1 gacagctagt aagataggaa gtgaggccag gtaccttgtg ggcagtgatg tcattcggtg
+       61 cgactcctaa gatgtctcca gagatgggag agctcaccca aaccaggttg cagaagatct
+      121 ggattccaca cagcagcggc agcagcaggc tgcaacggag aaggggctca tccatacccc
+      181 agtttaccaa ttcccccaca atggtgatca tggtgggttt accagctcga ggcaagacct
+      241 atatctccac aaagctcaca cgatatctca actggatagg aacaccaact aaagtgttta
+      301 atttaggcca gtatcgacga gaggcagtga gctacaagaa ctatgaattc tttcttccag
+      361 acaacatgga agccctgcaa atcaggaagc agtgcgccct ggcagccctg aaggatgttc
+      421 acaactatct cagccatgag gaaggtcatg ttgcggtttt tgatgccacc aacactacca
+      481 gagaacgacg gtcactgatc ctgcagtttg caaaagaaca tggttacaag gtgtttttca
+      541 ttgagtccat ttgtaatgac cctggcataa ttgcagaaaa catcaggcaa gtgaaacttg
+      601 gcagccctga ttatatagac tgtgaccggg aaaaggttct ggaagacttt ctaaagagaa
+      661 ttgagtgcta tgaggtcaac taccaaccct tggatgagga actggacagc cacctgtcct
+      721 acatcaagat cttcgacgtg ggcacacgct acatggtgaa ccgagtgcag gatcacatcc
+      781 agagccgcac agtctactac ctcatgaata tccatgtcac acctcgctcc atctaccttt
+      841 gccgacatgg cgagagtgaa ctcaacatca gaggccgcat cggaggtgac tctggcctct
+      901 cagttcgcgg caagcagtat gcctatgccc tggccaactt cattcagtcc cagggcatca
+      961 gctccctgaa ggtgtggacc agtcacatga agaggaccat ccagacagct gaggccctgg
+     1021 gtgtccccta tgagcagtgg aaggccctga atgagattga tgcgggtgtc tgtgaggaga
+     1081 tgacctatga agaaatccag gaacattacc ctgaagaatt tgcactgcga gaccaagata
+     1141 aatatcgcta ccgctatccc aagggagagt cctatgagga tctggttcag cgtctggagc
+     1201 cagtgataat ggagctagaa cgacaggaga atgtactggt gatctgccac caggctgtca
+     1261 tgcggtgcct cctggcctat ttcctggata aaagttcaga tgagcttcca tatctcaagt
+     1321 gccctctgca cacagtgctc aaactcactc ctgtggctta tggctgcaaa gtggaatcca
+     1381 tctacctgaa tgtggaggcc gtgaacacac accgggagaa gcctgagaat gtggacatca
+     1441 cccgggaacc tgaggaagcc ctggatactg tcccagccca ctactgagcc ctttccaaga
+     1501 agtcaaactg cctgtgtcct catcgccttc cacctttagg aaatgctatc tttgctcttc
+     1561 tcctactctg ccttggcctc actgaggcac cccacttcca gtgaagaagt cctccgcaac
+     1621 tcccaaacaa gcctcgcttg ctggccgcaa ccaaggagct atctagctct ggaggaaact
+     1681 ttctttctta attcctattc tctgacgaat aaagacttac tgcctacaag aggagaggag
+     1741 gaggtcatgg cgaggc
+//

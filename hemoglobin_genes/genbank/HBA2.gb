@@ -1,0 +1,410 @@
+LOCUS       NM_000517                576 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens hemoglobin subunit alpha 2 (HBA2), mRNA.
+ACCESSION   NM_000517
+VERSION     NM_000517.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 576)
+  AUTHORS   Sun,M., Lou,J., Xinghe,W., Zhao,Y., Dai,Y., Liu,S. and Yan,T.
+  TITLE     Hb H disease associated with compound heterozygosity for --SEA
+            deletion and a novel alpha globin chain variant (HBA2:c.175C>A) on
+            the distal histidine in a Chinese family
+  JOURNAL   Hematology 29 (1), 2339559 (2024)
+   PUBMED   38626234
+  REMARK    GeneRIF: Hb H disease associated with compound heterozygosity for
+            --[SEA] deletion and a novel alpha globin chain variant
+            (HBA2:c.175C>A) on the distal histidine in a Chinese family.
+REFERENCE   2  (bases 1 to 576)
+  AUTHORS   Chen,L.Z., Yan,T.Z., Huang,J., Zhong,Q.Y., Qin,X., Tang,N. and
+            Luo,S.Q.
+  TITLE     [Molecular Diagnosis and Pedigree Analysis of Rare Mutations in
+            Non-coding Region of HBA2 Gene]
+  JOURNAL   Zhongguo Shi Yan Xue Ye Xue Za Zhi 32 (3), 940-944 (2024)
+   PUBMED   38926992
+  REMARK    GeneRIF: [Molecular Diagnosis and Pedigree Analysis of Rare
+            Mutations in Non-coding Region of HBA2 Gene].
+REFERENCE   3  (bases 1 to 576)
+  AUTHORS   Wang,Q.H., Chen,X.Y., Tang,N., Yan,T.Z., Huang,J., Zhong,Q.Y. and
+            Luo,S.Q.
+  TITLE     [Cases Analysis of Hemoglobin H Disease Caused by HBA2:c.2T>C and
+            HBA2:c.2delT Mutations]
+  JOURNAL   Zhongguo Shi Yan Xue Ye Xue Za Zhi 32 (2), 520-524 (2024)
+   PUBMED   38660861
+  REMARK    GeneRIF: [Cases Analysis of Hemoglobin H Disease Caused by
+            HBA2:c.2T>C and HBA2:c.2delT Mutations].
+REFERENCE   4  (bases 1 to 576)
+  AUTHORS   Traeger-Synodinos,J., Vrettou,C., Sofocleous,C., Zurlo,M.,
+            Finotti,A. and Gambari,R.
+  CONSRTM   International Hemoglobinopathy Research Network (INHERENT)
+  TITLE     Impact of alpha-Globin Gene Expression and alpha-Globin Modifiers on
+            the Phenotype of beta-Thalassemia and Other Hemoglobinopathies:
+            Implications for Patient Management
+  JOURNAL   Int J Mol Sci 25 (6), 3400 (2024)
+   PUBMED   38542374
+  REMARK    GeneRIF: Impact of alpha-Globin Gene Expression and alpha-Globin
+            Modifiers on the Phenotype of beta-Thalassemia and Other
+            Hemoglobinopathies: Implications for Patient Management. Review
+            article Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 576)
+  AUTHORS   Ghassemifar,R., Forster,L., Qadah,T. and Finlayson,J.
+  TITLE     Identification and characterization of two novel and differentially
+            expressed isoforms of human alpha2- and alpha1-globin genes
+  JOURNAL   Hemoglobin 36 (5), 421-432 (2012)
+   PUBMED   22738435
+  REMARK    GeneRIF: This study, for the first time, confirms the presence of
+            two isoforms for both the alpha2- and alpha1-globin genes with
+            varying transcription levels in healthy individuals.
+REFERENCE   6  (bases 1 to 576)
+  AUTHORS   Tamary,H. and Dgany,O.
+  TITLE     Alpha-Thalassemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301608
+REFERENCE   7  (bases 1 to 576)
+  AUTHORS   Liebhaber,S.A., Goossens,M.J. and Kan,Y.W.
+  TITLE     Cloning and complete nucleotide sequence of human 5'-alpha-globin
+            gene
+  JOURNAL   Proc Natl Acad Sci U S A 77 (12), 7054-7058 (1980)
+   PUBMED   6452630
+REFERENCE   8  (bases 1 to 576)
+  AUTHORS   Marinucci,M., Mavilio,F., Massa,A., Gabbianelli,M.,
+            Fontanarosa,P.P., Camagna,A., Ignesti,C. and Tentori,L.
+  TITLE     A new abnormal human hemoglobin: Hb Prato (alpha 2 31 (B12) Arg
+            leads to Ser beta 2)
+  JOURNAL   Biochim Biophys Acta 578 (2), 534-540 (1979)
+   PUBMED   486536
+REFERENCE   9  (bases 1 to 576)
+  AUTHORS   Sanguansermsri,T., Matragoon,S., Changloah,L. and Flatz,G.
+  TITLE     Hemoglobin Suan-Dok (alpha 2 109 (G16) Leu replaced by Arg beta 2):
+            an unstable variant associated with alpha-thalassemia
+  JOURNAL   Hemoglobin 3 (2-3), 161-174 (1979)
+   PUBMED   478977
+REFERENCE   10  (bases 1 to 576)
+  AUTHORS   Moo-Penn,W.F., Jue,D.L., Johnson,M.H., Wilson,S.M., Therrell,B. Jr.
+            and Schmidt,R.M.
+  TITLE     Hemoglobin Tarrant: alpha126(H9) Asp leads to Asn. A new hemoglobin
+            variant in the alpha1beta1 contact region showing high oxygen
+            affinity and reduced cooperativity
+  JOURNAL   Biochim Biophys Acta 490 (2), 443-451 (1977)
+   PUBMED   13856
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AI816040.1, AI815806.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000251595.11/ ENSP00000251595.6
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from V00493.1, Z84721.1 and
+            AI016696.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Aug 3, 2018 this sequence version replaced NM_000517.5.
+            Summary: The human alpha globin gene cluster located on chromosome
+            16 spans about 30 kb and includes seven loci: 5'- zeta - pseudozeta
+            - mu - pseudoalpha-1 - alpha-2 - alpha-1 - theta - 3'. The alpha-2
+            (HBA2) and alpha-1 (HBA1) coding sequences are identical. These
+            genes differ slightly over the 5' untranslated regions and the
+            introns, but they differ significantly over the 3' untranslated
+            regions. Two alpha chains plus two beta chains constitute HbA,
+            which in normal adult life comprises about 97% of the total
+            hemoglobin; alpha chains combine with delta chains to constitute
+            HbA-2, which with HbF (fetal hemoglobin) makes up the remaining 3%
+            of adult hemoglobin. Alpha thalassemias result from deletions of
+            each of the alpha genes as well as deletions of both HBA2 and HBA1;
+            some nondeletion alpha thalassemias have also been reported.
+            [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..576
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p13.3"
+     gene            1..576
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="hemoglobin subunit alpha 2"
+                     /db_xref="GeneID:3040"
+                     /db_xref="HGNC:HGNC:4824"
+                     /db_xref="MIM:141850"
+     exon            1..132
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             38..466
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="alpha globin; alpha-2 globin; hemoglobin alpha
+                     chain; mutant hemoglobin alpha 2 globin chain; hemoglobin,
+                     alpha 2"
+                     /codon_start=1
+                     /product="hemoglobin subunit alpha"
+                     /protein_id="NP_000508.1"
+                     /db_xref="CCDS:CCDS10398.1"
+                     /db_xref="GeneID:3040"
+                     /db_xref="HGNC:HGNC:4824"
+                     /db_xref="MIM:141850"
+                     /translation="MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFP
+                     HFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSH
+                     CLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR"
+     misc_feature    47..49
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    59..61
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); glycosylation site"
+     misc_feature    62..67
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    62..64
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    71..73
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2); other
+                     site"
+     misc_feature    77..82
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    86..88
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); glycosylation site"
+     misc_feature    86..88
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); acetylation site"
+     misc_feature    110..115
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    110..112
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    125..130
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    143..145
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    158..160
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); glycosylation site"
+     misc_feature    173..178
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    179..184
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    185..187
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    194..199
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    203..208
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    206..208
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2); other
+                     site"
+     misc_feature    215..220
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    218..220
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2); other
+                     site"
+     misc_feature    221..223
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); glycosylation site"
+     misc_feature    308..310
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2); other
+                     site"
+     misc_feature    311..316
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     mat_peptide     323..349
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /product="Hemopressin.
+                     /evidence=ECO:0000305|PubMed:18077343. /id=PRO_0000455882"
+                     /note="propagated from UniProtKB/Swiss-Prot (P69905.2)"
+     misc_feature    335..337
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2); other
+                     site"
+     misc_feature    344..346
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    356..361
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    362..367
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    362..364
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    401..406
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    410..412
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    431..433
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    437..442
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2); other site"
+     misc_feature    440..442
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    449..451
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     misc_feature    452..454
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2); phosphorylation site"
+     exon            133..337
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            338..576
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      555..560
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="hexamer: AATAAA"
+     polyA_site      573
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /note="major polyA site"
+ORIGIN
+        1 actcttctgg tccccacaga ctcagagaga acccaccatg gtgctgtctc ctgccgacaa
+       61 gaccaacgtc aaggccgcct ggggtaaggt cggcgcgcac gctggcgagt atggtgcgga
+      121 ggccctggag aggatgttcc tgtccttccc caccaccaag acctacttcc cgcacttcga
+      181 cctgagccac ggctctgccc aggttaaggg ccacggcaag aaggtggccg acgcgctgac
+      241 caacgccgtg gcgcacgtgg acgacatgcc caacgcgctg tccgccctga gcgacctgca
+      301 cgcgcacaag cttcgggtgg acccggtcaa cttcaagctc ctaagccact gcctgctggt
+      361 gaccctggcc gcccacctcc ccgccgagtt cacccctgcg gtgcacgcct ccctggacaa
+      421 gttcctggct tctgtgagca ccgtgctgac ctccaaatac cgttaagctg gagcctcggt
+      481 agccgttcct cctgcccgct gggcctccca acgggccctc ctcccctcct tgcaccggcc
+      541 cttcctggtc tttgaataaa gtctgagtgg gcagca
+//

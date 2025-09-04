@@ -1,0 +1,281 @@
+LOCUS       NM_001145661            3470 bp    mRNA    linear   PRI 29-APR-2025
+DEFINITION  Homo sapiens GATA binding protein 2 (GATA2), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001145661
+VERSION     NM_001145661.2
+KEYWORDS    RefSeq; MANE Plus Clinical.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3470)
+  AUTHORS   Shen,S., Huang,Q., Liu,L., Zou,X., Kang,T. and Wu,J.
+  TITLE     GATA2 downregulation contributes to pro-inflammatory phenotype and
+            defective phagocytosis of pulmonary macrophages in chronic
+            obstructive pulmonary disease
+  JOURNAL   Aging (Albany NY) 16 (19), 12928-12951 (2024)
+   PUBMED   39379099
+  REMARK    GeneRIF: GATA2 downregulation contributes to pro-inflammatory
+            phenotype and defective phagocytosis of pulmonary macrophages in
+            chronic obstructive pulmonary disease.
+REFERENCE   2  (bases 1 to 3470)
+  AUTHORS   Jin,Z., Wang,H., Tang,R., Pan,B., Lee,H.J., Liu,S., Wang,L., Qin,J.
+            and Xu,M.
+  TITLE     GATA2 promotes castration-resistant prostate cancer development by
+            suppressing IFN-beta axis-mediated antitumor immunity
+  JOURNAL   Oncogene 43 (34), 2595-2610 (2024)
+   PUBMED   39068217
+  REMARK    GeneRIF: GATA2 promotes castration-resistant prostate cancer
+            development by suppressing IFN-beta axis-mediated antitumor
+            immunity.
+REFERENCE   3  (bases 1 to 3470)
+  AUTHORS   Wu,L., Wang,J., Song,D., You,Y. and Wang,Z.
+  TITLE     Haemophagocytic lymphohistiocytosis caused by GATA2 deficiency: a
+            report on three patients
+  JOURNAL   BMC Infect Dis 24 (1), 482 (2024)
+   PUBMED   38730328
+  REMARK    GeneRIF: Haemophagocytic lymphohistiocytosis caused by GATA2
+            deficiency: a report on three patients. Publication Status:
+            Online-Only
+REFERENCE   4  (bases 1 to 3470)
+  AUTHORS   Pan,X., Minegishi,N., Harigae,H., Yamagiwa,H., Minegishi,M.,
+            Akine,Y. and Yamamoto,M.
+  TITLE     Identification of human GATA-2 gene distal IS exon and its
+            expression in hematopoietic stem cell fractions
+  JOURNAL   J Biochem 127 (1), 105-112 (2000)
+   PUBMED   10731672
+  REMARK    Erratum:[J Biochem (Tokyo). 2007 May;141(5):767]
+REFERENCE   5  (bases 1 to 3470)
+  AUTHORS   Fleenor,D.E., Langdon,S.D., deCastro,C.M. and Kaufman,R.E.
+  TITLE     Comparison of human and Xenopus GATA-2 promoters
+  JOURNAL   Gene 179 (2), 219-223 (1996)
+   PUBMED   8972903
+REFERENCE   6  (bases 1 to 3470)
+  AUTHORS   Zhang,R., Min,W. and Sessa,W.C.
+  TITLE     Functional analysis of the human endothelial nitric oxide synthase
+            promoter. Sp1 and GATA factors are necessary for basal transcription
+            in endothelial cells
+  JOURNAL   J Biol Chem 270 (25), 15320-15326 (1995)
+   PUBMED   7541039
+  REMARK    GeneRIF: The GATA-2 transcription factor interacts with the human
+            eNOS promoter at a region which includes a putative GATA site [-230
+            to -226].
+REFERENCE   7  (bases 1 to 3470)
+  AUTHORS   Towatari,M., May,G.E., Marais,R., Perkins,G.R., Marshall,C.J.,
+            Cowley,S. and Enver,T.
+  TITLE     Regulation of GATA-2 phosphorylation by mitogen-activated protein
+            kinase and interleukin-3
+  JOURNAL   J Biol Chem 270 (8), 4101-4107 (1995)
+   PUBMED   7876160
+REFERENCE   8  (bases 1 to 3470)
+  AUTHORS   Nagai,T., Harigae,H., Ishihara,H., Motohashi,H., Minegishi,N.,
+            Tsuchiya,S., Hayashi,N., Gu,L., Andres,B., Engel,J.D. et al.
+  TITLE     Transcription factor GATA-2 is expressed in erythroid, early
+            myeloid, and CD34+ human leukemia-derived cell lines
+  JOURNAL   Blood 84 (4), 1074-1084 (1994)
+   PUBMED   7519472
+REFERENCE   9  (bases 1 to 3470)
+  AUTHORS   Dorfman,D.M., Wilson,D.B., Bruns,G.A. and Orkin,S.H.
+  TITLE     Human transcription factor GATA-2. Evidence for regulation of
+            preproendothelin-1 gene expression in endothelial cells
+  JOURNAL   J Biol Chem 267 (2), 1279-1285 (1992)
+   PUBMED   1370462
+REFERENCE   10  (bases 1 to 3470)
+  AUTHORS   Lee,M.E., Temizer,D.H., Clifford,J.A. and Quertermous,T.
+  TITLE     Cloning of the GATA-binding protein that regulates endothelin-1 gene
+            expression in endothelial cells
+  JOURNAL   J Biol Chem 266 (24), 16188-16192 (1991)
+   PUBMED   1714909
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK314826.1, SRR14038195.1685817.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000487848.6/ ENSP00000417074.1
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK314826.1, AC080005.24,
+            BC015613.2 and AI524325.1.
+            On Jun 2, 2019 this sequence version replaced NM_001145661.1.
+            Summary: This gene encodes a member of the GATA family of
+            zinc-finger transcription factors that are named for the consensus
+            nucleotide sequence they bind in the promoter regions of target
+            genes. The encoded protein plays an essential role in regulating
+            transcription of genes involved in the development and
+            proliferation of hematopoietic and endocrine cell lineages.
+            Alternative splicing results in multiple transcript
+            variants.[provided by RefSeq, Mar 2009].
+            Transcript Variant: This variant (1) represents the longest
+            transcript. Both variants 1 and 2 encode the same isoform (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3470
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3q21.3"
+     gene            1..3470
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="GATA binding protein 2"
+                     /db_xref="GeneID:2624"
+                     /db_xref="HGNC:HGNC:4171"
+                     /db_xref="MIM:137295"
+     exon            1..179
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    160..162
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="upstream in-frame stop codon"
+     exon            180..390
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            391..664
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             436..1878
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     endothelial transcription factor GATA-2"
+                     /codon_start=1
+                     /product="endothelial transcription factor GATA-2 isoform
+                     1"
+                     /protein_id="NP_001139133.1"
+                     /db_xref="CCDS:CCDS3049.1"
+                     /db_xref="GeneID:2624"
+                     /db_xref="HGNC:HGNC:4171"
+                     /db_xref="MIM:137295"
+                     /translation="MEVAPEQPRWMAHPAVLNAQHPDSHHPGLAHNYMEPAQLLPPDEV
+                     DVFFNHLDSQGNPYYANPAHARARVSYSPAHARLTGGQMCRPHLLHSPGLPWLDGGKAA
+                     LSAAAAHHHNPWTVSPFSKTPLHPSAAGGPGGPLSVYPGAGGGSGGGSGSSVASLTPTA
+                     AHSGSHLFGFPPTPPKEVSPDPSTTGAASPASSSAGGSAARGEDKDGVKYQVSLTESMK
+                     MESGSPLRPGLATMGTQPATHHPIPTYPSYVPAAAHDYSSGLFHPGGFLGGPASSFTPK
+                     QRSKARSCSEGRECVNCGATATPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLS
+                     AARRAGTCCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNRK
+                     MSNKSKKSKKGAECFEELSKCMQEKSSPFSAAALAGHMAPVGHLPPFSHSGHILPTPTP
+                     IHPSSSLSFGHPHPSSMVTAMG"
+     misc_feature    652..654
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P23769.3); phosphorylation site"
+     misc_feature    691..693
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="Asymmetric dimethylarginine.
+                     /evidence=ECO:0007744|PubMed:24129315; propagated from
+                     UniProtKB/Swiss-Prot (P23769.3); methylation site"
+     misc_feature    790..1062
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23769.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1009..1011
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P23769.3); phosphorylation site"
+     misc_feature    1777..1875
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23769.3);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            665..1306
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1307..1452
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1453..1578
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1579..3470
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3451..3456
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="hexamer: AATAAA"
+     polyA_site      3470
+                     /gene="GATA2"
+                     /gene_synonym="DCML; IMD21; MONOMAC; NFE1B"
+                     /note="major polyA site"
+ORIGIN
+        1 actgggtcaa gcacagccct gagcggccgc gtgtccgagg cccaggtgcc ctctagagcc
+       61 ctgtagttcc tgcccctctc tgcccctctc ggctcctgct gttccgccgc tgtcgtccga
+      121 accatcccaa cccccagtcc acccagacag cgcccgagct aggggaggga acggtctggg
+      181 agtcggcagc tggcgccagg gcggccggag gatgccgagg ggccggagcc gggagggccc
+      241 gaggccgagg cgcactctac ccccagctcc taccctgtaa gccccgccag cctccggacg
+      301 tgctgtccct gggcccgtcg ccctcggggc tcccgccgga actccttcac tctcagaggc
+      361 cgagtccctc ccctccccac ggctgcgtgt ggccgttgcc gtctgcaccc agaccctgag
+      421 ccgccgccgc cggccatgga ggtggcgccc gagcagccgc gctggatggc gcacccggcc
+      481 gtgctgaatg cgcagcaccc cgactcacac cacccgggcc tggcgcacaa ctacatggaa
+      541 cccgcgcagc tgctgcctcc agacgaggtg gacgtcttct tcaatcacct cgactcgcag
+      601 ggcaacccct actatgccaa ccccgctcac gcgcgggcgc gcgtctccta cagccccgcg
+      661 cacgcccgcc tgaccggagg ccagatgtgc cgcccacact tgttgcacag cccgggtttg
+      721 ccctggctgg acgggggcaa agcagccctc tctgccgctg cggcccacca ccacaacccc
+      781 tggaccgtga gccccttctc caagacgcca ctgcacccct cagctgctgg aggccctgga
+      841 ggcccactct ctgtgtaccc aggggctggg ggtgggagcg ggggaggcag cgggagctca
+      901 gtggcctccc tcacccctac agcagcccac tctggctccc accttttcgg cttcccaccc
+      961 acgccaccca aagaagtgtc tcctgaccct agcaccacgg gggctgcgtc tccagcctca
+     1021 tcttccgcgg ggggtagtgc agcccgagga gaggacaagg acggcgtcaa gtaccaggtg
+     1081 tcactgacgg agagcatgaa gatggaaagt ggcagtcccc tgcgcccagg cctagctact
+     1141 atgggcaccc agcctgctac acaccacccc atccccacct acccctccta tgtgccggcg
+     1201 gctgcccacg actacagcag cggactcttc caccccggag gcttcctggg gggaccggcc
+     1261 tccagcttca cccctaagca gcgcagcaag gctcgttcct gttcagaagg ccgggagtgt
+     1321 gtcaactgtg gggccacagc cacccctctc tggcggcggg acggcaccgg ccactacctg
+     1381 tgcaatgcct gtggcctcta ccacaagatg aatgggcaga accgaccact catcaagccc
+     1441 aagcgaagac tgtcggccgc cagaagagcc ggcacctgtt gtgcaaattg tcagacgaca
+     1501 accaccacct tatggcgccg aaacgccaac ggggaccctg tctgcaacgc ctgtggcctc
+     1561 tactacaagc tgcacaatgt taacaggcca ctgaccatga agaaggaagg gatccagact
+     1621 cggaaccgga agatgtccaa caagtccaag aagagcaaga aaggggcgga gtgcttcgag
+     1681 gagctgtcaa agtgcatgca ggagaagtca tcccccttca gtgcagctgc cctggctgga
+     1741 cacatggcac ctgtgggcca cctcccgccc ttcagccact ccggacacat cctgcccact
+     1801 ccgacgccca tccacccctc ctccagcctc tccttcggcc acccccaccc gtccagcatg
+     1861 gtgaccgcca tgggctaggg aacagatgga cgtcgaggac cgggcactcc cgggatgggt
+     1921 ggaccaaacc cttagcagcc cagcatttcc cgaaggccga caccactcct gccagcccgg
+     1981 ctcggcccag caccccctct cctggagggc gcccagcagc ctgccagcag ttactgtgaa
+     2041 tgttccccac cgctgagagg ctgcctccgc acctgaccgc tgcccaggtg gggtttcctg
+     2101 catggacagt tgtttggaga acaacaagga caactttatg tagagaaaag gaggggacgg
+     2161 gacagacgaa ggcaaccatt tttagaagga aaaaggatta ggcaaaaata atttattttg
+     2221 ctcttgtttc taacaaggac ttggagactt ggtggtctga gctgtcccaa gtcctccggt
+     2281 tcttcctcgg gattggcggg tccacttgcc agggctctgg gggcagattt gtggggacct
+     2341 cagcctgcac cctcttctcc tctggcttcc ctctctgaaa tagccgaact ccaggctggg
+     2401 ctgagccaaa gccagagtgg ccacggccca gggagggtga gctggtgcct gctttgacgg
+     2461 gccaggccct ggagggcaga gacaatcacg ggcggtcctg cacagattcc caggccaggg
+     2521 ctgggtcaca ggaaggaaac aacattttct tgaaagggga aacgtctccc agatcgctcc
+     2581 cttggctttg aggccgaagc tgctgtgact gtgtcccctt actgagcgca agccacagcc
+     2641 tgtcttgtca ggtggaccct gtaaatacat cctttttctg ctaacccttc aaccccctcg
+     2701 cctcctactc tgagacaaaa gaaaaaatat taaaaaaatg cataggctta actcgctgat
+     2761 gagttaattg ttttattttt aaactctttt tgggtccagt tgattgtacg tagccacagg
+     2821 agccctgcta tgaaaggaat aaaacctaca cacaaggttg gagctttgca attctttttg
+     2881 gaaaagagct gggatcccac agccctagta tgaaagctgg gggtggggag gggcctttgc
+     2941 tgcccttggt ttctgggggc tggttggcat ttgctggcct ggcagggggt gaaggcagga
+     3001 gttgggggca ggtcaggacc aggacccagg gagaggctgt gtccctgctg gggtctcagg
+     3061 tccagcttta ctgtggctgt ctggatcctt cccaaggtac agctgtatat aaacgtgtcc
+     3121 cgagcttaga ttctgtatgc ggtgacggcg gggtgtggtg gcctgtgagg ggcccctggc
+     3181 ccaggaggag gattgtgctg atgtagtgac caagtgcaat atgggcgggc agtcgctgca
+     3241 gggagcacca cggccagaag taacttattt tgtactagtg tccgcataag aaaaagaatc
+     3301 ggcagtattt tctgttttta tgttttattt ggcttgtttt attttggatt agtgaactaa
+     3361 gttattgtta attatgtaca acatttatat attgtctgta aaaaatgtat gctatcctct
+     3421 tattccttta aagtgagtac tgttaagaat aataaaatac tttttgtgaa
+//

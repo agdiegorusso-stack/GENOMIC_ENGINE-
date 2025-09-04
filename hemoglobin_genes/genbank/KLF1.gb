@@ -1,0 +1,230 @@
+LOCUS       NM_006563               1613 bp    mRNA    linear   PRI 25-JUN-2025
+DEFINITION  Homo sapiens KLF transcription factor 1 (KLF1), mRNA.
+ACCESSION   NM_006563
+VERSION     NM_006563.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1613)
+  AUTHORS   Song,L., Xu,Q., Chen,R., Sun,W. and Zhan,J.
+  TITLE     KLF1 Activates RAC3 to Mediate Fatty Acid Synthesis and Enhance
+            Cisplatin Resistance in Bladder Cancer Cells
+  JOURNAL   Am J Mens Health 18 (5), 15579883241273305 (2024)
+   PUBMED   39376007
+  REMARK    GeneRIF: KLF1 Activates RAC3 to Mediate Fatty Acid Synthesis and
+            Enhance Cisplatin Resistance in Bladder Cancer Cells.
+REFERENCE   2  (bases 1 to 1613)
+  AUTHORS   Ye,L., Wang,C., Li,A., Li,M., Pi,Y., Yang,J., Zhu,Z. and Lu,D.
+  TITLE     Targeted next-generation sequencing and long-read HiFi sequencing
+            provide novel insights into clinically significant KLF1 variants
+  JOURNAL   BMC Genomics 25 (1), 230 (2024)
+   PUBMED   38429690
+  REMARK    GeneRIF: Targeted next-generation sequencing and long-read HiFi
+            sequencing provide novel insights into clinically significant KLF1
+            variants. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1613)
+  AUTHORS   Manco,L., Bento,C., Relvas,L., Maia,T. and Ribeiro,L.
+  TITLE     Association study of common KLF1 variants with Hb F and Hb A2 levels
+            in beta-thalassaemia carriers of Portuguese ancestry
+  JOURNAL   J Genet 103 (2024)
+   PUBMED   39445566
+  REMARK    GeneRIF: Association study of common KLF1 variants with Hb F and Hb
+            A2 levels in beta-thalassaemia carriers of Portuguese ancestry.
+REFERENCE   4  (bases 1 to 1613)
+  AUTHORS   Bieker,J.J. and Philipsen,S.
+  TITLE     Erythroid Kruppel-Like Factor (KLF1): A Surprisingly Versatile
+            Regulator of Erythroid Differentiation
+  JOURNAL   Adv Exp Med Biol 1459, 217-242 (2024)
+   PUBMED   39017846
+  REMARK    GeneRIF: Erythroid Kruppel-Like Factor (KLF1): A Surprisingly
+            Versatile Regulator of Erythroid Differentiation. Review article
+REFERENCE   5  (bases 1 to 1613)
+  AUTHORS   Lu,Y., Ma,W.B., Ren,G.M., Liu,X., Li,Y.T., Wang,T., Zhan,Y.Q.,
+            Xiang,S.S., Yu,M., Li,C.Y., Yang,X.M. and Yin,R.H.
+  TITLE     VPS37C facilitates erythroid differentiation by promoting EKLF
+            stability
+  JOURNAL   Biochem Biophys Res Commun 671, 229-235 (2023)
+   PUBMED   37307706
+  REMARK    GeneRIF: VPS37C facilitates erythroid differentiation by promoting
+            EKLF stability.
+REFERENCE   6  (bases 1 to 1613)
+  AUTHORS   Armstrong,J.A., Bieker,J.J. and Emerson,B.M.
+  TITLE     A SWI/SNF-related chromatin remodeling complex, E-RC1, is required
+            for tissue-specific transcriptional regulation by EKLF in vitro
+  JOURNAL   Cell 95 (1), 93-104 (1998)
+   PUBMED   9778250
+REFERENCE   7  (bases 1 to 1613)
+  AUTHORS   Ouyang,L., Chen,X. and Bieker,J.J.
+  TITLE     Regulation of erythroid Kruppel-like factor (EKLF) transcriptional
+            activity by phosphorylation of a protein kinase casein kinase II
+            site within its interaction domain
+  JOURNAL   J Biol Chem 273 (36), 23019-23025 (1998)
+   PUBMED   9722526
+REFERENCE   8  (bases 1 to 1613)
+  AUTHORS   van Ree,J.H., Roskrow,M.A., Becher,A.M., McNall,R., Valentine,V.A.,
+            Jane,S.M. and Cunningham,J.M.
+  TITLE     The human erythroid-specific transcription factor EKLF localizes to
+            chromosome 19p13.12-p13.13
+  JOURNAL   Genomics 39 (3), 393-395 (1997)
+   PUBMED   9119377
+REFERENCE   9  (bases 1 to 1613)
+  AUTHORS   Bieker,J.J.
+  TITLE     Isolation, genomic structure, and expression of human erythroid
+            Kruppel-like factor (EKLF)
+  JOURNAL   DNA Cell Biol 15 (5), 347-352 (1996)
+   PUBMED   8924208
+REFERENCE   10  (bases 1 to 1613)
+  AUTHORS   Nuez,B., Michalovich,D., Bygrave,A., Ploemacher,R. and Grosveld,F.
+  TITLE     Defective haematopoiesis in fetal liver resulting from inactivation
+            of the EKLF gene
+  JOURNAL   Nature 375 (6529), 316-318 (1995)
+   PUBMED   7753194
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC040000.1, U65404.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2149004,
+            SAMEA2153307 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000264834.6/ ENSP00000264834.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AD000092.1 and BC040000.1.
+            On Aug 31, 2019 this sequence version replaced NM_006563.4.
+            Summary: This gene encodes a hematopoietic-specific transcription
+            factor that induces high-level expression of adult beta-globin and
+            other erythroid genes. The zinc-finger protein binds to the DNA
+            sequence CCACACCCT found in the beta hemoglobin promoter.
+            Heterozygous loss-of-function mutations in this gene result in the
+            dominant In(Lu) blood phenotype. [provided by RefSeq, Oct 2009].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1613
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19p13.13"
+     gene            1..1613
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="KLF transcription factor 1"
+                     /db_xref="GeneID:10661"
+                     /db_xref="HGNC:HGNC:6345"
+                     /db_xref="MIM:600599"
+     exon            1..148
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             62..1150
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="erythroid Kruppel-like factor; erythroid-specific
+                     transcription factor EKLF; erythroid krueppel-like
+                     transcription factor; Kruppel like factor 1"
+                     /codon_start=1
+                     /product="Krueppel-like factor 1"
+                     /protein_id="NP_006554.1"
+                     /db_xref="CCDS:CCDS12285.1"
+                     /db_xref="GeneID:10661"
+                     /db_xref="HGNC:HGNC:6345"
+                     /db_xref="MIM:600599"
+                     /translation="MATAETALPSISTLTALGPFPDTQDDFLKWWRSEEAQDMGPGPPD
+                     PTEPPLHVKSEDQPGEEEDDERGADATWDLDLLLTNFSGPEPGGAPQTCALAPSEASGA
+                     QYPPPPETLGAYAGGPGLVAGLLGSEDHSGWVRPALRARAPDAFVGPALAPAPAPEPKA
+                     LALQPVYPGPGAGSSGGYFPRTGLSVPAASGAPYGLLSGYPAMYPAPQYQGHFQLFRGL
+                     QGPAPGPATSPSFLSCLGPGTVGTGLGGTAEDPGVIAETAPSKRGRRSWARKRQAAHTC
+                     AHPGCGKSYTKSSHLKAHLRTHTGEKPYACTWEGCGWRFARSDELTRHYRKHTGQRPFR
+                     CQLCPRAFSRSDHLALHMKRHL"
+     misc_feature    62..391
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13351.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    128..130
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="Phosphothreonine, by CK2.
+                     /evidence=ECO:0000250|UniProtKB:P46099, ECO:0000305;
+                     propagated from UniProtKB/Swiss-Prot (Q13351.1);
+                     phosphorylation site"
+     misc_feature    272..298
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13351.1);
+                     Region: 9aaTAD. /evidence=ECO:0000269|PubMed:31375868"
+     misc_feature    611..613
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P46099; propagated from
+                     UniProtKB/Swiss-Prot (Q13351.1); methylation site"
+     misc_feature    806..874
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13351.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    881..883
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P46099; propagated from
+                     UniProtKB/Swiss-Prot (Q13351.1); acetylation site"
+     misc_feature    923..925
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P46099; propagated from
+                     UniProtKB/Swiss-Prot (Q13351.1); acetylation site"
+     exon            149..974
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            975..1613
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1589..1594
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="hexamer: TATAAA"
+     polyA_site      1613
+                     /gene="KLF1"
+                     /gene_synonym="CDAN4A; CDAN4B; EKLF; EKLF/KLF1"
+                     /note="major polyA site"
+ORIGIN
+        1 agagttcacg aggcagccga ggaagaggag gcttgaggcc cagggtgggc accagccagc
+       61 catggccaca gccgagaccg ccttgccctc catcagcaca ctgaccgccc tgggcccctt
+      121 cccggacaca caggatgact tcctcaagtg gtggcgctcc gaagaggcgc aggacatggg
+      181 cccgggtcct cctgacccca cggagccgcc cctccacgtg aagtctgagg accagcccgg
+      241 ggaggaagag gacgatgaga ggggcgcgga cgccacctgg gacctggatc tcctcctcac
+      301 caacttctcg ggcccggagc ccggtggcgc gccccagacc tgcgctctgg cgcccagcga
+      361 ggcctccggg gcgcaatatc cgccgccgcc cgagactctg ggcgcatatg ctggcggccc
+      421 ggggctggtg gctgggcttt tgggttcgga ggatcactcg ggttgggtgc gccctgccct
+      481 gcgagcccgg gctcccgacg ccttcgtggg cccagccctg gctccagccc cggcccccga
+      541 gcccaaggcg ctggcgctgc aaccggtgta cccggggccc ggcgccggct cctcgggtgg
+      601 ctacttcccg cggaccgggc tttcagtgcc tgcggcgtcg ggcgccccct acgggctact
+      661 gtccgggtac cccgcgatgt acccggcgcc tcagtaccaa gggcacttcc agctcttccg
+      721 cgggctccag ggacccgcgc ccggtcccgc cacgtccccc tccttcctga gttgtttggg
+      781 acccgggacg gtgggcactg gactcggggg gactgcagag gatccaggtg tgatagccga
+      841 gaccgcgcca tccaagcgag gccgacgttc gtgggcgcgc aagaggcagg cagcgcacac
+      901 gtgcgcgcac ccgggttgcg gcaagagcta caccaagagc tcccacctga aggcgcatct
+      961 gcgcacgcac acaggggaga agccatacgc ctgcacgtgg gaaggctgcg gctggagatt
+     1021 cgcgcgctcg gacgagctga cccgccacta ccggaaacac acggggcagc gccccttccg
+     1081 ctgccagctc tgcccacgtg ctttttcgcg ctctgaccac ctggccttgc acatgaagcg
+     1141 ccacctttga gccctgccct ggcacttgga ctctcctagt gactggggat gggacaagaa
+     1201 gcctgtttgg tggtctcttc acacggacgc gcgtgacaca atgctgggtg gttttcccac
+     1261 gaatggaccc tctcctggac tcgcgttccc aaagatccac ccaaatatca aacacggacc
+     1321 catagacagc cctgggggag cctcttacgg aaaatccgac aagccttcag ccacagggag
+     1381 ccacacagag atgtccaaac tgtcgtgcaa acccagtgag acagaccgcc aaataaacgg
+     1441 actcagtgga cactcagacc agctcccaga tggccctgga cagcaggaga gggtgtggga
+     1501 tgaggcttcc cagagaccct gggtctagaa agcggctcct gaaggtccct tattgtggct
+     1561 gatattaact gtcaatggtt atgggtccta taaaaatgcc cctcccagat aaa
+//
