@@ -190,6 +190,9 @@ config.json
 data/raw/
 data/large/
 data/genomes/
+data/processed/*.tsv
+data/processed/*.vcf
+data/processed/*.vcf.gz
 
 # Temporary analysis results
 temp/
