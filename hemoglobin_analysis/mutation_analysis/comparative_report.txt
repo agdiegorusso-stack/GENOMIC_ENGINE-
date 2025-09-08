@@ -1,0 +1,34 @@
+COMPARATIVE MUTATION ANALYSIS REPORT
+================================================================================
+
+GENE COMPARISON
+----------------------------------------
+ gene  total_mutations  missense  nonsense  avg_pathogenicity  high_impact_count
+  HBB             1332       964        34           0.276276                368
+ HBA1             1287       928        25           0.257964                332
+ HBA2             1287       928        25           0.257964                332
+GATA1             1620      1127        54           0.298765                484
+ KLF1             1620      1134        45           0.287654                466
+
+MOST PATHOGENIC GENES
+----------------------------------------
+
+GATA1:
+  Avg pathogenicity: 0.299
+  High impact mutations: 484
+
+KLF1:
+  Avg pathogenicity: 0.288
+  High impact mutations: 466
+
+HBB:
+  Avg pathogenicity: 0.276
+  High impact mutations: 368
+
+HBA2:
+  Avg pathogenicity: 0.258
+  High impact mutations: 332
+
+HBA1:
+  Avg pathogenicity: 0.258
+  High impact mutations: 332

@@ -1,0 +1,333 @@
+LOCUS       NM_001498               3785 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens glutamate-cysteine ligase catalytic subunit (GCLC),
+            transcript variant 1, mRNA.
+ACCESSION   NM_001498
+VERSION     NM_001498.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3785)
+  AUTHORS   Xu,C., Bian,Z., Wang,X., Niu,N., Liu,L., Xiao,Y., Zhu,J., Huang,N.,
+            Zhang,Y., Chen,Y., Wu,Q., Sun,F., Zhu,X. and Pan,Q.
+  TITLE     SNORA56-mediated pseudouridylation of 28 S rRNA inhibits ferroptosis
+            and promotes colorectal cancer proliferation by enhancing GCLC
+            translation
+  JOURNAL   J Exp Clin Cancer Res 42 (1), 331 (2023)
+   PUBMED   38049865
+  REMARK    GeneRIF: SNORA56-mediated pseudouridylation of 28 S rRNA inhibits
+            ferroptosis and promotes colorectal cancer proliferation by
+            enhancing GCLC translation. Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 3785)
+  AUTHORS   Liu,C., Wu,X., Bing,X., Qi,W., Zhu,F., Guo,N., Li,C., Gao,X.,
+            Cao,X., Zhao,M. and Xia,M.
+  TITLE     H1N1 influenza virus infection through NRF2-KEAP1-GCLC pathway
+            induces ferroptosis in nasal mucosal epithelial cells
+  JOURNAL   Free Radic Biol Med 204, 226-242 (2023)
+   PUBMED   37146698
+  REMARK    GeneRIF: H1N1 influenza virus infection through NRF2-KEAP1-GCLC
+            pathway induces ferroptosis in nasal mucosal epithelial cells.
+REFERENCE   3  (bases 1 to 3785)
+  AUTHORS   Da,D., Pan,Z., Zeng,L., Dang,Y., Dang,C., Huang,Y., Shi,D. and Li,H.
+  TITLE     Glutamate-cysteine ligase catalytic and its modifier function as
+            novel immunotargets in gastric adenocarcinoma
+  JOURNAL   Asian J Surg 46 (1), 143-149 (2023)
+   PUBMED   35241341
+  REMARK    GeneRIF: Glutamate-cysteine ligase catalytic and its modifier
+            function as novel immunotargets in gastric adenocarcinoma.
+REFERENCE   4  (bases 1 to 3785)
+  AUTHORS   Luo,L., Zhang,Z., Weng,Y. and Zeng,J.
+  TITLE     Ferroptosis-Related Gene GCLC Is a Novel Prognostic Molecular and
+            Correlates with Immune Infiltrates in Lung Adenocarcinoma
+  JOURNAL   Cells 11 (21), 3371 (2022)
+   PUBMED   36359768
+  REMARK    GeneRIF: Ferroptosis-Related Gene GCLC Is a Novel Prognostic
+            Molecular and Correlates with Immune Infiltrates in Lung
+            Adenocarcinoma. Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3785)
+  AUTHORS   Bykanova,M.A., Solodilova,M.A., Azarova,I.E., Klyosova,E.Y.,
+            Bushueva,O.Y., Polonikova,A.A., Churnosov,M.I. and Polonikov,A.V.
+  TITLE     Genetic variation at the catalytic subunit of glutamate cysteine
+            ligase contributes to the susceptibility to sporadic colorectal
+            cancer: a pilot study
+  JOURNAL   Mol Biol Rep 49 (7), 6145-6154 (2022)
+   PUBMED   35386070
+  REMARK    GeneRIF: Genetic variation at the catalytic subunit of glutamate
+            cysteine ligase contributes to the susceptibility to sporadic
+            colorectal cancer: a pilot study.
+REFERENCE   6  (bases 1 to 3785)
+  AUTHORS   Mulcahy,R.T. and Gipp,J.J.
+  TITLE     Identification of a putative antioxidant response element in the
+            5'-flanking region of the human gamma-glutamylcysteine synthetase
+            heavy subunit gene
+  JOURNAL   Biochem Biophys Res Commun 209 (1), 227-233 (1995)
+   PUBMED   7726839
+REFERENCE   7  (bases 1 to 3785)
+  AUTHORS   Gipp,J.J., Chang,C. and Mulcahy,R.T.
+  TITLE     Cloning and nucleotide sequence of a full-length cDNA for human
+            liver gamma-glutamylcysteine synthetase
+  JOURNAL   Biochem Biophys Res Commun 185 (1), 29-35 (1992)
+   PUBMED   1350904
+REFERENCE   8  (bases 1 to 3785)
+  AUTHORS   Beutler,E., Moroose,R., Kramer,L., Gelbart,T. and Forman,L.
+  TITLE     Gamma-glutamylcysteine synthetase deficiency and hemolytic anemia
+  JOURNAL   Blood 75 (1), 271-273 (1990)
+   PUBMED   2294991
+REFERENCE   9  (bases 1 to 3785)
+  AUTHORS   Lebo,R.V. and Kredich,N.M.
+  TITLE     Inactivation of human gamma-glutamylcysteine synthetase by
+            cystamine. Demonstration and quantification of enzyme-ligand
+            complexes
+  JOURNAL   J Biol Chem 253 (8), 2615-2623 (1978)
+   PUBMED   24639
+REFERENCE   10  (bases 1 to 3785)
+  AUTHORS   Konrad,P.N., Richards,F. 2nd, Valentine,W.N. and Paglia,D.E.
+  TITLE     -Glutamyl-cysteine synthetase deficiency. A cause of hereditary
+            hemolytic anemia
+  JOURNAL   N Engl J Med 286 (11), 557-561 (1972)
+   PUBMED   5058793
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803614.95345.1, AB262176.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000650454.1/ ENSP00000497574.1
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BI550814.1, AL531593.3,
+            AK313480.1, AB262176.1 and BC039894.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 8, 2018 this sequence version replaced NM_001498.3.
+            Summary: Glutamate-cysteine ligase, also known as
+            gamma-glutamylcysteine synthetase is the first rate-limiting enzyme
+            of glutathione synthesis. The enzyme consists of two subunits, a
+            heavy catalytic subunit and a light regulatory subunit. This locus
+            encodes the catalytic subunit, while the regulatory subunit is
+            derived from a different gene located on chromosome 1p22-p21.
+            Mutations at this locus have been associated with hemolytic anemia
+            due to deficiency of gamma-glutamylcysteine synthetase and
+            susceptibility to myocardial infarction.[provided by RefSeq, Oct
+            2010].
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (a).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3785
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p12.1"
+     gene            1..3785
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="glutamate-cysteine ligase catalytic subunit"
+                     /db_xref="GeneID:2729"
+                     /db_xref="HGNC:HGNC:4311"
+                     /db_xref="MIM:606857"
+     exon            1..606
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    382..384
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="upstream in-frame stop codon"
+     CDS             457..2370
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /EC_number="6.3.2.2"
+                     /note="isoform a is encoded by transcript variant 1;
+                     gamma-glutamylcysteine synthetase; gamma-ECS; GCS heavy
+                     chain"
+                     /codon_start=1
+                     /product="glutamate--cysteine ligase catalytic subunit
+                     isoform a"
+                     /protein_id="NP_001489.1"
+                     /db_xref="CCDS:CCDS4952.1"
+                     /db_xref="GeneID:2729"
+                     /db_xref="HGNC:HGNC:4311"
+                     /db_xref="MIM:606857"
+                     /translation="MGLLSQGSPLSWEETKRHADHVRRHGILQFLHIYHAVKDRHKDVL
+                     KWGDEVEYMLVSFDHENKKVRLVLSGEKVLETLQEKGERTNPNHPTLWRPEYGSYMIEG
+                     TPGQPYGGTMSEFNTVEANMRKRRKEATSILEENQALCTITSFPRLGCPGFTLPEVKPN
+                     PVEGGASKSLFFPDEAINKHPRFSTLTRNIRHRRGEKVVINVPIFKDKNTPSPFIETFT
+                     EDDEASRASKPDHIYMDAMGFGMGNCCLQVTFQACSISEARYLYDQLATICPIVMALSA
+                     ASPFYRGYVSDIDCRWGVISASVDDRTREERGLEPLKNNNYRISKSRYDSIDSYLSKCG
+                     EKYNDIDLTIDKEIYEQLLQEGIDHLLAQHVAHLFIRDPLTLFEEKIHLDDANESDHFE
+                     NIQSTNWQTMRFKPPPPNSDIGWRVEFRPMEVQLTDFENSAYVVFVVLLTRVILSYKLD
+                     FLIPLSKVDENMKVAQKRDAVLQGMFYFRKDICKGGNAVVDGCGKAQNSTELAAEEYTL
+                     MSIDTIINGKEGVFPGLIPILNSYLENMEVDVDTRCSILNYLKLIKKRASGELMTVARW
+                     MREFIANHPDYKQDSVITDEMNYSLILKCNQIANELCECPELLGSAFRKVKYSGSKTDS
+                     SN"
+     misc_feature    457..459
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0007744|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (P48506.2); acetylation site"
+     misc_feature    469..471
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (P48506.2); phosphorylation site"
+     misc_feature    478..480
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P48506.2); phosphorylation site"
+     exon            607..719
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            720..902
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            903..1016
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1017..1075
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1076..1209
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1210..1284
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1285..1401
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1402..1540
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1541..1653
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1654..1746
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1747..1851
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1852..1933
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1934..2037
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2038..2158
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2159..3785
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2962..2967
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="hexamer: AATAAA"
+     polyA_site      2984
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+     regulatory      3753..3758
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="hexamer: AATAAA"
+     polyA_site      3785
+                     /gene="GCLC"
+                     /gene_synonym="CNSHA7; GCL; GCS; GLCL; GLCLC"
+                     /note="major polyA site"
+ORIGIN
+        1 aggagcggcg agctagcgga cgcaaagact gggcatgctc cgcggcggcg caggttttgg
+       61 tcacaagtag gaagaagcca gtgcaccaga ccggcaaaga gaagcgggag ccgccgcggc
+      121 agcgcggccg tggggtccgc cgccgccgca tcggagcggg aggaggagca gcggggaggg
+      181 cgaggccgcc gggccgagag ccgtcccgcc tgctctcggt cttctgcctt cgcctccgcg
+      241 cggtgcgtcg gacccagggt ctgtcacctg ggcgccaggg gccgccgccg gggagccgga
+      301 gcgggcagga ccctccctcc gccgactgcg gcccgagagc gcccccgcgg ggtggagcgg
+      361 cagccgcctt ctgcgggcgg ctgagtgtcc gtctcgcgcc cggagcgggc gaccgccgtc
+      421 agcccggagg aggaggagga ggaggagggg gcggccatgg ggctgctgtc ccagggctcg
+      481 ccgctgagct gggaggaaac caagcgccat gccgaccacg tgcggcggca cgggatcctc
+      541 cagttcctgc acatctacca cgccgtcaag gaccggcaca aggacgttct caagtggggc
+      601 gatgaggtgg aatacatgtt ggtatctttt gatcatgaaa ataaaaaagt ccggttggtc
+      661 ctgtctgggg agaaagttct tgaaactctg caagagaagg gggaaaggac aaacccaaac
+      721 catcctaccc tttggagacc agagtatggg agttacatga ttgaagggac accaggacag
+      781 ccctacggag gaacaatgtc cgagttcaat acagttgagg ccaacatgcg aaaacgccgg
+      841 aaggaggcta cttctatatt agaagaaaat caggctcttt gcacaataac ttcatttccc
+      901 agattaggct gtcctgggtt cacactgccc gaggtcaaac ccaacccagt ggaaggagga
+      961 gcttccaagt ccctcttctt tccagatgaa gcaataaaca agcaccctcg cttcagtacc
+     1021 ttaacaagaa atatccgaca taggagagga gaaaaggttg tcatcaatgt accaatattt
+     1081 aaggacaaga atacaccatc tccatttata gaaacattta ctgaggatga tgaagcttca
+     1141 agggcttcta agccggatca tatttacatg gatgccatgg gatttggaat gggcaattgc
+     1201 tgtctccagg tgacattcca agcctgcagt atatctgagg ccagatacct ttatgatcag
+     1261 ttggctacta tctgtccaat tgttatggct ttgagtgctg catctccctt ttaccgaggc
+     1321 tatgtgtcag acattgattg tcgctgggga gtgatttctg catctgtaga tgatagaact
+     1381 cgggaggagc gaggactgga gccattgaag aacaataact ataggatcag taaatcccga
+     1441 tatgactcaa tagacagcta tttatctaag tgtggtgaga aatataatga catcgacttg
+     1501 acgatagata aagagatcta cgaacagctg ttgcaggaag gcattgatca tctcctggcc
+     1561 cagcatgttg ctcatctctt tattagagac ccactgacac tgtttgaaga gaaaatacac
+     1621 ctggatgatg ctaatgagtc tgaccatttt gagaatattc agtccacaaa ttggcagaca
+     1681 atgagattta agccccctcc tccaaactca gacattggat ggagagtaga atttcgaccc
+     1741 atggaggtgc aattaacaga ctttgagaac tctgcctatg tggtgtttgt ggtactgctc
+     1801 accagagtga tcctttccta caaattggat tttctcattc cactgtcaaa ggttgatgag
+     1861 aacatgaagg tagcacagaa aagagatgct gtcttgcagg gaatgtttta tttcaggaaa
+     1921 gatatttgca aaggtggcaa tgcagtggtg gatggttgtg gcaaggccca gaacagcacg
+     1981 gagctcgctg cagaggagta caccctcatg agcatagaca ccatcatcaa tgggaaggaa
+     2041 ggtgtgtttc ctggactgat cccaattctg aactcttacc ttgaaaacat ggaagtggat
+     2101 gtggacacca gatgtagtat tctgaactac ctaaagctaa ttaagaagag agcatctgga
+     2161 gaactaatga cagttgccag atggatgagg gagtttatcg caaaccatcc tgactacaag
+     2221 caagacagtg tcataactga tgaaatgaat tatagcctta ttttgaagtg taaccaaatt
+     2281 gcaaatgaat tatgtgaatg cccagagtta cttggatcag catttaggaa agtaaaatat
+     2341 agtggaagta aaactgactc atccaactag acattctaca gaaagaaaaa tgcattattg
+     2401 acgaactggc tacagtacca tgcctctcag ccagcccgtg tgtataatat gaagaccaaa
+     2461 tgatagaact gtactgtttt ctgggccagt gagccagaaa ttgattaagg ctttctttgg
+     2521 taggtaaatc tagagtttat acagtgtaca tgtacatagt aaagtatttt tgattaacaa
+     2581 tgtattttaa taacatatct aaagtcatca tgaactggct tgtacatttt taaattctta
+     2641 ctctggagca acctactgtc taagcagttt tgtaaatgta ctggtaattg tacaatactt
+     2701 gcattccaga gttaaaatgt ttactgtaaa tttttgttct tttaaagact acctgggacc
+     2761 tgatttattg aaatttttct ctttaaaaac attttctctc gttaattttc ctttgtcatt
+     2821 tcctttgttg tctacattaa atcacttgaa tccattgaaa gtgcttcaag ggtaatcttg
+     2881 ggtttctagc accttatcta tgatgtttct tttgcaattg gaataatcac ttggtcacct
+     2941 tgccccaagc tttcccctct gaataaatac ccattgaact ctgatggctg ttatcaaagg
+     3001 aacttttctt tgtttaaatt tgctgatgca ggaattaagt ttaaacacaa ctctatagaa
+     3061 agaaaggaga ttattaccca gaattcacat gtagtgatta ttaaggacaa tttttttttt
+     3121 taactaaaaa agttggcggc aggggtgggg ggtggcaatc atttttcttc ctatacatac
+     3181 aaaggatatt gtcaaaaatg gcgttcttct cttgtggcct gttattctga ttgctgctgt
+     3241 atacagtttt gtcactcttt agtttttagt taagcatact gatagacttt cctctaaaag
+     3301 ccattcactc cagattttac ctggggaata ttctacatac tgcttacttt ctctataaaa
+     3361 ctcatcaata aatcatgaaa ggcactgagt tttgtaaatc aggaccctaa atgtttaatt
+     3421 gtaaataagt ttcagataat tattatagct ttgcgttgaa gtttgttgtt ttttttctca
+     3481 actagttaag tcaactgctt ctgaaataac tctgtattgt agattatgca gatctttaca
+     3541 ggcataaata tttaaactgt aatatgctaa cttgaagaga ttgcaataaa gctgcttcag
+     3601 ctaaccctgt ttatgtttaa atactagggt ttgttctata ttttatacat gcattttgga
+     3661 tgattaaaga atgcctggtt ttcgtttgca atttgcttgt gtaaatcagg ttgtaaaaag
+     3721 gcagataaat tgaaatgttt gtggtatgag gaaataaaag aatggaatta gctttcattc
+     3781 agaaa
+//

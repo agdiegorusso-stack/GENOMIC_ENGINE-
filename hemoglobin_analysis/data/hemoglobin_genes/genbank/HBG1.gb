@@ -1,0 +1,237 @@
+LOCUS       NM_000559                587 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens hemoglobin subunit gamma 1 (HBG1), mRNA.
+ACCESSION   NM_000559
+VERSION     NM_000559.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 587)
+  AUTHORS   Bao,X., Gao,Y., Wang,Z., Ye,Y., Chen,D., Zuo,Y., Zhao,C. and Xu,X.
+  TITLE     Activation of gamma-globin expression by LncRNA-mediated ERF
+            promoter hypermethylation in beta-thalassemia
+  JOURNAL   Clin Epigenetics 16 (1), 12 (2024)
+   PUBMED   38218889
+  REMARK    GeneRIF: Activation of gamma-globin expression by LncRNA-mediated
+            ERF promoter hypermethylation in beta-thalassemia. Publication
+            Status: Online-Only
+REFERENCE   2  (bases 1 to 587)
+  AUTHORS   Wang,X., Meng,X., Meng,L., Guo,Y., Li,Y., Yang,C., Pei,Z., Li,J. and
+            Wang,F.
+  TITLE     Joint efficacy of the three biomarkers SNCA, GYPB and HBG1 for
+            atrial fibrillation and stroke: Analysis via the support vector
+            machine neural network
+  JOURNAL   J Cell Mol Med 26 (7), 2010-2022 (2022)
+   PUBMED   35138035
+  REMARK    GeneRIF: Joint efficacy of the three biomarkers SNCA, GYPB and HBG1
+            for atrial fibrillation and stroke: Analysis via the support vector
+            machine neural network.
+REFERENCE   3  (bases 1 to 587)
+  AUTHORS   Lin,J., Ye,Y., Shang,X., Zhang,Y., Wei,X. and Xu,X.
+  TITLE     TEA domain transcription factor 4 modulates repression of fetal
+            haemoglobin by direct binding to the gamma-globin gene promoters
+  JOURNAL   Br J Haematol 195 (5), 764-769 (2021)
+   PUBMED   34569056
+  REMARK    GeneRIF: TEA domain transcription factor 4 modulates repression of
+            fetal haemoglobin by direct binding to the gamma-globin gene
+            promoters.
+REFERENCE   4  (bases 1 to 587)
+  AUTHORS   Eernstman,J., Veldhuisen,B., Ligthart,P., von Lindern,M., van der
+            Schoot,C.E. and van den Akker,E.
+  TITLE     Novel variants in Krueppel like factor 1 that cause persistence of
+            fetal hemoglobin in In(Lu) individuals
+  JOURNAL   Sci Rep 11 (1), 18557 (2021)
+   PUBMED   34535703
+  REMARK    GeneRIF: Novel variants in Krueppel like factor 1 that cause
+            persistence of fetal hemoglobin in In(Lu) individuals. Publication
+            Status: Online-Only
+REFERENCE   5  (bases 1 to 587)
+  AUTHORS   Ghosh,D., Panja,A., Saha,D., Banerjee,U., Datta,A.K. and Basu,A.
+  TITLE     Drug Repurposing: Hydroxyurea Therapy Improves the Transfusion-Free
+            Interval in HbE/Beta-Thalassemia-Major Patients with the XmnI
+            Polymorphism
+  JOURNAL   Genet Test Mol Biomarkers 25 (8), 563-570 (2021)
+   PUBMED   34406845
+  REMARK    GeneRIF: Drug Repurposing: Hydroxyurea Therapy Improves the
+            Transfusion-Free Interval in HbE/Beta-Thalassemia-Major Patients
+            with the XmnI Polymorphism.
+REFERENCE   6  (bases 1 to 587)
+  AUTHORS   Saglio,G., Ricco,G., Mazza,U., Camaschella,C., Pich,P.G.,
+            Gianni,A.M., Gianazza,E., Righetti,P.G., Giglioni,B., Comi,P.,
+            Gusmeroli,M. and Ottolenghi,S.
+  TITLE     Human T gamma globin chain is a variant of A gamma chain (A gamma
+            Sardinia)
+  JOURNAL   Proc Natl Acad Sci U S A 76 (7), 3420-3424 (1979)
+   PUBMED   291015
+REFERENCE   7  (bases 1 to 587)
+  AUTHORS   Poon,R., Kan,Y.W. and Boyer,H.W.
+  TITLE     Sequence of the 3'-noncoding and adjacent coding regions of human
+            gamma-globin mRNA
+  JOURNAL   Nucleic Acids Res 5 (12), 4625-4630 (1978)
+   PUBMED   318163
+REFERENCE   8  (bases 1 to 587)
+  AUTHORS   Marotta,C.A., Forget,B.G., Cohne-Solal,M., Wilson,J.T. and
+            Weissman,S.M.
+  TITLE     Human beta-globin messenger RNA. I. Nucleotide sequences derived
+            from complementary RNA
+  JOURNAL   J Biol Chem 252 (14), 5019-5031 (1977)
+   PUBMED   873928
+REFERENCE   9  (bases 1 to 587)
+  AUTHORS   Frier,J.A. and Perutz,M.F.
+  TITLE     Structure of human foetal deoxyhaemoglobin
+  JOURNAL   J Mol Biol 112 (1), 97-112 (1977)
+   PUBMED   881729
+REFERENCE   10  (bases 1 to 587)
+  AUTHORS   Grifoni,V., Kamuzora,H., Lehmann,H. and Charlesworth,D.
+  TITLE     A new Hb variant: Hb F Sardinia gamma75(E19) isoleucine leads to
+            threonine found in a family with Hb G Philadelphia, beta-chain
+            deficiency and a Lepore-like haemoglobin indistinguishable from Hb
+            A2
+  JOURNAL   Acta Haematol 53 (6), 347-355 (1975)
+   PUBMED   808940
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC020719.1, CD238302.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2142853,
+            SAMEA2149398 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000330597.5/ ENSP00000327431.4
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC104389.8.
+            On Dec 4, 2019 this sequence version replaced NM_000559.2.
+            Summary: The gamma globin genes (HBG1 and HBG2) are normally
+            expressed in the fetal liver, spleen and bone marrow. Two gamma
+            chains together with two alpha chains constitute fetal hemoglobin
+            (HbF) which is normally replaced by adult hemoglobin (HbA) at
+            birth. In some beta-thalassemias and related conditions, gamma
+            chain production continues into adulthood. The two types of gamma
+            chains differ at residue 136 where glycine is found in the G-gamma
+            product (HBG2) and alanine is found in the A-gamma product (HBG1).
+            The former is predominant at birth. The order of the genes in the
+            beta-globin cluster is: 5'-epsilon -- gamma-G -- gamma-A -- delta
+            -- beta--3'. [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..587
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.4"
+     gene            1..587
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="hemoglobin subunit gamma 1"
+                     /db_xref="GeneID:3047"
+                     /db_xref="HGNC:HGNC:4831"
+                     /db_xref="MIM:142200"
+     exon            1..145
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    33..35
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="upstream in-frame stop codon"
+     CDS             54..497
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="hemoglobin gamma-a chain; hemoglobin, gamma,
+                     regulator of; gamma globin; gamma A hemoglobin; A-gamma
+                     globin; hb F Agamma; gamma-1-globin; hemoglobin gamma-1
+                     chain; hemoglobin, gamma A; fetal hemoglobin F subunit
+                     gamma 1"
+                     /codon_start=1
+                     /product="hemoglobin subunit gamma-1"
+                     /protein_id="NP_000550.2"
+                     /db_xref="CCDS:CCDS7754.1"
+                     /db_xref="GeneID:3047"
+                     /db_xref="HGNC:HGNC:4831"
+                     /db_xref="MIM:142200"
+                     /translation="MGHFTEEDKATITSLWGKVNVEDAGGETLGRLLVVYPWTQRFFDS
+                     FGNLSSASAIMGNPKVKAHGKKVLTSLGDATKHLDDLKGTFAQLSELHCDKLHVDPENF
+                     KLLGNVLVTVLAIHFGKEFTPEVQASWQKMVTAVASALSSRYH"
+     misc_feature    57..59
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="N-acetylglycine, in form Hb F1.
+                     /evidence=ECO:0000269|PubMed:5554303; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); acetylation site"
+     misc_feature    90..92
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); phosphorylation site"
+     misc_feature    186..188
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); phosphorylation site"
+     misc_feature    204..206
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); phosphorylation site"
+     misc_feature    210..212
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); phosphorylation site"
+     misc_feature    231..233
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); acetylation site"
+     misc_feature    300..302
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); acetylation site"
+     misc_feature    471..473
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P69891.3); phosphorylation site"
+     exon            146..368
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /inference="alignment:Splign:2.1.0"
+     exon            369..587
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      558..563
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="hexamer: AATAAA"
+     polyA_site      587
+                     /gene="HBG1"
+                     /gene_synonym="HBG-T2; HBGA; HBGR; HSGGL1; PRO2979"
+                     /note="major polyA site"
+ORIGIN
+        1 acactcgctt ctggaacgtc tgaggttatc aataagctcc tagtccagac gccatgggtc
+       61 atttcacaga ggaggacaag gctactatca caagcctgtg gggcaaggtg aatgtggaag
+      121 atgctggagg agaaaccctg ggaaggctcc tggttgtcta cccatggacc cagaggttct
+      181 ttgacagctt tggcaacctg tcctctgcct ctgccatcat gggcaacccc aaagtcaagg
+      241 cacatggcaa gaaggtgctg acttccttgg gagatgccac aaagcacctg gatgatctca
+      301 agggcacctt tgcccagctg agtgaactgc actgtgacaa gctgcatgtg gatcctgaga
+      361 acttcaagct cctgggaaat gtgctggtga ccgttttggc aatccatttc ggcaaagaat
+      421 tcacccctga ggtgcaggct tcctggcaga agatggtgac tgcagtggcc agtgccctgt
+      481 cctccagata ccactgagct cactgcccat gattcagagc tttcaaggat aggctttatt
+      541 ctgcaagcaa tacaaataat aaatctattc tgctgagaga tcacaca
+//

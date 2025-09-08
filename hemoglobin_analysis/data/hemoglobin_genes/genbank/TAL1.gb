@@ -1,0 +1,268 @@
+LOCUS       NM_003189               5025 bp    mRNA    linear   PRI 15-DEC-2013
+DEFINITION  Homo sapiens T-cell acute lymphocytic leukemia 1 (TAL1), transcript
+            variant 1, mRNA.
+ACCESSION   NM_003189
+VERSION     NM_003189.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5025)
+  AUTHORS   Mansour,M.R., Sanda,T., Lawton,L.N., Li,X., Kreslavsky,T.,
+            Novina,C.D., Brand,M., Gutierrez,A., Kelliher,M.A., Jamieson,C.H.,
+            von Boehmer,H., Young,R.A. and Look,A.T.
+  TITLE     The TAL1 complex targets the FBXW7 tumor suppressor by activating
+            miR-223 in human T cell acute lymphoblastic leukemia
+  JOURNAL   J. Exp. Med. 210 (8), 1545-1557 (2013)
+   PUBMED   23857984
+  REMARK    GeneRIF: The TAL1 complex targets the FBXW7 tumor suppressor by
+            activating miR-223 in human T cell acute lymphoblastic leukemia.
+REFERENCE   2  (bases 1 to 5025)
+  AUTHORS   Correia,N.C., Durinck,K., Leite,A.P., Ongenaert,M., Rondou,P.,
+            Speleman,F., Enguita,F.J. and Barata,J.T.
+  TITLE     Novel TAL1 targets beyond protein-coding genes: identification of
+            TAL1-regulated microRNAs in T-cell acute lymphoblastic leukemia
+  JOURNAL   Leukemia 27 (7), 1603-1606 (2013)
+   PUBMED   23448994
+  REMARK    GeneRIF: We validate a small set of TAL1-regulated microRNA genes
+            whose role is important in T-cell acute lymphoblastic leukemia.
+REFERENCE   3  (bases 1 to 5025)
+  AUTHORS   Diffner,E., Beck,D., Gudgin,E., Thoms,J.A., Knezevic,K., Pridans,C.,
+            Foster,S., Goode,D., Lim,W.K., Boelen,L., Metzeler,K.H., Micklem,G.,
+            Bohlander,S.K., Buske,C., Burnett,A., Ottersbach,K., Vassiliou,G.S.,
+            Olivier,J., Wong,J.W., Gottgens,B., Huntly,B.J. and Pimanda,J.E.
+  TITLE     Activity of a heptad of transcription factors is associated with
+            stem cell programs and clinical outcome in acute myeloid leukemia
+  JOURNAL   Blood 121 (12), 2289-2300 (2013)
+   PUBMED   23327922
+  REMARK    GeneRIF: Transcriptional regulators cooperate to establish or
+            maintain primitive stem cell-like signatures in leukemic cells.
+REFERENCE   4  (bases 1 to 5025)
+  AUTHORS   Rogers,H., Wang,L., Yu,X., Alnaeeli,M., Cui,K., Zhao,K.,
+            Bieker,J.J., Prchal,J., Huang,S., Weksler,B. and Noguchi,C.T.
+  TITLE     T-cell acute leukemia 1 (TAL1) regulation of erythropoietin receptor
+            and association with excessive erythrocytosis
+  JOURNAL   J. Biol. Chem. 287 (44), 36720-36731 (2012)
+   PUBMED   22982397
+  REMARK    GeneRIF: TAL1 binds to the EPO-R promoter to activate EPO-R
+            expression
+REFERENCE   5  (bases 1 to 5025)
+  AUTHORS   Sanda,T., Lawton,L.N., Barrasa,M.I., Fan,Z.P., Kohlhammer,H.,
+            Gutierrez,A., Ma,W., Tatarek,J., Ahn,Y., Kelliher,M.A.,
+            Jamieson,C.H., Staudt,L.M., Young,R.A. and Look,A.T.
+  TITLE     Core transcriptional regulatory circuit controlled by the TAL1
+            complex in human T cell acute lymphoblastic leukemia
+  JOURNAL   Cancer Cell 22 (2), 209-221 (2012)
+   PUBMED   22897851
+  REMARK    GeneRIF: TAL1 forms a positive interconnected autoregulatory loop
+            with GATA3 and RUNX1 and that the TAL1 complex directly activates
+            the MYB oncogene.
+REFERENCE   6  (bases 1 to 5025)
+  AUTHORS   Calkhoven,C.F., Muller,C., Martin,R., Krosl,G., Pietsch,H., Hoang,T.
+            and Leutz,A.
+  TITLE     Translational control of SCL-isoform expression in hematopoietic
+            lineage choice
+  JOURNAL   Genes Dev. 17 (8), 959-964 (2003)
+   PUBMED   12704079
+  REMARK    Erratum:[Genes Dev. 2003 Jun 15;17(12):1554]
+REFERENCE   7  (bases 1 to 5025)
+  AUTHORS   Goldfarb,A.N., Goueli,S., Mickelson,D. and Greenberg,J.M.
+  TITLE     T-cell acute lymphoblastic leukemia--the associated gene SCL/tal
+            codes for a 42-Kd nuclear phosphoprotein
+  JOURNAL   Blood 80 (11), 2858-2866 (1992)
+   PUBMED   1450410
+REFERENCE   8  (bases 1 to 5025)
+  AUTHORS   Aplan,P.D., Nakahara,K., Orkin,S.H. and Kirsch,I.R.
+  TITLE     The SCL gene product: a positive regulator of erythroid
+            differentiation
+  JOURNAL   EMBO J. 11 (11), 4073-4081 (1992)
+   PUBMED   1396592
+REFERENCE   9  (bases 1 to 5025)
+  AUTHORS   Green,A.R. and Begley,C.G.
+  TITLE     SCL and related hemopoietic helix-loop-helix transcription factors
+  JOURNAL   Int. J. Cell Cloning 10 (5), 269-276 (1992)
+   PUBMED   1453013
+  REMARK    Review article
+REFERENCE   10  (bases 1 to 5025)
+  AUTHORS   Aplan,P.D., Lombardi,D.P., Reaman,G.H., Sather,H.N., Hammond,G.D.
+            and Kirsch,I.R.
+  TITLE     Involvement of the putative hematopoietic transcription factor SCL
+            in T-cell acute lymphoblastic leukemia
+  JOURNAL   Blood 79 (5), 1327-1333 (1992)
+   PUBMED   1311214
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: M61108.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns ERS025087,
+            ERS025091 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            regulatory uORF             :: PMID: 12704079
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            M61108.1, AL135960.1 and BQ186967.1.
+            [WARNING] On Jan 17, 2014 this sequence was replaced by
+            NM_003189.4.
+            On Dec 13, 2013 this sequence version replaced NM_003189.2.
+            Transcript Variant: This variant (1) and variant 2 encode the same
+            protein.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            transcript and genomic sequence to make the sequence consistent
+            with the reference genome assembly. The genomic coordinates used
+            for the transcript record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..5025
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p32"
+     gene            1..5025
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+                     /note="T-cell acute lymphocytic leukemia 1"
+                     /db_xref="GeneID:6886"
+                     /db_xref="HGNC:HGNC:11556"
+                     /db_xref="HPRD:01753"
+                     /db_xref="MIM:187040"
+     misc_feature    127..174
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+                     /note="uORF"
+     misc_feature    195..212
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+                     /note="uORF"
+     misc_feature    563..565
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+                     /note="upstream in-frame stop codon"
+     misc_feature    568..615
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+                     /experiment="DESCRIPTION:regulatory uORF[PMID: 12704079]"
+     CDS             578..1573
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+                     /note="tal-1 product; stem cell protein; T-cell
+                     leukemia/lymphoma protein 5; class A basic helix-loop-helix
+                     protein 17"
+                     /codon_start=1
+                     /product="T-cell acute lymphocytic leukemia protein 1"
+                     /protein_id="NP_003180.1"
+                     /db_xref="CCDS:CCDS547.1"
+                     /db_xref="GeneID:6886"
+                     /db_xref="HGNC:HGNC:11556"
+                     /db_xref="HPRD:01753"
+                     /db_xref="MIM:187040"
+                     /translation="MTERPPSEAARSDPQLEGRDAAEASMAPPHLVLLNGVAKETSRAA
+                     AAEPPVIELGARGGPGGGPAGGGGAARDLKGRDAATAEARHRVPTTELCRPPGPAPAPA
+                     PASVTAELPGDGRMVQLSPPALAAPAAPGRALLYSLSQPLASLGSGFFGEPDAFPMFTT
+                     NNRVKRRPSPYEMEITDGPHTKVVRRIFTNSRERWRQQNVNGAFAELRKLIPTHPPDKK
+                     LSKNEILRLAMKYINFLAKLLNDQEEEGTQRAKTGKDPVVGAGGGGGGGGGGAPPDDLL
+                     QDVLSPNSSCGSSLDGAASPDSYTEEPAPKHTARSLHPAMLPAADGAGPR"
+     misc_feature    941..943
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (P17542.2); phosphorylation site"
+     regulatory      4982..4987
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+     polyA_site      5003
+                     /gene="TAL1"
+                     /gene_synonym="bHLHa17; SCL; tal-1; TCL5"
+ORIGIN
+        1 gcccgggact atcccttcgc ggtgtagcgg cagccggaga cctggctgag gaggcaaccg
+       61 cgtagacacc tccctgctta gaaaacaaac actgaaccag accgatccca gttggagggt
+      121 tcgaaaatgt tccagacagc ctgtcgggag gggttgttgt tgctgttgga ctaaatagct
+      181 attcctgatt ggtcatgtat agggtttttt aaggcgggtg gggggaggag ggggtagagg
+      241 aaaggctcca aacacctgca ggttgggggc ggaaagctgt ttgcgattcc ctggactggt
+      301 tggtcgggga caggaggtaa ttcccagcca ttgaccccca tttctctctc tccctccctc
+      361 ttgccctgcc tctttctctc cacccctatc tttcctggaa actcgctttg ggcgcggcag
+      421 atcgcccagg accacaccgc agcgtaactg caggcctctc agcgaaaaag ggggaaagca
+      481 aagacccggg tgtgcatcct cttcctcggc ttccgcccct ttccggcgga gtggagatcc
+      541 tattcagagg ggccggtctc tctaaatatg ccccaggatg accgagcggc cgccgagcga
+      601 ggcggctcgc agtgaccccc agctagaggg acgggacgcg gccgaggcca gcatggcccc
+      661 cccgcacctg gtcctgctga acggcgtcgc caaggagacg agccgcgcgg ccgcagcgga
+      721 gcccccagtc atcgaactgg gcgcgcgcgg aggcccgggg ggcggccctg ccggtggggg
+      781 cggcgccgcg agagacttaa agggccgcga cgcggcgacg gccgaagcgc gccatcgggt
+      841 gcccaccacc gagctgtgca gacctcccgg gcccgccccg gcccccgcgc ccgcctcggt
+      901 tacagcggag ctgcccggcg acggccgcat ggtgcagctg agtcctcccg cgctggctgc
+      961 ccccgccgcc cccggccgcg cgctgctcta cagcctcagc cagccgctgg cctctctcgg
+     1021 cagcgggttc tttggggagc cggatgcctt ccctatgttc accaccaaca atcgagtgaa
+     1081 gaggagacct tccccctatg agatggagat tactgatggt ccccacacca aagttgtgcg
+     1141 gcgtatcttc accaacagcc gggagcgatg gcggcagcag aatgtgaacg gggcctttgc
+     1201 cgagctccgc aagctgatcc ccacacatcc cccggacaag aagctcagca agaatgagat
+     1261 cctccgcctg gccatgaagt atatcaactt cttggccaag ctgctcaatg accaggagga
+     1321 ggagggcacc cagcgggcca agactggcaa ggaccctgtg gtgggggctg gtgggggtgg
+     1381 aggtggggga gggggcggcg cgcccccaga tgacctcctg caagacgtgc tttcccccaa
+     1441 ctccagctgc ggcagctccc tggatggggc agccagcccg gacagctaca cggaggagcc
+     1501 cgcgcccaaa cacacggccc gcagcctcca tcctgccatg ctgcctgccg ccgatggagc
+     1561 cggccctcgg tgatgggtct gggccaccag gatcagccag gagggcgttc ttaggctgct
+     1621 gggatggtgg gcttcagggc aggtggggtg agaattgggc ggctctgaag caaggcggtg
+     1681 gacttgaact ttcctggatg tctgaacttt gggaagcctt tactgaccct ggggctggct
+     1741 tttctgtttc ctgtaccagt aggagatcag aaaaatggag caaagtggta ggtacttttt
+     1801 gtgaagacgg cacggtcttc cctcttccct cagtcccaaa tccttcccaa gtaagaggct
+     1861 ggagttgtca ctgcttttgg cctggagttt gggatccctg tctttcctaa gacctggggt
+     1921 tgtcagctct catctgaggc atccagcagt ctctgccttg cctttagccc ctcccaagct
+     1981 ggctggggtg gcctgtgtgg ccacttctgt ccatatttat aggtacccaa tagctgccca
+     2041 tttcgtgagc cccatcttca cccaggccta tgttgatcca tccagcttgc cagatgctgc
+     2101 agagtcacaa gcctcgaggt gccttcttca gggcctggtt gaagaagatg atcagtggac
+     2161 agtctgctct agatgagctg ggccggaggg tcaggaaacc cagtcgccct tacttcttgc
+     2221 cctggggatc aaagttctgc tttctcccca atgagacttg ccttcctaag cctgtggctg
+     2281 tggagacaat gtctgcagcc ctgagaaagc cctgtcgggc tttgtgtgaa ggcagagaaa
+     2341 gggacaatga tagtagagtg atatggagca agagatattt tgggcatgtg ggcttcaact
+     2401 cctcgacatc actgttcatg ctggcgagtg aatgccagtg tgctgatggg cgtacgctgg
+     2461 tgctgagtag atgcgcagcc ccatctgtgc attctcctgg atgcttagag ggatttcttt
+     2521 gctgtaagat gtctgtttgc tgatggtctg gtctatgttc cgaattgagc acaaaacctg
+     2581 tcctatgaat gctttgcatt tggaattttt gcttgacttc agttattggt ggaatcttta
+     2641 gcgctcaata ggaccaggat ccagcctcac ttctagggta tgggaaatcc aatcagagac
+     2701 caggccctgg ctaagaccca aacatatgca cattcactta gcagaacctt aaacacccct
+     2761 cagttgtgca gcttttggtc atcaagggtg cgtctgggag gttggtttaa tgcaatagaa
+     2821 gtgctcccct ctgaaagttg tacatgaaat ttttgtaaat cacatcctta tccttcatct
+     2881 tttaaagaaa taaccactgc aagtcctttt gtaaagtgaa gaatcctttt gtagaatgaa
+     2941 ccactgcccc ttcattgatt tcctgtgtca atccagatgg tgggatgtgg ttttcttaag
+     3001 gtgaggcctg tctgtgacct gcatctaagc ccatgggaca aattgcacag aagtcctgta
+     3061 tgtctgtcat tgtaccctta agtcacccta gccctctccc tctaggctct gccttcgagg
+     3121 tcagaggaga gatagcctgt ggccctgtcc tgccatgcaa gaactcatca ctgtggctgt
+     3181 ctggaaagcc cccccttata gtttgggctt cagcctagtg gcttgtcctc accatgatgg
+     3241 ggccctaatt cagccatgta cagacagaga atatgtctgc tcctttcccc ttccttttaa
+     3301 gtaaggtcca attctcgagc ttggggcaac attgttcacc tttgtagcac tcaggctctc
+     3361 cattcaattt caggctcccc agatcatgtt ttggtgaaaa ttagggttgg ttcctttcca
+     3421 acgtttggaa gatcctgtga ggagccccat ctgtctaaag atagagtcat tgctgtagga
+     3481 tctaaggctg tttgcttcac cgtggattcg cttgagttag gaatgagaag tagccacagt
+     3541 atggatgggt ggatgggttt tatgagatgg atcacatatt ttattaagaa ctcaaacttc
+     3601 tggctccctc ttctttcaga cttgccatgt gactctggct tggcctatct cctagggcta
+     3661 tggtgtggac tgaatgggat catgaaagta gacagttttg agaacgtaaa gaactttttc
+     3721 ttttccctca atctcaatcc tgcagtgggg tttcgcagcc tgagtccacg acctaggcag
+     3781 taggccggtg tgcctgactg cccagcattt gggtaattta gattgtaaac cgctttggcc
+     3841 tgagttattg agattgtcct catttctcca gattatctat ttgtgtgtgt gtgtgtgtgt
+     3901 gtgtgagaga cggtgtcttg ttctgtcact caggctggag tacagtggtg ccatcattgc
+     3961 tgtctgcagc cttgaactct gggctcaagc aatcctctca cctcagcctc ccgagtaggg
+     4021 aggaccacag gtgtgagcca ccacacctgg ctaattttta cttttttttt tttttggtag
+     4081 agatggagtc ttgctatatt gcccaggctg gtcttgaagt cctggcttca ggcaattctc
+     4141 ctgcctttgc ctccagaagc actgggatca caggtgtcag ccattgcacc cagcccagat
+     4201 tgtcttaatt tctatcttgt tccaaggcca gggacagtaa taagaatgga aaagagatat
+     4261 gggaacactg gcagactgtg taaaatgtaa tgcaactacc caaaacaagc ctggtaggaa
+     4321 agggcaagtc tttaggtctt tgtaagaact aaagaagatc tgtaattttt attttcaccc
+     4381 tctgtacccc atgaccttat ccttcctctc cttccttgtt acccatgaaa aactggcaac
+     4441 attccaagaa tagcatctgt acaaagggga aagaacataa aggtaaaaca aaacaaaaca
+     4501 acattttgag aacaaagatg accataacca ctgaagggaa tcacatcttt taagacaaat
+     4561 tcatattctt ttatttgtta tggcagatga caagatggta caacctttat tcttttccaa
+     4621 aataaaacaa agggcacagc atctgtagtc agccgacaac tatttcggcc ttttgggggt
+     4681 gggtctggcc gtacttgtga tttcgatggt acgtgaccct ctgctgaaga cttgccccct
+     4741 gcccgtgtac atagtgcatt gtttctgtgg gcgggcccag cactttccgt caacgttgta
+     4801 ctgtatgtga tgaattgcgt tggtctctgc atttttctgc agaagaggag taaccgctcc
+     4861 aggtaccttg acctttgtac agcccagagg ccaacactgt gggtgtgtga ctctttagca
+     4921 aaaaaaaccc atgtggtgat gatgtgtata tatatgtgag gatgtatcgg gaagatttct
+     4981 aaataaaagt tttacaaagg ggcaaaaaaa aaaaaaaaaa aaaaa
+//

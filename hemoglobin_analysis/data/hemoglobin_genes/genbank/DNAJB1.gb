@@ -1,0 +1,226 @@
+LOCUS       NM_006145               2242 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens DnaJ heat shock protein family (Hsp40) member B1
+            (DNAJB1), transcript variant 1, mRNA.
+ACCESSION   NM_006145
+VERSION     NM_006145.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2242)
+  AUTHORS   Zhao,B., Yang,J., Ran,F., Shi,Y., Yang,L., Duan,Y., Shi,Z., Li,X.,
+            Zhang,J., Li,Z. and Wang,J.
+  TITLE     CircBIRC6 affects prostate cancer progression by regulating
+            miR-574-5p and DNAJB1
+  JOURNAL   Cancer Biol Ther 25 (1), 2399363 (2024)
+   PUBMED   39258752
+  REMARK    GeneRIF: CircBIRC6 affects prostate cancer progression by regulating
+            miR-574-5p and DNAJB1.
+REFERENCE   2  (bases 1 to 2242)
+  AUTHORS   Shirani,M., Levin,S., Shebl,B., Requena,D., Finkelstein,T.M.,
+            Johnson,D.S., Ng,D., Lalazar,G., Heissel,S., Hojrup,P., Molina,H.,
+            de Jong,Y.P., Rice,C.M., Singhi,A.D., Torbenson,M.S., Coffino,P.,
+            Lyons,B. and Simon,S.M.
+  TITLE     Increased Protein Kinase A Activity Induces Fibrolamellar
+            Hepatocellular Carcinoma Features Independent of DNAJB1
+  JOURNAL   Cancer Res 84 (16), 2626-2644 (2024)
+   PUBMED   38888469
+  REMARK    GeneRIF: Increased Protein Kinase A Activity Induces Fibrolamellar
+            Hepatocellular Carcinoma Features Independent of DNAJB1.
+REFERENCE   3  (bases 1 to 2242)
+  AUTHORS   Segal,D., Maier,S., Mastromarco,G.J., Qian,W.W., Nabeel-Shah,S.,
+            Lee,H., Moore,G., Lacoste,J., Larsen,B., Lin,Z.Y., Selvabaskaran,A.,
+            Liu,K., Smibert,C., Zhang,Z., Greenblatt,J., Peng,J., Lee,H.O.,
+            Gingras,A.C. and Taipale,M.
+  TITLE     A central chaperone-like role for 14-3-3 proteins in human cells
+  JOURNAL   Mol Cell 83 (6), 974-993 (2023)
+   PUBMED   36931259
+REFERENCE   4  (bases 1 to 2242)
+  AUTHORS   Cho,N.H., Cheveralls,K.C., Brunner,A.D., Kim,K., Michaelis,A.C.,
+            Raghavan,P., Kobayashi,H., Savy,L., Li,J.Y., Canaj,H., Kim,J.Y.S.,
+            Stewart,E.M., Gnann,C., McCarthy,F., Cabrera,J.P., Brunetti,R.M.,
+            Chhun,B.B., Dingle,G., Hein,M.Y., Huang,B., Mehta,S.B.,
+            Weissman,J.S., Gomez-Sjoberg,R., Itzhak,D.N., Royer,L.A., Mann,M.
+            and Leonetti,M.D.
+  TITLE     OpenCell: Endogenous tagging for the cartography of human cellular
+            organization
+  JOURNAL   Science 375 (6585), eabi6983 (2022)
+   PUBMED   35271311
+REFERENCE   5  (bases 1 to 2242)
+  AUTHORS   Kim,S.S., Kycia,I., Karski,M., Ma,R.K., Bordt,E.A., Kwan,J.,
+            Karki,A., Winter,E., Aktas,R.G., Wu,Y., Emili,A., Bauer,D.E.,
+            Sethupathy,P. and Vakili,K.
+  TITLE     DNAJB1-PRKACA in HEK293T cells induces LINC00473 overexpression that
+            depends on PKA signaling
+  JOURNAL   PLoS One 17 (2), e0263829 (2022)
+   PUBMED   35167623
+  REMARK    GeneRIF: DNAJB1-PRKACA in HEK293T cells induces LINC00473
+            overexpression that depends on PKA signaling. Publication Status:
+            Online-Only
+REFERENCE   6  (bases 1 to 2242)
+  AUTHORS   Qian,Y.Q., Patel,D., Hartl,F.U. and McColl,D.J.
+  TITLE     Nuclear magnetic resonance solution structure of the human Hsp40
+            (HDJ-1) J-domain
+  JOURNAL   J Mol Biol 260 (2), 224-235 (1996)
+   PUBMED   8764402
+REFERENCE   7  (bases 1 to 2242)
+  AUTHORS   Freeman,B.C. and Morimoto,R.I.
+  TITLE     The human cytosolic molecular chaperones hsp90, hsp70 (hsc70) and
+            hdj-1 have distinct roles in recognition of a non-native protein and
+            protein refolding
+  JOURNAL   EMBO J 15 (12), 2969-2979 (1996)
+   PUBMED   8670798
+REFERENCE   8  (bases 1 to 2242)
+  AUTHORS   Ohtsuka,K.
+  TITLE     Cloning of a cDNA for heat-shock protein hsp40, a human homologue of
+            bacterial DnaJ
+  JOURNAL   Biochem Biophys Res Commun 197 (1), 235-240 (1993)
+   PUBMED   8250930
+REFERENCE   9  (bases 1 to 2242)
+  AUTHORS   Hattori,H., Liu,Y.C., Tohnai,I., Ueda,M., Kaneda,T., Kobayashi,T.,
+            Tanabe,K. and Ohtsuka,K.
+  TITLE     Intracellular localization and partial amino acid sequence of a
+            stress-inducible 40-kDa protein in HeLa cells
+  JOURNAL   Cell Struct Funct 17 (1), 77-86 (1992)
+   PUBMED   1586970
+REFERENCE   10  (bases 1 to 2242)
+  AUTHORS   Raabe,T. and Manley,J.L.
+  TITLE     A human homologue of the Escherichia coli DnaJ heat-shock protein
+  JOURNAL   Nucleic Acids Res 19 (23), 6645 (1991)
+   PUBMED   1754405
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660807.231032.1,
+            SRR1803612.100624.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000254322.3/ ENSP00000254322.1
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB454482.1, D49547.1 and
+            BC013157.2.
+            On Nov 22, 2018 this sequence version replaced NM_006145.2.
+            Summary: This gene encodes a member of the DnaJ or Hsp40 (heat
+            shock protein 40 kD) family of proteins. DNAJ family members are
+            characterized by a highly conserved amino acid stretch called the
+            'J-domain' and function as one of the two major classes of
+            molecular chaperones involved in a wide range of cellular events,
+            such as protein folding and oligomeric protein complex assembly.
+            The encoded protein is a molecular chaperone that stimulates the
+            ATPase activity of Hsp70 heat-shock proteins in order to promote
+            protein folding and prevent misfolded protein aggregation.
+            Alternative splicing results in multiple transcript variants.
+            [provided by RefSeq, Sep 2015].
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longer isoform (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2242
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19p13.12"
+     gene            1..2242
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /note="DnaJ heat shock protein family (Hsp40) member B1"
+                     /db_xref="GeneID:3337"
+                     /db_xref="HGNC:HGNC:5270"
+                     /db_xref="MIM:604572"
+     exon            1..259
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             49..1071
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /note="isoform 1 is encoded by transcript variant 1; radial
+                     spoke 16 homolog B; dnaJ homolog subfamily B member 1;
+                     human DnaJ protein 1; dnaJ protein homolog 1; heat shock 40
+                     kDa protein 1; DnaJ (Hsp40) homolog, subfamily B, member 1"
+                     /codon_start=1
+                     /product="dnaJ homolog subfamily B member 1 isoform 1"
+                     /protein_id="NP_006136.1"
+                     /db_xref="CCDS:CCDS12312.1"
+                     /db_xref="GeneID:3337"
+                     /db_xref="HGNC:HGNC:5270"
+                     /db_xref="MIM:604572"
+                     /translation="MGKDYYQTLGLARGASDEEIKRAYRRQALRYHPDKNKEPGAEEKF
+                     KEIAEAYDVLSDPRKREIFDRYGEEGLKGSGPSGGSGGGANGTSFSYTFHGDPHAMFAE
+                     FFGGRNPFDTFFGQRNGEEGMDIDDPFSGFPMGMGGFTNVNFGRSRSAQEPARKKQDPP
+                     VTHDLRVSLEEIYSGCTKKMKISHKRLNPDGKSIRNEDKILTIEVKKGWKEGTKITFPK
+                     EGDQTSNNIPADIVFVLKDKPHNIFKRDGSDVIYPARISLREALCGCTVNVPTLDGRTI
+                     PVVFKDVIRPGMRRKVPGEGLPLPKTPEKRGDLIIEFEVIFPERIPQTSRTVLEQVLPI
+                     "
+     misc_feature    967..969
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25685.4); phosphorylation site"
+     exon            260..840
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            841..2242
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2219..2224
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /note="hexamer: ATTAAA"
+     polyA_site      2242
+                     /gene="DNAJB1"
+                     /gene_synonym="Hdj1; Hsp40; HSPF1; RSPH16B; Sis1"
+                     /note="major polyA site"
+ORIGIN
+        1 ggagccgggg gacggcgaca gcgggtcggc gggccgcagg agggggtcat gggtaaagac
+       61 tactaccaga cgttgggcct ggcccgcggc gcgtcggacg aggagatcaa gcgggcctac
+      121 cgccgccagg cgctgcgcta ccacccggac aagaacaagg agcccggcgc cgaggagaag
+      181 ttcaaggaga tcgctgaggc ctacgacgtg ctcagcgacc cgcgcaagcg cgagatcttc
+      241 gaccgctacg gggaggaagg cctaaagggg agtggcccca gtggcggtag cggcggtggt
+      301 gccaatggta cctctttcag ctacacattc catggagacc ctcatgccat gtttgctgag
+      361 ttcttcggtg gcagaaatcc ctttgacacc ttttttgggc agcggaacgg ggaggaaggc
+      421 atggacattg atgacccatt ctctggcttc cctatgggca tgggtggctt caccaacgtg
+      481 aactttggcc gctcccgctc tgcccaagag cccgcccgaa agaagcaaga tcccccagtc
+      541 acccacgacc ttcgagtctc ccttgaagag atctacagcg gctgtaccaa gaagatgaaa
+      601 atctcccaca agcggctaaa ccccgacgga aagagcattc gaaacgaaga caaaatattg
+      661 accatcgaag tgaagaaggg gtggaaagaa ggaaccaaaa tcactttccc caaggaagga
+      721 gaccagacct ccaacaacat tccagctgat atcgtctttg ttttaaagga caagccccac
+      781 aatatcttta agagagatgg ctctgatgtc atttatcctg ccaggatcag cctccgggag
+      841 gctctgtgtg gctgcacagt gaacgtcccc actctggacg gcaggacgat acccgtcgta
+      901 ttcaaagatg ttatcaggcc tggcatgcgg cgaaaagttc ctggagaagg cctccccctc
+      961 cccaaaacac ccgagaaacg tggggacctc attattgagt ttgaagtgat cttccccgaa
+     1021 aggattcccc agacatcaag aaccgtactt gagcaggttc ttccaatata gctatctgag
+     1081 ctccccaagg actgaccagg gacctttcca gagctcaagg atttctggac ctttctacca
+     1141 gttgtggacc atgagagggt gggagggccc agggagggct ttcgtactgc tgaatgtttt
+     1201 ccagagcata tattacaatc tttcaaagtc gcacactaga cttcagtggt ttttcgagct
+     1261 atagggcatc aggtggtggg aacagcagga aaaggcattc cagtctgccc cactgggtct
+     1321 ggcagccctc ccgggatggg cccacatcca cctccagtcc ctggccaggg gtgagaggca
+     1381 gaccagcaga tggacttgat ccctctgtgt ctttttgctt ctggctggta gataatgtca
+     1441 acctgcagtc ttgattccca gaccctgtac actcctcctt ttctgttgtg tgatcagttt
+     1501 gtgctttatt ctgtatttgt ctcccatgtc ttgctcttct cctggagaat tctgtcttct
+     1561 ctttggccat ctcaaattga gaacctaaac tattcctgca gaactgcctg gttggcgtcc
+     1621 acaagcaata cctctcgttc cagcaggacc aagggagcca gcctccagtg agtgactcca
+     1681 gcaagtgcag ccacctctcc cttgatggtc tgggagcctg gcctcagcaa ggggccttcc
+     1741 tgacctctgg ctccagtgaa gctgaatgtc ctcactttgt gggtcacact ctttacattt
+     1801 ctgtaaggca atcttggcac acgtggggct taccagtggc ccaggtaatt ttttgtttca
+     1861 tggactatgg actctttcaa agggatctga tccttttgaa ttttgcacag ccctagatac
+     1921 aatccctttt gataaaaggg tctttgcttc tgattacagg agcactgtgg aacgtctgta
+     1981 aatatgtttt tataattcca tgtatagttg gtgtacactc aaaacctgtc cccggcagcc
+     2041 agtgctctct gtatagggcc ataatggaat tctgaagaaa tcttggggag ggaaggggag
+     2101 ttggaacaaa tgtctgttcc ctggaggcca gtccagtgct cagaccttta gactcattgt
+     2161 aagttgccac tgccaacatg agaccaaagt gtgtgactag tcaatgaagt gcgacagcat
+     2221 taaagactga tgctaaacct ca
+//

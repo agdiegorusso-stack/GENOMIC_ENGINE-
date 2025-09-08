@@ -1,0 +1,533 @@
+LOCUS       NM_022552               9421 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens DNA methyltransferase 3 alpha (DNMT3A), transcript
+            variant 3, mRNA.
+ACCESSION   NM_022552
+VERSION     NM_022552.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9421)
+  AUTHORS   Zhao,Y., Zheng,Y., Fu,J., Zhang,J., Shao,H., Liu,S., Lai,J.,
+            Zhou,X., Liang,R., Jia,L., Cui,W., Yang,J., Wu,C. and Wang,L.
+  TITLE     KDM1A, a potent and selective target, for the treatment of
+            DNMT3A-deficient non-small cell lung cancer
+  JOURNAL   Br J Cancer 131 (4), 655-667 (2024)
+   PUBMED   38951697
+  REMARK    GeneRIF: KDM1A, a potent and selective target, for the treatment of
+            DNMT3A-deficient non-small cell lung cancer.
+REFERENCE   2  (bases 1 to 9421)
+  AUTHORS   Gretarsson,K.H., Abini-Agbomson,S., Gloor,S.L., Weinberg,D.N.,
+            McCuiston,J.L., Kumary,V.U.S., Hickman,A.R., Sahu,V., Lee,R., Xu,X.,
+            Lipieta,N., Flashner,S., Adeleke,O.A., Popova,I.K., Taylor,H.F.,
+            Noll,K., Windham,C.L., Maryanski,D.N., Venters,B.J., Nakagawa,H.,
+            Keogh,M.C., Armache,K.J. and Lu,C.
+  TITLE     Cancer-associated DNA hypermethylation of Polycomb targets requires
+            DNMT3A dual recognition of histone H2AK119 ubiquitination and the
+            nucleosome acidic patch
+  JOURNAL   Sci Adv 10 (35), eadp0975 (2024)
+   PUBMED   39196936
+  REMARK    GeneRIF: Cancer-associated DNA hypermethylation of Polycomb targets
+            requires DNMT3A dual recognition of histone H2AK119 ubiquitination
+            and the nucleosome acidic patch.
+REFERENCE   3  (bases 1 to 9421)
+  AUTHORS   Zhou,J., Wu,T. and Liu,W.
+  TITLE     [Research progress on DNMT3A gene expression in Acute myeloid
+            leukemia]
+  JOURNAL   Zhonghua Yi Xue Yi Chuan Xue Za Zhi 41 (8), 1010-1015 (2024)
+   PUBMED   39097288
+  REMARK    GeneRIF: [Research progress on DNMT3A gene expression in Acute
+            myeloid leukemia]. Review article
+REFERENCE   4  (bases 1 to 9421)
+  AUTHORS   Zebrauskiene,D., Sadauskiene,E., Dapkunas,J., Kairys,V.,
+            Balciunas,J., Konovalovas,A., Masiuliene,R., Petraityte,G.,
+            Valeviciene,N., Mataciunas,M., Barysiene,J., Mikstiene,V.,
+            Tomkuviene,M. and Preiksaitiene,E.
+  TITLE     Aortic disease and cardiomyopathy in patients with a novel DNMT3A
+            gene variant causing Tatton-Brown-Rahman syndrome
+  JOURNAL   Clin Epigenetics 16 (1), 76 (2024)
+   PUBMED   38845031
+  REMARK    GeneRIF: Aortic disease and cardiomyopathy in patients with a novel
+            DNMT3A gene variant causing Tatton-Brown-Rahman syndrome.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 9421)
+  AUTHORS   Wang,M., Zhao,H.Y., Li,D.Q. and Chen,P.
+  TITLE     [Relationship between DTA Mutations and Thromboembolism in Patients
+            with Myeloproliferative Neoplasms]
+  JOURNAL   Zhongguo Shi Yan Xue Ye Xue Za Zhi 32 (3), 819-824 (2024)
+   PUBMED   38926973
+  REMARK    GeneRIF: [Relationship between DTA Mutations and Thromboembolism in
+            Patients with Myeloproliferative Neoplasms].
+REFERENCE   6  (bases 1 to 9421)
+  AUTHORS   Fuks,F., Burgers,W.A., Godin,N., Kasai,M. and Kouzarides,T.
+  TITLE     Dnmt3a binds deacetylases and is recruited by a sequence-specific
+            repressor to silence transcription
+  JOURNAL   EMBO J 20 (10), 2536-2544 (2001)
+   PUBMED   11350943
+REFERENCE   7  (bases 1 to 9421)
+  AUTHORS   Xie,S., Wang,Z., Okano,M., Nogami,M., Li,Y., He,W.W., Okumura,K. and
+            Li,E.
+  TITLE     Cloning, expression and chromosome locations of the human DNMT3 gene
+            family
+  JOURNAL   Gene 236 (1), 87-95 (1999)
+   PUBMED   10433969
+REFERENCE   8  (bases 1 to 9421)
+  AUTHORS   Robertson,K.D., Uzvolgyi,E., Liang,G., Talmadge,C., Sumegi,J.,
+            Gonzales,F.A. and Jones,P.A.
+  TITLE     The human DNA methyltransferases (DNMTs) 1, 3a and 3b: coordinate
+            mRNA expression in normal tissues and overexpression in tumors
+  JOURNAL   Nucleic Acids Res 27 (11), 2291-2298 (1999)
+   PUBMED   10325416
+REFERENCE   9  (bases 1 to 9421)
+  AUTHORS   Okano,M., Xie,S. and Li,E.
+  TITLE     Cloning and characterization of a family of novel mammalian DNA
+            (cytosine-5) methyltransferases
+  JOURNAL   Nat Genet 19 (3), 219-220 (1998)
+   PUBMED   9662389
+REFERENCE   10  (bases 1 to 9421)
+  AUTHORS   Ostrowski,P.J. and Tatton-Brown,K.
+  TITLE     Tatton-Brown-Rahman Syndrome
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   35771960
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC043617.1, AF067972.2 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000321117.10/ ENSP00000324375.5
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            expression, longest protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC012074.9.
+            On Feb 25, 2020 this sequence version replaced NM_022552.4.
+            Summary: CpG methylation is an epigenetic modification that is
+            important for embryonic development, imprinting, and X-chromosome
+            inactivation. Studies in mice have demonstrated that DNA
+            methylation is required for mammalian development. This gene
+            encodes a DNA methyltransferase that is thought to function in de
+            novo methylation, rather than maintenance methylation. The protein
+            localizes to the cytoplasm and nucleus and its expression is
+            developmentally regulated. [provided by RefSeq, Mar 2016].
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..9421
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2p23.3"
+     gene            1..9421
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="DNA methyltransferase 3 alpha"
+                     /db_xref="GeneID:1788"
+                     /db_xref="HGNC:HGNC:2978"
+                     /db_xref="MIM:602769"
+     exon            1..100
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            101..349
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    185..187
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="upstream in-frame stop codon"
+     CDS             278..3016
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /EC_number="2.1.1.37"
+                     /note="isoform a is encoded by transcript variant 3; DNA
+                     MTase HsaIIIA; DNA cytosine methyltransferase 3A2; DNA
+                     (cytosine-5-)-methyltransferase 3 alpha; DNA
+                     (cytosine-5)-methyltransferase 3A; cysteine
+                     methyltransferase DNMT3A"
+                     /codon_start=1
+                     /product="DNA (cytosine-5)-methyltransferase 3A isoform a"
+                     /protein_id="NP_072046.2"
+                     /db_xref="CCDS:CCDS33157.1"
+                     /db_xref="GeneID:1788"
+                     /db_xref="HGNC:HGNC:2978"
+                     /db_xref="MIM:602769"
+                     /translation="MPAMPSSGPGDTSSSAAEREEDRKDGEEQEEPRGKEERQEPSTTA
+                     RKVGRPGRKRKHPPVESGDTPKDPAVISKSPSMAQDSGASELLPNGDLEKRSEPQPEEG
+                     SPAGGQKGGAPAEGEGAAETLPEASRAVENGCCTPKEGRGAPAEAGKEQKETNIESMKM
+                     EGSRGRLRGGLGWESSLRQRPMPRLTFQAGDPYYISKRKRDEWLARWKREAEKKAKVIA
+                     GMNAVEENQGPGESQKVEEASPPAVQQPTDPASPTVATTPEPVGSDAGDKNATKAGDDE
+                     PEYEDGRGFGIGELVWGKLRGFSWWPGRIVSWWMTGRSRAAEGTRWVMWFGDGKFSVVC
+                     VEKLMPLSSFCSAFHQATYNKQPMYRKAIYEVLQVASSRAGKLFPVCHDSDESDTAKAV
+                     EVQNKPMIEWALGGFQPSGPKGLEPPEEEKNPYKEVYTDMWVEPEAAAYAPPPPAKKPR
+                     KSTAEKPKVKEIIDERTRERLVYEVRQKCRNIEDICISCGSLNVTLEHPLFVGGMCQNC
+                     KNCFLECAYQYDDDGYQSYCTICCGGREVLMCGNNNCCRCFCVECVDLLVGPGAAQAAI
+                     KEDPWNCYMCGHKGTYGLLRRREDWPSRLQMFFANNHDQEFDPPKVYPPVPAEKRKPIR
+                     VLSLFDGIATGLLVLKDLGIQVDRYIASEVCEDSITVGMVRHQGKIMYVGDVRSVTQKH
+                     IQEWGPFDLVIGGSPCNDLSIVNPARKGLYEGTGRLFFEFYRLLHDARPKEGDDRPFFW
+                     LFENVVAMGVSDKRDISRFLESNPVMIDAKEVSAAHRARYFWGNLPGMNRPLASTVNDK
+                     LELQECLEHGRIAKFSKVRTITTRSNSIKQGKDQHFPVFMNEKEDILWCTEMERVFGFP
+                     VHYTDVSNMSRLARQRLLGRSWSVPVIRHLFAPLKEYFACV"
+     misc_feature    278..811
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y6K1.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    590..592
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    647..649
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:Q1LZ53; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    788..790
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:O88508; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); methylation site"
+     misc_feature    872..1486
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y6K1.4);
+                     Region: Interaction with DNMT1 and DNMT3B.
+                     /evidence=ECO:0000269|PubMed:12145218"
+     misc_feature    938..1135
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y6K1.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1004..1006
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    1040..1042
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    1058..1060
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    1076..1078
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    1445..1447
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O88508; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    1454..1456
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O88508; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); phosphorylation site"
+     misc_feature    1616..1675
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y6K1.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1757..2035
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9Y6K1.4);
+                     Region: Interaction with the PRC2/EED-EZH2 complex.
+                     /evidence=ECO:0000250|UniProtKB:O88508"
+     misc_feature    2405..2407
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="S-methylcysteine, by autocatalysis.
+                     /evidence=ECO:0000250|UniProtKB:O88508; propagated from
+                     UniProtKB/Swiss-Prot (Q9Y6K1.4); methylation site"
+     exon            350..454
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            455..725
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            726..769
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            770..916
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            917..1132
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1133..1291
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1292..1399
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1400..1556
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1557..1706
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1707..1751
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1752..1831
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1832..1944
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1945..2128
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2129..2213
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2214..2359
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2360..2450
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2451..2599
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2600..2685
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2686..2755
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2756..2874
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2875..9421
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4297..4302
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="hexamer: AATAAA"
+     polyA_site      4319
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="major polyA site"
+     regulatory      9389..9394
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="hexamer: AATAAA"
+     polyA_site      9421
+                     /gene="DNMT3A"
+                     /gene_synonym="DNMT3A2; HESJAS; M.HsaIIIA; TBRS"
+                     /note="major polyA site"
+ORIGIN
+        1 gcgcgggcgg cggcggcggc gagagcagag gacgagccgg gacgcggcgc cgcggcacca
+       61 gggcgcgcag ccgggccggc ccgaccccac cggccatacg gtggagccat cgaagccccc
+      121 acccacaggc tgacagaggc accgttcacc agagggctca acaccgggat ctatgtttaa
+      181 gttttaactc tcgcctccaa agaccacgat aattccttcc ccaaagccca gcagcccccc
+      241 agccccgcgc agccccagcc tgcctcccgg cgcccagatg cccgccatgc cctccagcgg
+      301 ccccggggac accagcagct ctgctgcgga gcgggaggag gaccgaaagg acggagagga
+      361 gcaggaggag ccgcgtggca aggaggagcg ccaagagccc agcaccacgg cacggaaggt
+      421 ggggcggcct gggaggaagc gcaagcaccc cccggtggaa agcggtgaca cgccaaagga
+      481 ccctgcggtg atctccaagt ccccatccat ggcccaggac tcaggcgcct cagagctatt
+      541 acccaatggg gacttggaga agcggagtga gccccagcca gaggagggga gccctgctgg
+      601 ggggcagaag ggcggggccc cagcagaggg agagggtgca gctgagaccc tgcctgaagc
+      661 ctcaagagca gtggaaaatg gctgctgcac ccccaaggag ggccgaggag cccctgcaga
+      721 agcgggcaaa gaacagaagg agaccaacat cgaatccatg aaaatggagg gctcccgggg
+      781 ccggctgcgg ggtggcttgg gctgggagtc cagcctccgt cagcggccca tgccgaggct
+      841 caccttccag gcgggggacc cctactacat cagcaagcgc aagcgggacg agtggctggc
+      901 acgctggaaa agggaggctg agaagaaagc caaggtcatt gcaggaatga atgctgtgga
+      961 agaaaaccag gggcccgggg agtctcagaa ggtggaggag gccagccctc ctgctgtgca
+     1021 gcagcccact gaccccgcat cccccactgt ggctaccacg cctgagcccg tggggtccga
+     1081 tgctggggac aagaatgcca ccaaagcagg cgatgacgag ccagagtacg aggacggccg
+     1141 gggctttggc attggggagc tggtgtgggg gaaactgcgg ggcttctcct ggtggccagg
+     1201 ccgcattgtg tcttggtgga tgacgggccg gagccgagca gctgaaggca cccgctgggt
+     1261 catgtggttc ggagacggca aattctcagt ggtgtgtgtt gagaagctga tgccgctgag
+     1321 ctcgttttgc agtgcgttcc accaggccac gtacaacaag cagcccatgt accgcaaagc
+     1381 catctacgag gtcctgcagg tggccagcag ccgcgcgggg aagctgttcc cggtgtgcca
+     1441 cgacagcgat gagagtgaca ctgccaaggc cgtggaggtg cagaacaagc ccatgattga
+     1501 atgggccctg gggggcttcc agccttctgg ccctaagggc ctggagccac cagaagaaga
+     1561 gaagaatccc tacaaagaag tgtacacgga catgtgggtg gaacctgagg cagctgccta
+     1621 cgcaccacct ccaccagcca aaaagccccg gaagagcaca gcggagaagc ccaaggtcaa
+     1681 ggagattatt gatgagcgca caagagagcg gctggtgtac gaggtgcggc agaagtgccg
+     1741 gaacattgag gacatctgca tctcctgtgg gagcctcaat gttaccctgg aacaccccct
+     1801 cttcgttgga ggaatgtgcc aaaactgcaa gaactgcttt ctggagtgtg cgtaccagta
+     1861 cgacgacgac ggctaccagt cctactgcac catctgctgt gggggccgtg aggtgctcat
+     1921 gtgcggaaac aacaactgct gcaggtgctt ttgcgtggag tgtgtggacc tcttggtggg
+     1981 gccgggggct gcccaggcag ccattaagga agacccctgg aactgctaca tgtgcgggca
+     2041 caagggtacc tacgggctgc tgcggcggcg agaggactgg ccctcccggc tccagatgtt
+     2101 cttcgctaat aaccacgacc aggaatttga ccctccaaag gtttacccac ctgtcccagc
+     2161 tgagaagagg aagcccatcc gggtgctgtc tctctttgat ggaatcgcta cagggctcct
+     2221 ggtgctgaag gacttgggca ttcaggtgga ccgctacatt gcctcggagg tgtgtgagga
+     2281 ctccatcacg gtgggcatgg tgcggcacca ggggaagatc atgtacgtcg gggacgtccg
+     2341 cagcgtcaca cagaagcata tccaggagtg gggcccattc gatctggtga ttgggggcag
+     2401 tccctgcaat gacctctcca tcgtcaaccc tgctcgcaag ggcctctacg agggcactgg
+     2461 ccggctcttc tttgagttct accgcctcct gcatgatgcg cggcccaagg agggagatga
+     2521 tcgccccttc ttctggctct ttgagaatgt ggtggccatg ggcgttagtg acaagaggga
+     2581 catctcgcga tttctcgagt ccaaccctgt gatgattgat gccaaagaag tgtcagctgc
+     2641 acacagggcc cgctacttct ggggtaacct tcccggtatg aacaggccgt tggcatccac
+     2701 tgtgaatgat aagctggagc tgcaggagtg tctggagcat ggcaggatag ccaagttcag
+     2761 caaagtgagg accattacta cgaggtcaaa ctccataaag cagggcaaag accagcattt
+     2821 tcctgtcttc atgaatgaga aagaggacat cttatggtgc actgaaatgg aaagggtatt
+     2881 tggtttccca gtccactata ctgacgtctc caacatgagc cgcttggcga ggcagagact
+     2941 gctgggccgg tcatggagcg tgccagtcat ccgccacctc ttcgctccgc tgaaggagta
+     3001 ttttgcgtgt gtgtaaggga catgggggca aactgaggta gcgacacaaa gttaaacaaa
+     3061 caaacaaaaa acacaaaaca taataaaaca ccaagaacat gaggatggag agaagtatca
+     3121 gcacccagaa gagaaaaagg aatttaaaac aaaaaccaca gaggcggaaa taccggaggg
+     3181 ctttgccttg cgaaaagggt tggacatcat ctcctgattt ttcaatgtta ttcttcagtc
+     3241 ctatttaaaa acaaaaccaa gctcccttcc cttcctcccc cttccctttt ttttcggtca
+     3301 gaccttttat tttctactct tttcagaggg gttttctgtt tgtttgggtt ttgtttcttg
+     3361 ctgtgactga aacaagaagg ttattgcagc aaaaatcagt aacaaaaaat agtaacaata
+     3421 ccttgcagag gaaaggtggg agagaggaaa aaaggaaatt ctatagaaat ctatatattg
+     3481 ggttgttttt ttttttgttt tttgtttttt ttttttgggt tttttttttt actatatatc
+     3541 ttttttttgt tgtctctagc ctgatcagat aggagcacaa gcaggggacg gaaagagaga
+     3601 gacactcagg cggcagcatt ccctcccagc cactgagctg tcgtgccagc accattcctg
+     3661 gtcacgcaaa acagaaccca gttagcagca gggagacgag aacaccacac aagacatttt
+     3721 tctacagtat ttcaggtgcc taccacacag gaaaccttga agaaaatcag tttctagaag
+     3781 ccgctgttac ctcttgttta cagtttatat atatatgata gatatgagat atatatataa
+     3841 aaggtactgt taactactgt acaacccgac ttcataatgg tgctttcaaa cagcgagatg
+     3901 agtaaaaaca tcagcttcca cgttgccttc tgcgcaaagg gtttcaccaa ggatggagaa
+     3961 agggagacag cttgcagatg gcgcgttctc acggtgggct cttccccttg gtttgtaacg
+     4021 aagtgaagga ggagaacttg ggagccaggt tctccctgcc aaaaaggggg ctagatgagg
+     4081 tggtcgggcc cgtggacagc tgagagtggg attcatccag actcatgcaa taaccctttg
+     4141 attgttttct aaaaggagac tccctcggca agatggcaga gggtacggag tcttcaggcc
+     4201 cagtttctca ctttagccaa ttcgagggct ccttgtggtg ggatcagaac taatccagag
+     4261 tgtgggaaag tgacagtcaa aaccccacct ggagcaaata aaaaaacata caaaacgtac
+     4321 tggtgctttc ctgtctaagt cgccttttgt gtgttctttt atgaggcccc caccatccac
+     4381 ccctctgtgc acaaggcggc tcccggcccc tggaatgtga tgtttttggt catctccaaa
+     4441 ggctgcagtt ttatactggg aggctgatga caccttttat tataattatt cttatggttc
+     4501 tggttataat tatgtttgtt ttaagatttt ctttaagaaa acaaaaaccc aacacccttc
+     4561 cctttaggtt tcaaaccaag gtgcgggagc agggtgcttc tgagttagcg gtggctctgg
+     4621 tgccctggct cccacccctc gggccaggtg ggccactggg catggtgaca gctgggcggc
+     4681 cagggagtcc ccaaggtctg ccttctgggc ttgtcactct tctcttctac ttcccctcct
+     4741 cttgagtcgg gtgtgtcagg gctggaggga ggaccggccg tctctctcct tgtgtgtgtg
+     4801 attggagtgg tgtgtatttc ttttctagta cttggtctga tgatagctgt gctcttacct
+     4861 cgagtcagca gcacctggag ccccaagtgc tcaacacttt gttctacttc ctacaaggca
+     4921 ggcggcctgg cgtcagtagt aggaagggat ggcattgttg gctccagggt gagggcccga
+     4981 cgggcaggtg cttgcctggg tagatggggt gtagatatgt ggcatataga gatatatatt
+     5041 ttataatggg aggggggatg gcacctcctg ggactggtag agctgggagg tgtgtcggca
+     5101 agcacatggc cccaagtcca cgtccctaga aagatggggc ctacagtgat aggcgctcta
+     5161 taaatacata gatagggtca tgtttaagaa atattatggg gtggggagtg ggggaagcag
+     5221 gcttagtgtg ctgagcctcg gtccccactg cagacctaaa ccccacacca atcagtcaat
+     5281 ctcacacgca tacacaggag catatttctg tactgatgca taatgaatgc actcacacac
+     5341 acacacacac gccagggggc tcccagcact cttctcccag ggttcaggac tttgtggagt
+     5401 cagcccgtgc agctatttac ctctgttgcc ctgattgcag gtagactgtc aatcccagaa
+     5461 gttgctaggt gctgaggcag gaaaaggagg aggtttcttt tagcaggtgc tctcctctag
+     5521 caggtagtgt tctatctctt ttgcccctgg tgatgtcaaa agattcttct gttagcaacc
+     5581 tgtgatactg acctgcaact ctaggcacca gtcaagtcag ccctcaactc cccctaccta
+     5641 ttctccccaa ctgaaatcaa attgacatcc aggtctgtct tggccagggg gcttccattg
+     5701 gggaaaaaaa atgggacagt gaacctcacc tattgaataa accaaattag taattagtga
+     5761 caaaaccaaa ccaaggcttt ggaccccctg ctcattactc aggagtaaat tcacacagct
+     5821 ggtggccggt ctcacccctt tttggggtgc ttggtcctgg accccaatct actgtctcct
+     5881 cgacagattg gtgtttaaga tcatgcccag ttgcttcctg tcacctcttg acaggtggtg
+     5941 actgggctgc tgtggggctg gagcagcgag gaagggagcc tctgccccct cagtggagtc
+     6001 cctgtgctaa ctgtggtgct cacccagctc ctccttgctc ccgcggggct ctgtccttcg
+     6061 ggcctggagt ccaccagcgc cactccagga gggctggggg aggaggggct gcctcaggca
+     6121 gtccaaggtg ctccctcccc cgctggccaa tgctaaggtc ttcccggctc ccagggtcag
+     6181 gacagagtct tctaaggctc aggctctccc aagccactgc ttagtgacag ttagcctttc
+     6241 ccagcggccc aagctccacc ggaactgggc ctggtgctcc aaccaaaggg ttggtgttgg
+     6301 gacttgggaa gagacttggt agccaagggc atggcaagcc tgggggattc ctgtgggccg
+     6361 gcttgctcga ggagggagtg ctgggcacag aggagccctt atggctgaca gcttgagagc
+     6421 acttgttcct ccagatctag ccacttgacc aggccctaga atggaccaga tgccccaggg
+     6481 gtcatggccc cccccccccc ccccttgcag ggacgagagt taacaatcac cagcttttct
+     6541 tccggcccag cctgtgtgct tggtctcaca gtagaattta ggagagtgtg gggctttggg
+     6601 attgtgccaa cttggccaag ctgagatatg cttaatccac ctcaacgctg gggcctctgg
+     6661 ggacaggtat tgggtcacct tccaaggggt gctgaacttc agcaggctgt agataaggca
+     6721 gaggttagag gcagtggagt gggggaacca agaaggccta gggaaaattg ccaggcatat
+     6781 tccctgtgga attttctttc cgaagagtag gcccatttcc cccttagaaa caagggttct
+     6841 gggggctgat gacagcttcc cctgcaggtg ccaggtggcg catgatgcca aagagatccg
+     6901 tggctcttgc ctgggggagg tagccaggtg ctcgtgctgg ggacacagtc cttggcctcc
+     6961 tgcctaagca ggaagctagt ttccagcagg cggctggtac taaccccccg ccccacggga
+     7021 gcgacaggct ggtgcaccgg cagactgggg ggccgcaggc gggcactagc aggggtctgc
+     7081 agtccataga tgatgacatg aatctgttgc tgtccttttg tctctaggcc ccagagactt
+     7141 cttgctattg aacatcctat tggaaagcaa actttccaag agagcacccg ggacctgtta
+     7201 gcttttgaaa caggcctggg tgtgattgac tggtagagat gcctgtgtga tttttggcgc
+     7261 attgcaggag tgtggattgg gacaggcacc ccagcaggaa ggaaggctga caccaaaggg
+     7321 gtctcacagg gcccagctcc ccttgcttcc cgataattgg ccaccaggcc atggcgactc
+     7381 tggggaagcc tagatgggaa cacccacctt ctccagcagt agaaggaata tttcagcaga
+     7441 gccatctggg agatgttctt ataggaaaac tgcagtcatt catttcatag ttttgcttat
+     7501 ataaatagag tacatttggg aggcagtttt gaattcctgt tgctactctg cttggtgcgg
+     7561 agttgcagtg gccccaagtg tctttcagag ctgttgcttt taggatcccc ctcaagctgt
+     7621 gggttagggc cagggcaggg agggggtgct gcctggcact gtgccctgaa gagggctgct
+     7681 tgcttccttt ggtcgggagc acggcagagc caacattctg gtgggaaccg agtttctagc
+     7741 caggcccctg ttttggtccc gggaggtgag taatctgagt ttgtcattgc gtattctcca
+     7801 cgctgcctgc tctcagtgct ggagactaga gagcgaccct ggagttgtcc tctgggagtc
+     7861 ctgcctgttt gccagggagc agctgaaacc tccccgctcc caatcccggg ggtggaaaag
+     7921 gtgtagtgga ggaatggtct ggagctggga tggcccttct ggccatgccc tgctgagcca
+     7981 ggattaagga aagtgtcagc cgcctcctta ccaggccctg tgctggggtc aggaggaccg
+     8041 ggaggagagg gaaggggtga gaggatggac tctgctgttg tagtgtgagc tctggaatct
+     8101 ttacgttttg gtaaaggcag gccagggtct ttgaggatcg agttggggaa ccttgcctct
+     8161 gtgtttccga gacccagcta aggtgggcct ttggtgggtg acctgtctct gacccgaggc
+     8221 agcagagttt tgggggaggg agaaacaagc aaggagcagg gaggacaagg acacaagatc
+     8281 cctttgctgg tggtgactta ctcacttccc ccaccagagg gcctgggact cccgaaactc
+     8341 ccgtaactgg aaagctccct ggctcagctc cactgggggg tgaggagggc ggctccctca
+     8401 gccccagcct agcggcctcc aaccctgtgc ctgagaacat gagcagcggt ctaaagcatc
+     8461 ccctagtccc atttcacttc acagaccgat ttggttgcac agccctagaa ttcaacagac
+     8521 aacaaaaatg ctgaaattcc ttagaatacg cagagggagg aggtgactca ccaaggtgct
+     8581 aaaacatttt attaaaaata tatattgtta aattaagtct gctgtctgga caatgactgt
+     8641 ttgttttgtt ttcttgtagt ggagtttaaa agagactatt attttactct gatatattat
+     8701 tattaaaaag gcattttaac tttgtacttg aaaactaaat gagcgatttc atgtgtttta
+     8761 gctgaggcat tgaagtagcg ggtgcttact tatttgtggg aaatcatgta ttcatactga
+     8821 agaataaact ccgtagctga tttggtaata acttttactg ttacagacga tttcgctttg
+     8881 accccggtgg cagagcactt ttactccaca ttccacgcag ctaaatgcag gacttcccag
+     8941 actcttccct ccccagccct ctttcctttc tcttaagttc ctcttttctc ctttattatt
+     9001 attatttttt tttcctggtt ccagcatcct ttcaccactg tatttttttt tttttttttt
+     9061 tttttttttt tttttttttt tttttttttt ttttagggtt gcttctctat ttattgacaa
+     9121 taataatgta catttcacag tctggttcta ggacattcag ggaagggcga gtgggggccc
+     9181 gaggggtccc tgccccaccc gcctggtgtc ctgttgtatc tctgtgtaag tgatgctcgt
+     9241 gacatagctg tttatgaaat aattaaagag gtcaatgcgt acaacagatg tagaaagtct
+     9301 gtcagttccg ccttcatcac attttttttt gtgcccagaa gaatataata aagctccttt
+     9361 ctaatgtact tgtgctggag aacacttgaa taaatggact gtttttgtgc aaaaagaaaa
+     9421 a
+//

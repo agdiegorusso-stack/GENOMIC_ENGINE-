@@ -1,0 +1,186 @@
+MUTATION ANALYSIS REPORT: GATA1
+Generated: 2025-09-07 02:30:36
+================================================================================
+
+SUMMARY STATISTICS
+----------------------------------------
+Total mutations analyzed: 1620
+Unique positions: 540
+
+Mutation types:
+  missense: 1127 (69.6%)
+  synonymous: 430 (26.5%)
+  nonsense: 54 (3.3%)
+  start_lost: 9 (0.6%)
+
+
+HIGH IMPACT MUTATIONS
+----------------------------------------
+
+GATA1:c.1A>T
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.1A>G
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.1A>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.2T>A
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.2T>G
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.2T>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.3G>A
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.3G>T
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.3G>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.4G>T
+  Type: nonsense
+  AA change: p.Glu2*
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.5A>T
+  Type: missense
+  AA change: p.Glu2Val
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.5A>G
+  Type: missense
+  AA change: p.Glu2Gly
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.5A>C
+  Type: missense
+  AA change: p.Glu2Ala
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.8T>A
+  Type: missense
+  AA change: p.Phe3Tyr
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.8T>C
+  Type: missense
+  AA change: p.Phe3Ser
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.11C>T
+  Type: missense
+  AA change: p.Pro4Leu
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.11C>G
+  Type: missense
+  AA change: p.Pro4Arg
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.13G>C
+  Type: missense
+  AA change: p.Gly5Arg
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.14G>A
+  Type: missense
+  AA change: p.Gly5Asp
+  Pathogenicity score: 1.000
+  Functional region: none
+
+GATA1:c.14G>T
+  Type: missense
+  AA change: p.Gly5Val
+  Pathogenicity score: 1.000
+  Functional region: none
+
+
+CRITICAL REGIONS ANALYSIS
+----------------------------------------
+
+
+MUTATION HOTSPOTS
+----------------------------------------
+
+Codon 1:
+  Mutations: 9.0
+  Avg pathogenicity: 1.000
+
+Codon 64:
+  Mutations: 9.0
+  Avg pathogenicity: 0.667
+
+Codon 70:
+  Mutations: 9.0
+  Avg pathogenicity: 0.667
+
+Codon 51:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 83:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 96:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 110:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 113:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 126:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 129:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556

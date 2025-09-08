@@ -1,0 +1,235 @@
+LOCUS       NM_000375               1336 bp    mRNA    linear   PRI 05-MAY-2025
+DEFINITION  Homo sapiens uroporphyrinogen III synthase (UROS), transcript
+            variant 2, mRNA.
+ACCESSION   NM_000375
+VERSION     NM_000375.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1336)
+  AUTHORS   Weiss,Y., Balwani,M., Chen,B., Yasuda,M., Nazarenko,I. and
+            Desnick,R.J.
+  TITLE     Congenital erythropoietic porphyria and erythropoietic
+            protoporphyria: Identification of 7 uroporphyrinogen III synthase
+            and 20 ferrochelatase novel mutations
+  JOURNAL   Mol Genet Metab 128 (3), 358-362 (2019)
+   PUBMED   30454868
+  REMARK    GeneRIF: These results expand the molecular heterogeneity of the
+            erythropoietic porphyrias by adding a total of 7 novel mutations in
+            uroporphyrinogen III synthase.
+REFERENCE   2  (bases 1 to 1336)
+  AUTHORS   Blouin,J.M., Bernardo-Seisdedos,G., Sasso,E., Esteve,J., Ged,C.,
+            Lalanne,M., Sanz-Parra,A., Urquiza,P., de Verneuil,H., Millet,O. and
+            Richard,E.
+  TITLE     Missense UROS mutations causing congenital erythropoietic porphyria
+            reduce UROS homeostasis that can be rescued by proteasome inhibition
+  JOURNAL   Hum Mol Genet 26 (8), 1565-1576 (2017)
+   PUBMED   28334762
+  REMARK    GeneRIF: we show evidence that abnormal protein homeostasis is a
+            prevalent mechanism responsible for UROS deficiency and that
+            modulators of UROS proteolysis such as proteasome inhibitors or
+            chemical chaperones may represent an attractive therapeutic option
+            to reduce porphyrin accumulation and prevent skin photosensitivity
+            in Congenital erythropoietic porphyria (CEP)patients when the
+            genotype includes a missense variant.
+REFERENCE   3  (bases 1 to 1336)
+  AUTHORS   Yang,X., Coulombe-Huntington,J., Kang,S., Sheynkman,G.M., Hao,T.,
+            Richardson,A., Sun,S., Yang,F., Shen,Y.A., Murray,R.R., Spirohn,K.,
+            Begg,B.E., Duran-Frigola,M., MacWilliams,A., Pevzner,S.J., Zhong,Q.,
+            Wanamaker,S.A., Tam,S., Ghamsari,L., Sahni,N., Yi,S.,
+            Rodriguez,M.D., Balcha,D., Tan,G., Costanzo,M., Andrews,B.,
+            Boone,C., Zhou,X.J., Salehi-Ashtiani,K., Charloteaux,B., Chen,A.A.,
+            Calderwood,M.A., Aloy,P., Roth,F.P., Hill,D.E., Iakoucheva,L.M.,
+            Xia,Y. and Vidal,M.
+  TITLE     Widespread Expansion of Protein Interaction Capabilities by
+            Alternative Splicing
+  JOURNAL   Cell 164 (4), 805-817 (2016)
+   PUBMED   26871637
+REFERENCE   4  (bases 1 to 1336)
+  AUTHORS   Moghbeli,M., Maleknejad,M., Arabi,A. and Abbaszadegan,M.R.
+  TITLE     Mutational analysis of uroporphyrinogen III cosynthase gene in
+            Iranian families with congenital erythropoietic porphyria
+  JOURNAL   Mol Biol Rep 39 (6), 6731-6735 (2012)
+   PUBMED   22350154
+  REMARK    GeneRIF: A, T to C change at nucleotide 34313, leading to a
+            substitution of Leucine by Proline at codon 237, was observed in the
+            homozygous state in a family with congenital erythropoietic
+            porphyria.
+REFERENCE   5  (bases 1 to 1336)
+  AUTHORS   Fortian,A., Castano,D., Gonzalez,E., Lain,A., Falcon-Perez,J.M. and
+            Millet,O.
+  TITLE     Structural, thermodynamic, and mechanistical studies in
+            uroporphyrinogen III synthase: molecular basis of congenital
+            erythropoietic porphyria
+  JOURNAL   Adv Protein Chem Struct Biol 83, 43-74 (2011)
+   PUBMED   21570665
+  REMARK    GeneRIF: REVIEW: Structural, thermodynamic, and mechanistical
+            studies in uroporphyrinogen III synthase and molecular basis of
+            congenital erythropoietic porphyria Review article
+REFERENCE   6  (bases 1 to 1336)
+  AUTHORS   Erwin,A., Balwani,M. and Desnick,R.J.
+  CONSRTM   Porphyrias Consortium of the NIH-Sponsored Rare Diseases Clinical
+            Research Network
+  TITLE     Congenital Erythropoietic Porphyria
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   24027798
+REFERENCE   7  (bases 1 to 1336)
+  AUTHORS   Warner,C.A., Yoo,H.W., Roberts,A.G. and Desnick,R.J.
+  TITLE     Congenital erythropoietic porphyria: identification and expression
+            of exonic mutations in the uroporphyrinogen III synthase gene
+  JOURNAL   J Clin Invest 89 (2), 693-700 (1992)
+   PUBMED   1737856
+REFERENCE   8  (bases 1 to 1336)
+  AUTHORS   Boulechfar,S., Da Silva,V., Deybach,J.C., Nordmann,Y., Grandchamp,B.
+            and de Verneuil,H.
+  TITLE     Heterogeneity of mutations in the uroporphyrinogen III synthase gene
+            in congenital erythropoietic porphyria
+  JOURNAL   Hum Genet 88 (3), 320-324 (1992)
+   PUBMED   1733834
+REFERENCE   9  (bases 1 to 1336)
+  AUTHORS   Astrin,K.H., Warner,C.A., Yoo,H.W., Goodfellow,P.J., Tsai,S.F. and
+            Desnick,R.J.
+  TITLE     Regional assignment of the human uroporphyrinogen III synthase
+            (UROS) gene to chromosome 10q25.2----q26.3
+  JOURNAL   Hum Genet 87 (1), 18-22 (1991)
+   PUBMED   2037278
+REFERENCE   10  (bases 1 to 1336)
+  AUTHORS   Deybach,J.C., de Verneuil,H., Boulechfar,S., Grandchamp,B. and
+            Nordmann,Y.
+  TITLE     Point mutations in the uroporphyrinogen III synthase gene in
+            congenital erythropoietic porphyria (Gunther's disease)
+  JOURNAL   Blood 75 (9), 1763-1765 (1990)
+   PUBMED   2331520
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR3476690.258208.1,
+            SRR7346977.336370.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000368797.10/ ENSP00000357787.4
+            RefSeq Select criteria      :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DR156879.1 and BC002573.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Oct 23, 2018 this sequence version replaced NM_000375.2.
+            Summary: The protein encoded by this gene catalyzes the fourth step
+            of porphyrin biosynthesis in the heme biosynthetic pathway. Defects
+            in this gene cause congenital erythropoietic porphyria (Gunther's
+            disease). [provided by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1336
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10q26.2"
+     gene            1..1336
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /note="uroporphyrinogen III synthase"
+                     /db_xref="GeneID:7390"
+                     /db_xref="HGNC:HGNC:12592"
+                     /db_xref="MIM:606938"
+     exon            1..230
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            231..319
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             257..1054
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /EC_number="4.2.1.75"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     uroporphyrinogen-III cosynthase; hydroxymethylbilane
+                     hydrolyase"
+                     /codon_start=1
+                     /product="uroporphyrinogen-III synthase isoform 2"
+                     /protein_id="NP_000366.1"
+                     /db_xref="CCDS:CCDS7648.1"
+                     /db_xref="GeneID:7390"
+                     /db_xref="HGNC:HGNC:12592"
+                     /db_xref="MIM:606938"
+                     /translation="MKVLLLKDAKEDDCGQDPYIRELGLYGLEATLIPVLSFEFLSLPS
+                     FSEKLSHPEDYGGLIFTSPRAVEAAELCLEQNNKTEVWERSLKEKWNAKSVYVVGNATA
+                     SLVSKIGLDTEGETCGNAEKLAEYICSRESSALPLLFPCGNLKREILPKALKDKGIAME
+                     SITVYQTVAHPGIQGNLNSYYSQQGVPASITFFSPSGLTYSLKHIQELSGDNIDQIKFA
+                     AIGPTTARALAAQGLPVSCTAESPTPQALATGIRKALQPHGCC"
+     exon            320..403
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            404..500
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            501..575
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            576..650
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            651..731
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            732..817
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            818..916
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            917..1336
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1313..1318
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /note="hexamer: AATAAA"
+     polyA_site      1336
+                     /gene="UROS"
+                     /gene_synonym="Mgu; UROIIIS"
+                     /note="major polyA site"
+ORIGIN
+        1 gcatgcgcga gcgcctagct gcgcgcagcc acccacgcga ccccagtctg aggtgcgggg
+       61 tcctggggcc cggcgcgggt ggccgccgcg gcccctcggg ctgcgtgggg agggggcttc
+      121 cgcccctgtt gtcattgctc ctgcagcctt ttcgctggga ctgcgcgaca ccgccccccg
+      181 accgggtgcc cgctgtgtgc caggccgggt gctgggcacg gtcccgcgag tgccctataa
+      241 ggactgccag gcaataatga aggttctttt actgaaggat gcgaaggaag atgactgtgg
+      301 ccaggatccg tatatcaggg aattaggatt atatggactt gaagccactt tgatccctgt
+      361 tttatcgttt gagtttttgt ctcttcccag tttctctgag aagctttctc atcctgaaga
+      421 ttacggggga ctcattttta ccagccccag agcagtggaa gcagcagagt tatgtttgga
+      481 gcaaaacaat aaaactgaag tctgggaaag gtctctgaaa gaaaaatgga atgccaagtc
+      541 agtgtatgtg gttggaaatg ctactgcttc tctagtgagt aaaattggcc tggatacaga
+      601 aggagaaacc tgtggaaatg cagaaaagct tgcagaatat atttgttcca gggagtcctc
+      661 agcactgcct cttctatttc cctgtggaaa cctcaaaaga gaaatcctgc caaaagcgct
+      721 caaggacaaa gggattgcca tggaaagcat aactgtgtat cagacagttg cacacccagg
+      781 aatccaaggg aacctgaaca gctactattc ccagcagggg gttccagcca gcatcacatt
+      841 ttttagtccc tctggcctca catacagtct caagcacatt caggagttat ctggtgacaa
+      901 tatcgatcaa attaagtttg cagccatcgg ccccactacg gctcgcgcgc tggccgccca
+      961 gggccttcct gtaagctgca ctgcagagag ccccacgcca caagccctgg ccactggcat
+     1021 caggaaggct ctccagcccc atggctgctg ctgagtcagc cacctagcgc tggccccatg
+     1081 cagcctccct gggctgggct ggctctggat ggagccaggc atcggcaagg gctctcggga
+     1141 gctgctgccg tcagactcct gcctcaagcc tgagtggaag cacctgagga ccggggatcg
+     1201 ggacctgacc tggggctggc ctcaggccca cgtgcacgtg actgccctct gtggaagcca
+     1261 gcttaaaccc tagccctgtg agagcttcct gtgcccagca ggaaggaagt caaataaacc
+     1321 acactgacta cctgtg
+//

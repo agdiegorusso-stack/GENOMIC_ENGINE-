@@ -1,0 +1,16 @@
+{
+  "gnomad_11-5248232-G-A": {
+    "found": false,
+    "variant_id": "11-5248232-G-A",
+    "af_exome": 0,
+    "af_genome": 0,
+    "error": "Failed after retries"
+  },
+  "gnomad_11-5248232-G-T": {
+    "found": false,
+    "variant_id": "11-5248232-G-T",
+    "af_exome": 0,
+    "af_genome": 0,
+    "error": "Failed after retries"
+  }
+}

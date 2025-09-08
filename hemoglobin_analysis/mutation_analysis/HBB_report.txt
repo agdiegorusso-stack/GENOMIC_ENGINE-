@@ -1,0 +1,198 @@
+MUTATION ANALYSIS REPORT: HBB
+Generated: 2025-09-07 02:30:36
+================================================================================
+
+SUMMARY STATISTICS
+----------------------------------------
+Total mutations analyzed: 1332
+Unique positions: 444
+
+Mutation types:
+  missense: 964 (72.4%)
+  synonymous: 325 (24.4%)
+  nonsense: 34 (2.6%)
+  start_lost: 9 (0.7%)
+
+
+HIGH IMPACT MUTATIONS
+----------------------------------------
+
+HBB:c.1A>T
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.1A>G
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.1A>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.2T>A
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.2T>G
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.2T>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.3G>A
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.3G>T
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.3G>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.5T>A
+  Type: missense
+  AA change: p.Val2Glu
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.5T>G
+  Type: missense
+  AA change: p.Val2Gly
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.8A>T
+  Type: missense
+  AA change: p.His3Leu
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.11T>A
+  Type: missense
+  AA change: p.Leu4Gln
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.11T>G
+  Type: missense
+  AA change: p.Leu4Arg
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.11T>C
+  Type: missense
+  AA change: p.Leu4Pro
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.14C>T
+  Type: missense
+  AA change: p.Thr5Ile
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.17C>T
+  Type: missense
+  AA change: p.Pro6Leu
+  Pathogenicity score: 1.000
+  Functional region: polymerization_site
+
+HBB:c.17C>G
+  Type: missense
+  AA change: p.Pro6Arg
+  Pathogenicity score: 1.000
+  Functional region: polymerization_site
+
+HBB:c.19G>T
+  Type: nonsense
+  AA change: p.Glu7*
+  Pathogenicity score: 1.000
+  Functional region: none
+
+HBB:c.20A>T
+  Type: missense
+  AA change: p.Glu7Val
+  Pathogenicity score: 1.000
+  Functional region: none
+
+
+CRITICAL REGIONS ANALYSIS
+----------------------------------------
+
+alpha_beta_interface:
+  Mutations: 185.0
+  Avg pathogenicity: 0.368
+
+heme_binding:
+  Mutations: 106.0
+  Avg pathogenicity: 0.349
+
+polymerization_site:
+  Mutations: 12.0
+  Avg pathogenicity: 0.250
+
+
+MUTATION HOTSPOTS
+----------------------------------------
+
+Codon 1:
+  Mutations: 9.0
+  Avg pathogenicity: 1.000
+
+Codon 31:
+  Mutations: 9.0
+  Avg pathogenicity: 0.667
+
+Codon 41:
+  Mutations: 9.0
+  Avg pathogenicity: 0.667
+
+Codon 105:
+  Mutations: 9.0
+  Avg pathogenicity: 0.667
+
+Codon 16:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 38:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 73:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 90:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 94:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 113:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556

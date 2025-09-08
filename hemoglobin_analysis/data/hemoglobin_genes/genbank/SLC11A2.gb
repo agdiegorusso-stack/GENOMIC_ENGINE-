@@ -1,0 +1,308 @@
+LOCUS       NM_001174125            4123 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens solute carrier family 11 member 2 (SLC11A2), transcript
+            variant 1, mRNA.
+ACCESSION   NM_001174125
+VERSION     NM_001174125.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4123)
+  AUTHORS   Fenaroli,F., Valerio,A. and Ingrassia,R.
+  TITLE     Ischemic Neuroprotection by Insulin with Down-Regulation of Divalent
+            Metal Transporter 1 (DMT1) Expression and Ferrous Iron-Dependent
+            Cell Death
+  JOURNAL   Biomolecules 14 (7), 856 (2024)
+   PUBMED   39062570
+  REMARK    GeneRIF: Ischemic Neuroprotection by Insulin with Down-Regulation of
+            Divalent Metal Transporter 1 (DMT1) Expression and Ferrous
+            Iron-Dependent Cell Death. Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 4123)
+  AUTHORS   Barra,J., Crosbourne,I., Roberge,C.L., Bossardi-Ramos,R.,
+            Warren,J.S.A., Matteson,K., Wang,L., Jourd'heuil,F., Borisov,S.M.,
+            Bresnahan,E., Bravo-Cordero,J.J., Dmitriev,R.I., Jourd'heuil,D.,
+            Adam,A.P., Lamar,J.M., Corr,D.T. and Barroso,M.M.
+  TITLE     DMT1-dependent endosome-mitochondria interactions regulate
+            mitochondrial iron translocation and metastatic outgrowth
+  JOURNAL   Oncogene 43 (9), 650-667 (2024)
+   PUBMED   38184712
+  REMARK    GeneRIF: DMT1-dependent endosome-mitochondria interactions regulate
+            mitochondrial iron translocation and metastatic outgrowth.
+REFERENCE   3  (bases 1 to 4123)
+  AUTHORS   Tan,Q., Zhang,X., Li,S., Liu,W., Yan,J., Wang,S., Cui,F., Li,D. and
+            Li,J.
+  TITLE     DMT1 differentially regulates mitochondrial complex activities to
+            reduce glutathione loss and mitigate ferroptosis
+  JOURNAL   Free Radic Biol Med 207, 32-44 (2023)
+   PUBMED   37419216
+  REMARK    GeneRIF: DMT1 differentially regulates mitochondrial complex
+            activities to reduce glutathione loss and mitigate ferroptosis.
+REFERENCE   4  (bases 1 to 4123)
+  AUTHORS   Tian,L., Li,X., Lai,H., Sun,T., Li,X., Wu,L., Wu,C., Yao,S., Ren,Y.,
+            He,S. and Yang,G.
+  TITLE     SLC11A2: a promising biomarker and therapeutic target in ovarian
+            cancer
+  JOURNAL   Sci Rep 13 (1), 1132 (2023)
+   PUBMED   36670142
+  REMARK    GeneRIF: SLC11A2: a promising biomarker and therapeutic target in
+            ovarian cancer. Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 4123)
+  AUTHORS   Tabuchi,M., Tanaka,N., Nishida-Kitayama,J., Ohno,H. and Kishi,F.
+  TITLE     Alternative splicing regulates the subcellular localization of
+            divalent metal transporter 1 isoforms
+  JOURNAL   Mol Biol Cell 13 (12), 4371-4387 (2002)
+   PUBMED   12475959
+REFERENCE   6  (bases 1 to 4123)
+  AUTHORS   Hubert,N. and Hentze,M.W.
+  TITLE     Previously uncharacterized isoforms of divalent metal transporter
+            (DMT)-1: implications for regulation and cellular function
+  JOURNAL   Proc Natl Acad Sci U S A 99 (19), 12345-12350 (2002)
+   PUBMED   12209011
+  REMARK    GeneRIF: iron regulation of DMT1 involves the expression of a
+            previously unrecognized upstream 5' exon (exon 1A) of the human and
+            murine DMT1 gene
+REFERENCE   7  (bases 1 to 4123)
+  AUTHORS   Lee,P.L., Gelbart,T., West,C., Halloran,C. and Beutler,E.
+  TITLE     The human Nramp2 gene: characterization of the gene structure,
+            alternative splicing, promoter region and polymorphisms
+  JOURNAL   Blood Cells Mol Dis 24 (2), 199-215 (1998)
+   PUBMED   9642100
+REFERENCE   8  (bases 1 to 4123)
+  AUTHORS   Kishi,F. and Tabuchi,M.
+  TITLE     Complete nucleotide sequence of human NRAMP2 cDNA
+  JOURNAL   Mol Immunol 34 (12-13), 839-842 (1997)
+   PUBMED   9464519
+REFERENCE   9  (bases 1 to 4123)
+  AUTHORS   Fleming,M.D., Trenor,C.C. 3rd, Su,M.A., Foernzler,D., Beier,D.R.,
+            Dietrich,W.F. and Andrews,N.C.
+  TITLE     Microcytic anaemia mice have a mutation in Nramp2, a candidate iron
+            transporter gene
+  JOURNAL   Nat Genet 16 (4), 383-386 (1997)
+   PUBMED   9241278
+REFERENCE   10  (bases 1 to 4123)
+  AUTHORS   Vidal,S., Belouchi,A.M., Cellier,M., Beatty,B. and Gros,P.
+  TITLE     Cloning and characterization of a second human NRAMP gene on
+            chromosome 12q13
+  JOURNAL   Mamm Genome 6 (4), 224-230 (1995)
+   PUBMED   7613023
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR7346977.1431716.1, BC002592.2
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AJ493662.1, BC002592.2 and
+            AC087884.18.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 2, 2019 this sequence version replaced NM_001174125.1.
+            Summary: This gene encodes a member of the solute carrier family 11
+            protein family. The product of this gene transports divalent metals
+            and is involved in iron absorption. Mutations in this gene are
+            associated with hypochromic microcytic anemia with iron overload. A
+            related solute carrier family 11 protein gene is located on
+            chromosome 2. Multiple transcript variants encoding different
+            isoforms have been found for this gene.[provided by RefSeq, Apr
+            2010].
+            Transcript Variant: This variant (1) encodes the longest isoform
+            (1).
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4123
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q13.12"
+     gene            1..4123
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /note="solute carrier family 11 member 2"
+                     /db_xref="GeneID:4891"
+                     /db_xref="HGNC:HGNC:10908"
+                     /db_xref="MIM:600523"
+     exon            1..66
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    6..8
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /note="upstream in-frame stop codon"
+     CDS             18..1790
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     natural resistance-associated macrophage protein 2; DMT-1;
+                     NRAMP 2; divalent cation transporter 1; solute carrier
+                     family 11 (proton-coupled divalent metal ion transporters),
+                     member 2; solute carrier family 11 (proton-coupled divalent
+                     metal ion transporter), member 2"
+                     /codon_start=1
+                     /product="natural resistance-associated macrophage protein
+                     2 isoform 1"
+                     /protein_id="NP_001167596.1"
+                     /db_xref="CCDS:CCDS53793.1"
+                     /db_xref="GeneID:4891"
+                     /db_xref="HGNC:HGNC:10908"
+                     /db_xref="MIM:600523"
+                     /translation="MRKKQLKTEAAPHCELKSYSKNSATQVSTMVLGPEQKMSDDSVSG
+                     DHGESASLGNINPAYSNPSLSQSPGDSEEYFATYFNEKISIPEEEYSCFSFRKLWAFTG
+                     PGFLMSIAYLDPGNIESDLQSGAVAGFKLLWILLLATLVGLLLQRLAARLGVVTGLHLA
+                     EVCHRQYPKVPRVILWLMVELAIIGSDMQEVIGSAIAINLLSVGRIPLWGGVLITIADT
+                     FVFLFLDKYGLRKLEAFFGFLITIMALTFGYEYVTVKPSQSQVLKGMFVPSCSGCRTPQ
+                     IEQAVGIVGAVIMPHNMYLHSALVKSRQVNRNNKQEVREANKYFFIESCIALFVSFIIN
+                     VFVVSVFAEAFFGKTNEQVVEVCTNTSSPHAGLFPKDNSTLAVDIYKGGVVLGCYFGPA
+                     ALYIWAVGILAAGQSSTMTGTYSGQFVMEGFLNLKWSRFARVVLTRSIAIIPTLLVAVF
+                     QDVEHLTGMNDFLNVLQSLQLPFALIPILTFTSLRPVMSDFANGLGWRIAGGILVLIIC
+                     SINMYFVVVYVRDLGHVALYVVAAVVSVAYLGFVFYLGWQCLIALGMSFLDCGHTVSIS
+                     KGLLTEEATRGYVK"
+     exon            67..138
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            139..287
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            288..413
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            414..533
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            534..640
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            641..711
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            712..779
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            780..935
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            936..1094
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1095..1181
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1182..1301
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1302..1451
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1452..1525
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1526..1679
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1680..4123
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4099..4104
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /note="hexamer: ATTAAA"
+     polyA_site      4123
+                     /gene="SLC11A2"
+                     /gene_synonym="AHMIO1; DCT1; DMT1; NRAMP2"
+                     /note="major polyA site"
+ORIGIN
+        1 caaactagtt ctgcaccatg aggaagaagc agctgaagac ggaggcagct ccacactgtg
+       61 aactaaaatc atattctaag aactcagcca ctcaggtatc caccatggtg ctgggtcctg
+      121 aacagaagat gtcagatgac agtgtttctg gagatcatgg ggagtctgcc agtcttggta
+      181 acatcaaccc tgcctatagt aatccctctc tttcacagtc ccctggggac tcagaggagt
+      241 acttcgccac ttactttaat gagaagatct ccattcctga ggaggagtac tcttgtttta
+      301 gctttcgtaa actctgggct ttcaccggac caggttttct tatgagcatt gcctacctgg
+      361 atccaggaaa tattgaatcc gatttgcagt ctggagcagt ggctggattt aagttgctct
+      421 ggatccttct gttggccacc cttgtggggc tgctgctcca gcggcttgca gctagactgg
+      481 gagtggttac tgggctgcat cttgctgaag tatgtcaccg tcagtatccc aaggtcccac
+      541 gagtcatcct gtggctgatg gtggagttgg ctatcatcgg ctcagacatg caagaagtca
+      601 ttggctcagc cattgctatc aatcttctgt ctgtaggaag aattcctctg tggggtggcg
+      661 ttctcatcac cattgcagat acttttgtat ttctcttctt ggacaaatat ggcttgcgga
+      721 agctagaagc attttttggc tttctcatca ctattatggc cctcacattt ggatatgagt
+      781 atgttacagt gaaacccagc cagagccagg tactcaaggg catgttcgta ccatcctgtt
+      841 caggctgtcg cactccacag attgaacagg ctgtgggcat cgtgggagct gtcatcatgc
+      901 cacacaacat gtacctgcat tctgccttag tcaagtctag acaggtaaac cggaacaata
+      961 agcaggaagt tcgagaagcc aataagtact ttttcattga atcctgcatt gcactctttg
+     1021 tttccttcat catcaatgtc tttgttgtct cagtctttgc tgaagcattt tttgggaaaa
+     1081 ccaacgagca ggtggttgaa gtctgtacaa ataccagcag tcctcatgct ggcctctttc
+     1141 ctaaagataa ctcgacactg gctgtggaca tctacaaagg gggtgttgtg ctgggatgtt
+     1201 actttgggcc tgctgcactc tacatttggg cagtggggat cctggctgca ggacagagct
+     1261 ccaccatgac aggaacctat tctggccagt ttgtcatgga gggattcctg aacctaaagt
+     1321 ggtcacgctt tgcccgagtg gttctgactc gctctattgc catcatcccc actctgcttg
+     1381 ttgctgtctt ccaagatgta gagcatctaa cagggatgaa tgactttctg aatgttctac
+     1441 agagcttaca gcttcccttt gctctcatac ccatcctcac atttacgagc ttgcggccag
+     1501 taatgagtga ctttgccaat ggactaggct ggcggattgc aggaggaatc ttggtcctta
+     1561 tcatctgttc catcaatatg tactttgtag tggtttatgt ccgggaccta gggcatgtgg
+     1621 cattatatgt ggtggctgct gtggtcagcg tggcttatct gggctttgtg ttctacttgg
+     1681 gttggcaatg tttgattgca ctgggcatgt ccttcctgga ctgtgggcat acggtaagca
+     1741 tctctaaagg cctgctgaca gaagaagcca cccgtggcta cgttaaataa cactggatta
+     1801 gtctgtcttc tgcaggtagc catcagagcc agtgtgtttc tatggtttac tgtgtgaaca
+     1861 tagccaaaag tatgtgccgt tgcacagact gtgtttatga ctcaaccgtt ggttggaaaa
+     1921 gactttgttt catgtgtatt tgaaagatgg aattattttt tccttcctga cctaacctta
+     1981 gaactggatt agggtgggat ctttgaaaag ctgacatttg ctgctatcat tccaacacta
+     2041 aattcttaag tagttgccca agggccagct cagtttatcc ttcggagaga caaggatatg
+     2101 catgattctt aaccaggcta tatgttaaaa aaaaattgga aaatgcaata cattttttat
+     2161 tatacaaact acagaatgag tatgcaagtt ttatttatca aaatgtaatg gatttttaaa
+     2221 ggctgagaaa ttttccttat acctaccttt tcagttattt taattatacc aaattatcaa
+     2281 ctagaatagc ttcatccata tgaaatataa aatgaagaga cacctagctc tatcaggctt
+     2341 aggattcttt gaacttattt ccactttaat ttctcagtgg aagttaagag gggtgagaaa
+     2401 acaaagaagg ggaaaaactg acaactaaca aaaccagcac cacatcgcta ggtggtgctt
+     2461 actaattacc ttctcaggat tttcctcaga ttgaaaagct tatgaggatt tcttgggagt
+     2521 cttaataacc tgcctgttag tacagagctt tcctgatgat atttactctt gagcacatgt
+     2581 ggttgtaaaa ccttaacttt ctttctccag gagggtggtg atagaaacag atggtagtat
+     2641 ttatgaactg atgttctcgt gaaatgttga gggtggggag aaaagacttt aagggaggag
+     2701 agccatctat tttgttccta aagccacctc tcagcagaat cgtcatgttt ttctgatgca
+     2761 ccgctctgct tcatgcccaa gatgacttgc gaggcaatct caggagctgt ggacttaacc
+     2821 gttgcaaagc acactgtctt tctcagcgtt ctctgcaagt cagtaggtgt tagtatggtt
+     2881 gcaaagttca ctgtctcagc aaagttgaac tgggctacct ctctacagct gtttcctcag
+     2941 agggaaaaat cttgagacca gatggtggag ctctggagtc agaggaaatg ggtgtcttca
+     3001 gcacaaagct gctgctttta cttcagccac ttctgacatt tttacatacc gagcctgaga
+     3061 ttgtgtgatt atctcaaatc aaatcacttt gatggagata aataatcaaa actgttttat
+     3121 agtcattgat ttggtgagaa cagtaatgga aaatggtgtt gaaggacttc tcatttttgg
+     3181 agctttcctt ccagagtcct ggctgattgg tgttcgctgt tcatctgagc ccccaaaagc
+     3241 attattactg atacttgcac acagtcaaaa gcgcagactg gatggatggt cttttataag
+     3301 gcatttaagg gtacactact gtgtttcact gaccatacat ttttcttagc ccctcaagta
+     3361 atatagcaca gagttatgaa tgacaattcc cctaaccatt cctcttcata tctgcctctt
+     3421 ccccttacca tcgtaattct ccaaactggt cataaaggca ctctgtgaag atattgggga
+     3481 ctgacatctt aagctctcac ctggctgcag taggaaaggc caaactgacg acaaaaaaaa
+     3541 aattctttat aaagatgata tggtaacatg tatctttgcc ctgggtctgg gtgggtccag
+     3601 tcagtctcag atttacaagc atttaggagc ctaggtaaaa gctgctagta ttcttttaaa
+     3661 agttatattt atgacttgca atgatagaaa actccttcca attaaatggc attttataat
+     3721 attatgtgtg tacttcacag tgttaaaaat accctcatac gttattgcat ttgatcttca
+     3781 cagaaagtgc attttaacca gtactctggg tgcaataaat aatatgtaga aatttaagtc
+     3841 ctccaattcc agcatatcca gtgagttttg acagtgtgtt tatgtggaat gtttaaggat
+     3901 atacaattgt actttatata aattggttct tgttcttctt aaatgtgaca tgaaataatt
+     3961 gtgctgctac attatactgg aaattaacag gggaaaaggg aagagctctt ggctcccttg
+     4021 aggttctgct agtggtgtta ggagtggtta caactgagct tttagtaacc atttaaccgt
+     4081 atgtaaactt ggtttctaat taaaaaaaaa tttctttttc caa
+//

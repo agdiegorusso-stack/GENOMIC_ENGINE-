@@ -1,0 +1,263 @@
+LOCUS       NM_001136023            1656 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens nuclear factor, erythroid 2 (NFE2), transcript variant
+            2, mRNA.
+ACCESSION   NM_001136023
+VERSION     NM_001136023.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1656)
+  AUTHORS   Anekpuritanang,T., Klairmont,M.M., Gradowski,J., Hagiwara,K.,
+            Bailey,N.G., Chandra,P., Liu,Y., Mulder,H.L., Easton,J., Zhang,J.,
+            Martin,M.G., Owczarczyk,A.B., Dunlap,J.B., Fan,G., Press,R.D. and
+            Raess,P.W.
+  TITLE     In a multi-institutional cohort of myeloid sarcomas, NFE2 mutation
+            prevalence is lower than previously reported
+  JOURNAL   Blood Adv 5 (23), 5057-5059 (2021)
+   PUBMED   34559205
+  REMARK    GeneRIF: In a multi-institutional cohort of myeloid sarcomas, NFE2
+            mutation prevalence is lower than previously reported.
+REFERENCE   2  (bases 1 to 1656)
+  AUTHORS   Marcault,C., Zhao,L.P., Maslah,N., Verger,E., Daltro de Oliveira,R.,
+            Soret-Dulphy,J., Cazaux,M., Gauthier,N., Roux,B., Clappier,E.,
+            Parquet,N., Dosquet,C., Rea,D., Zini,J.M., Vainchenker,W.,
+            Raffoux,E., Giraudier,S., Kiladjian,J.J., Cassinat,B. and
+            Benajiba,L.
+  TITLE     Impact of NFE2 mutations on AML transformation and overall survival
+            in patients with myeloproliferative neoplasms
+  JOURNAL   Blood 138 (21), 2142-2148 (2021)
+   PUBMED   33945619
+  REMARK    GeneRIF: Impact of NFE2 mutations on AML transformation and overall
+            survival in patients with myeloproliferative neoplasms.
+REFERENCE   3  (bases 1 to 1656)
+  AUTHORS   Haenig,C., Atias,N., Taylor,A.K., Mazza,A., Schaefer,M.H., Russ,J.,
+            Riechers,S.P., Jain,S., Coughlin,M., Fontaine,J.F., Freibaum,B.D.,
+            Brusendorf,L., Zenkner,M., Porras,P., Stroedicke,M., Schnoegl,S.,
+            Arnsburg,K., Boeddrich,A., Pigazzini,L., Heutink,P., Taylor,J.P.,
+            Kirstein,J., Andrade-Navarro,M.A., Sharan,R. and Wanker,E.E.
+  TITLE     Interactome Mapping Provides a Network of Neurodegenerative Disease
+            Proteins and Uncovers Widespread Protein Aggregation in Affected
+            Brains
+  JOURNAL   Cell Rep 32 (7), 108050 (2020)
+   PUBMED   32814053
+REFERENCE   4  (bases 1 to 1656)
+  AUTHORS   D'Orazi,G., Garufi,A. and Cirone,M.
+  TITLE     Nuclear factor erythroid 2 (NF-E2) p45-related factor 2 interferes
+            with homeodomain-interacting protein kinase 2/p53 activity to impair
+            solid tumors chemosensitivity
+  JOURNAL   IUBMB Life 72 (8), 1634-1639 (2020)
+   PUBMED   32593231
+  REMARK    GeneRIF: Nuclear factor erythroid 2 (NF-E2) p45-related factor 2
+            interferes with homeodomain-interacting protein kinase 2/p53
+            activity to impair solid tumors chemosensitivity.
+REFERENCE   5  (bases 1 to 1656)
+  AUTHORS   Siegwart,L.C., Schwemmers,S., Wehrle,J., Koellerer,C., Seeger,T.,
+            Grunder,A. and Pahl,H.L.
+  TITLE     The transcription factor NFE2 enhances expression of the
+            hematopoietic master regulators SCL/TAL1 and GATA2
+  JOURNAL   Exp Hematol 87, 42-47 (2020)
+   PUBMED   32593672
+  REMARK    GeneRIF: The transcription factor NFE2 enhances expression of the
+            hematopoietic master regulators SCL/TAL1 and GATA2.
+REFERENCE   6  (bases 1 to 1656)
+  AUTHORS   Shivdasani,R.A., Rosenblatt,M.F., Zucker-Franklin,D., Jackson,C.W.,
+            Hunt,P., Saris,C.J. and Orkin,S.H.
+  TITLE     Transcription factor NF-E2 is required for platelet formation
+            independent of the actions of thrombopoietin/MGDF in megakaryocyte
+            development
+  JOURNAL   Cell 81 (5), 695-704 (1995)
+   PUBMED   7774011
+REFERENCE   7  (bases 1 to 1656)
+  AUTHORS   Pischedda,C., Cocco,S., Melis,A., Marini,M.G., Kan,Y.W., Cao,A. and
+            Moi,P.
+  TITLE     Isolation of a differentially regulated splicing isoform of human
+            NF-E2
+  JOURNAL   Proc Natl Acad Sci U S A 92 (8), 3511-3515 (1995)
+   PUBMED   7724591
+REFERENCE   8  (bases 1 to 1656)
+  AUTHORS   Igarashi,K., Kataoka,K., Itoh,K., Hayashi,N., Nishizawa,M. and
+            Yamamoto,M.
+  TITLE     Regulation of transcription by dimerization of erythroid factor
+            NF-E2 p45 with small Maf proteins
+  JOURNAL   Nature 367 (6463), 568-572 (1994)
+   PUBMED   8107826
+REFERENCE   9  (bases 1 to 1656)
+  AUTHORS   Chan,J.Y., Han,X.L. and Kan,Y.W.
+  TITLE     Isolation of cDNA encoding the human NF-E2 protein
+  JOURNAL   Proc Natl Acad Sci U S A 90 (23), 11366-11370 (1993)
+   PUBMED   8248255
+REFERENCE   10  (bases 1 to 1656)
+  AUTHORS   Strauss,E.C., Andrews,N.C., Higgs,D.R. and Orkin,S.H.
+  TITLE     In vivo footprinting of the human alpha-globin locus upstream
+            regulatory element by guanine and adenine ligation-mediated
+            polymerase chain reaction
+  JOURNAL   Mol Cell Biol 12 (5), 2135-2142 (1992)
+   PUBMED   1569944
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189661.104564.1,
+            SRR5189661.64803.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1966682,
+            SAMEA2142670 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000435572.7/ ENSP00000397185.2
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BE243330.1 and BC005044.1.
+            On Nov 24, 2018 this sequence version replaced NM_001136023.2.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1656
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q13.13"
+     gene            1..1656
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="nuclear factor, erythroid 2"
+                     /db_xref="GeneID:4778"
+                     /db_xref="HGNC:HGNC:7780"
+                     /db_xref="MIM:601490"
+     exon            1..215
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /inference="alignment:Splign:2.1.0"
+     exon            216..385
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    221..223
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="upstream in-frame stop codon"
+     CDS             272..1393
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="isoform 1 is encoded by transcript variant 2;
+                     transcription factor NF-E2 45 kDa subunit; leucine zipper
+                     protein NF-E2; nuclear factor, erythroid-derived 2 45 kDa
+                     subunit; nuclear factor (erythroid-derived 2), 45kDa"
+                     /codon_start=1
+                     /product="transcription factor NF-E2 45 kDa subunit isoform
+                     1"
+                     /protein_id="NP_001129495.1"
+                     /db_xref="CCDS:CCDS8876.1"
+                     /db_xref="GeneID:4778"
+                     /db_xref="HGNC:HGNC:7780"
+                     /db_xref="MIM:601490"
+                     /translation="MSPCPPQQSRNRVIQLSTSELGEMELTWQEIMSITELQGLNAPSE
+                     PSFEPQAPAPYLGPPPPTTYCPCSIHPDSGFPLPPPPYELPASTSHVPDPPYSYGNMAI
+                     PVSKPLSLSGLLSEPLQDPLALLDIGLPAGPPKPQEDPESDSGLSLNYSDAESLELEGT
+                     EAGRRRSEYVEMYPVEYPYSLMPNSLAHSNYTLPAAETPLALEPSSGPVRAKPTARGEA
+                     GSRDERRALAMKIPFPTDKIVNLPVDDFNELLARYPLTESQLALVRDIRRRGKNKVAAQ
+                     NCRKRKLETIVQLERELERLTNERERLLRARGEADRTLEVMRQQLTELYRDIFQHLRDE
+                     SGNSYSPEEYALQQAADGTIFLVPRGTKMEATD"
+     misc_feature    272..889
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: Transactivation domain"
+     misc_feature    272..520
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: Required for interaction with MAPK8.
+                     /evidence=ECO:0000250"
+     misc_feature    452..466
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: PXY motif 1"
+     misc_feature    506..520
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: PXY motif 2"
+     misc_feature    650..721
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    740..742
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="Phosphoserine, by MAPK8.
+                     /evidence=ECO:0000250|UniProtKB:Q07279; propagated from
+                     UniProtKB/Swiss-Prot (Q16621.1); phosphorylation site"
+     misc_feature    779..781
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000250|UniProtKB:Q07279; propagated from
+                     UniProtKB/Swiss-Prot (Q16621.1); phosphorylation site"
+     misc_feature    884..949
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1073..1132
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: Basic motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00978"
+     misc_feature    1142..1165
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16621.1);
+                     Region: Leucine-zipper.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00978"
+     exon            386..1656
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1637..1642
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="hexamer: TATAAA"
+     polyA_site      1656
+                     /gene="NFE2"
+                     /gene_synonym="NF-E2; p45"
+                     /note="major polyA site"
+ORIGIN
+        1 agacgctggt gcgcctgctt ggggctcctg tgctcagctc agcctgagct tccacactca
+       61 gcgctcagca atggcccggg ggcggggcgc ggtcctcgca gattctcaaa ggtagccggg
+      121 atcctcgtcc agcagtgtca gctcaggctc agcctcccca gagacaacac cgggagcctc
+      181 atctctctcc tcaccctgct gtgactccac cacaggtttc tagagccatc tgggctttcc
+      241 gggaacctgg accagactct ggcccagtag gatgtccccg tgtcctcccc agcagagcag
+      301 gaacagggtg atacagctgt ccacttcaga gctaggagag atggaactga cttggcagga
+      361 gatcatgtcc atcaccgagc tgcagggtct gaatgctcca agtgagccat catttgagcc
+      421 ccaagcccca gctccatacc ttggacctcc accacccaca acttactgcc cctgctcaat
+      481 ccacccagat tctggcttcc cacttcctcc accaccttat gagctcccag catccacatc
+      541 ccatgtccca gatcccccat actcctatgg caacatggcc ataccagtct ccaagccact
+      601 gagcctctca ggcctgctca gtgagccgct ccaagacccc ttagccctcc tggacattgg
+      661 gctgccagca gggccaccta agccccaaga agacccagaa tccgactcag gattatccct
+      721 caactatagc gatgctgaat ctcttgagct ggaggggaca gaggctggtc ggcggcgcag
+      781 cgaatatgta gagatgtacc cagtggagta cccctactca ctcatgccca actccttggc
+      841 ccactccaac tataccttgc cagctgctga gacccccttg gccttagagc cctcctcagg
+      901 ccctgtgcgg gctaagccca ctgcacgggg ggaggcaggg agtcgggatg aacgtcgggc
+      961 cttggccatg aagattcctt ttcctacgga caagattgtc aacttgccgg tagatgactt
+     1021 taatgagcta ttggcaaggt acccgctgac agagagccag ctagcgctag tccgggacat
+     1081 ccgacgacgg ggcaaaaaca aggtggcagc ccagaactgc cgcaagagga agctggaaac
+     1141 cattgtgcag ctggagcggg agctggagcg gctgaccaat gaacgggagc ggcttctcag
+     1201 ggcccgcggg gaggcagacc ggaccctgga ggtcatgcgc caacagctga cagagctgta
+     1261 ccgtgacatt ttccagcacc ttcgggatga atcaggcaac agctactctc ctgaagagta
+     1321 cgcgctgcaa caggctgccg atgggaccat cttccttgtg ccccggggga ccaagatgga
+     1381 ggccacagac tgagctggcc cagaggggtg gaactgctga tgggatttcc ttcattccct
+     1441 tctgataaag gtactcccca accctgagtc ccagaaggag ctgagttctc tagaccagaa
+     1501 gaggatgaca atggcaacaa gtgtttggaa gttccaaggt gtgttcaaag aggcttgcct
+     1561 tgagggaggg ctggaatctg tcttccctga ctcggctcct caggtcttta gcctccacct
+     1621 tgtctaagct ttggtctata aagtgcgcta cagaaa
+//

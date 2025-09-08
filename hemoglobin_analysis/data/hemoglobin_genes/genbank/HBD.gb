@@ -1,0 +1,195 @@
+LOCUS       NM_000519                620 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens hemoglobin subunit delta (HBD), mRNA.
+ACCESSION   NM_000519
+VERSION     NM_000519.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Xu,A., Li,M., Ye,Y., Li,L., Ma,M., Wu,S.Y. and Ji,L.
+  TITLE     Mutational spectrum of HBD gene in the Chinese population:
+            Description of 36 mutations including 11 novel variants
+  JOURNAL   Int J Lab Hematol 45 (6), 961-968 (2023)
+   PUBMED   37605839
+  REMARK    GeneRIF: Mutational spectrum of HBD gene in the Chinese population:
+            Description of 36 mutations including 11 novel variants.
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Ren,Z.M., Li,W.J., Xing,Z.H., Fu,X.Y., Zhang,J.Y., Chen,Y.S. and
+            Li,D.F.
+  TITLE     Detecting rare thalassemia in children with anemia using
+            third-generation sequencing
+  JOURNAL   Hematology 28 (1), 2241226 (2023)
+   PUBMED   37548329
+  REMARK    GeneRIF: Detecting rare thalassemia in children with anemia using
+            third-generation sequencing.
+REFERENCE   3  (bases 1 to 620)
+  AUTHORS   Kalai,M., Moumni,I., Ouragini,H., Ben Fraj,I., Mellouli,F.,
+            Ouederni,M., Chaouachi,D., Boudriga,I. and Menif,S.
+  TITLE     Molecular characterization of a novel homozygous deletion in
+            beta-globin cluster causing (deltabeta)0-Thalassemia among Tunisian
+            family
+  JOURNAL   Ann Clin Biochem 60 (2), 81-85 (2023)
+   PUBMED   36214153
+  REMARK    GeneRIF: Molecular characterization of a novel homozygous deletion
+            in beta-globin cluster causing (deltabeta)[0]-Thalassemia among
+            Tunisian family.
+REFERENCE   4  (bases 1 to 620)
+  AUTHORS   Kasmi,C., Amri,Y., Hadj-Fredj,S., Oueslati,S., Dabboussi,M.,
+            Mahjoub,R., Hammami,S., Aljane,I., Mami,F.B., Jamoussi,H.,
+            Messaoud,T. and Bibi,A.
+  TITLE     Analysis of delta-globin gene alleles in Tunisians: description of
+            three new delta-thalassemia mutations
+  JOURNAL   Mol Biol Rep 48 (8), 5923-5933 (2021)
+   PUBMED   34341901
+  REMARK    GeneRIF: Analysis of delta-globin gene alleles in Tunisians:
+            description of three new delta-thalassemia mutations.
+REFERENCE   5  (bases 1 to 620)
+  AUTHORS   Porcu,S., Simbula,M., Marongiu,M.F., Perra,A., Poddie,D., Perseu,L.,
+            Kowalik,M.A., Littera,R., Barella,S., Caria,C.A., Demartis,F.R. and
+            Ristaldi,M.S.
+  TITLE     Delta-globin gene expression improves sickle cell disease in a
+            humanised mouse model
+  JOURNAL   Br J Haematol 193 (6), 1228-1237 (2021)
+   PUBMED   34046885
+  REMARK    GeneRIF: Delta-globin gene expression improves sickle cell disease
+            in a humanised mouse model.
+REFERENCE   6  (bases 1 to 620)
+  AUTHORS   Lawn,R.M., Fritsch,E.F., Parker,R.C., Blake,G. and Maniatis,T.
+  TITLE     The isolation and characterization of linked delta- and beta-globin
+            genes from a cloned library of human DNA
+  JOURNAL   Cell 15 (4), 1157-1174 (1978)
+   PUBMED   728996
+REFERENCE   7  (bases 1 to 620)
+  AUTHORS   Braunitzer,G., Schrank,B., Stangl,A. and Grillemeier,M.
+  TITLE     [Hemoglobin XXIII: note on the sequence of the delta-chains of human
+            hemoglobin (author's transl)]
+  JOURNAL   Hoppe Seylers Z Physiol Chem 359 (7), 777-783 (1978)
+   PUBMED   680638
+REFERENCE   8  (bases 1 to 620)
+  AUTHORS   Rieder,R.F., Clegg,J.B., Weiss,H.J., Christy,N.P. and Rabinowitz,R.
+  TITLE     Hemoglobin A2-Roosevelt: alpha 2 delta 2 20Val replaced by Glu
+  JOURNAL   Biochim Biophys Acta 439 (2), 501-504 (1976)
+   PUBMED   952968
+REFERENCE   9  (bases 1 to 620)
+  AUTHORS   Efremov,G.D., Rudivic,R., Niazi,G.A., Hunter,E. Jr., Huisman,T.H.
+            and Schroeder,W.A.
+  TITLE     An individual with Hb-Lepore-Baltimore- delta beta-thalassaemia in a
+            Yugoslavian family
+  JOURNAL   Scand J Haematol 16 (2), 81-89 (1976)
+   PUBMED   1257702
+REFERENCE   10  (bases 1 to 620)
+  AUTHORS   Sharma,R.S., Williams,L., Wilson,J.B. and Huisman,T.H.
+  TITLE     Hemoglobin-A2-Coburg or alpha2delta2116Arg leads to His (G18)
+  JOURNAL   Biochim Biophys Acta 393 (2), 379-382 (1975)
+   PUBMED   1148221
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1163658.29352.1, BU663989.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2149004,
+            SAMEA2154529 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000650601.1/ ENSP00000497529.1
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AY034468.1, BC070282.1 and
+            BU664913.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Dec 7, 2018 this sequence version replaced NM_000519.3.
+            Summary: The delta (HBD) and beta (HBB) genes are normally
+            expressed in the adult: two alpha chains plus two beta chains
+            constitute HbA, which in normal adult life comprises about 97% of
+            the total hemoglobin. Two alpha chains plus two delta chains
+            constitute HbA-2, which with HbF comprises the remaining 3% of
+            adult hemoglobin. Five beta-like globin genes are found within a 45
+            kb cluster on chromosome 11 in the following order:
+            5'-epsilon--Ggamma--Agamma--delta--beta-3'. Mutations in the
+            delta-globin gene are associated with beta-thalassemia. [provided
+            by RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.4"
+     gene            1..620
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="hemoglobin subunit delta"
+                     /db_xref="GeneID:3045"
+                     /db_xref="HGNC:HGNC:4829"
+                     /db_xref="MIM:142000"
+     exon            1..142
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    30..32
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="upstream in-frame stop codon"
+     CDS             51..494
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="delta globin; delta-globin chain; hemoglobin delta
+                     chain; hemoglobin, delta"
+                     /codon_start=1
+                     /product="hemoglobin subunit delta"
+                     /protein_id="NP_000510.1"
+                     /db_xref="CCDS:CCDS31376.1"
+                     /db_xref="GeneID:3045"
+                     /db_xref="HGNC:HGNC:4829"
+                     /db_xref="MIM:142000"
+                     /translation="MVHLTPEEKTAVNALWGKVNVDAVGGEALGRLLVVYPWTQRFFES
+                     FGDLSSPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPENF
+                     RLLGNVLVCVLARNFGKEFTPQMQAAYQKVVAGVANALAHKYH"
+     misc_feature    54..56
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="N-acetylalanine, in variant Niigata.
+                     /evidence=ECO:0000269|PubMed:1787103; propagated from
+                     UniProtKB/Swiss-Prot (P02042.2); acetylation site"
+     misc_feature    201..203
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P02042.2); phosphorylation site"
+     exon            143..365
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..620
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      600..605
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="hexamer: AATAAA"
+     polyA_site      620
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="major polyA site"
+ORIGIN
+        1 acactttctt ctgacataac agtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagact gctgtcaatg ccctgtgggg caaagtgaac gtggatgcag
+      121 ttggtggtga ggccctgggc agattactgg tggtctaccc ttggacccag aggttctttg
+      181 agtcctttgg ggatctgtcc tctcctgatg ctgttatggg caaccctaag gtgaaggctc
+      241 atggcaagaa ggtgctaggt gcctttagtg atggcctggc tcacctggac aacctcaagg
+      301 gcactttttc tcagctgagt gagctgcact gtgacaagct gcacgtggat cctgagaact
+      361 tcaggctctt gggcaatgtg ctggtgtgtg tgctggcccg caactttggc aaggaattca
+      421 ccccacaaat gcaggctgcc tatcagaagg tggtggctgg tgtggctaat gccctggctc
+      481 acaagtacca ttgagatcct ggactgtttc ctgataacca taagaagacc ctatttccct
+      541 agattctatt ttctgaactt gggaacacaa tgcctacttc aagggtatgg cttctgccta
+      601 ataaagaatg ttcagctcaa
+//

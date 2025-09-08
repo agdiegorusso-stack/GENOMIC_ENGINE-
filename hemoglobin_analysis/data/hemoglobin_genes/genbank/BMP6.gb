@@ -1,0 +1,342 @@
+LOCUS       NM_001718               3784 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens bone morphogenetic protein 6 (BMP6), mRNA.
+ACCESSION   NM_001718
+VERSION     NM_001718.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3784)
+  AUTHORS   Arcanjo,G.S., Souza,M.B., Domingos,I.F., Pereira-Martins,D.A.,
+            Falcao,D.A., Batista,J.V., Hatzlhofer,B.L., Diniz,M.V., Silva,A.P.,
+            Guarana,W.L., Hazin,M.F., Araujo,A.S., Cunha,A.F., Saad,S.O.,
+            Costa,F.F., Lucena-Araujo,A.R. and Bezerra,M.A.C.
+  TITLE     BMP6 and VDR gene polymorphisms are associated with osteonecrosis in
+            a sickle cell anaemia cohort
+  JOURNAL   Br J Haematol 204 (4), 1507-1514 (2024)
+   PUBMED   38323352
+  REMARK    GeneRIF: BMP6 and VDR gene polymorphisms are associated with
+            osteonecrosis in a sickle cell anaemia cohort.
+REFERENCE   2  (bases 1 to 3784)
+  AUTHORS   Xin,X., Chang,H.M., Leung,P.C.K., Dong,L., Li,J., Lian,F. and Wu,H.
+  TITLE     Bone morphogenetic protein 6 induces downregulation of pentraxin 3
+            expression in human granulosa lutein cells in women with polycystic
+            ovary syndrome
+  JOURNAL   J Assist Reprod Genet 41 (1), 31-48 (2024)
+   PUBMED   37930517
+  REMARK    GeneRIF: Bone morphogenetic protein 6 induces downregulation of
+            pentraxin 3 expression in human granulosa lutein cells in women with
+            polycystic ovary syndrome.
+REFERENCE   3  (bases 1 to 3784)
+  AUTHORS   Tang,H., Li,J., Li,J.K., He,S.H., Xiang,G., Rong,R., Liang,Z.T. and
+            Zhang,H.Q.
+  TITLE     BMP6 participates in the pathogenesis of adolescent idiopathic
+            scoliosis by regulating osteopenia
+  JOURNAL   J Cell Physiol 238 (11), 2586-2599 (2023)
+   PUBMED   37795636
+  REMARK    GeneRIF: BMP6 participates in the pathogenesis of adolescent
+            idiopathic scoliosis by regulating osteopenia.
+REFERENCE   4  (bases 1 to 3784)
+  AUTHORS   Novak,R., Ahmad,Y.A., Timaner,M., Bitman-Lotan,E., Oknin-Vaisman,A.,
+            Horwitz,R., Hartmann,O., Reissland,M., Buck,V., Rosenfeldt,M.,
+            Nikomarov,D., Diefenbacher,M.E., Shaked,Y. and Orian,A.
+  TITLE     RNF4 RGMb BMP6 axis required for osteogenic differentiation and
+            cancer cell survival
+  JOURNAL   Cell Death Dis 13 (9), 820 (2022)
+   PUBMED   36153321
+  REMARK    GeneRIF: RNF4~RGMb~BMP6 axis required for osteogenic differentiation
+            and cancer cell survival. Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3784)
+  AUTHORS   Wang,R.N., Green,J., Wang,Z., Deng,Y., Qiao,M., Peabody,M.,
+            Zhang,Q., Ye,J., Yan,Z., Denduluri,S., Idowu,O., Li,M., Shen,C.,
+            Hu,A., Haydon,R.C., Kang,R., Mok,J., Lee,M.J., Luu,H.L. and Shi,L.L.
+  TITLE     Bone Morphogenetic Protein (BMP) signaling in development and human
+            diseases
+  JOURNAL   Genes Dis 1 (1), 87-105 (2014)
+   PUBMED   25401122
+REFERENCE   6  (bases 1 to 3784)
+  AUTHORS   Tamada,H., Kitazawa,R., Gohji,K., Kamidono,S., Maeda,S. and
+            Kitazawa,S.
+  TITLE     Molecular cloning and analysis of the 5'-flanking region of the
+            human bone morphogenetic protein-6 (BMP-6)
+  JOURNAL   Biochim Biophys Acta 1395 (3), 247-251 (1998)
+   PUBMED   9512655
+REFERENCE   7  (bases 1 to 3784)
+  AUTHORS   Schluesener,H.J. and Meyermann,R.
+  TITLE     Immunolocalization of BMP-6, a novel TGF-beta-related cytokine, in
+            normal and atherosclerotic smooth muscle cells
+  JOURNAL   Atherosclerosis 113 (2), 153-156 (1995)
+   PUBMED   7605353
+REFERENCE   8  (bases 1 to 3784)
+  AUTHORS   Hahn,G.V., Cohen,R.B., Wozney,J.M., Levitz,C.L., Shore,E.M.,
+            Zasloff,M.A. and Kaplan,F.S.
+  TITLE     A bone morphogenetic protein subfamily: chromosomal localization of
+            human genes for BMP5, BMP6, and BMP7
+  JOURNAL   Genomics 14 (3), 759-762 (1992)
+   PUBMED   1427904
+REFERENCE   9  (bases 1 to 3784)
+  AUTHORS   Sauermann,U., Meyermann,R. and Schluesener,H.J.
+  TITLE     Cloning of a novel TGF-beta related cytokine, the vgr, from rat
+            brain: cloning of and comparison to homologous human cytokines
+  JOURNAL   J Neurosci Res 33 (1), 142-147 (1992)
+   PUBMED   1453478
+REFERENCE   10  (bases 1 to 3784)
+  AUTHORS   Celeste,A.J., Iannazzi,J.A., Taylor,R.C., Hewick,R.M., Rosen,V.,
+            Wang,E.A. and Wozney,J.M.
+  TITLE     Identification of transforming growth factor beta family members
+            present in bone-inductive protein purified from bovine bone
+  JOURNAL   Proc Natl Acad Sci U S A 87 (24), 9843-9847 (1990)
+   PUBMED   2263636
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: M60315.1, SRR1803611.262077.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1968189 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000283147.7/ ENSP00000283147.6
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK300628.1, AL135778.9,
+            BF732376.1, M60315.1, BC099624.1, AL133541.21 and AA700487.1.
+            On Nov 22, 2018 this sequence version replaced NM_001718.5.
+            Summary: This gene encodes a secreted ligand of the TGF-beta
+            (transforming growth factor-beta) superfamily of proteins. Ligands
+            of this family bind various TGF-beta receptors leading to
+            recruitment and activation of SMAD family transcription factors
+            that regulate gene expression. The encoded preproprotein is
+            proteolytically processed to generate each subunit of the
+            disulfide-linked homodimer. This protein regulates a wide range of
+            biological processes including iron homeostasis, fat and bone
+            development, and ovulation. Differential expression of this gene
+            may be associated with progression of breast and prostate cancer.
+            Mutations in this gene may be associated with iron overload in
+            human patients. [provided by RefSeq, Jul 2016].
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3784
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p24.3"
+     gene            1..3784
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="bone morphogenetic protein 6"
+                     /db_xref="GeneID:654"
+                     /db_xref="HGNC:HGNC:1073"
+                     /db_xref="MIM:112266"
+     exon            1..1521
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    679
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /experiment="EXISTENCE:primer extension assay evidence
+                     [ECO:0001819][PMID:9512655]"
+                     /note="alternative transcription start site"
+     misc_feature    705..707
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="upstream in-frame stop codon"
+     CDS             858..2399
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="vegetal related growth factor (TGFB-related);
+                     VG-1-R; VG-1-related protein"
+                     /codon_start=1
+                     /product="bone morphogenetic protein 6 preproprotein"
+                     /protein_id="NP_001709.1"
+                     /db_xref="CCDS:CCDS4503.1"
+                     /db_xref="GeneID:654"
+                     /db_xref="HGNC:HGNC:1073"
+                     /db_xref="MIM:112266"
+                     /translation="MPGLGRRAQWLCWWWGLLCSCCGPPPLRPPLPAAAAAAAGGQLLG
+                     DGGSPGRTEQPPPSPQSSSGFLYRRLKTQEKREMQKEILSVLGLPHRPRPLHGLQQPQP
+                     PALRQQEEQQQQQQLPRGEPPPGRLKSAPLFMLDLYNALSADNDEDGASEGERQQSWPH
+                     EAASSSQRRQPPPGAAHPLNRKSLLAPGSGSGGASPLTSAQDSAFLNDADMVMSFVNLV
+                     EYDKEFSPRQRHHKEFKFNLSQIPEGEVVTAAEFRIYKDCVMGSFKNQTFLISIYQVLQ
+                     EHQHRDSDLFLLDTRVVWASEEGWLEFDITATSNLWVVTPQHNMGLQLSVVTRDGVHVH
+                     PRAAGLVGRDGPYDKQPFMVAFFKVSEVHVRTTRSASSRRRQQSRNRSTQSQDVARVSS
+                     ASDYNSSELKTACRKHELYVSFQDLGWQDWIIAPKGYAANYCDGECSFPLNAHMNATNH
+                     AIVQTLVHLMNPEYVPKPCCAPTKLNAISVLYFDDNSNVILKKYRNMVVRACGCH"
+     sig_peptide     858..917
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="/evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P22004.1)"
+     misc_feature    969..1055
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22004.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1122..1250
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22004.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1290..1457
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22004.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1578..1580
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (P22004.1); glycosylation site"
+     misc_feature    1662..1664
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (P22004.1); glycosylation site"
+     misc_feature    1974..2051
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22004.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     mat_peptide     1980..2396
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /product="Bone morphogenetic protein 6. /id=PRO_0000033871"
+                     /note="propagated from UniProtKB/Swiss-Prot (P22004.1)"
+     misc_feature    2013..2015
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (P22004.1); glycosylation site"
+     misc_feature    2067..2069
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (P22004.1); glycosylation site"
+     misc_feature    2217..2219
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255, ECO:0000269|PubMed:18070108;
+                     propagated from UniProtKB/Swiss-Prot (P22004.1);
+                     glycosylation site"
+     exon            1522..1714
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1715..1863
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1864..2061
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2062..2138
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2139..2249
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2250..3784
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3456..3461
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="hexamer: AATAAT"
+     polyA_site      3475
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+     regulatory      3763..3768
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="hexamer: AATAAA"
+     polyA_site      3784
+                     /gene="BMP6"
+                     /gene_synonym="IO; VGR; VGR1"
+                     /note="major polyA site"
+ORIGIN
+        1 agaaagccca cgttggccgc tgcggggagc gcggcgtgga gaggcgggag accgaattcc
+       61 ggcgccgccg ccgcggccgc tgctcggtgc actagccccc ttccttccca tcctttctgc
+      121 gagcgggttt gctgggcagc cgggcgaccg ccgaacggaa agcaagatcc tcgccgcctc
+      181 cgcttgagga ggcgtgcggc gcgcggagat tttgagtggg agcgacggtg cccgagagct
+      241 caggggcgcg gagttcgtga gcgagaagga agttaaacct cgcggaatag actggcattt
+      301 cgggacgcct tgtcgccgca gcctgggccc tgcaacgggg taaacttcat ggtggccctg
+      361 cgatctgggg aggggcgtgc gccacggtga tgccgggcat ctcccgcagc tcgtgagcgg
+      421 ccccgctccc cgctgccccg ggtcccactc agtcgccagg gagagcgcgg ggcagcgcac
+      481 gtgtgcggcc agcgaggccc agagtgaccg cgccgcgact cgcaggagcc agggcgcagg
+      541 ctgcagtgca gcccggactc agacgcacct ggcctggacc gcgcgcctct agagacctgc
+      601 gcgaggctgt gaggctcccc ttcctcccct ccaagcggtt ctcctggtga tcgccccttc
+      661 gccacctctc tagcctgggc aactgggggc gccccggacg accatgagag ataaggactg
+      721 agggccagga aggggaagcg agcccgccga gaggtggcgg ggactgctca cgccaagggc
+      781 cacagcggcc gcgctccggc ctcgctccgc cgctccacgc ctcgcgggat ccgcgggggc
+      841 agcccggccg ggcggggatg ccggggctgg ggcggagggc gcagtggctg tgctggtggt
+      901 gggggctgct gtgcagctgc tgcgggcccc cgccgctgcg gccgcccttg cccgctgccg
+      961 cggccgccgc cgccgggggg cagctgctgg gggacggcgg gagccccggc cgcacggagc
+     1021 agccgccgcc gtcgccgcag tcctcctcgg gcttcctgta ccggcggctc aagacgcagg
+     1081 agaagcggga gatgcagaag gagatcttgt cggtgctggg gctcccgcac cggccccggc
+     1141 ccctgcacgg cctccaacag ccgcagcccc cggcgctccg gcagcaggag gagcagcagc
+     1201 agcagcagca gctgcctcgc ggagagcccc ctcccgggcg actgaagtcc gcgcccctct
+     1261 tcatgctgga tctgtacaac gccctgtccg ccgacaacga cgaggacggg gcgtcggagg
+     1321 gggagaggca gcagtcctgg ccccacgaag cagccagctc gtcccagcgt cggcagccgc
+     1381 ccccgggcgc cgcgcacccg ctcaaccgca agagccttct ggcccccgga tctggcagcg
+     1441 gcggcgcgtc cccactgacc agcgcgcagg acagcgcctt cctcaacgac gcggacatgg
+     1501 tcatgagctt tgtgaacctg gtggagtacg acaaggagtt ctcccctcgt cagcgacacc
+     1561 acaaagagtt caagttcaac ttatcccaga ttcctgaggg tgaggtggtg acggctgcag
+     1621 aattccgcat ctacaaggac tgtgttatgg ggagttttaa aaaccaaact tttcttatca
+     1681 gcatttatca agtcttacag gagcatcagc acagagactc tgacctgttt ttgttggaca
+     1741 cccgtgtagt atgggcctca gaagaaggct ggctggaatt tgacatcacg gccactagca
+     1801 atctgtgggt tgtgactcca cagcataaca tggggcttca gctgagcgtg gtgacaaggg
+     1861 atggagtcca cgtccacccc cgagccgcag gcctggtggg cagagacggc ccttacgaca
+     1921 agcagccctt catggtggct ttcttcaaag tgagtgaggt gcacgtgcgc accaccaggt
+     1981 cagcctccag ccggcgccga caacagagtc gtaatcgctc tacccagtcc caggacgtgg
+     2041 cgcgggtctc cagtgcttca gattacaaca gcagtgaatt gaaaacagcc tgcaggaagc
+     2101 atgagctgta tgtgagtttc caagacctgg gatggcagga ctggatcatt gcacccaagg
+     2161 gctatgctgc caattactgt gatggagaat gctccttccc actcaacgca cacatgaatg
+     2221 caaccaacca cgcgattgtg cagaccttgg ttcaccttat gaaccccgag tatgtcccca
+     2281 aaccgtgctg tgcgccaact aagctaaatg ccatctcggt tctttacttt gatgacaact
+     2341 ccaatgtcat tctgaaaaaa tacaggaata tggttgtaag agcttgtgga tgccactaac
+     2401 tcgaaaccag atgctgggga cacacattct gccttggatt cctagattac atctgcctta
+     2461 aaaaaacacg gaagcacagt tggaggtggg acgatgagac tttgaaacta tctcatgcca
+     2521 gtgccttatt acccaggaag attttaaagg acctcattaa taatttgctc acttggtaaa
+     2581 tgacgtgagt agttgttggt ctgtagcaag ctgagtttgg atgtctgtag cataaggtct
+     2641 ggtaactgca gaaacataac cgtgaagctc ttcctaccct cctcccccaa aaacccacca
+     2701 aaattagttt tagctgtaga tcaagctatt tggggtgttt gttagtaaat agggaaaata
+     2761 atctcaaagg agttaaatgt attcttggct aaaggatcag ctggttcagt actgtctatc
+     2821 aaaggtagat tttacagaga acagaaatcg gggaagtggg gggaacgcct ctgttcagtt
+     2881 cattcccaga agtccacagg acgcacagcc caggccacag ccagggctcc acggggcgcc
+     2941 cttgtctcag tcattgctgt tgtatgttcg tgctggagtt ttgttggtgt gaaaatacac
+     3001 ttatttcagc caaaacatac catttctaca cctcaatcct ccatttgctg tactctttgc
+     3061 tagtaccaaa agtagactga ttacactgag gtgaggctac aaggggtgtg taaccgtgta
+     3121 acacgtgaag gcaatgctca cctcttcttt accagaacgg ttctttgacc agcacattaa
+     3181 cttctggact gccggctcta gtaccttttc agtaaagtgg ttctctgcct ttttactata
+     3241 cagcatacca cgccacaggg ttagaaccaa cgaagaaaat aaaatgaggg tgcccagctt
+     3301 ataagaatgg tgttaggggg atgagcatgc tgtttatgaa cggaaatcat gatttccctt
+     3361 gtagaaagtg aggctcagat taaattttag aatattttct aaatgtcttt ttcacaatca
+     3421 tgtactggga aggcaatttc atactaaact gattaaataa tacatttata atctacaact
+     3481 gtttgcactt acagcttttt ttgtaaatat aaactataat ttattgtcta ttttatatct
+     3541 gttttgctgt aacattgaag gaaagaccag acttttaaaa aaaaagagtt tatttagaaa
+     3601 gtatcatagt gtaaacaaac aaattgtacc actttgattt tcttggaata caagactcgt
+     3661 gatgcaaagc tgaagttgtg tgtacaagac tcttgacagt tgtgcttctc taggaggttg
+     3721 ggttttttta aaaaaagaat tatctgtgaa ccatacgtga ttaataaaga tttcctttaa
+     3781 ggca
+//

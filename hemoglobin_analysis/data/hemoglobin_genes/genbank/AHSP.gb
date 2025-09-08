@@ -1,0 +1,187 @@
+LOCUS       NM_016633                568 bp    mRNA    linear   PRI 01-JUL-2018
+DEFINITION  Homo sapiens alpha hemoglobin stabilizing protein (AHSP), transcript
+            variant 1, mRNA.
+ACCESSION   NM_016633
+VERSION     NM_016633.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 568)
+  AUTHORS   Surapolchai P, Chuansumrit A, Sirachainan N, Kadegasem P, Leung KC
+            and So CC.
+  TITLE     A molecular study on the role of alpha-hemoglobin-stabilizing
+            protein in hemoglobin H disease
+  JOURNAL   Ann. Hematol. 96 (6), 1005-1014 (2017)
+   PUBMED   28337528
+  REMARK    GeneRIF: Findings indicate that alpha-hemoglobin-stabilizing protein
+            (AHSP) expression is a biomarker of hemoglobin H (HbH) disease
+            severity and infer an important role of AHSP in modulating the
+            pathophysiology of this disease.
+REFERENCE   2  (bases 1 to 568)
+  AUTHORS   Strader MB, Kassa T, Meng F, Wood FB, Hirsch RE, Friedman JM and
+            Alayash AI.
+  TITLE     Oxidative instability of hemoglobin E (beta26 Glu-->Lys) is
+            increased in the presence of free alpha subunits and reversed by
+            alpha-hemoglobin stabilizing protein (AHSP): Relevance to
+            HbE/beta-thalassemia
+  JOURNAL   Redox Biol 8, 363-374 (2016)
+   PUBMED   26995402
+  REMARK    GeneRIF: In the presence of free alpha subunits and H2O2, both HbA
+            and HbE showed bCys93 oxidation which increased with higher H2O2
+            concentrations. In the presence of Alpha-hemoglobin stabilizing
+            protein (AHSP)Cys93 oxidation was substantially reduced in both
+            proteins.in the presence of excess free alpha-subunit and under the
+            same oxidative conditions, these events are substantially increased
+            for HbE compared to HbA
+REFERENCE   3  (bases 1 to 568)
+  AUTHORS   Yu H, Pinkus JL and Pinkus GS.
+  TITLE     alpha-Hemoglobin-stabilizing Protein: An Effective Marker for
+            Erythroid Precursors in Bone Marrow Biopsy Specimens
+  JOURNAL   Appl. Immunohistochem. Mol. Morphol. 24 (1), 51-56 (2016)
+   PUBMED   25611244
+  REMARK    GeneRIF: AHSP is predominantly expressed in erythroid precursors in
+            bone marrow biopsy specimens from patients with hematologic
+            malignancies.
+REFERENCE   4  (bases 1 to 568)
+  AUTHORS   Mahmoud HM, Shoeib AA, Abd El Ghany SM, Reda MM and Ragab IA.
+  TITLE     Study of alpha hemoglobin stabilizing protein expression in patients
+            with beta thalassemia and sickle cell anemia and its impact on
+            clinical severity
+  JOURNAL   Blood Cells Mol. Dis. 55 (4), 358-362 (2015)
+   PUBMED   26460260
+  REMARK    GeneRIF: AHSP expression was higher in patients with sickle cell
+            anemia versus thalassemia, with no significant difference between
+            BTM and BTI. Expression was higher in patients with NTDT and on
+            hydroxyurea therapy.
+REFERENCE   5  (bases 1 to 568)
+  AUTHORS   Sumera A, Radhakrishnan A, Baba AA and George E.
+  TITLE     Review: Beta-thalassemia and molecular chaperones
+  JOURNAL   Blood Cells Mol. Dis. 54 (4), 348-352 (2015)
+   PUBMED   25648458
+  REMARK    GeneRIF: In maturing RBC progenitors AHSP bind to free alpha-globin
+            chains to increase the HbA production. (Review) Review article
+REFERENCE   6  (bases 1 to 568)
+  AUTHORS   Gell D, Kong Y, Eaton SA, Weiss MJ and Mackay JP.
+  TITLE     Biophysical characterization of the alpha-globin binding protein
+            alpha-hemoglobin stabilizing protein
+  JOURNAL   J. Biol. Chem. 277 (43), 40602-40609 (2002)
+   PUBMED   12192002
+  REMARK    GeneRIF: determination as a predominantly alpha-helical globular
+            protein with a somewhat asymmetric shape
+REFERENCE   7  (bases 1 to 568)
+  AUTHORS   Kihm AJ, Kong Y, Hong W, Russell JE, Rouda S, Adachi K, Simon MC,
+            Blobel GA and Weiss MJ.
+  TITLE     An abundant erythroid protein that stabilizes free alpha-haemoglobin
+  JOURNAL   Nature 417 (6890), 758-763 (2002)
+   PUBMED   12066189
+  REMARK    GeneRIF: An abundant erythroid protein that stabilizes free
+            alpha-haemoglobin.
+REFERENCE   8  (bases 1 to 568)
+  AUTHORS   Miele G, Manson J and Clinton M.
+  TITLE     A novel erythroid-specific marker of transmissible spongiform
+            encephalopathies
+  JOURNAL   Nat. Med. 7 (3), 361-364 (2001)
+   PUBMED   11231637
+REFERENCE   9  (bases 1 to 568)
+  AUTHORS   Gubin AN, Njoroge JM, Bouffard GG and Miller JL.
+  TITLE     Gene expression in proliferating human erythroid cells
+  JOURNAL   Genomics 59 (2), 168-177 (1999)
+   PUBMED   10409428
+REFERENCE   10  (bases 1 to 568)
+  AUTHORS   Choi SS, Yun JW, Choi EK, Cho YG, Sung YC and Shin HS.
+  TITLE     Construction of a gene expression profile of a human fetal liver by
+            single-pass cDNA sequencing
+  JOURNAL   Mamm. Genome 6 (9), 653-657 (1995)
+   PUBMED   8535075
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AF112995.1, BG942683.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1968968,
+            SAMEA2142853 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC106730.2, H94920.1,
+            BG940214.1, AF112995.1 and BG944022.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On Nov 23, 2018 this sequence was replaced by
+            NM_016633.4.
+            On Dec 30, 2015 this sequence version replaced NM_016633.2.
+            Summary: This gene encodes a molecular chaperone which binds
+            specifically to free alpha-globin and is involved in hemoglobin
+            assembly. The encoded protein binds to monomeric alpha-globin until
+            it has been transferred to beta-globin to form a heterodimer, which
+            in turn binds to another heterodimer to form the stable tetrameric
+            hemoglobin. Alternative splicing results in multiple transcript
+            variants. [provided by RefSeq, Dec 2015].
+            Transcript Variant: This variant (1) represents the longest
+            transcript. Variants 1, 2 and 3 encode the same protein.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..568
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p11.2"
+     gene            1..568
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+                     /note="alpha hemoglobin stabilizing protein"
+                     /db_xref="GeneID:51327"
+                     /db_xref="HGNC:HGNC:18075"
+                     /db_xref="MIM:605821"
+     exon            1..111
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    107..109
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+                     /note="upstream in-frame stop codon"
+     exon            112..190
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             116..424
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+                     /note="alpha hemoglobin stabilising protein; erythroid
+                     differentiation associated factor; erythroid
+                     differentiation-related factor"
+                     /codon_start=1
+                     /product="alpha-hemoglobin-stabilizing protein"
+                     /protein_id="NP_057717.1"
+                     /db_xref="CCDS:CCDS10716.1"
+                     /db_xref="GeneID:51327"
+                     /db_xref="HGNC:HGNC:18075"
+                     /db_xref="MIM:605821"
+                     /translation="MALLKANKDLISAGLKEFSVLLNQQVFNDPLVSEEDMVTVVEDWM
+                     NFYINYYRQQVTGEPQERDKALQELRQELNTLANPFLAKYRDFLKSHELPSHPPPSS"
+     exon            191..537
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      509..514
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+     polyA_site      537
+                     /gene="AHSP"
+                     /gene_synonym="EDRF; ERAF"
+ORIGIN
+        1 tctatcttag gctgacactt gactccttgc ctacatctat agcttggcac agagagattc
+       61 acgcaccctc aagagtgtgg gtgagacata tacagcctgt tagacctgaa ggcagatggc
+      121 tcttcttaag gccaataagg atctcatttc cgcaggattg aaggagttca gcgttctgct
+      181 gaatcagcag gtcttcaatg atcctctcgt ctctgaagaa gacatggtga ctgtggtgga
+      241 ggactggatg aacttctaca tcaactatta caggcagcag gtgacagggg agccccaaga
+      301 gcgagacaag gctctgcagg agcttcggca agagctgaac actctggcca accctttcct
+      361 ggccaagtac agggacttcc tgaagtctca tgagctcccg agtcacccac cgccctcctc
+      421 ctagctcagg gacccagccc ctcctctctg agaaactctg accttcatgt ccttaggctg
+      481 tgctcctgcc actctaccct gacacctcaa taaagaccag tgctggtttt gttggacaaa
+      541 aaaaaaaaaa aaaaaaaaaa aaaaaaaa
+//

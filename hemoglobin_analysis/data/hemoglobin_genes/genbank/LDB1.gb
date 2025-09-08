@@ -1,0 +1,287 @@
+LOCUS       NM_001113407            3217 bp    mRNA    linear   PRI 06-AUG-2019
+DEFINITION  Homo sapiens LIM domain binding 1 (LDB1), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001113407
+VERSION     NM_001113407.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3217)
+  AUTHORS   Hubel P, Urban C, Bergant V, Schneider WM, Knauer B, Stukalov A,
+            Scaturro P, Mann A, Brunotte L, Hoffmann HH, Schoggins JW, Schwemmle
+            M, Mann M, Rice CM and Pichlmair A.
+  TITLE     A protein-interaction network of interferon-stimulated genes extends
+            the innate immune system landscape
+  JOURNAL   Nat. Immunol. 20 (4), 493-502 (2019)
+   PUBMED   30833792
+REFERENCE   2  (bases 1 to 3217)
+  AUTHORS   van Tienen LM, Mieszczanek J, Fiedler M, Rutherford TJ and Bienz M.
+  TITLE     Constitutive scaffolding of multiple Wnt enhanceosome components by
+            Legless/BCL9
+  JOURNAL   Elife 6, e20882 (2017)
+   PUBMED   28296634
+  REMARK    Erratum:[Elife. 2017 Mar 30;6:. PMID: 28358670] Publication Status:
+            Online-Only
+REFERENCE   3  (bases 1 to 3217)
+  AUTHORS   Ediger,B.N., Lim,H.W., Juliana,C., Groff,D.N., Williams,L.T.,
+            Dominguez,G., Liu,J.H., Taylor,B.L., Walp,E.R., Kameswaran,V.,
+            Yang,J., Liu,C., Hunter,C.S., Kaestner,K.H., Naji,A., Li,C.,
+            Sander,M., Stein,R., Sussel,L., Won,K.J., May,C.L. and Stoffers,D.A.
+  TITLE     LIM domain-binding 1 maintains the terminally differentiated state
+            of pancreatic beta cells
+  JOURNAL   J. Clin. Invest. 127 (1), 215-229 (2017)
+   PUBMED   27941246
+  REMARK    GeneRIF: LDB1 maintains the terminally differentiated state of beta
+            cells and is a component of active enhancers in both murine and
+            human islets.
+REFERENCE   4  (bases 1 to 3217)
+  AUTHORS   Garcia SA, Swiersy A, Radhakrishnan P, Branchi V, Kanth Nanduri L,
+            Gyorffy B, Betzler AM, Bork U, Kahlert C, Reissfelder C, Rahbari NN,
+            Weitz J and Scholch S.
+  TITLE     LDB1 overexpression is a negative prognostic factor in colorectal
+            cancer
+  JOURNAL   Oncotarget 7 (51), 84258-84270 (2016)
+   PUBMED   27713177
+  REMARK    GeneRIF: Data indicate that LIM-domain-binding protein 1 (LDB1) has
+            a strong role in colorectal cancer (CRC) progression.
+REFERENCE   5  (bases 1 to 3217)
+  AUTHORS   Layer JH, Alford CE, McDonald WH and Dave UP.
+  TITLE     LMO2 Oncoprotein Stability in T-Cell Leukemia Requires Direct LDB1
+            Binding
+  JOURNAL   Mol. Cell. Biol. 36 (3), 488-506 (2015)
+   PUBMED   26598604
+  REMARK    GeneRIF: Alanine scanning mutagenesis of the LIM interaction domain
+            of LDB1 revealed a discrete motif, R(320)LITR, required for LMO2
+            binding. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 3217)
+  AUTHORS   Jurata LW, Pfaff SL and Gill GN.
+  TITLE     The nuclear LIM domain interactor NLI mediates homo- and
+            heterodimerization of LIM domain transcription factors
+  JOURNAL   J. Biol. Chem. 273 (6), 3152-3157 (1998)
+   PUBMED   9452425
+REFERENCE   7  (bases 1 to 3217)
+  AUTHORS   Visvader JE, Mao X, Fujiwara Y, Hahm K and Orkin SH.
+  TITLE     The LIM-domain binding protein Ldb1 and its partner LMO2 act as
+            negative regulators of erythroid differentiation
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 94 (25), 13707-13712 (1997)
+   PUBMED   9391090
+REFERENCE   8  (bases 1 to 3217)
+  AUTHORS   Jurata LW and Gill GN.
+  TITLE     Functional analysis of the nuclear LIM domain interactor NLI
+  JOURNAL   Mol. Cell. Biol. 17 (10), 5688-5698 (1997)
+   PUBMED   9315627
+REFERENCE   9  (bases 1 to 3217)
+  AUTHORS   Wadman IA, Osada H, Grutz GG, Agulnick AD, Westphal H, Forster A and
+            Rabbitts TH.
+  TITLE     The LIM-only protein Lmo2 is a bridging molecule assembling an
+            erythroid, DNA-binding complex which includes the TAL1, E47, GATA-1
+            and Ldb1/NLI proteins
+  JOURNAL   EMBO J. 16 (11), 3145-3157 (1997)
+   PUBMED   9214632
+REFERENCE   10  (bases 1 to 3217)
+  AUTHORS   Osada H, Grutz GG, Axelson H, Forster A and Rabbitts TH.
+  TITLE     LIM-only protein Lmo2 forms a protein complex with erythroid
+            transcription factor GATA-1
+  JOURNAL   Leukemia 11 Suppl 3, 307-312 (1997)
+   PUBMED   9209374
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1163657.507930.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2467148
+            [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            CB988590.1, CV575131.1, BC009246.2, AL500527.19 and AW137421.1.
+            [WARNING] On Aug 8, 2019 this sequence was replaced by
+            NM_001113407.3.
+            On Mar 29, 2016 this sequence version replaced NM_001113407.1.
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..3217
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10q24.32"
+     gene            1..3217
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /note="LIM domain binding 1"
+                     /db_xref="GeneID:8861"
+                     /db_xref="HGNC:HGNC:6532"
+                     /db_xref="MIM:603451"
+     exon            1..388
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             364..1599
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     carboxy terminal LIM domain protein 2; LIM domain-binding
+                     factor-1; LIM domain-binding protein 1; nuclear LIM
+                     interactor; LIM domain-binding factor CLIM2;
+                     carboxyl-terminal LIM domain-binding protein 2"
+                     /codon_start=1
+                     /product="LIM domain-binding protein 1 isoform 1"
+                     /protein_id="NP_001106878.1"
+                     /db_xref="CCDS:CCDS44472.1"
+                     /db_xref="GeneID:8861"
+                     /db_xref="HGNC:HGNC:6532"
+                     /db_xref="MIM:603451"
+                     /translation="MSVGCACPGCSSKSFKLYSPKEPPNGNAFPPFHPGTMLDRDVGPT
+                     PMYPPTYLEPGIGRHTPYGNQTDYRIFELNKRLQNWTEECDNLWWDAFTTEFFEDDAML
+                     TITFCLEDGPKRYTIGRTLIPRYFRSIFEGGATELYYVLKHPKEAFHSNFVSLDCDQGS
+                     MVTQHGKPMFTQVCVEGRLYLEFMFDDMMRIKTWHFSIRQHRELIPRSILAMHAQDPQM
+                     LDQLSKNITRCGLSNSTLNYLRLCVILEPMQELMSRHKTYSLSPRDCLKTCLFQKWQRM
+                     VAPPAEPTRQQPSKRRKRKMSGGSTMSSGGGNTNNSNSKKKSPASTFALSSQVPDVMVV
+                     GEPTLMGGEFGDEDERLITRLENTQFDAANGIDDEDSFNNSPALGANSPWNSKPPSSQE
+                     SKSENPTSQASQ"
+     misc_feature    367..369
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylserine. {ECO:0000244|PubMed:19413330};
+                     propagated from UniProtKB/Swiss-Prot (Q86U70.2);
+                     acetylation site"
+     misc_feature    544..546
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000250|UniProtKB:P70662};
+                     propagated from UniProtKB/Swiss-Prot (Q86U70.2);
+                     phosphorylation site"
+     misc_feature    1156..1158
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (Q86U70.2);
+                     phosphorylation site"
+     misc_feature    1267..1269
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P70662};
+                     propagated from UniProtKB/Swiss-Prot (Q86U70.2);
+                     phosphorylation site"
+     misc_feature    1369..1485
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86U70.2);
+                     Region: LIM-binding domain (LID). {ECO:0000250}"
+     exon            389..491
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            492..536
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            537..612
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            613..715
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            716..888
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            889..1011
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1012..1095
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1096..1219
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1220..1368
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1369..3200
+                     /gene="LDB1"
+                     /gene_synonym="CLIM-2; CLIM2; LDB-1; NLI"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN
+        1 ggcgcgaggg agcgcgagcg cgagggcgga gaggggggcg ctcggcgacg gcggcgggag
+       61 cgcacagaca cgcacacgca cacgcgcaca cacgcacaca cggacacaca ctccgcggac
+      121 tcacacccgc gcgcacacac gcagaggccg ctcgccttcc tgcctggctt ccttcctgtc
+      181 tgctccgcgc ctgacaggcc cctcgccgca gccaggggcc gcccgcaccg ggccgaggcc
+      241 gggccgggcc ggcggcgagc gcagcggggg ccgcgggcgg cggcggcggc tcatgcccgg
+      301 cctgtccccg cgaggggcgg gcaccgtgac tcggctgggc ccccagaggc gggcgatgtg
+      361 aagatgtcag tgggctgtgc ctgtcctggt tgttcctcaa agtcattcaa gctgtactcg
+      421 ccgaaggagc ccccgaacgg caacgccttt ccccccttcc atcccggcac catgctggat
+      481 agggatgtgg gcccaactcc catgtatccg cctacatacc tggagccagg gattgggagg
+      541 cacacaccat atggcaacca aactgactac agaatatttg agcttaacaa acggcttcag
+      601 aactggacag aggagtgtga caatctctgg tgggatgcat tcacgactga gttctttgag
+      661 gatgatgcca tgttgaccat cactttctgc ctggaggatg gaccaaagag atataccatt
+      721 ggccggaccc tgatcccacg ctacttccgc agcatctttg aggggggtgc tacggagctg
+      781 tactatgttc ttaagcaccc caaggaggca ttccacagca actttgtgtc cctcgactgt
+      841 gaccagggca gcatggtgac ccagcatggc aagcccatgt tcacccaggt gtgtgtggag
+      901 ggccggttgt acctggagtt catgtttgac gacatgatgc ggataaagac gtggcacttc
+      961 agcatccggc agcaccgaga gctcatcccc cgcagcatcc ttgccatgca tgcccaagac
+     1021 ccccagatgt tggatcagct ctccaaaaac atcactcggt gtgggctgtc caattccact
+     1081 ctcaactacc tccgactctg tgtgatactc gagcccatgc aagagctcat gtcacgccac
+     1141 aagacctaca gcctcagccc ccgcgactgc ctcaagacct gccttttcca gaagtggcag
+     1201 cgcatggtag caccccctgc ggagcccaca cgtcagcagc ccagcaaacg gcggaaacgg
+     1261 aagatgtcag ggggcagcac catgagctct ggtggtggca acaccaacaa cagcaacagc
+     1321 aagaagaaga gcccagctag caccttcgcc ctctccagcc aggtacctga tgtgatggtg
+     1381 gtgggggagc ccaccctgat gggcggggag ttcggggacg aggacgagag gctcatcacc
+     1441 cggctggaga acacccagtt tgacgcagcc aacggcattg acgacgagga cagctttaac
+     1501 aactcccctg cactgggcgc caacagcccc tggaacagca agcctccgtc cagccaagaa
+     1561 agcaaatcgg agaaccccac gtcacaggcc tcccagtaaa aggccctgct gtggccaccc
+     1621 agtgctctgc ctacctgccc cacccctcac agccccaggg agcagaagac agaatgaaga
+     1681 gactgagcat ctaaaatggg cagcctccat ccacccgctt cagggaggaa ctggactctc
+     1741 tgggggcagg tgccaagatt tgccccccca gtggccctgg gctgggcctg gcctctacag
+     1801 agccttttag ggggaggggg tactcatgtg gatgcctact tggaacctgg gcctctgaga
+     1861 catgtcctga ccacccccca gggcatttgc ctccatcttc accccagatt gtgggtttcc
+     1921 catccccctg actttacccc tttcaagcct ggggttgtct atacccacag cccttaggga
+     1981 cttaaagtta cggggcttcg ttgaatgctc cttcccctag gcagctggta atagaggggt
+     2041 aaagctctgg gcccctcctc cctgctgcca cttatcccag ctccaagttt ttttaaaaat
+     2101 aatattatta aaaatgtaag ttaaaaaaaa aatcactcat gtccccccct cttcccccta
+     2161 ttaaaagtcc agctacctcc ctactcttgg cagatggggg cctagggcct aggtgggggt
+     2221 gagagtgggg gagggaggtg tgcataccat tttatatggt gtgagagctt cagaccaagg
+     2281 agacatttca ccatctctcc ccctttcctc tggggtgact gcagttgagg aaagcatgcc
+     2341 atggggtagg gggacattgg tggccacatt ttggtgacag acccctgctg ttgtctctgt
+     2401 gtccccattc tctggactct ggcctgccct cctagtgctt gtgactccct ctcttccagc
+     2461 cccaccccca tggtatgtat attccttaca agtcctccac aagagcagct gtctaggatg
+     2521 cggggagggg aggctccttc ccttagggag cgtggagaga agggagcagc cttgttgctg
+     2581 tatttttggt tttgtttcag ttgggcaggc atgggatggg agaggggctc agccactttc
+     2641 ctccagaatc ttccctcagc ccctccaact gcatatgtaa tcctactctg tccttcatag
+     2701 aggggaagga gccacagatg acatcccagt tctaagccca ccagggagga acaggcctct
+     2761 gtccccatag gtgaggtaga ggtagagggt cttcacctgc cagtatcccc tgccgctcct
+     2821 tcctcacaga aggaaggagg aggaggcagc cgggatcctc ggctctgcca gggtgcagcc
+     2881 aggagcaggg tttcacgcag ctggtccagc tctgtggctt tgctgccttt tcctgtggcc
+     2941 agtcccagga agtgctaaca ccacctctct ccccactctt ccctctggat tctggggtcc
+     3001 cccacaccgt atttcctcca ctccagctgc cacttttgga agggtattga gtcaggagct
+     3061 gagggaaggg gtgaggaagg tggacatccc atcccaactg taatgccttt tttttttttt
+     3121 tttttttttt tttttttttt tttttttttt gggccatttg agtcatgtat ggtaccaatc
+     3181 aataaagaga cttttcggtt aaaaaaaaaa aaaaaaa
+//

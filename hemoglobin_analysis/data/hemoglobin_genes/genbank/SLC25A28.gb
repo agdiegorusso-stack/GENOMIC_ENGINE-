@@ -1,0 +1,300 @@
+LOCUS       NM_001319043            3804 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens eukaryotic translation initiation factor 2A (EIF2A),
+            transcript variant 2, mRNA.
+ACCESSION   NM_001319043
+VERSION     NM_001319043.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3804)
+  AUTHORS   Grove,D.J., Russell,P.J. and Kearse,M.G.
+  TITLE     To initiate or not to initiate: A critical assessment of eIF2A,
+            eIF2D, and MCT-1.DENR to deliver initiator tRNA to ribosomes
+  JOURNAL   Wiley Interdiscip Rev RNA 15 (2), e1833 (2024)
+   PUBMED   38433101
+  REMARK    GeneRIF: To initiate or not to initiate: A critical assessment of
+            eIF2A, eIF2D, and MCT-1.DENR to deliver initiator tRNA to ribosomes.
+            Review article
+REFERENCE   2  (bases 1 to 3804)
+  AUTHORS   Grove,D.J., Levine,D.J. and Kearse,M.G.
+  TITLE     Increased levels of eIF2A inhibit translation by sequestering 40S
+            ribosomal subunits
+  JOURNAL   Nucleic Acids Res 51 (18), 9983-10000 (2023)
+   PUBMED   37602404
+  REMARK    GeneRIF: Increased levels of eIF2A inhibit translation by
+            sequestering 40S ribosomal subunits.
+REFERENCE   3  (bases 1 to 3804)
+  AUTHORS   Wei,L.H., Sun,Y. and Guo,J.U.
+  TITLE     Genome-wide CRISPR screens identify noncanonical translation factor
+            eIF2A as an enhancer of SARS-CoV-2 programmed -1 ribosomal
+            frameshifting
+  JOURNAL   Cell Rep 42 (8), 112987 (2023)
+   PUBMED   37581984
+  REMARK    GeneRIF: Genome-wide CRISPR screens identify noncanonical
+            translation factor eIF2A as an enhancer of SARS-CoV-2 programmed -1
+            ribosomal frameshifting.
+REFERENCE   4  (bases 1 to 3804)
+  AUTHORS   Waisner,H., Grieshaber,B., Saud,R., Henke,W., Stephens,E.B. and
+            Kalamvoki,M.
+  TITLE     SARS-CoV-2 Harnesses Host Translational Shutoff and Autophagy To
+            Optimize Virus Yields: the Role of the Envelope (E) Protein
+  JOURNAL   Microbiol Spectr 11 (1), e0370722 (2023)
+   PUBMED   36622177
+REFERENCE   5  (bases 1 to 3804)
+  AUTHORS   Kim,H., Aponte-Diaz,D., Sotoudegan,M.S., Shengjuler,D., Arnold,J.J.
+            and Cameron,C.E.
+  TITLE     The enterovirus genome can be translated in an IRES-independent
+            manner that requires the initiation factors eIF2A/eIF2D
+  JOURNAL   PLoS Biol 21 (1), e3001693 (2023)
+   PUBMED   36689548
+  REMARK    GeneRIF: The enterovirus genome can be translated in an
+            IRES-independent manner that requires the initiation factors
+            eIF2A/eIF2D. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 3804)
+  AUTHORS   Talmud,P.J., Drenos,F., Shah,S., Shah,T., Palmen,J., Verzilli,C.,
+            Gaunt,T.R., Pallas,J., Lovering,R., Li,K., Casas,J.P., Sofat,R.,
+            Kumari,M., Rodriguez,S., Johnson,T., Newhouse,S.J., Dominiczak,A.,
+            Samani,N.J., Caulfield,M., Sever,P., Stanton,A., Shields,D.C.,
+            Padmanabhan,S., Melander,O., Hastie,C., Delles,C., Ebrahim,S.,
+            Marmot,M.G., Smith,G.D., Lawlor,D.A., Munroe,P.B., Day,I.N.,
+            Kivimaki,M., Whittaker,J., Humphries,S.E. and Hingorani,A.D.
+  CONSRTM   ASCOT investigators; NORDIL investigators; BRIGHT Consortium
+  TITLE     Gene-centric association signals for lipids and apolipoproteins
+            identified via the HumanCVD BeadChip
+  JOURNAL   Am J Hum Genet 85 (5), 628-642 (2009)
+   PUBMED   19913121
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   7  (bases 1 to 3804)
+  AUTHORS   Komar,A.A., Gross,S.R., Barth-Baus,D., Strachan,R., Hensold,J.O.,
+            Goss Kinzy,T. and Merrick,W.C.
+  TITLE     Novel characteristics of the biological properties of the yeast
+            Saccharomyces cerevisiae eukaryotic initiation factor 2A
+  JOURNAL   J Biol Chem 280 (16), 15601-15611 (2005)
+   PUBMED   15718232
+REFERENCE   8  (bases 1 to 3804)
+  AUTHORS   Zoll,W.L., Horton,L.E., Komar,A.A., Hensold,J.O. and Merrick,W.C.
+  TITLE     Characterization of mammalian eIF2A and identification of the yeast
+            homolog
+  JOURNAL   J Biol Chem 277 (40), 37079-37087 (2002)
+   PUBMED   12133843
+REFERENCE   9  (bases 1 to 3804)
+  AUTHORS   Sudhakar,A., Krishnamoorthy,T., Jain,A., Chatterjee,U.,
+            Hasnain,S.E., Kaufman,R.J. and Ramaiah,K.V.
+  TITLE     Serine 48 in initiation factor 2 alpha (eIF2 alpha) is required for
+            high-affinity interaction between eIF2 alpha(P) and eIF2B
+  JOURNAL   Biochemistry 38 (46), 15398-15405 (1999)
+   PUBMED   10563826
+REFERENCE   10  (bases 1 to 3804)
+  AUTHORS   Merrick,W.C.
+  TITLE     Mechanism and regulation of eukaryotic protein synthesis
+  JOURNAL   Microbiol Rev 56 (2), 291-315 (1992)
+   PUBMED   1620067
+  REMARK    Review article
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK298586.1, SRR11853563.24049.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1968189 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC107426.13.
+            On Aug 13, 2020 this sequence version replaced NM_001319043.1.
+            Summary: This gene encodes a eukaryotic translation initiation
+            factor that catalyzes the formation of puromycin-sensitive 80 S
+            preinitiation complexes and the poly(U)-directed synthesis of
+            polyphenylalanine at low concentrations of Mg2+. This gene should
+            not be confused with eIF2-alpha (EIF2S1, Gene ID: 1965), the alpha
+            subunit of the eIF2 translation initiation complex. Although both
+            of these proteins function in binding initiator tRNA to the 40 S
+            ribosomal subunit, the encoded protein does so in a codon-dependent
+            manner, whereas eIF2 complex requires GTP. Alternative splicing of
+            this gene results in multiple transcript variants encoding
+            different isoforms. [provided by RefSeq, Jan 2016].
+            Transcript Variant: This variant (2) lacks an alternate in-frame
+            exon in the 5' coding region, compared to variant 1. The encoded
+            isoform (2) is shorter than isoform 1.
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3804
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3q25.1"
+     gene            1..3804
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /note="eukaryotic translation initiation factor 2A"
+                     /db_xref="GeneID:83939"
+                     /db_xref="HGNC:HGNC:3254"
+                     /db_xref="MIM:609234"
+     exon            1..44
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             17..1699
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /note="isoform 2 is encoded by transcript variant 2; 65 kDa
+                     eukaryotic translation initiation factor 2A; eukaryotic
+                     translation initiation factor 2A, 65kDa"
+                     /codon_start=1
+                     /product="eukaryotic translation initiation factor 2A
+                     isoform 2"
+                     /protein_id="NP_001305972.1"
+                     /db_xref="CCDS:CCDS82861.1"
+                     /db_xref="GeneID:83939"
+                     /db_xref="HGNC:HGNC:3254"
+                     /db_xref="MIM:609234"
+                     /translation="MAPSTPLLTVRGSEGLYMVNGPPHFTESTVFPRVNIISVTNKGLL
+                     HSFDLLKAVCLEFSPKNTVLATWQPYTTSKDGTAGIPNLQLYDVKTGTCLKSFIQKKMQ
+                     NWCPSWSEDETLCARNVNNEVHFFENNNFNTIANKLHLQKINDFVLSPGPQPYKVAVYV
+                     PGSKGAPSFVRLYQYPNFAGPHAALANKSFFKADKVTMLWNKKATAVLVIASTDVDKTG
+                     ASYYGEQTLHYIATNGESAVVQLPKNGPIYDVVWNSSSTEFCAVYGFMPAKATIFNLKC
+                     DPVFDFGTGPRNAAYYSPHGHILVLAGFGNLRGQMEVWDVKNYKLISKPVASDSTYFAW
+                     CPDGEHILTATCAPRLRVNNGYKIWHYTGSILHKYDVPSNAELWQVSWQPFLDGIFPAK
+                     TITYQAVPSEVPNEEPKVATAYRPPALRNKPITNSKLHEEEPPQNMKPQSGNDKPLSKT
+                     ALKNQRKHEAKKAAKQEARSDKSPDLAPTPAPQSTPRNTVSQSISGDPEIDKKIKNLKK
+                     KLKAIEQLKEQAATGKQLEKNQLEKIQKETALLQELEDLELGI"
+     exon            45..114
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            115..233
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            234..333
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            334..416
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            417..490
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            491..635
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            636..752
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            753..1324
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1325..1438
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1439..1567
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1568..1633
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1634..3804
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2009..2014
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /note="hexamer: AACAAA"
+     polyA_site      2030
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /note="major polyA site"
+     regulatory      3782..3787
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+                     /note="hexamer: AATAAA"
+     polyA_site      3804
+                     /gene="EIF2A"
+                     /gene_synonym="CDA02; EIF-2A; MST089; MSTP004; MSTP089"
+ORIGIN
+        1 ctctttccgg gacaacatgg cgccgtccac gccgctcttg acagtccgag gatcagaagg
+       61 actgtacatg gtgaatggac caccacattt tacagaaagc acagtgtttc caagagtaaa
+      121 tattatcagt gtcactaaca agggactact gcactccttc gacctcctga aggcagtttg
+      181 ccttgaattc tcacccaaaa atactgtcct ggcaacgtgg cagccttaca ctacttctaa
+      241 agatggcaca gctgggatac ccaacctaca actttatgat gtgaaaactg ggacatgttt
+      301 gaaatctttc atccagaaaa aaatgcaaaa ttggtgtcca tcctggtcag aagatgaaac
+      361 tctttgtgcc cgcaatgtta acaatgaagt tcacttcttt gaaaacaaca attttaacac
+      421 aattgcaaat aaattgcatt tgcaaaaaat taatgatttt gtattatcac ctggacccca
+      481 accatacaag gtggctgtct atgttccagg aagtaaaggt gcaccttcat ttgttagatt
+      541 atatcagtac cccaactttg ctggacctca tgcagcttta gctaataaaa gtttctttaa
+      601 ggcagataaa gttacaatgc tgtggaataa aaaagctact gctgtgttgg taatagctag
+      661 cacagatgtt gacaagacag gagcttccta ctatggagaa caaactctac actacattgc
+      721 aacaaatgga gaaagtgctg tagtgcaatt accaaaaaat ggccccattt atgatgtagt
+      781 ttggaattct agttctactg agttttgtgc tgtatatggt tttatgcctg ccaaagcgac
+      841 aattttcaac ttgaaatgtg atcctgtatt tgactttgga actggtcctc gtaatgcagc
+      901 ctactatagc cctcatggac atatattagt attagctgga tttggaaatc tgaggggaca
+      961 aatggaagtg tgggatgtga aaaactacaa acttatttct aaaccggtgg cttctgattc
+     1021 tacatatttt gcttggtgcc cggatggtga gcatatttta acagctacat gtgctcccag
+     1081 gttacgggtt aataatggat acaaaatttg gcattatact ggctctatct tgcacaagta
+     1141 tgatgtgcca tcaaatgcag aattatggca ggtttcttgg cagccatttt tggatggaat
+     1201 atttccagca aaaacaataa cttaccaagc agttccaagt gaagtaccca atgaggaacc
+     1261 taaagttgca acagcttata gacccccagc tttaagaaat aaaccaatca ccaattccaa
+     1321 attgcatgaa gaggaaccac ctcagaatat gaaaccacaa tcaggaaacg ataagccatt
+     1381 atcaaaaaca gctcttaaaa atcaaaggaa gcatgaagct aagaaagctg caaagcagga
+     1441 agcaagaagt gacaagagtc cagatttggc acctactcct gccccacaga gcacaccacg
+     1501 aaacactgtc tctcagtcaa tttctgggga ccctgagata gacaaaaaaa tcaagaacct
+     1561 aaagaagaaa ctgaaagcaa tcgaacaact gaaagaacaa gcagcaactg gaaaacagct
+     1621 agaaaaaaat cagttggaga aaattcagaa agaaacagcc cttctccagg agctggaaga
+     1681 tttggaattg ggtatttaaa gattcacgga aagcaagttg atgaccagaa atcagtgcaa
+     1741 acacatcttc tgttaaaccc attggtatac acagaatatt cctgtgccca cacttaatgt
+     1801 caatctataa ttttaaccat ttatccaaga ttctactaag tgtaaaatta tttaataatg
+     1861 tctattaaat tgatatttat atcttgcatc ctatatcatg tcaatatgtg atatagaaaa
+     1921 gagatacgtg aattttttag ctaagcttga cagattgaaa gacaagtgtc attttttttt
+     1981 gtagagggtg atatatacca tgtaaatgaa caaagacatt ttaaatttaa tcactgtttt
+     2041 tattataagt tccttagttc agatatcctt tattaattta taagatgtgt aaaactactt
+     2101 aattctcaca agactctatg aagtaattct tttaatctct attttataaa tgaaaaaact
+     2161 aaggccataa atttaagaaa tttgtcagtg tctcaaagct aggaaatggc catctaatcc
+     2221 cagagcctat gctttaggtc actatgatat atactactcc tgtatcctca agtaatgtat
+     2281 catttagtaa cactaagcac cctgcttagt tttcatggat actgccaaat tgccctatct
+     2341 caagctttat acttgcacca tttaaagttt tccacactgt tggcaatatc agaagtgata
+     2401 aggctttgaa atgttcgcca ctttgataaa gaggaaatga ttgtttgtta ctgttatata
+     2461 catgtatttt tatcagagat gggttatgta cttttccacg tttgatagtt ggttgtattt
+     2521 ctttagtgaa ttgatttttc ttttcctttg cccatttttc tgtttggatg tttgactttc
+     2581 ttcttaattt gtaagagtat cctatgtagt aacaaaatcc ttttttaaaa atttttaaag
+     2641 aaaaagtata cacacaggac tttttttttt ctaattcaaa aaatacaaag gcatgcaatg
+     2701 aaaattaagt ctgttccact accacatttt ccagtttttt gtgtatcttt ctaatgatag
+     2761 ataccatatg agtattcaaa tatacataca catacactta aaaaaaaaag atggcatata
+     2821 ctaactgttc tgtttggggc tttttggtgg tggtgtttgt ttgacagggt ctcactctgc
+     2881 ctcccaggtt ggagtgcacc ttgaactcct ggactcaagt gatccttcac ctcctccttc
+     2941 caagtatctg acactacagg cttgcatcac tatgcccagc ttatactcac catagtggtt
+     3001 ctgtactccc ttaaaatatt ctggaggcca ggcatgctgg ctcacacctg taatcccagc
+     3061 accttgggag gccaaggtgg gtggatcacc tgaggtcagg agttcaagac cagcctgatc
+     3121 aacatggtga aaccccatct ctactaaaaa tacaaaagta tccaggcgtg gtagcacata
+     3181 cctgtaatcc cagctacttg ggaggctgag gtaggaaaat tgtttgaacc cggcagacag
+     3241 aggttgcagt gagccgacat cgtgccattg cactccaagc ctgggcaaca agagtgaaac
+     3301 cgtctcacac acacacaaaa aaaaatattt tggagctcct tctatatgag tctctctctc
+     3361 ttatctctct caggatgtgt gtatgtgttt gtttctctgg aaaaccctga ctaatacaga
+     3421 ttagctatgt attaggtaat acataatgcc taatacataa ctaatatatg gacaggaagt
+     3481 taatagactg actgtgccac cttaaaactc gtatgttgaa gccctaacct ccaacgtggt
+     3541 ggtattggga gatgggcctt ttggaaggta agtgtgtttg aatgaggtga agaggttggg
+     3601 gacttcgtga tgggattatt gtccttacaa gaaaagacac cagagagctt gttctgtctc
+     3661 tttgggccat gtgaagacat ggtgagaaag cagccagctg taagccagag agtcctcacc
+     3721 agaacctaac catgctggtg atatcctcat ctcagacttc taacctccag aactgtgaga
+     3781 aaataaactt ctttgtttaa acca
+//

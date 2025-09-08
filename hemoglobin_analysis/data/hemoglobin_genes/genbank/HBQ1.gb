@@ -1,0 +1,172 @@
+LOCUS       NM_005331                653 bp    mRNA    linear   PRI 25-JUN-2018
+DEFINITION  Homo sapiens hemoglobin subunit theta 1 (HBQ1), mRNA.
+ACCESSION   NM_005331
+VERSION     NM_005331.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Villegas A, Ropero P, Anguita E, Hernandez A, Polo M and Ataulfo
+            Gonzalez F.
+  TITLE     [Molecular characterization of two new mutations of alpha degrees
+            thalassemia in two Spanish families (mutation --(ED) and --(GP))]
+  JOURNAL   Med Clin (Barc) 136 (15), 674-677 (2011)
+   PUBMED   21453942
+  REMARK    GeneRIF: 2 new Spanish alpha-thalassemia mutations were found. In
+            both mutations, both alpha genes were deleted, the gene theta; and
+            the region HS40.
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   De Gobbi M, Viprakasit V, Hughes JR, Fisher C, Buckle VJ, Ayyub H,
+            Gibbons RJ, Vernimmen D, Yoshinaga Y, de Jong P, Cheng JF, Rubin EM,
+            Wood WG, Bowden D and Higgs DR.
+  TITLE     A regulatory SNP causes a human genetic disease by creating a new
+            transcriptional promoter
+  JOURNAL   Science 312 (5777), 1215-1217 (2006)
+   PUBMED   16728641
+REFERENCE   3  (bases 1 to 653)
+  AUTHORS   Patrinos GP, Kollia P and Papadakis MN.
+  TITLE     Molecular diagnosis of inherited disorders: lessons from
+            hemoglobinopathies
+  JOURNAL   Hum. Mutat. 26 (5), 399-412 (2005)
+   PUBMED   16138310
+  REMARK    Review article
+REFERENCE   4  (bases 1 to 653)
+  AUTHORS   Daniels RJ, Peden JF, Lloyd C, Horsley SW, Clark K, Tufarelli C,
+            Kearney L, Buckle VJ, Doggett NA, Flint J and Higgs DR.
+  TITLE     Sequence, structure and pathology of the fully annotated terminal 2
+            Mb of the short arm of human chromosome 16
+  JOURNAL   Hum. Mol. Genet. 10 (4), 339-352 (2001)
+   PUBMED   11157797
+REFERENCE   5  (bases 1 to 653)
+  AUTHORS   Giardina B, Messana I, Scatena R and Castagnola M.
+  TITLE     The multiple functions of hemoglobin
+  JOURNAL   Crit. Rev. Biochem. Mol. Biol. 30 (3), 165-196 (1995)
+   PUBMED   7555018
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 653)
+  AUTHORS   Kim JH, Yu CY, Bailey A, Hardison R and Shen CK.
+  TITLE     Unique sequence organization and erythroid cell-specific nuclear
+            factor-binding of mammalian theta 1 globin promoters
+  JOURNAL   Nucleic Acids Res. 17 (14), 5687-5700 (1989)
+   PUBMED   2569721
+REFERENCE   7  (bases 1 to 653)
+  AUTHORS   Higgs DR, Vickers MA, Wilkie AO, Pretorius IM, Jarman AP and
+            Weatherall DJ.
+  TITLE     A review of the molecular genetics of the human alpha-globin gene
+            cluster
+  JOURNAL   Blood 73 (5), 1081-1104 (1989)
+   PUBMED   2649166
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 653)
+  AUTHORS   Ley TJ, Maloney KA, Gordon JI and Schwartz AL.
+  TITLE     Globin gene expression in erythroid human fetal liver cells
+  JOURNAL   J. Clin. Invest. 83 (3), 1032-1038 (1989)
+   PUBMED   2921315
+REFERENCE   9  (bases 1 to 653)
+  AUTHORS   Gonzalez-Redondo JM, Han IS, Gu YC and Huisman TH.
+  TITLE     Nucleotide sequence of the human theta 1-globin gene
+  JOURNAL   Biochem. Genet. 26 (3-4), 207-211 (1988)
+   PUBMED   3408475
+REFERENCE   10  (bases 1 to 653)
+  AUTHORS   Hsu SL, Marks J, Shaw JP, Tam M, Higgs DR, Shen CC and Shen CK.
+  TITLE     Structure and expression of the human theta 1 globin gene
+  JOURNAL   Nature 331 (6151), 94-96 (1988)
+   PUBMED   3422341
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC056686.1, CD580449.2 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2145743,
+            SAMEA2148093 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from Z84721.1 and BC056686.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On Nov 22, 2018 this sequence was replaced by
+            NM_005331.5.
+            On Dec 3, 2010 this sequence version replaced NM_005331.3.
+            Summary: Theta-globin mRNA is found in human fetal erythroid tissue
+            but not in adult erythroid or other nonerythroid tissue. The
+            theta-1 gene may be expressed very early in embryonic life, perhaps
+            sometime before 5 weeks. Theta-1 is a member of the human
+            alpha-globin gene cluster that involves five functional genes and
+            two pseudogenes. The order of genes is: 5' - zeta - pseudozeta - mu
+            - pseudoalpha-2 -pseudoalpha-1 - alpha-2 - alpha-1 - theta-1 - 3'.
+            Research supports a transcriptionally active role for the gene and
+            a functional role for the peptide in specific cells, possibly those
+            of early erythroid tissue. [provided by RefSeq, Jul 2008].
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p13.3"
+     gene            1..653
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /note="hemoglobin subunit theta 1"
+                     /db_xref="GeneID:3049"
+                     /db_xref="HGNC:HGNC:4833"
+                     /db_xref="MIM:142240"
+     exon            1..248
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    1
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /note="5'-most transcription initiation site"
+     misc_feature    63
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /note="alternative transcription initiation site"
+     misc_feature    115
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /note="alternative transcription initiation site"
+     CDS             154..582
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /note="theta-1-globin; hemoglobin theta-1 chain;
+                     hemoglobin, theta 1"
+                     /codon_start=1
+                     /product="hemoglobin subunit theta-1"
+                     /protein_id="NP_005322.1"
+                     /db_xref="CCDS:CCDS10400.1"
+                     /db_xref="GeneID:3049"
+                     /db_xref="HGNC:HGNC:4833"
+                     /db_xref="MIM:142240"
+                     /translation="MALSAEDRALVRALWKKLGSNVGVYTTEALERTFLAFPATKTYFS
+                     HLDLSPGSSQVRAHGQKVADALSLAVERLDDLPHALSALSHLHACQLRVDPASFQLLGH
+                     CLLVTLARHYPGDFSPALQASLDKFLSHVISALVSEYR"
+     exon            249..453
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /inference="alignment:Splign:2.1.0"
+     exon            454..653
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      632..637
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+     polyA_site      653
+                     /gene="HBQ1"
+                     /gene_synonym="HBQ"
+ORIGIN
+        1 agattgagcg cgcgcggtcc cgggatctcc gacgaggccc tggacccccg ggcggcgaag
+       61 ctgcggcgcg gcgccccctg gaggccgcgg gacccctggc cggtccgcgc aggcgcagcg
+      121 gggtcgcagg gcgcggcggg ttccagcgcg gggatggcgc tgtccgcgga ggaccgggcg
+      181 ctggtgcgcg ccctgtggaa gaagctgggc agcaacgtcg gcgtctacac gacagaggcc
+      241 ctggaaagga ccttcctggc tttccccgcc acgaagacct acttctccca cctggacctg
+      301 agccccggct cctcacaagt cagagcccac ggccagaagg tggcggacgc gctgagcctc
+      361 gccgtggagc gcctggacga cctaccccac gcgctgtccg cgctgagcca cctgcacgcg
+      421 tgccagctgc gagtggaccc ggccagcttc cagctcctgg gccactgcct gctggtaacc
+      481 ctcgcccggc actaccccgg agacttcagc cccgcgctgc aggcgtcgct ggacaagttc
+      541 ctgagccacg ttatctcggc gctggtttcc gagtaccgct gaactgtggg tgggtggccg
+      601 cgggatcccc aggcgacctt ccccgtgttt gagtaaagcc tctcccagga gca
+//

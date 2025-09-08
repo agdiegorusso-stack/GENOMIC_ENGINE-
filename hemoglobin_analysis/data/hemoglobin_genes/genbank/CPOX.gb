@@ -1,0 +1,322 @@
+LOCUS       NM_000097               2724 bp    mRNA    linear   PRI 11-APR-2018
+DEFINITION  Homo sapiens coproporphyrinogen oxidase (CPOX), mRNA.
+ACCESSION   NM_000097
+VERSION     NM_000097.6
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2724)
+  AUTHORS   Kim DH, Hino R, Adachi Y, Kobori A and Taketani S.
+  TITLE     The enzyme engineering of mutant homodimer and heterodimer of
+            coproporphyinogen oxidase contributes to new insight into hereditary
+            coproporphyria and harderoporphyria
+  JOURNAL   J. Biochem. 154 (6), 551-559 (2013)
+   PUBMED   24078084
+  REMARK    GeneRIF: The monomer form of mutated CPOX did not show any activity
+            and homodimeric enzymes derived from Hereditary coproporphyria (HCP)
+            mutant showed low activity (<20% of the control).
+REFERENCE   2  (bases 1 to 2724)
+  AUTHORS   Woods JS, Heyer NJ, Echeverria D, Russo JE, Martin MD, Bernardo MF,
+            Luis HS, Vaz L and Farin FM.
+  TITLE     Modification of neurobehavioral effects of mercury by a genetic
+            polymorphism of coproporphyrinogen oxidase in children
+  JOURNAL   Neurotoxicol Teratol 34 (5), 513-521 (2012)
+   PUBMED   22765978
+  REMARK    GeneRIF: Polymorphism of coproporphyrinogen oxidase is associated
+            with genetic susceptibility to the adverse neurobehavioral effects
+            of Hg exposure in children.
+REFERENCE   3  (bases 1 to 2724)
+  AUTHORS   Barbaro M, Kotajarvi M, Harper P and Floderus Y.
+  TITLE     Identification of an AluY-mediated deletion of exon 5 in the CPOX
+            gene by MLPA analysis in patients with hereditary coproporphyria
+  JOURNAL   Clin. Genet. 81 (3), 249-256 (2012)
+   PUBMED   21231929
+  REMARK    GeneRIF: Deletion of the fifth exon in the CPOX gene is associated
+            with hereditary coproporphyria.
+REFERENCE   4  (bases 1 to 2724)
+  AUTHORS   Lash TD, Lamm TR, Schaber JA, Chung WH, Johnson EK and Jones MA.
+  TITLE     Normal and abnormal heme biosynthesis. Part 7. Synthesis and
+            metabolism of coproporphyrinogen-III analogues with acetate or
+            butyrate side chains on rings C and D. Development of a modified
+            model for the active site of coproporphyrinogen oxidase
+  JOURNAL   Bioorg. Med. Chem. 19 (4), 1492-1504 (2011)
+   PUBMED   21277781
+  REMARK    GeneRIF: competitive action of both uroporphyrinogen decarboxylase
+            and CPO on the same diacetate porphyrinogen substrate provides
+            additional perspectives on the potential existence of abnormal
+            pathways for heme biosynthesis
+REFERENCE   5  (bases 1 to 2724)
+  AUTHORS   .
+  TITLE     [Polymorphism of TNF gene and CPOX gene in chemical industry
+            workers]
+  JOURNAL   Med Tr Prom Ekol (11), 29-32 (2011)
+   PUBMED   22288185
+  REMARK    GeneRIF: CPOX polymorphisms are associated with biological media
+            contamination and apoptosis disorders.
+REFERENCE   6  (bases 1 to 2724)
+  AUTHORS   Lamoril J, Martasek P, Deybach JC, Da Silva V, Grandchamp B and
+            Nordmann Y.
+  TITLE     A molecular defect in coproporphyrinogen oxidase gene causing
+            harderoporphyria, a variant form of hereditary coproporphyria
+  JOURNAL   Hum. Mol. Genet. 4 (2), 275-278 (1995)
+   PUBMED   7757079
+REFERENCE   7  (bases 1 to 2724)
+  AUTHORS   Cacheux V, Martasek P, Fougerousse F, Delfau MH, Druart L, Tachdjian
+            G and Grandchamp B.
+  TITLE     Localization of the human coproporphyrinogen oxidase gene to
+            chromosome band 3q12
+  JOURNAL   Hum. Genet. 94 (5), 557-559 (1994)
+   PUBMED   7959694
+REFERENCE   8  (bases 1 to 2724)
+  AUTHORS   Fujita H, Kondo M, Taketani S, Nomura N, Furuyama K, Akagi R, Nagai
+            T, Terajima M, Galbraith RA and Sassa S.
+  TITLE     Characterization and expression of cDNA encoding coproporphyrinogen
+            oxidase from a patient with hereditary coproporphyria
+  JOURNAL   Hum. Mol. Genet. 3 (10), 1807-1810 (1994)
+   PUBMED   7849704
+REFERENCE   9  (bases 1 to 2724)
+  AUTHORS   Delfau-Larue MH, Martasek P and Grandchamp B.
+  TITLE     Coproporphyrinogen oxidase: gene organization and description of a
+            mutation leading to exon 6 skipping
+  JOURNAL   Hum. Mol. Genet. 3 (8), 1325-1330 (1994)
+   PUBMED   7987309
+REFERENCE   10  (bases 1 to 2724)
+  AUTHORS   Bissell,D.M., Wang,B. and Lai,J.
+  TITLE     Hereditary Coproporphyria
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.); GENEREVIEWS((R)); (1993)
+   PUBMED   23236641
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC017210.2, BC023551.2 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2151358,
+            SAMEA2153307 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK290140.1 and BC017210.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On May 31, 2018 this sequence was replaced by
+            NM_000097.7.
+            On Mar 16, 2018 this sequence version replaced NM_000097.5.
+            Summary: The protein encoded by this gene is the sixth enzyme of
+            the heme biosynthetic pathway. The encoded enzyme is soluble and
+            found in the intermembrane space of mitochondria. This enzyme
+            catalyzes the stepwise oxidative decarboxylation of
+            coproporphyrinogen III to protoporphyrinogen IX, a precursor of
+            heme. Defects in this gene are a cause of hereditary coproporphyria
+            (HCP).[provided by RefSeq, Oct 2009].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2724
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3q11.2"
+     gene            1..2724
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /note="coproporphyrinogen oxidase"
+                     /db_xref="GeneID:1371"
+                     /db_xref="HGNC:HGNC:2321"
+                     /db_xref="MIM:612732"
+     exon            1..663
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    96..98
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /note="upstream in-frame stop codon"
+     CDS             108..1472
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /EC_number="1.3.3.3"
+                     /note="coproporphyrinogenase; coprogen oxidase; COX;
+                     oxygen-dependent coproporphyrinogen-III oxidase,
+                     mitochondrial"
+                     /codon_start=1
+                     /product="oxygen-dependent coproporphyrinogen-III oxidase,
+                     mitochondrial precursor"
+                     /protein_id="NP_000088.3"
+                     /db_xref="CCDS:CCDS2932.1"
+                     /db_xref="GeneID:1371"
+                     /db_xref="HGNC:HGNC:2321"
+                     /db_xref="MIM:612732"
+                     /translation="MALQLGRLSSGPCWLVARGGCGGPRAWSQCGGGGLRAWSQRSAAG
+                     RVCRPPGPAGTEQSRGLGHGSTSRGGPWVGTGLAAALAGLVGLATAAFGHVQRAEMLPK
+                     TSGTRATSLGRPEEEEDELAHRCSSFMAPPVTDLGELRRRPGDMKTKMELLILETQAQV
+                     CQALAQVDGGANFSVDRWERKEGGGGISCVLQDGCVFEKAGVSISVVHGNLSEEAAKQM
+                     RSRGKVLKTKDGKLPFCAMGVSSVIHPKNPHAPTIHFNYRYFEVEEADGNKQWWFGGGC
+                     DLTPTYLNQEDAVHFHRTLKEACDQHGPDLYPKFKKWCDDYFFIAHRGERRGIGGIFFD
+                     DLDSPSKEEVFRFVQSCARAVVPSYIPLVKKHCDDSFTPQEKLWQQLRRGRYVEFNLLY
+                     DRGTKFGLFTPGSRIESILMSLPLTARWEYMHSPSENSKEAEILEVLRHPRDWVR"
+     transit_peptide 108..437
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Mitochondrion. {ECO:0000250}; propagated from
+                     UniProtKB/Swiss-Prot (P36551.3)"
+     mat_peptide     438..1469
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /product="Oxygen-dependent coproporphyrinogen-III oxidase,
+                     mitochondrial"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P36551.3)"
+     misc_feature    441..443
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:Q3B7D0};
+                     propagated from UniProtKB/Swiss-Prot (P36551.3);
+                     phosphorylation site"
+     misc_feature    684..713
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P36551.3);
+                     Region: Important for dimerization. {ECO:0000305}"
+     misc_feature    885..893
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P36551.3);
+                     Region: Substrate binding"
+     misc_feature    1086..1088
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Important for dimerization; propagated from
+                     UniProtKB/Swiss-Prot (P36551.3); other site"
+     misc_feature    1281..1391
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P36551.3);
+                     Region: Important for dimerization"
+     misc_feature    1317..1319
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P36552}; propagated from
+                     UniProtKB/Swiss-Prot (P36551.3); acetylation site"
+     misc_feature    1317..1319
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P36552}; propagated from
+                     UniProtKB/Swiss-Prot (P36551.3); modified site"
+     misc_feature    1338..1346
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P36551.3);
+                     Region: Substrate binding"
+     exon            664..807
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            808..918
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            919..1060
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1061..1279
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1280..1384
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1385..2705
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2550..2555
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+     polyA_site      2572
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+     regulatory      2682..2687
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+     regulatory      2695..2700
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+     polyA_site      2705
+                     /gene="CPOX"
+                     /gene_synonym="CPO; CPX; HCP"
+ORIGIN
+        1 ctttccgcct gtgcagctcg ccggctcaat actccggggg tctgggtggg gggctcaaac
+       61 gcagggctct gggacgcagg cactgctcca ggtgatagtg cgggaacatg gccttgcagc
+      121 tgggcaggct gagctcgggc ccctgctggc tcgtggcgcg gggcggctgc ggagggcccc
+      181 gcgcctggtc ccagtgcggc ggcggagggc tccgagcctg gtcccagcgc agcgcagccg
+      241 gacgcgtctg ccggccccct ggcccggctg gcacggagca gagccgcggg ctggggcacg
+      301 gctcgacgtc gagaggcggc ccctgggtgg ggacagggct ggccgcggcg ctggcggggt
+      361 tggtggggct ggccaccgcc gccttcgggc atgtgcagcg ggcggagatg ttgcctaaga
+      421 cctcggggac gcgggccact tcgctgggga ggccggagga ggaggaggat gagctggccc
+      481 accgctgcag cagcttcatg gccccgcctg tgaccgacct gggcgagctg cgaaggaggc
+      541 cgggcgacat gaagaccaag atggagctgc tgattctgga gacccaggcc caggtgtgcc
+      601 aggctctggc acaggtagac gggggcgcca acttttctgt ggaccggtgg gagaggaagg
+      661 aaggaggtgg cggcatcagc tgtgtacttc aagatgggtg tgttttcgaa aaggctgggg
+      721 tgagcatttc tgttgttcat ggaaatcttt cagaggaagc tgcaaaacaa atgagaagca
+      781 gaggaaaagt tctgaagact aaagatggta aattgccatt ttgtgctatg ggcgtgagct
+      841 ctgttatcca ccccaagaat cctcatgctc ctactatcca tttcaactac agatactttg
+      901 aagtagaaga agctgatggc aacaagcagt ggtggtttgg tggtggatgt gacctcactc
+      961 caacatactt gaatcaagaa gacgctgtcc attttcacag aactctgaag gaggcttgtg
+     1021 accagcatgg tccagatctc taccccaaat ttaaaaaatg gtgtgatgat tacttcttta
+     1081 tagcccatcg tggagaacgg cggggcattg gtggtatctt ttttgatgat cttgactctc
+     1141 cgtccaagga ggaggtgttt cgctttgtac agagctgtgc cagggctgta gttccttctt
+     1201 acattcccct tgtgaaaaag cactgtgatg actcattcac cccccaggag aagctgtggc
+     1261 agcagctcag aagaggacgg tatgtagaat ttaatctgct gtatgatcgg ggcacaaagt
+     1321 ttggcctctt cactccagga tccagaattg aaagtatctt gatgtcttta cctctaactg
+     1381 cccgatggga gtacatgcat tcaccctcag agaattccaa agaagctgaa attctggaag
+     1441 ttctacgcca tccaagggac tgggtgcgtt gatgcaggca gaatggctgt gcaggggttt
+     1501 ggagggcaca cgatgtgtgc tccccatgcc actggtcggc actttgccac tgtgtggcag
+     1561 ttacccgtgc cttagtcttc tccactctgc accctacctc gtgggcagat gataacatgt
+     1621 tttggatgct gtcagtgatg aatggtgaga tggcagattg tcagagtcaa ttgattaaac
+     1681 ctcatttata cttctagtgt cattttatat gactagttta caaaatagga cattgagttt
+     1741 ccaagtattg agataaggga atataaatag tattatatgt atcaggaaat ctctcatctt
+     1801 gtttttgttt catgtatttt ttaaagtttt catttgtgcc acaaaaatct gtcgtggaat
+     1861 atattttatt ttcattaatt cagtgaagtt gagacttcat agtaatttta gaatgcaact
+     1921 tgaaggtaaa aattttactt tgtcaatact gaagtctctg ctgtaatcct tatatatctt
+     1981 tctccagaga acataatatt gtcaaataga tacacatttt tctaataggt atttagaagc
+     2041 acttgaaata atctctgcat gtgttacaat tcagttattt ctgtagtttg taaactctaa
+     2101 agtgacatta ctattatttt agagatgtct aagttgtaat tttgattttt gtggaaccat
+     2161 tgtttgttaa tgttgggatt ctctgcactt ttgaatgtga aagcttatat ccctgaattc
+     2221 tgatacttaa gagttttcta tttcagacat ctctgtgtgg aagttgagac taagaataat
+     2281 cctagggatg tcatgaattt aggcaatgtt tctcatttgg aaaatgaaat gagaaataat
+     2341 ttccttcttt aaagcaagta tatatagtat gagaaacttg gaggcatttc atacacacgt
+     2401 ttcttaggaa aatggacaca ttgaaaatgt cctctttttt atattagaga ttctgcagct
+     2461 ctttgctctt aagagcaaat cacaacagga ttcttaatgt atgatttctt tgttcatata
+     2521 ttatgaatgt attattttat ttgcttcgta ataaagttta taaggaagag catctcatac
+     2581 atatcattat cgtggaacac gttgaatgtt tgtgattctg tgtggccttt ttggggctgg
+     2641 aaaatgtatg aattcttcaa ctgtcttaca agagatctgc taataaattt tattattaaa
+     2701 taagaaaaaa aaaaaaaaaa aaaa
+//

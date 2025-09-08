@@ -1,0 +1,311 @@
+LOCUS       NM_003227               2891 bp    mRNA    linear   PRI 16-SEP-2018
+DEFINITION  Homo sapiens transferrin receptor 2 (TFR2), transcript variant 1,
+            mRNA.
+ACCESSION   NM_003227
+VERSION     NM_003227.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2891)
+  AUTHORS   Kleven MD, Jue S and Enns CA.
+  TITLE     Transferrin Receptors TfR1 and TfR2 Bind Transferrin through
+            Differing Mechanisms
+  JOURNAL   Biochemistry 57 (9), 1552-1559 (2018)
+   PUBMED   29388418
+  REMARK    GeneRIF: In agreement with previous studies with truncated forms of
+            these receptors, holo-Tf binds to the TfR1 homologue significantly
+            stronger than to TfR2.
+REFERENCE   2  (bases 1 to 2891)
+  AUTHORS   Di Savino A, Gaidano V, Palmieri A, Crasto F, Volpengo A, Lorenzatti
+            R, Scaravaglio P, Manello A, Nicoli P, Gottardi E, Saglio G, Cilloni
+            D and De Gobbi M.
+  TITLE     Clinical significance of TFR2 and EPOR expression in bone marrow
+            cells in myelodysplastic syndromes
+  JOURNAL   Br. J. Haematol. 176 (3), 491-495 (2017)
+   PUBMED   26914246
+  REMARK    GeneRIF: Authors retrospectively investigated whether TFR2 isoforms
+            and EPOR are differentially expressed in MDS patients and whether
+            the expression is associated with patients' clinical outcomes.
+REFERENCE   3  (bases 1 to 2891)
+  AUTHORS   Mehta K, Busbridge M, Renshaw D, Evans RW, Farnaud S and Patel VB.
+  TITLE     Characterization of hepcidin response to holotransferrin in novel
+            recombinant TfR1 HepG2 cells
+  JOURNAL   Blood Cells Mol. Dis. 61, 37-45 (2016)
+   PUBMED   27667164
+  REMARK    GeneRIF: TFR2 expression altered within 4h of HAMP treatment, while
+            HFE expression altered later at 24h and 48h, suggesting that TFR2
+            may function prior to HFE in HAMP regulation.
+REFERENCE   4  (bases 1 to 2891)
+  AUTHORS   Faria R, Silva B, Silva C, Loureiro P, Queiroz A, Fraga S, Esteves
+            J, Mendes D, Fleming R, Vieira L, Goncalves J and Faustino P.
+  TITLE     Next-generation sequencing of hereditary hemochromatosis-related
+            genes: Novel likely pathogenic variants found in the Portuguese
+            population
+  JOURNAL   Blood Cells Mol. Dis. 61, 10-15 (2016)
+   PUBMED   27667161
+  REMARK    GeneRIF: unreported iron metabolism-related genes in non-classic
+            hereditary hemochromatosis patients that were predicted to be
+            potentially pathogenic were three novel mutations in TFR2 [two
+            missense (p.Leu750Pro and p.Ala777Val) and one intronic splicing
+            mutation (c.967-1G>C)], one missense mutation in HFE (p.Tyr230Cys),
+            and one mutation in the 5'-UTR of HAMP gene (c.-25G>A)
+REFERENCE   5  (bases 1 to 2891)
+  AUTHORS   Wallace DF and Subramaniam VN.
+  TITLE     The global prevalence of HFE and non-HFE hemochromatosis estimated
+            from analysis of next-generation sequencing data
+  JOURNAL   Genet. Med. 18 (6), 618-626 (2016)
+   PUBMED   26633544
+  REMARK    GeneRIF: Of the non-HFE forms of iron overload, TFR2-, HFE2-, and
+            HAMP-related forms are predicted to be rare, with pathogenic allele
+            frequencies in the range of 0.00007 to 0.0005. Significantly,
+            SLC40A1 variants that have been previously associated with
+            autosomal-dominant ferroportin disease were identified in several
+            populations (pathogenic allele frequency 0.0004), being most
+            prevalent among Africans
+REFERENCE   6  (bases 1 to 2891)
+  AUTHORS   Bennett MJ, Lebron JA and Bjorkman PJ.
+  TITLE     Crystal structure of the hereditary haemochromatosis protein HFE
+            complexed with transferrin receptor
+  JOURNAL   Nature 403 (6765), 46-53 (2000)
+   PUBMED   10638746
+REFERENCE   7  (bases 1 to 2891)
+  AUTHORS   Kawabata H, Yang R, Hirama T, Vuong PT, Kawano S, Gombart AF and
+            Koeffler HP.
+  TITLE     Molecular cloning of transferrin receptor 2. A new member of the
+            transferrin receptor-like family
+  JOURNAL   J. Biol. Chem. 274 (30), 20826-20832 (1999)
+   PUBMED   10409623
+REFERENCE   8  (bases 1 to 2891)
+  AUTHORS   Glockner G, Scherer S, Schattevoy R, Boright A, Weber J, Tsui LC and
+            Rosenthal A.
+  TITLE     Large-scale sequencing of two regions in human chromosome 7q22:
+            analysis of 650 kb of genomic sequence around the EPO and CUTL1 loci
+            reveals 17 genes
+  JOURNAL   Genome Res. 8 (10), 1060-1073 (1998)
+   PUBMED   9799793
+REFERENCE   9  (bases 1 to 2891)
+  AUTHORS   Feder JN, Penny DM, Irrinki A, Lee VK, Lebron JA, Watson N,
+            Tsuchihashi Z, Sigal E, Bjorkman PJ and Schatzman RC.
+  TITLE     The hemochromatosis gene product complexes with the transferrin
+            receptor and lowers its affinity for ligand binding
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 95 (4), 1472-1477 (1998)
+   PUBMED   9465039
+REFERENCE   10  (bases 1 to 2891)
+  AUTHORS   De Gobbi,M. and Roetto,A.
+  TITLE     TFR2-Related Hereditary Hemochromatosis
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.); GENEREVIEWS((R)); (1993)
+   PUBMED   20301523
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AF067864.1, BC142630.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN04284274
+            [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DR004213.1, AF067864.1 and
+            BI917390.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            [WARNING] On Nov 23, 2018 this sequence was replaced by
+            NM_003227.4.
+            On Jul 7, 2006 this sequence version replaced NM_003227.2.
+            Summary: This gene encodes a single-pass type II membrane protein,
+            which is a member of the transferrin receptor-like family. This
+            protein mediates cellular uptake of transferrin-bound iron, and may
+            be involved in iron metabolism, hepatocyte function and erythrocyte
+            differentiation. Mutations in this gene have been associated with
+            hereditary hemochromatosis type III. Alternatively spliced
+            transcript variants encoding different isoforms have been described
+            for this gene. [provided by RefSeq, May 2011].
+            Transcript Variant: This variant (1) encodes the longer isoform (1,
+            also known as alpha).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2891
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7q22.1"
+     gene            1..2891
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /note="transferrin receptor 2"
+                     /db_xref="GeneID:7036"
+                     /db_xref="HGNC:HGNC:11762"
+                     /db_xref="MIM:604720"
+     exon            1..74
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             42..2447
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     transferrin receptor protein 2"
+                     /codon_start=1
+                     /product="transferrin receptor protein 2 isoform 1"
+                     /protein_id="NP_003218.2"
+                     /db_xref="CCDS:CCDS34707.1"
+                     /db_xref="GeneID:7036"
+                     /db_xref="HGNC:HGNC:11762"
+                     /db_xref="MIM:604720"
+                     /translation="MERLWGLFQRAQQLSPRSSQTVYQRVEGPRKGHLEEEEEDGEEGA
+                     ETLAHFCPMELRGPEPLGSRPRQPNLIPWAAAGRRAAPYLVLTALLIFTGAFLLGYVAF
+                     RGSCQACGDSVLVVSEDVNYEPDLDFHQGRLYWSDLQAMFLQFLGEGRLEDTIRQTSLR
+                     ERVAGSAGMAALTQDIRAALSRQKLDHVWTDTHYVGLQFPDPAHPNTLHWVDEAGKVGE
+                     QLPLEDPDVYCPYSAIGNVTGELVYAHYGRPEDLQDLRARGVDPVGRLLLVRVGVISFA
+                     QKVTNAQDFGAQGVLIYPEPADFSQDPPKPSLSSQQAVYGHVHLGTGDPYTPGFPSFNQ
+                     TQFPPVASSGLPSIPAQPISADIASRLLRKLKGPVAPQEWQGSLLGSPYHLGPGPRLRL
+                     VVNNHRTSTPINNIFGCIEGRSEPDHYVVIGAQRDAWGPGAAKSAVGTAILLELVRTFS
+                     SMVSNGFRPRRSLLFISWDGGDFGSVGSTEWLEGYLSVLHLKAVVYVSLDNAVLGDDKF
+                     HAKTSPLLTSLIESVLKQVDSPNHSGQTLYEQVVFTNPSWDAEVIRPLPMDSSAYSFTA
+                     FVGVPAVEFSFMEDDQAYPFLHTKEDTYENLHKVLQGRLPAVAQAVAQLAGQLLIRLSH
+                     DRLLPLDFGRYGDVVLRHIGNLNEFSGDLKARGLTLQWVYSARGDYIRAAEKLRQEIYS
+                     SEERDERLTRMYNVRIMRVEFYFLSQYVSPADSPFRHIFMGRGDHTLGALLDHLRLLRS
+                     NSSGTPGATSSTGFQESRFRRQLALLTWTLQGAANALSGDVWNIDNNF"
+     misc_feature    108..119
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UP52.1);
+                     Region: Endocytosis signal. {ECO:0000255}"
+     misc_feature    291..353
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UP52.1);
+                     transmembrane region"
+     exon            75..327
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            328..514
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            515..655
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            656..767
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            768..890
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            891..1007
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1008..1147
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1148..1311
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1312..1431
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1432..1514
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1515..1578
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1579..1646
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1647..1723
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1724..1808
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1809..2036
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2037..2177
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2178..2888
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2862..2867
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+     polyA_site      2888
+                     /gene="TFR2"
+                     /gene_synonym="HFE3; TFRC2"
+ORIGIN
+        1 cgctggggga cagcctgcag gcttcaggag gggacacaag catggagcgg ctttggggtc
+       61 tattccagag agcgcaacaa ctgtccccaa gatcctctca gaccgtctac cagcgtgtgg
+      121 aaggcccccg gaaagggcac ctggaggagg aagaggaaga cggggaggag ggggcggaga
+      181 cattggccca cttctgcccc atggagctga ggggccctga gcccctgggc tctagaccca
+      241 ggcagccaaa cctcattccc tgggcggcag caggacggag ggctgccccc tacctggtcc
+      301 tgacggccct gctgatcttc actggggcct tcctactggg ctacgtcgcc ttccgagggt
+      361 cctgccaggc gtgcggagac tctgtgttgg tggtcagtga ggatgtcaac tatgagcctg
+      421 acctggattt ccaccagggc agactctact ggagcgacct ccaggccatg ttcctgcagt
+      481 tcctggggga ggggcgcctg gaggacacca tcaggcaaac cagccttcgg gaacgggtgg
+      541 caggctcggc cgggatggcc gctctgactc aggacattcg cgcggcgctc tcccgccaga
+      601 agctggacca cgtgtggacc gacacgcact acgtggggct gcaattcccg gatccggctc
+      661 accccaacac cctgcactgg gtcgatgagg ccgggaaggt cggagagcag ctgccgctgg
+      721 aggaccctga cgtctactgc ccctacagcg ccatcggcaa cgtcacggga gagctggtgt
+      781 acgcccacta cgggcggccc gaagacctgc aggacctgcg ggccaggggc gtggatccag
+      841 tgggccgcct gctgctggtg cgcgtggggg tgatcagctt cgcccagaag gtgaccaatg
+      901 ctcaggactt cggggctcaa ggagtgctca tatacccaga gccagcggac ttctcccagg
+      961 acccacccaa gccaagcctg tccagccagc aggcagtgta tggacatgtg cacctgggaa
+     1021 ctggagaccc ctacacacct ggcttccctt ccttcaatca aacccagttc cctccagttg
+     1081 catcatcagg ccttcccagc atcccagccc agcccatcag tgcagacatt gcctcccgcc
+     1141 tgctgaggaa gctcaaaggc cctgtggccc cccaagaatg gcaggggagc ctcctaggct
+     1201 ccccttatca cctgggcccc gggccacgac tgcggctagt ggtcaacaat cacaggacct
+     1261 ccacccccat caacaacatc ttcggctgca tcgaaggccg ctcagagcca gatcactacg
+     1321 ttgtcatcgg ggcccagagg gatgcatggg gcccaggagc agctaaatcc gctgtgggga
+     1381 cggctatact cctggagctg gtgcggacct tttcctccat ggtgagcaac ggcttccggc
+     1441 cccgcagaag tctcctcttc atcagctggg acggtggtga ctttggaagc gtgggctcca
+     1501 cggagtggct agagggctac ctcagcgtgc tgcacctcaa agccgtagtg tacgtgagcc
+     1561 tggacaacgc agtgctgggg gatgacaagt ttcatgccaa gaccagcccc cttctgacaa
+     1621 gtctcattga gagtgtcctg aagcaggtgg attctcccaa ccacagtggg cagactctct
+     1681 atgaacaggt ggtgttcacc aatcccagct gggatgctga ggtgatccgg cccctaccca
+     1741 tggacagcag tgcctattcc ttcacggcct ttgtgggagt ccctgccgtc gagttctcct
+     1801 ttatggagga cgaccaggcc tacccattcc tgcacacaaa ggaggacact tatgagaacc
+     1861 tgcataaggt gctgcaaggc cgcctgcccg ccgtggccca ggccgtggcc cagctcgcag
+     1921 ggcagctcct catccggctc agccacgatc gcctgctgcc cctcgacttc ggccgctacg
+     1981 gggacgtcgt cctcaggcac atcgggaacc tcaacgagtt ctctggggac ctcaaggccc
+     2041 gcgggctgac cctgcagtgg gtgtactcgg cgcgggggga ctacatccgg gcggcggaaa
+     2101 agctgcggca ggagatctac agctcggagg agagagacga gcgactgaca cgcatgtaca
+     2161 acgtgcgcat aatgcgggtg gagttctact tcctttccca gtacgtgtcg ccagccgact
+     2221 ccccgttccg ccacatcttc atgggccgtg gagaccacac gctgggcgcc ctgctggacc
+     2281 acctgcggct gctgcgctcc aacagctccg ggacccccgg ggccacctcc tccactggct
+     2341 tccaggagag ccgtttccgg cgtcagctag ccctgctcac ctggacgctg caaggggcag
+     2401 ccaatgcgct tagcggggat gtctggaaca ttgataacaa cttctgaggc cctggggatc
+     2461 ctcacatccc cgtcccccag tcaagagctc ctctgctcct cgcttgaatg attcagggtc
+     2521 agggaggtgg ctcagagtcc acctctcatt gctgatcaat ttctcattac ccctacacat
+     2581 ctctccacgg agcccagacc ccagcacaga tatccacaca ccccagccct gcagtgtagc
+     2641 tgaccctaat gtgacggtca tactgtcggt taatcagaga gtagcatccc ttcaatcaca
+     2701 gccccttccc ctttctgggg tcctccatac ctagagacca ctctgggagg tttgctaggc
+     2761 cctgggacct ggccagctct gttagtggga gagatcgctg gcaccatagc cttatggcca
+     2821 acaggtggtc tgtggtgaaa ggggcgtgga gtttcaatat caataaacca cctgatatca
+     2881 ataagccaaa a
+//

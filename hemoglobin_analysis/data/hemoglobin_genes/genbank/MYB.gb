@@ -1,0 +1,321 @@
+LOCUS       NM_001130172            3312 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens MYB proto-oncogene, transcription factor (MYB),
+            transcript variant 3, mRNA.
+ACCESSION   NM_001130172
+VERSION     NM_001130172.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3312)
+  AUTHORS   Liu,C., Wang,Y., Shi,M., Tao,X., Man,D., Zhang,J. and Han,B.
+  TITLE     hnRNPA0 promotes MYB expression by interacting with enhancer lncRNA
+            MY34UE-AS in human leukemia cells
+  JOURNAL   Biochem Biophys Res Commun 724, 150221 (2024)
+   PUBMED   38865811
+  REMARK    GeneRIF: hnRNPA0 promotes MYB expression by interacting with
+            enhancer lncRNA MY34UE-AS in human leukemia cells.
+REFERENCE   2  (bases 1 to 3312)
+  AUTHORS   Zhang,X.Y., Zhu,B.C., He,M. and Dong,S.S.
+  TITLE     Proto-oncogene c-Myb potentiates cisplatin resistance of ovarian
+            cancer cells by downregulating lncRNA NKILA and modulating cancer
+            stemness and LIN28A-let7 axis
+  JOURNAL   J Ovarian Res 17 (1), 102 (2024)
+   PUBMED   38745302
+  REMARK    GeneRIF: Proto-oncogene c-Myb potentiates cisplatin resistance of
+            ovarian cancer cells by downregulating lncRNA NKILA and modulating
+            cancer stemness and LIN28A-let7 axis. Publication Status:
+            Online-Only
+REFERENCE   3  (bases 1 to 3312)
+  AUTHORS   Li,S.Q., Lv,F., Xu,W.T., Yin,Y.X., Wei,H.T., Li,K.Z. and Hu,B.L.
+  TITLE     lncRNA SNHG4 inhibits ferroptosis by orchestrating miR-150-5p/c-Myb
+            axis in colorectal cancer
+  JOURNAL   Int J Biol Macromol 268 (Pt 2), 131961 (2024)
+   PUBMED   38692535
+  REMARK    GeneRIF: lncRNA SNHG4 inhibits ferroptosis by orchestrating
+            miR-150-5p/c-Myb axis in colorectal cancer.
+REFERENCE   4  (bases 1 to 3312)
+  AUTHORS   Zhou,Y.E., O'Rourke,J.P., Edwards,J.S. and Ness,S.A.
+  TITLE     Single molecule analysis of c-myb alternative splicing reveals novel
+            classifiers for precursor B-ALL
+  JOURNAL   PLoS One 6 (8), e22880 (2011)
+   PUBMED   21853052
+  REMARK    GeneRIF: c-myb alternative RNA splicing was elevated and much more
+            complex in leukemia samples.
+REFERENCE   5  (bases 1 to 3312)
+  AUTHORS   O'Rourke,J.P. and Ness,S.A.
+  TITLE     Alternative RNA splicing produces multiple forms of c-Myb with
+            unique transcriptional activities
+  JOURNAL   Mol Cell Biol 28 (6), 2091-2101 (2008)
+   PUBMED   18195038
+  REMARK    GeneRIF: An array of variant transcripts, expressed in highly
+            regulated, lineage-specific patterns were formed from alternate
+            exons 8A, 9A, 9B, 10A, 13A, & 14A. They encoded c-Myb proteins with
+            identical DNA binding domains but unique C-terminal domains.
+REFERENCE   6  (bases 1 to 3312)
+  AUTHORS   Nicolaides,N.C., Gualdi,R., Casadevall,C., Manzella,L. and
+            Calabretta,B.
+  TITLE     Positive autoregulation of c-myb expression via Myb binding sites in
+            the 5' flanking region of the human c-myb gene
+  JOURNAL   Mol Cell Biol 11 (12), 6166-6176 (1991)
+   PUBMED   1944282
+REFERENCE   7  (bases 1 to 3312)
+  AUTHORS   Westin,E.H., Gorse,K.M. and Clarke,M.F.
+  TITLE     Alternative splicing of the human c-myb gene
+  JOURNAL   Oncogene 5 (8), 1117-1124 (1990)
+   PUBMED   2202948
+REFERENCE   8  (bases 1 to 3312)
+  AUTHORS   Kalkbrenner,F., Guehmann,S. and Moelling,K.
+  TITLE     Transcriptional activation by human c-myb and v-myb genes
+  JOURNAL   Oncogene 5 (5), 657-661 (1990)
+   PUBMED   2189102
+REFERENCE   9  (bases 1 to 3312)
+  AUTHORS   Dasgupta,P. and Reddy,E.P.
+  TITLE     Identification of alternatively spliced transcripts for human c-myb:
+            molecular cloning and sequence analysis of human c-myb exon 9A
+            sequences
+  JOURNAL   Oncogene 4 (12), 1419-1423 (1989)
+   PUBMED   2687764
+REFERENCE   10  (bases 1 to 3312)
+  AUTHORS   Majello,B., Kenyon,L.C. and Dalla-Favera,R.
+  TITLE     Human c-myb protooncogene: nucleotide sequence of cDNA and
+            organization of the genomic locus
+  JOURNAL   Proc Natl Acad Sci U S A 83 (24), 9636-9640 (1986)
+   PUBMED   3540945
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AJ606320.1, X52125.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1968540 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL023693.25, AJ606320.1 and
+            D25774.1.
+            On May 31, 2019 this sequence version replaced NM_001130172.1.
+            Summary: This gene encodes a protein with three HTH DNA-binding
+            domains that functions as a transcription regulator. This protein
+            plays an essential role in the regulation of hematopoiesis. This
+            gene may be aberrently expressed or rearranged or undergo
+            translocation in leukemias and lymphomas, and is considered to be
+            an oncogene. Alternative splicing results in multiple transcript
+            variants. [provided by RefSeq, Jan 2016].
+            Transcript Variant: This variant (3, also known as 8) uses an
+            alternate in-frame splice site and lacks an in-frame exon compared
+            to variant 1. The resulting isoform (3) is shorter than isoform 1.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3312
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6q23.3"
+     gene            1..3312
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="MYB proto-oncogene, transcription factor"
+                     /db_xref="GeneID:4602"
+                     /db_xref="HGNC:HGNC:7545"
+                     /db_xref="MIM:189990"
+     exon            1..229
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             207..2120
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="isoform 3 is encoded by transcript variant 3;
+                     transcriptional activator Myb; proto-oncogene c-Myb;
+                     oncogene AMV; v-myb avian myeloblastosis viral oncogene
+                     homolog; MYB-GATA1 fusion protein"
+                     /codon_start=1
+                     /product="transcriptional activator Myb isoform 3"
+                     /protein_id="NP_001123644.1"
+                     /db_xref="CCDS:CCDS47482.1"
+                     /db_xref="GeneID:4602"
+                     /db_xref="HGNC:HGNC:7545"
+                     /db_xref="MIM:189990"
+                     /translation="MARRPRHSIYSSDEDDEDFEMCDHDYDGLLPKSGKRHLGKTRWTR
+                     EEDEKLKKLVEQNGTDDWKVIANYLPNRTDVQCQHRWQKVLNPELIKGPWTKEEDQRVI
+                     ELVQKYGPKRWSVIAKHLKGRIGKQCRERWHNHLNPEVKKTSWTEEEDRIIYQAHKRLG
+                     NRWAEIAKLLPGRTDNAIKNHWNSTMRRKVEQEGYLQESSKASQPAVATSFQKNSHLMG
+                     FAQAPPTAQLPATGQPTVNNDYSYYHISEAQNVSSHVPYPVALHVNIVNVPQPAAAAIQ
+                     RHYNDEDPEKEKRIKELELLLMSTENELKGQQTQNHTCSYPGWHSTTIADHTRPHGDSA
+                     PVSCLGEHHSTPSLPADPGSLPEESASPARCMIVHQGTILDNVKNLLEFAETLQFIDSF
+                     LNTSSNHENSDLEMPSLTSTPLIGHKLTVTTPFHRDQTVKTQKENTVFRTPAIKRSILE
+                     SSPRTPTPFKHALAAQEIKYGPLKMLPQTPSHLVEDLQDVIKQESDESGIVAEFQENGP
+                     PLLKKIKQEVESPTDKSGNFFCSHHWEGDSLNTQLFTQTSPVADAPNILTSSVLMAPAS
+                     EDEDNVLKAFTVPKNRSLASPLQPCSSTWEPASCGKMEEQMTSSSQARKYVNAFSARTL
+                     VM"
+     misc_feature    474..785
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10242.2);
+                     Region: Interaction with HIPK2 and NLK.
+                     /evidence=ECO:0000250"
+     misc_feature    1179..1592
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10242.2);
+                     Region: Negative regulatory domain. /evidence=ECO:0000250"
+     misc_feature    1203..1301
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10242.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1323..1388
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10242.2);
+                     Region: Leucine-zipper"
+     misc_feature    1608..1610
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P10242.2); acetylation site"
+     misc_feature    1635..1637
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P10242.2); acetylation site"
+     misc_feature    1791..1793
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P10242.2); phosphorylation site"
+     misc_feature    1797..1799
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P10242.2); phosphorylation site"
+     exon            230..347
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            348..419
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            420..512
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            513..733
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            734..968
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            969..1049
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1050..1145
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1146..1400
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1401..1543
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1544..1658
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1659..1784
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1785..1895
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1896..2003
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2004..3312
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3286..3291
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="hexamer: AATAAA"
+     polyA_site      3312
+                     /gene="MYB"
+                     /gene_synonym="c-myb; c-myb_CDS; Cmyb; efg"
+                     /note="major polyA site"
+ORIGIN
+        1 acactttaat atcaacctgt ttcctcctcc tccttctcct cctcctccgt gacctcctcc
+       61 tcctctttct cctgagaaac ttcgccccag cggtgcggag cgccgctgcg cagccgggga
+      121 gggacgcagg caggcggcgg gcagcgggag gcggcagccc ggtgcggtcc ccgcggctct
+      181 cggcggagcc ccgcgcccgc cgcgccatgg cccgaagacc ccggcacagc atatatagca
+      241 gtgacgagga tgatgaggac tttgagatgt gtgaccatga ctatgatggg ctgcttccca
+      301 agtctggaaa gcgtcacttg gggaaaacaa ggtggacccg ggaagaggat gaaaaactga
+      361 agaagctggt ggaacagaat ggaacagatg actggaaagt tattgccaat tatctcccga
+      421 atcgaacaga tgtgcagtgc cagcaccgat ggcagaaagt actaaaccct gagctcatca
+      481 agggtccttg gaccaaagaa gaagatcaga gagtgataga gcttgtacag aaatacggtc
+      541 cgaaacgttg gtctgttatt gccaagcact taaaggggag aattggaaaa caatgtaggg
+      601 agaggtggca taaccacttg aatccagaag ttaagaaaac ctcctggaca gaagaggaag
+      661 acagaattat ttaccaggca cacaagagac tggggaacag atgggcagaa atcgcaaagc
+      721 tactgcctgg acgaactgat aatgctatca agaaccactg gaattctaca atgcgtcgga
+      781 aggtcgaaca ggaaggttat ctgcaggagt cttcaaaagc cagccagcca gcagtggcca
+      841 caagcttcca gaagaacagt catttgatgg gttttgctca ggctccgcct acagctcaac
+      901 tccctgccac tggccagccc actgttaaca acgactattc ctattaccac atttctgaag
+      961 cacaaaatgt ctccagtcat gttccatacc ctgtagcgtt acatgtaaat atagtcaatg
+     1021 tccctcagcc agctgccgca gccattcaga gacactataa tgatgaagac cctgagaagg
+     1081 aaaagcgaat aaaggaatta gaattgctcc taatgtcaac cgagaatgag ctaaaaggac
+     1141 agcagacaca gaaccacaca tgcagctacc ccgggtggca cagcaccacc attgccgacc
+     1201 acaccagacc tcatggagac agtgcacctg tttcctgttt gggagaacac cactccactc
+     1261 catctctgcc agcggatcct ggctccctac ctgaagaaag cgcctcgcca gcaaggtgca
+     1321 tgatcgtcca ccagggcacc attctggata atgttaagaa cctcttagaa tttgcagaaa
+     1381 cactccaatt tatagattct ttcttaaaca cttccagtaa ccatgaaaac tcagacttgg
+     1441 aaatgccttc tttaacttcc acccccctca ttggtcacaa attgactgtt acaacaccat
+     1501 ttcatagaga ccagactgtg aaaactcaaa aggaaaatac tgtttttaga accccagcta
+     1561 tcaaaaggtc aatcttagaa agctctccaa gaactcctac accattcaaa catgcacttg
+     1621 cagctcaaga aattaaatac ggtcccctga agatgctacc tcagacaccc tctcatctag
+     1681 tagaagatct gcaggatgtg atcaaacagg aatctgatga atctggaatt gttgctgagt
+     1741 ttcaagaaaa tggaccaccc ttactgaaga aaatcaaaca agaggtggaa tctccaactg
+     1801 ataaatcagg aaacttcttc tgctcacacc actgggaagg ggacagtctg aatacccaac
+     1861 tgttcacgca gacctcgcct gtggcagatg caccgaatat tcttacaagc tccgttttaa
+     1921 tggcaccagc atcagaagat gaagacaatg ttctcaaagc atttacagta cctaaaaaca
+     1981 ggtccctggc gagccccttg cagccttgta gcagtacctg ggaacctgca tcctgtggaa
+     2041 agatggagga gcagatgaca tcttccagtc aagctcgtaa atacgtgaat gcattctcag
+     2101 cccggacgct ggtcatgtga gacatttcca gaaaagcatt atggttttca gaacacttca
+     2161 agttgacttg ggatatatca ttcctcaaca tgaaactttt catgaatggg agaagaacct
+     2221 atttttgttg tggtacaaca gttgagagca gcaccaagtg catttagttg aatgaagtct
+     2281 tcttggattt cacccaacta aaaggatttt taaaaataaa taacagtctt acctaaatta
+     2341 ttaggtaatg aattgtagcc agttgttaat atcttaatgc agattttttt aaaaaaaaca
+     2401 taaaatgatt tatctgtatt ttaaaggatc caacagatca gtattttttc ctgtgatggg
+     2461 ttttttgaaa tttgacacat taaaaggtac tccagtattt cacttttctc gatcactaaa
+     2521 catatgcata tatttttaaa aatcagtaaa agcattactc taagtgtaga cttaatacca
+     2581 tgtgacattt aatccagatt gtaaatgctc atttatggtt aatgacattg aaggtacatt
+     2641 tattgtacca aaccatttta tgagttttct gttagcttgc tttaaaaatt attactgtaa
+     2701 gaaatagttt tataaaaaat tatattttta ttcagtaatt taattttgta aatgccaaat
+     2761 gaaaaacgtt ttttgctgct atggtcttag cctgtagaca tgctgctagt atcagagggg
+     2821 cagtagagct tggacagaaa gaaaagaaac ttggtgttag gtaattgact atgcactagt
+     2881 atttcagact ttttaatttt atatatatat acattttttt tccttctgca atacatttga
+     2941 aaacttgttt gggagactct gcatttttta ttgtggtttt tttgttattg ttggtttata
+     3001 caagcatgcg ttgcacttct tttttgggag atgtgtgttg ttgatgttct atgttttgtt
+     3061 ttgagtgtag cctgactgtt ttataatttg ggagttctgc atttgatccg catcccctgt
+     3121 ggtttctaag tgtatggtct cagaactgtt gcatggatcc tgtgtttgca actggggaga
+     3181 cagaaactgt ggttgatagc cagtcactgc cttaagaaca tttgatgcaa gatggccagc
+     3241 actgaacttt tgagatatga cggtgtactt actgccttgt agcaaaataa agatgtgccc
+     3301 ttattttacc ta
+//

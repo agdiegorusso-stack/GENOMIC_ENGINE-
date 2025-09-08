@@ -1,0 +1,333 @@
+LOCUS       NM_001360016            2223 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens glucose-6-phosphate dehydrogenase (G6PD), transcript
+            variant 3, mRNA.
+ACCESSION   NM_001360016
+VERSION     NM_001360016.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2223)
+  AUTHORS   Cao,S., Guo,J., Zhu,D., Sun,Z., Liu,L., Zhang,Y., Maratbek,S.,
+            Wang,Z., Zhang,J., Li,W., Ding,J., Deng,X. and Zhang,H.
+  TITLE     Brucella induced upregulation of NO promote macrophages glycolysis
+            through the NF-kappaB/G6PD pathway
+  JOURNAL   Int Immunopharmacol 142 (Pt A), 113038 (2024)
+   PUBMED   39276450
+  REMARK    GeneRIF: Brucella induced upregulation of NO promote macrophages
+            glycolysis through the NF-kappaB/G6PD pathway.
+REFERENCE   2  (bases 1 to 2223)
+  AUTHORS   Jakhan,J., Kojom Foko,L.P., Narang,G. and Singh,V.
+  TITLE     Glucose-6-phosphate Dehydrogenase Variants: Analysing in Indian
+            Plasmodium vivax Patients
+  JOURNAL   Acta Parasitol 69 (3), 1522-1529 (2024)
+   PUBMED   39164542
+  REMARK    GeneRIF: Glucose-6-phosphate Dehydrogenase Variants: Analysing in
+            Indian Plasmodium vivax Patients.
+REFERENCE   3  (bases 1 to 2223)
+  AUTHORS   Breeyear,J.H., Hellwege,J.N., Schroeder,P.H., House,J.S.,
+            Poisner,H.M., Mitchell,S.L., Charest,B., Khakharia,A., Basnet,T.B.,
+            Halladay,C.W., Reaven,P.D., Meigs,J.B., Rhee,M.K., Sun,Y.,
+            Lynch,M.G., Bick,A.G., Wilson,O.D., Hung,A.M., Nealon,C.L.,
+            Iyengar,S.K., Rotroff,D.M., Buse,J.B., Leong,A., Mercader,J.M.,
+            Sobrin,L., Brantley,M.A. Jr., Peachey,N.S., Motsinger-Reif,A.A.,
+            Wilson,P.W., Sun,Y.V., Giri,A., Phillips,L.S. and Edwards,T.L.
+  CONSRTM   VA Million Veteran Program
+  TITLE     Adaptive selection at G6PD and disparities in diabetes complications
+  JOURNAL   Nat Med 30 (9), 2480-2488 (2024)
+   PUBMED   38918629
+  REMARK    GeneRIF: Adaptive selection at G6PD and disparities in diabetes
+            complications.
+REFERENCE   4  (bases 1 to 2223)
+  AUTHORS   Shah,S.S., Stone,E.F., Francis,R.O. and Karafin,M.S.
+  TITLE     The global role of G6PD in infection and immunity
+  JOURNAL   Front Immunol 15, 1393213 (2024)
+   PUBMED   38938571
+  REMARK    GeneRIF: The global role of G6PD in infection and immunity. Review
+            article Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2223)
+  AUTHORS   Chang,Y.L., Nfor,O.N., Chou,Y.H., Hsiao,C.H., Zhong,J.H., Huang,C.N.
+            and Liaw,Y.P.
+  TITLE     Risk of diabetes mellitus based on the interactive association
+            between G6PD rs72554664 polymorphism and sex in Taiwan Biobank
+            individuals
+  JOURNAL   Sci Rep 14 (1), 12802 (2024)
+   PUBMED   38834682
+  REMARK    GeneRIF: Risk of diabetes mellitus based on the interactive
+            association between G6PD rs72554664 polymorphism and sex in Taiwan
+            Biobank individuals. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2223)
+  AUTHORS   Beutler,E., Westwood,B., Prchal,J.T., Vaca,G., Bartsocas,C.S. and
+            Baronciani,L.
+  TITLE     New glucose-6-phosphate dehydrogenase mutations from various ethnic
+            groups
+  JOURNAL   Blood 80 (1), 255-256 (1992)
+   PUBMED   1611091
+REFERENCE   7  (bases 1 to 2223)
+  AUTHORS   Ahluwalia,A., Corcoran,C.M., Vulliamy,T.J., Ishwad,C.S., Naidu,J.M.,
+            Argusti,A., Stevens,D.J., Mason,P.J. and Luzzatto,L.
+  TITLE     G6PD Kalyan and G6PD Kerala; two deficient variants in India caused
+            by the same 317 Glu-->Lys mutation
+  JOURNAL   Hum Mol Genet 1 (3), 209-210 (1992)
+   PUBMED   1303182
+REFERENCE   8  (bases 1 to 2223)
+  AUTHORS   Perng,L.I., Chiou,S.S., Liu,T.C. and Chang,J.G.
+  TITLE     A novel C to T substitution at nucleotide 1360 of cDNA which
+            abolishes a natural Hha I site accounts for a new G6PD deficiency
+            gene in Chinese
+  JOURNAL   Hum Mol Genet 1 (3), 205 (1992)
+   PUBMED   1303180
+REFERENCE   9  (bases 1 to 2223)
+  AUTHORS   Filosa,S., Calabro,V., Vallone,D., Poggi,V., Mason,P., Pagnini,D.,
+            Alfinito,F., Rotoli,B., Martini,G., Luzzatto,L. et al.
+  TITLE     Molecular basis of chronic non-spherocytic haemolytic anaemia: a new
+            G6PD variant (393 Arg----His) with abnormal KmG6P and marked in vivo
+            instability
+  JOURNAL   Br J Haematol 80 (1), 111-116 (1992)
+   PUBMED   1536798
+REFERENCE   10  (bases 1 to 2223)
+  AUTHORS   Benatti,U., Morelli,A., Frascio,M., Melloni,E., Salamino,F.,
+            Sparatore,B., Pontremoli,S. and De Flora,A.
+  TITLE     Glucose 6-phosphate dehydrogenase activity in membranes of
+            erythrocytes from normal individuals and subjects with Mediterranean
+            G6PD deficiency
+  JOURNAL   Biochem Biophys Res Commun 85 (4), 1318-1324 (1978)
+   PUBMED   743300
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR7346977.995047.1,
+            SRR7346977.1244268.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000393562.10/ ENSP00000377192.3
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            expression
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from HY078785.1 and BC000337.2.
+            On Oct 27, 2018 this sequence version replaced NM_001360016.1.
+            Summary: This gene encodes glucose-6-phosphate dehydrogenase. This
+            protein is a cytosolic enzyme encoded by a housekeeping X-linked
+            gene whose main function is to produce NADPH, a key electron donor
+            in the defense against oxidizing agents and in reductive
+            biosynthetic reactions. G6PD is remarkable for its genetic
+            diversity. Many variants of G6PD, mostly produced from missense
+            mutations, have been described with wide ranging levels of enzyme
+            activity and associated clinical symptoms. G6PD deficiency may
+            cause neonatal jaundice, acute hemolysis, or severe chronic
+            non-spherocytic hemolytic anemia. Two transcript variants encoding
+            different isoforms have been found for this gene. [provided by
+            RefSeq, Jul 2008].
+            Transcript Variant: This variant (1) represents the transcription
+            from the strong CAGE cluster (p1@G6PD). The encoded protein
+            (isoform b) reflects an additional coding region annotated on the
+            same transcript based on CAGE data, and represents the use of a
+            downstream in-frame start codon.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2223
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq28"
+     gene            1..2223
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="glucose-6-phosphate dehydrogenase"
+                     /db_xref="GeneID:2539"
+                     /db_xref="HGNC:HGNC:4057"
+                     /db_xref="MIM:305900"
+     exon            1..58
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            59..186
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             67..1614
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /EC_number="1.1.1.49"
+                     /note="isoform b is encoded by transcript variant 3;
+                     glucose-6-phosphate 1-dehydrogenase; epididymis secretory
+                     sperm binding protein"
+                     /codon_start=1
+                     /product="glucose-6-phosphate 1-dehydrogenase isoform b"
+                     /protein_id="NP_001346945.1"
+                     /db_xref="CCDS:CCDS44023.1"
+                     /db_xref="GeneID:2539"
+                     /db_xref="HGNC:HGNC:4057"
+                     /db_xref="MIM:305900"
+                     /translation="MAEQVALSRTQVCGILREELFQGDAFHQSDTHIFIIMGASGDLAK
+                     KKIYPTIWWLFRDGLLPENTFIVGYARSRLTVADIRKQSEPFFKATPEEKLKLEDFFAR
+                     NSYVAGQYDDAASYQRLNSHMNALHLGSQANRLFYLALPPTVYEAVTKNIHESCMSQIG
+                     WNRIIVEKPFGRDLQSSDRLSNHISSLFREDQIYRIDHYLGKEMVQNLMVLRFANRIFG
+                     PIWNRDNIACVILTFKEPFGTEGRGGYFDEFGIIRDVMQNHLLQMLCLVAMEKPASTNS
+                     DDVRDEKVKVLKCISEVQANNVVLGQYVGNPDGEGEATKGYLDDPTVPRGSTTATFAAV
+                     VLYVENERWDGVPFILRCGKALNERKAEVRLQFHDVAGDIFHQQCKRNELVIRVQPNEA
+                     VYTKMMTKKPGMFFNPEESELDLTYGNRYKNVKLPDAYERLILDVFCGSQMHFVRSDEL
+                     REAWRIFTPLLHQIELEKPKPIPYIYGSRGPTEADELMKRVGFQYEGTYKWVNPHKL"
+     misc_feature    70..72
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0000269|PubMed:7857286,
+                     ECO:0007744|PubMed:19413330, ECO:0007744|PubMed:22223895,
+                     ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); acetylation site"
+     misc_feature    88..90
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); phosphorylation site"
+     misc_feature    94..96
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); phosphorylation site"
+     misc_feature    142..144
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); phosphorylation site"
+     misc_feature    331..333
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); acetylation site"
+     misc_feature    577..579
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); acetylation site"
+     misc_feature    1273..1275
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:24769394,
+                     ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); acetylation site"
+     misc_feature    1360..1362
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); acetylation site"
+     misc_feature    1555..1557
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); acetylation site"
+     misc_feature    1573..1575
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P11413.4); phosphorylation site"
+     exon            187..224
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            225..333
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            334..551
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            552..710
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            711..836
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            837..930
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            931..1117
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1118..1353
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1354..1430
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1431..1523
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1524..2223
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2205..2210
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="hexamer: ATTAAA"
+     polyA_site      2223
+                     /gene="G6PD"
+                     /gene_synonym="CNSHA1; G6PD1"
+                     /note="major polyA site"
+ORIGIN
+        1 ggaaacggtc gtacacttcg gggctgcgag cgcggagggc gacgacgacg aagcgcagac
+       61 agcgtcatgg cagagcaggt ggccctgagc cggacccagg tgtgcgggat cctgcgggaa
+      121 gagcttttcc agggcgatgc cttccatcag tcggatacac acatattcat catcatgggt
+      181 gcatcgggtg acctggccaa gaagaagatc taccccacca tctggtggct gttccgggat
+      241 ggccttctgc ccgaaaacac cttcatcgtg ggctatgccc gttcccgcct cacagtggct
+      301 gacatccgca aacagagtga gcccttcttc aaggccaccc cagaggagaa gctcaagctg
+      361 gaggacttct ttgcccgcaa ctcctatgtg gctggccagt acgatgatgc agcctcctac
+      421 cagcgcctca acagccacat gaatgccctc cacctggggt cacaggccaa ccgcctcttc
+      481 tacctggcct tgcccccgac cgtctacgag gccgtcacca agaacattca cgagtcctgc
+      541 atgagccaga taggctggaa ccgcatcatc gtggagaagc ccttcgggag ggacctgcag
+      601 agctctgacc ggctgtccaa ccacatctcc tccctgttcc gtgaggacca gatctaccgc
+      661 atcgaccact acctgggcaa ggagatggtg cagaacctca tggtgctgag atttgccaac
+      721 aggatcttcg gccccatctg gaaccgggac aacatcgcct gcgttatcct caccttcaag
+      781 gagccctttg gcactgaggg tcgcgggggc tatttcgatg aatttgggat catccgggac
+      841 gtgatgcaga accacctact gcagatgctg tgtctggtgg ccatggagaa gcccgcctcc
+      901 accaactcag atgacgtccg tgatgagaag gtcaaggtgt tgaaatgcat ctcagaggtg
+      961 caggccaaca atgtggtcct gggccagtac gtggggaacc ccgatggaga gggcgaggcc
+     1021 accaaagggt acctggacga ccccacggtg ccccgcgggt ccaccaccgc cacttttgca
+     1081 gccgtcgtcc tctatgtgga gaatgagagg tgggatgggg tgcccttcat cctgcgctgc
+     1141 ggcaaggccc tgaacgagcg caaggccgag gtgaggctgc agttccatga tgtggccggc
+     1201 gacatcttcc accagcagtg caagcgcaac gagctggtga tccgcgtgca gcccaacgag
+     1261 gccgtgtaca ccaagatgat gaccaagaag ccgggcatgt tcttcaaccc cgaggagtcg
+     1321 gagctggacc tgacctacgg caacagatac aagaacgtga agctccctga cgcctatgag
+     1381 cgcctcatcc tggacgtctt ctgcgggagc cagatgcact tcgtgcgcag cgacgagctc
+     1441 cgtgaggcct ggcgtatttt caccccactg ctgcaccaga ttgagctgga gaagcccaag
+     1501 cccatcccct atatttatgg cagccgaggc cccacggagg cagacgagct gatgaagaga
+     1561 gtgggtttcc agtatgaggg cacctacaag tgggtgaacc cccacaagct ctgagccctg
+     1621 ggcacccacc tccacccccg ccacggccac cctccttccc gccgcccgac cccgagtcgg
+     1681 gaggactccg ggaccattga cctcagctgc acattcctgg ccccgggctc tggccaccct
+     1741 ggcccgcccc tcgctgctgc tactacccga gcccagctac attcctcagc tgccaagcac
+     1801 tcgagaccat cctggcccct ccagaccctg cctgagccca ggagctgagt cacctcctcc
+     1861 actcactcca gcccaacaga aggaaggagg agggcgccca ttcgtctgtc ccagagctta
+     1921 ttggccactg ggtctcactc ctgagtgggg ccagggtggg agggagggac gagggggagg
+     1981 aaaggggcga gcacccacgt gagagaatct gcctgtggcc ttgcccgcca gcctcagtgc
+     2041 cacttgacat tccttgtcac cagcaacatc tcgagccccc tggatgtccc ctgtcccacc
+     2101 aactctgcac tccatggcca ccccgtgcca cccgtaggca gcctctctgc tataagaaaa
+     2161 gcagacgcag cagctgggac ccctcccaac ctcaatgccc tgccattaaa tccgcaaaca
+     2221 gcc
+//

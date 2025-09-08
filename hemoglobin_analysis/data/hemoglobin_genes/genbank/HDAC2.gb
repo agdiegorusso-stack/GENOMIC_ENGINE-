@@ -1,0 +1,497 @@
+LOCUS       NM_001527               9737 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens histone deacetylase 2 (HDAC2), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001527
+VERSION     NM_001527.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9737)
+  AUTHORS   Zhan,F., Zhang,R., Qiu,L. and Ren,Y.
+  TITLE     ACAP3 negatively regulated by HDAC2 inhibits the malignant
+            development of papillary thyroid carcinoma cells
+  JOURNAL   Int J Biochem Cell Biol 174, 106635 (2024)
+   PUBMED   39098591
+  REMARK    GeneRIF: ACAP3 negatively regulated by HDAC2 inhibits the malignant
+            development of papillary thyroid carcinoma cells.
+REFERENCE   2  (bases 1 to 9737)
+  AUTHORS   Wang,M., Liao,J., Wang,J., Xu,M., Cheng,Y., Wei,L. and Huang,A.
+  TITLE     HDAC2 promotes autophagy-associated HCC malignant progression by
+            transcriptionally activating LAPTM4B
+  JOURNAL   Cell Death Dis 15 (8), 593 (2024)
+   PUBMED   39147759
+  REMARK    GeneRIF: HDAC2 promotes autophagy-associated HCC malignant
+            progression by transcriptionally activating LAPTM4B. Publication
+            Status: Online-Only
+REFERENCE   3  (bases 1 to 9737)
+  AUTHORS   Di Giorgio,E., Dalla,E., Tolotto,V., D'Este,F., Paluvai,H.,
+            Ranzino,L. and Brancolini,C.
+  TITLE     HDAC4 influences the DNA damage response and counteracts senescence
+            by assembling with HDAC1/HDAC2 to control H2BK120 acetylation and
+            homology-directed repair
+  JOURNAL   Nucleic Acids Res 52 (14), 8218-8240 (2024)
+   PUBMED   38874468
+  REMARK    GeneRIF: HDAC4 influences the DNA damage response and counteracts
+            senescence by assembling with HDAC1/HDAC2 to control H2BK120
+            acetylation and homology-directed repair.
+REFERENCE   4  (bases 1 to 9737)
+  AUTHORS   Maciejewski,K., Giers,M., Oleksiewicz,U. and Czerwinska,P.
+  TITLE     The Epigenetic Modifiers HDAC2 and HDAC7 Inversely Associate with
+            Cancer Stemness and Immunity in Solid Tumors
+  JOURNAL   Int J Mol Sci 25 (14), 7841 (2024)
+   PUBMED   39063083
+  REMARK    GeneRIF: The Epigenetic Modifiers HDAC2 and HDAC7 Inversely
+            Associate with Cancer Stemness and Immunity in Solid Tumors.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 9737)
+  AUTHORS   Guan,X., Liu,R., Wang,B., Xiong,R., Cui,L., Liao,Y., Ruan,Y.,
+            Fang,L., Lu,X., Yu,X., Su,D., Ma,Y., Dang,T., Chen,Z., Yao,Y.,
+            Liu,C. and Zhang,Y.
+  TITLE     Inhibition of HDAC2 sensitises antitumour therapy by promoting
+            NLRP3/GSDMD-mediated pyroptosis in colorectal cancer
+  JOURNAL   Clin Transl Med 14 (6), e1692 (2024)
+   PUBMED   38804602
+  REMARK    GeneRIF: Inhibition of HDAC2 sensitises antitumour therapy by
+            promoting NLRP3/GSDMD-mediated pyroptosis in colorectal cancer.
+REFERENCE   6  (bases 1 to 9737)
+  AUTHORS   Hassig,C.A., Tong,J.K., Fleischer,T.C., Owa,T., Grable,P.G.,
+            Ayer,D.E. and Schreiber,S.L.
+  TITLE     A role for histone deacetylase activity in HDAC1-mediated
+            transcriptional repression
+  JOURNAL   Proc Natl Acad Sci U S A 95 (7), 3519-3524 (1998)
+   PUBMED   9520398
+REFERENCE   7  (bases 1 to 9737)
+  AUTHORS   Yang,W.M., Yao,Y.L., Sun,J.M., Davie,J.R. and Seto,E.
+  TITLE     Isolation and characterization of cDNAs corresponding to an
+            additional member of the human histone deacetylase gene family
+  JOURNAL   J Biol Chem 272 (44), 28001-28007 (1997)
+   PUBMED   9346952
+REFERENCE   8  (bases 1 to 9737)
+  AUTHORS   Zhang,Y., Iratni,R., Erdjument-Bromage,H., Tempst,P. and Reinberg,D.
+  TITLE     Histone deacetylases and SAP18, a novel polypeptide, are components
+            of a human Sin3 complex
+  JOURNAL   Cell 89 (3), 357-364 (1997)
+   PUBMED   9150135
+REFERENCE   9  (bases 1 to 9737)
+  AUTHORS   Laherty,C.D., Yang,W.M., Sun,J.M., Davie,J.R., Seto,E. and
+            Eisenman,R.N.
+  TITLE     Histone deacetylases associated with the mSin3 corepressor mediate
+            mad transcriptional repression
+  JOURNAL   Cell 89 (3), 349-356 (1997)
+   PUBMED   9150134
+  REMARK    GeneRIF: mSin3A interacts with HDAC2 via the HDAC-interacting domain
+            (HID) of mSin3A.
+REFERENCE   10  (bases 1 to 9737)
+  AUTHORS   Yang,W.M., Inouye,C., Zeng,Y., Bearss,D. and Seto,E.
+  TITLE     Transcriptional repression by YY1 is mediated by interaction with a
+            mammalian homolog of the yeast global regulator RPD3
+  JOURNAL   Proc Natl Acad Sci U S A 93 (23), 12845-12850 (1996)
+   PUBMED   8917507
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038192.896268.1,
+            SRR14038196.2566080.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000519065.6/ ENSP00000430432.1
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK296856.1, BC031055.1 and
+            FO393415.1.
+            On Nov 24, 2018 this sequence version replaced NM_001527.3.
+            Summary: This gene product belongs to the histone deacetylase
+            family. Histone deacetylases act via the formation of large
+            multiprotein complexes, and are responsible for the deacetylation
+            of lysine residues at the N-terminal regions of core histones (H2A,
+            H2B, H3 and H4). This protein forms transcriptional repressor
+            complexes by associating with many different proteins, including
+            YY1, a mammalian zinc-finger transcription factor. Thus, it plays
+            an important role in transcriptional regulation, cell cycle
+            progression and developmental events. Alternative splicing results
+            in multiple transcript variants. [provided by RefSeq, Apr 2010].
+            Transcript Variant: This variant (1) encodes the functional
+            protein.
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..9737
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6q21"
+     gene            1..9737
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="histone deacetylase 2"
+                     /db_xref="GeneID:3066"
+                     /db_xref="HGNC:HGNC:4853"
+                     /db_xref="MIM:605164"
+     exon            1..292
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             241..1707
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /EC_number="3.5.1.98"
+                     /note="transcriptional regulator homolog RPD3;
+                     YY1-associated factor 1; protein deacylase HDAC2"
+                     /codon_start=1
+                     /product="histone deacetylase 2"
+                     /protein_id="NP_001518.3"
+                     /db_xref="CCDS:CCDS43493.2"
+                     /db_xref="GeneID:3066"
+                     /db_xref="HGNC:HGNC:4853"
+                     /db_xref="MIM:605164"
+                     /translation="MAYSQGGGKKKVCYYYDGDIGNYYYGQGHPMKPHRIRMTHNLLLN
+                     YGLYRKMEIYRPHKATAEEMTKYHSDEYIKFLRSIRPDNMSEYSKQMQRFNVGEDCPVF
+                     DGLFEFCQLSTGGSVAGAVKLNRQQTDMAVNWAGGLHHAKKSEASGFCYVNDIVLAILE
+                     LLKYHQRVLYIDIDIHHGDGVEEAFYTTDRVMTVSFHKYGEYFPGTGDLRDIGAGKGKY
+                     YAVNFPMRDGIDDESYGQIFKPIISKVMEMYQPSAVVLQCGADSLSGDRLGCFNLTVKG
+                     HAKCVEVVKTFNLPLLMLGGGGYTIRNVARCWTYETAVALDCEIPNELPYNDYFEYFGP
+                     DFKLHISPSNMTNQNTPEYMEKIKQRLFENLRMLPHAPGVQMQAIPEDAVHEDSGDEDG
+                     EDPDKRISIRASDKRIACDEEFSDSEDEGEGGRRNVADHKKGAKKARIEEDKKETEDKK
+                     TDVKEEDKSKDNSGEKTDTKGTKSEQLSNP"
+     misc_feature    265..1206
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q92769.2);
+                     Region: Histone deacetylase"
+     misc_feature    463..465
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:Q13547; propagated from
+                     UniProtKB/Swiss-Prot (Q92769.2); acetylation site"
+     misc_feature    901..903
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q13547; propagated from
+                     UniProtKB/Swiss-Prot (Q92769.2); acetylation site"
+     misc_feature    1405..1704
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q92769.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1420..1422
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19690332,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q92769.2);
+                     phosphorylation site"
+     misc_feature    1459..1461
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q92769.2); phosphorylation site"
+     misc_feature    1504..1506
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q92769.2); phosphorylation site"
+     misc_feature    1510..1512
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q92769.2);
+                     phosphorylation site"
+     exon            293..405
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            406..523
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            524..598
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            599..737
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            738..879
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            880..972
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            973..1081
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1082..1222
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1223..1331
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1332..1462
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1463..1618
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1619..1676
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1677..9737
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2029..2034
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="hexamer: ATTAAA"
+     polyA_site      2048
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="major polyA site"
+     regulatory      3933..3938
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="hexamer: AATAAA"
+     polyA_site      3953
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+     regulatory      6584..6589
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="hexamer: ATTAAA"
+     regulatory      6598..6603
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="hexamer: ATTAAA"
+     polyA_site      6609
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+     polyA_site      6618
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+     regulatory      8056..8061
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="hexamer: AGTAAA"
+     polyA_site      8088
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+     regulatory      8176..8181
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="hexamer: AATAAA"
+     polyA_site      8201
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+     regulatory      9719..9724
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+                     /note="hexamer: AATAAA"
+     polyA_site      9737
+                     /gene="HDAC2"
+                     /gene_synonym="HD2; KDAC2; RPD3; YAF1"
+ORIGIN
+        1 cccctcctcg cgagttggtg ccgctgccac ctccgattcc gagctttcgg cacctctgcc
+       61 gggtggtacc gagccttccc ggcgccccct cctctcctcc caccggcctg cccttccccg
+      121 cgggactatc gcccccacgt ttccctcagc ccttttctct cccggccgag ccgcggcggc
+      181 agcagcagca gcagcagcag caggaggagg agcccggtgg cggcggtggc cggggagccc
+      241 atggcgtaca gtcaaggagg cggcaaaaaa aaagtctgct actactacga cggtgatatt
+      301 ggaaattatt attatggaca gggtcatccc atgaagcctc atagaatccg catgacccat
+      361 aacttgctgt taaattatgg cttatacaga aaaatggaaa tatataggcc ccataaagcc
+      421 actgccgaag aaatgacaaa atatcacagt gatgagtata tcaaatttct acggtcaata
+      481 agaccagata acatgtctga gtatagtaag cagatgcaga gatttaatgt tggagaagat
+      541 tgtccagtgt ttgatggact ctttgagttt tgtcagctct caactggcgg ttcagttgct
+      601 ggagctgtga agttaaaccg acaacagact gatatggctg ttaattgggc tggaggatta
+      661 catcatgcta agaaatcaga agcatcagga ttctgttacg ttaatgatat tgtgcttgcc
+      721 atccttgaat tactaaagta tcatcagaga gtcttatata ttgatataga tattcatcat
+      781 ggtgatggtg ttgaagaagc tttttataca acagatcgtg taatgacggt atcattccat
+      841 aaatatgggg aatactttcc tggcacagga gacttgaggg atattggtgc tggaaaaggc
+      901 aaatactatg ctgtcaattt tccaatgaga gatggtatag atgatgagtc atatgggcag
+      961 atatttaagc ctattatctc aaaggtgatg gagatgtatc aacctagtgc tgtggtatta
+     1021 cagtgtggtg cagactcatt atctggtgat agactgggtt gtttcaatct aacagtcaaa
+     1081 ggtcatgcta aatgtgtaga agttgtaaaa acttttaact taccattact gatgcttgga
+     1141 ggaggtggct acacaatccg taatgttgct cgatgttgga catatgagac tgcagttgcc
+     1201 cttgattgtg agattcccaa tgagttgcca tataatgatt actttgagta ttttggacca
+     1261 gacttcaaac tgcatattag tccttcaaac atgacaaacc agaacactcc agaatatatg
+     1321 gaaaagataa aacagcgttt gtttgaaaat ttgcgcatgt tacctcatgc acctggtgtc
+     1381 cagatgcaag ctattccaga agatgctgtt catgaagaca gtggagatga agatggagaa
+     1441 gatccagaca agagaatttc tattcgagca tcagacaagc ggatagcttg tgatgaagaa
+     1501 ttctcagatt ctgaggatga aggagaagga ggtcgaagaa atgtggctga tcataagaaa
+     1561 ggagcaaaga aagctagaat tgaagaagat aagaaagaaa cagaggacaa aaaaacagac
+     1621 gttaaggaag aagataaatc caaggacaac agtggtgaaa aaacagatac caaaggaacc
+     1681 aaatcagaac agctcagcaa cccctgaatt tgacagtctc accaatttca gaaaatcatt
+     1741 aaaaagaaaa tattgaaagg aaaatgtttt ctttttgaag acttctggct tcattttata
+     1801 ctactttggc atggactgta tttattttca aatggctttt tcgtttttgt ttttcttggc
+     1861 aagttttatt gtgagttttt ctaattatga agcaaaattt cttttctcca ccatgcttta
+     1921 tgtgatagta tttaaaattg atgtgagtta ttatgtcaaa aaaactgatc tattaaagaa
+     1981 gtaattggcc tttctgagct gatttttcca tcttttgtaa ttatctttat taaaaaattg
+     2041 tacttggatt atcttttgtc tgtttattac tacaatatga agtcttgttt cagtggctaa
+     2101 tgacatcatt tctgtagact tacaatacac tctaggtgaa agataatgat tacagcttga
+     2161 aagataacta tttgctgttt ctttgggaag agtatttata gtaattatta cttatctttg
+     2221 caatagaaat tctaccacct tgccctctat agcttagcca gttagtatca gtgaagatta
+     2281 acatcccatt acaatttatg aaataataca gactctgcaa ttgagatgta ggagttcttt
+     2341 gagttgaccc aaagattctc aaaattgaaa tggaaattct gaattgaaag aagaaactga
+     2401 ccagaacttg tattgaccag acttgcctat agtatattgc tggtttaaaa tggaacctgc
+     2461 agacaaaacc tgtttctttt actgcattta catggcatcc aggttccatt attatttacg
+     2521 tgacatccag gtttctaact caaggaaata aacacaactg atttatcatt cagcaactac
+     2581 ttattgtgtg tctgcccatt ttaagactgt aggagtgtaa ctgaatataa tggaaaaatg
+     2641 ctttcactca gagcttacac tcagagctta cattctagta gcaggaagca gacaaatggg
+     2701 ggtaactcct gctactaaga tgtgcaaaga agacaaaaca ttttaggaac ttgccaaaat
+     2761 cagtgaaatc tccctttttg tcaggcccac attgattctt ttgagattaa aaattacaga
+     2821 atgccagaag ataattcagt caaaagtatt tctcttcagt gcagtaaaat attaaaagaa
+     2881 aaaatatttc tctacaagcc tcttaaatgt ttcagacatt cacaatagca cctagacttt
+     2941 tgtaatgaac agctgtgcac ccaccccgac ttaacaaata ttttactttt gctatatttg
+     3001 cttcggtgtt tttttcttaa aatacaccga aattgaagct ctctttgtgt actttgtcgt
+     3061 ttgtaatcct ccctccctcc cagccttaag aagtaatcac cattgtgatt attttatcca
+     3121 tgtttttgtg aatattttac ccatgttttt gtacttttgc tacatatttg ttatcaatct
+     3181 gtaaaccttt atgacattag gaactaagaa acttagtccc ttcgttaggg ggataatgaa
+     3241 atgtatttag tgtttgtgaa acatagatgg tatgtatttg gacaattctg taactttgct
+     3301 ttttttattt ttatttttcc atagcttatt ggggaacagg tggtgtttgg ttacatgatt
+     3361 aagttcttta gtggtgattt gtgggatttt ggtggaccca tcacccaagc agtgtacact
+     3421 gcaccctatt tgtaatcttt tatccctcgc ccccctccca ccatgcctcc cgtctaccat
+     3481 gatgatcctg ttttaaataa gaaaatacca tttcgcaggc tccagatgtt ctggcatcct
+     3541 ccctgtggat ttcccagtgc ctgcagctca caggacaaca ggggctgtgg tagagtcacc
+     3601 tatgagatcc tggagtagtg gatggaggag atggaacagt gaagacggaa actgagctca
+     3661 gtatccgggt gccaggagac aaaggccctt tgcttttttt catttaatat tctgatctac
+     3721 ccctgttgac acatgttaag tatagttcat tttgactgct atgtattatg ttccattgtg
+     3781 tgaacatact gaaattgtac acttcaatac tatactggat ctccttgggt gtatttaaga
+     3841 ggttttgttt ttctaagtag ttggttatat acaactaaaa cctcaagaga actatctaaa
+     3901 gcaatttcag caaggtgatt tggtacagca ttaataaaca gaaatcagta acacttagtg
+     3961 accaagtctg ttggaagaac aaagaccccc atttgtaata acaaaatttt tagaaataat
+     4021 atgtaaagaa gctatggttc ttgtgtctag taaggtcaat gtaacatagt aagatgtcag
+     4081 aataccctaa tactttaaaa aattcatata ggataaaaat gatatttgaa attggcaagg
+     4141 aaagacatta ttttgtaagt ggaattggga caacaactgg taaccaaatg gaaaacccag
+     4201 ttttctgccc tccactagaa gatttaaata ggaaaagata aaactaccaa aaacctaaac
+     4261 tcttaaagca aatggattga agaaggccta agtgtgacac caaactcaac tataaaagat
+     4321 atatttgata acaaaaaaaa aattagttca gtggaccaac aaaaacttag aagacaagtc
+     4381 aagaaaaatg acaaaagaca gagtgggagg cagatttgta actcatccag gtcaaaaggc
+     4441 tcatatctaa agatagtaga ggaacaaaat gtataaggat gtgaactggg aaacaaatac
+     4501 atataaatag tttgtaaata tgaaaagatc tttaacctca gtaaataaaa agctatagag
+     4561 agacttattt tttaacttag ttttttaaac ctattatgtt tatttatttt ttcttttttt
+     4621 gagacggagt ctcgctgttg cccaggctgg tgtgcaatgg cgcaatctcg gctcactgca
+     4681 acctccgcct cccaggttga agccattctc ctgcctcagc ctcctgagta gctgggatta
+     4741 caggcgcctg tcaccacgcc cagctaattg ttcgcatttt tagtagagac ggggtttcac
+     4801 tatgttggcc aggctggcct cgaactcctg acctcatgat ccacccacct tggccttcca
+     4861 aagtgctggg attacaggtg tgagctgccg cacctggctg tttatctctt ttttttagag
+     4921 aaaggatctc ggtcacccag gatggagtgt ggtagcctga tcatatctca ctacatctta
+     4981 gaacttctag gcttagggta ttctcccacc tcagcctccc aagtagctgg gactacaagt
+     5041 gtgcaccatc acacctagct gatttttaca tttttatttt ggagagatgg tgtctccctg
+     5101 tgttgcccag gctggtcaca aactcctagg ctcaagcgat tctcctgact caggcatgag
+     5161 ccaccgtacc cggcctaaac ctatcatgtt acagacttag aaagcaacta ttgtcaagtg
+     5221 tttgaggaaa ctcaggtcag gtttggtaaa ctaagatatt aactcaagta aagctcttta
+     5281 attcatttaa tgaaggtgcc acattgtctc agttctctat ggcatgggtg aatgctgttc
+     5341 taagtcagca ttggtactct aagctagtta catcatatct aagctttgcc cttctaccag
+     5401 agctgctagc attctgtcaa tgggcaatta tttgaagttc ttacattgaa gttagtcacc
+     5461 tacatcttct gttttttatg gttttgatgt agtaatactg ctgaagtttt tttgataact
+     5521 gcgattcata atatttgtta ttcatattgt gatataaatg ataagggctt ttgaaaacaa
+     5581 gtagtaatca tttcaatagc ttaggatctc caccataatc ttaggaaaat tactaacctc
+     5641 tgtgcctcag ttgcttcatc atttaaaatg aggaaaataa tagtccctac ttaataggtt
+     5701 tgttgtgagg attgagttaa taacatagtt aatgctcagt aagggttagc tgctattttt
+     5761 ttttcttttt tttttgaaag agtctcactc tgttgcccag gttggagtgc agtggcatga
+     5821 tcttggctca ctgcatcctc tgcttcctag gttcaggtga ttctcatgct tcagcctccc
+     5881 aagcagctgg gagtacaggt gtgcaccacc acacctggct aatttttgta tatttagtag
+     5941 agacgggttc tcaccatatt gtccaggctg gtcttgaact ccttacctca aatgatccac
+     6001 ccgcctgggc ctcccaaagt gctgggatta caagcatgag ccaccgcgcc tggcttgcta
+     6061 ttgttatgag gtaaaggtag atagatgggt gagagtggtg ccaggggaag tgttaaattt
+     6121 ttgagtgttc ctttagatgc cagatgggtt gtatctgagc cttttattgc agtttgatgc
+     6181 ctactagtgt gaagactact aggtcatagt ggatagagaa gcaatctttt ggagacctga
+     6241 ttttagcaag gatacgaata atatttgaca actttggggg gatcttgatg cctctgtaat
+     6301 ttactcaagg ataatctcaa gaaaaatggc attaagtaga ttacagaaaa aatagaacta
+     6361 tcatattgtt attattggct atttacatga gcaatgcgga gaaatgttta ggattacagc
+     6421 atttagaagc ttctcaattg ctgcatttcc tcactgtacc acaagatggc agatactgca
+     6481 tttaaaattt ttttttctgt gtgttttctc ttatagtcac ttggtggcca tgtaacaagc
+     6541 agagcaacat gtattaacag attctttttg aatgcaatat tggattaaaa actttgaatt
+     6601 aaactacaat taagtttact gatttaggtt ttcctataag aattataaca ctaatttcta
+     6661 agttttacat ctgcaaaaca cagtagagtg tatctggtag tcattgacta attgtgactt
+     6721 tgctagtcag acaaaatgga actgaatatt agagccagaa taattttctg ttttgactgg
+     6781 tggtaagaat cagttagtat acagaatggg aaagaattga aatttatttc taggaattat
+     6841 agttatagtg aagttaatat tcaggggcat tgggtgcttg ttccacgact tttgtttact
+     6901 gaactaagta cctaacccct ttggtctttg aacactgcag agttatgatt aggattatta
+     6961 atgaaaaatt cttttttagt agaacaaaca gttaaggaca gaagacacct tgattagatt
+     7021 ctgttatttg ctctttttat taagattgtt tttactctaa atgttaaaga aatgtataat
+     7081 tatttctaag gtaaaatgag tagcaggatt ctgaatagga gatttttttt ggccagaccc
+     7141 attttgcagc cagtggtttg tatttaggag tgagttgaac aaagaagact ctaatctgtt
+     7201 tttgtgttgt ggatttttta ttctattgat aaatcagtag cttccagctt ctcttgtatc
+     7261 ctctactagt catctttttt gtttcttcag aaataaacat ccagggtcac ttccctgccc
+     7321 ttgccatata cttactagga tgatgtacag gtaaaacttt taaaggaaag tacggacagg
+     7381 caattcctaa agtaaaagag agcacattat caaaactggc tgtacttaac aaataccaac
+     7441 aaaaagtcat tacacttctg gcaacaaata atgtttgatt taaaaagaca agaatttccc
+     7501 cttttgctct tattttttaa atatgctatg tccttaagtg agaaatgcac ttcaaaaatt
+     7561 ttcttattct gaagtctagc cggaaagttt gaacttgtgt tgcctttggc tagactaggt
+     7621 gaaattaagg ggcttaagag ggcactgttg tgtggccctg tggtagataa tagccctcca
+     7681 agcatgagga tgggagatct accattcacc agtatttcca aagttatatt cttaaaaagg
+     7741 ctagatttct aatttccgta gaatctaggt atgttctttt caactcagca tctgataaga
+     7801 aagtttgggc aagtaggtgc gaaaaattta ctctagatac cattttccag gaaaaaatat
+     7861 aattcaagtc caacgtatta ctagctgtca ccttccccaa caatcaaata agcattgtta
+     7921 ttgtcaaaca catttacttg tatagttcag tgttatatgt aatggactta ggtataattc
+     7981 ctgtgctatt cccttttgat gccaaacacc cttttgtaag ctgttttgtt tgaaatccaa
+     8041 atttatatgt cttaaagtaa atggcagcat tgggctttct taatgtaatg actcttctgc
+     8101 catcctattt ctagagttag gcagaaaatt ctgtaaatct atcttatttc cagtctgttt
+     8161 gtgactatgg tgggcaataa atctgatttc ccagaaaaac acatctggac ccctataggt
+     8221 aaggtaaaca agcctcatct taaattgttt gtacttccga cctgacctca aaacaccatc
+     8281 atcatctaga gcagcaacaa gtaaagaaca atgcactgga aatcacatat atgggtctag
+     8341 caccagcctt tacattacac aactttgctt tgggcaagtc atttaaattt ctgtgcttca
+     8401 gtttactaaa tctatgaaac tgactaggta acagctgaca tgcttttcca gcactccgtc
+     8461 ttttacctgt ctgatgtcac aaattgatca ttcctttctg gccttgagat gcgtatcaac
+     8521 ccagatagtc attaacccag atagttggca ttcaggataa aatgtttttg cctttcctgt
+     8581 cctgcaagct ctttaaagtc caaaatatgc ctttatatct ttatgtgtaa taggtatgaa
+     8641 atctatttct tggttgttga ataggatagg cttattagac attctaaagt caactttttt
+     8701 ctcatattta aacatttacc cgtagaaatt cagtttttta aagttttaag tcagttgatt
+     8761 gtaccaaaca ttactattaa aaaaaaatca aagtcagaga ccagagtttc cctgcatcag
+     8821 cgttcagtca ggagacagga actatactaa tttgaacatg taaagttaaa tataatcctt
+     8881 aataataaca ggattggaat aagggataaa agaaagagaa ttccttctat atatatgtat
+     8941 acacacacat atatatatat acatgtgtat atatgtgtgt gtatgtatat tatataatat
+     9001 acatacacac acacaaagaa tgtcagacaa ggagcagcca ccattctgct tactttcact
+     9061 ggattaagag tttcataagg gcaagggttt tgtttgtctt acactccact ggggattaat
+     9121 ctccagtgtc tagaacagtg cctaacacat aaataaagcc tcaattatta tttgtggaat
+     9181 ggaatggaat ttgagtgaaa tggaatggga atagaatgga ctggaatgga aatagaagtg
+     9241 ggaaggggaa tggaagggga tagaagagga ttgaagagga cagaaggaga tgggataaga
+     9301 tgggatggga taggatcgaa tctcaggtcc aggagtcaga ataactgaat cctattccag
+     9361 ttctgccatc aacaagtcct gtgaaatttg gaaagtcact taaccctctg gccttgtaga
+     9421 atatctcagt gggcatgtct gatgtttctt catggttaga tataggttgc atgttttggg
+     9481 caagaatatc acaggaatga tgctgtgttc tcagtgcacc cagtcaggta atgcatgatt
+     9541 tcaatttctc tcattactga tgatgttaac tttaatcact tagtgaatga gaacatgagc
+     9601 atcattttga aagcaaactg caaagttttg atgtcaacat tttagcaatt acgtataatt
+     9661 tcccccaagg atactggctt tgagataatg taaatataca tgggaaagac aaagctcaaa
+     9721 taaaggaaaa agaccca
+//

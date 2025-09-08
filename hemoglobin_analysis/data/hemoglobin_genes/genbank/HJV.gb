@@ -1,0 +1,306 @@
+LOCUS       NM_213653               2126 bp    mRNA    linear   PRI 30-APR-2025
+DEFINITION  Homo sapiens hemojuvelin BMP co-receptor (HJV), transcript variant
+            a, mRNA.
+ACCESSION   NM_213653
+VERSION     NM_213653.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2126)
+  AUTHORS   Barton,J.C., Wiener,H.W. and Acton,R.T.
+  TITLE     Estimates of West African Ancestry in African Americans Using
+            Alleles of Iron-Related Genes HJV, SLC40A1, and TFR2
+  JOURNAL   Genet Test Mol Biomarkers 26 (2), 96-102 (2022)
+   PUBMED   35225679
+  REMARK    GeneRIF: Estimates of West African Ancestry in African Americans
+            Using Alleles of Iron-Related Genes HJV, SLC40A1, and TFR2.
+REFERENCE   2  (bases 1 to 2126)
+  AUTHORS   Hernandez,G., Ferrer-Cortes,X., Venturi,V., Musri,M., Pilquil,M.F.,
+            Torres,P.M.M., Rodriguez,I.H., Minguez,M.A.R., Kelleher,N.J.,
+            Pelucchi,S., Piperno,A., Alberca,E.P., Ricos,G.G., Giro,E.C.,
+            Perez-Montero,S., Tornador,C., Villa-Freixa,J. and Sanchez,M.
+  TITLE     New Mutations in HFE2 and TFR2 Genes Causing Non HFE-Related
+            Hereditary Hemochromatosis
+  JOURNAL   Genes (Basel) 12 (12), 1980 (2021)
+   PUBMED   34946929
+  REMARK    GeneRIF: New Mutations in HFE2 and TFR2 Genes Causing Non
+            HFE-Related Hereditary Hemochromatosis. Publication Status:
+            Online-Only
+REFERENCE   3  (bases 1 to 2126)
+  AUTHORS   Young,G.H., Tang,S.C., Wu,V.C., Wang,K.C., Nong,J.Y., Huang,P.Y.,
+            Hu,C.J., Chiou,H.Y., Jeng,J.S. and Hsu,C.Y.
+  TITLE     The functional role of hemojuvelin in acute ischemic stroke
+  JOURNAL   J Cereb Blood Flow Metab 40 (6), 1316-1327 (2020)
+   PUBMED   31307288
+  REMARK    GeneRIF: The functional role of hemojuvelin in acute ischemic
+            stroke.
+REFERENCE   4  (bases 1 to 2126)
+  AUTHORS   Luck,K., Kim,D.K., Lambourne,L., Spirohn,K., Begg,B.E., Bian,W.,
+            Brignall,R., Cafarelli,T., Campos-Laborie,F.J., Charloteaux,B.,
+            Choi,D., Cote,A.G., Daley,M., Deimling,S., Desbuleux,A., Dricot,A.,
+            Gebbia,M., Hardy,M.F., Kishore,N., Knapp,J.J., Kovacs,I.A.,
+            Lemmens,I., Mee,M.W., Mellor,J.C., Pollis,C., Pons,C.,
+            Richardson,A.D., Schlabach,S., Teeking,B., Yadav,A., Babor,M.,
+            Balcha,D., Basha,O., Bowman-Colin,C., Chin,S.F., Choi,S.G.,
+            Colabella,C., Coppin,G., D'Amata,C., De Ridder,D., De Rouck,S.,
+            Duran-Frigola,M., Ennajdaoui,H., Goebels,F., Goehring,L., Gopal,A.,
+            Haddad,G., Hatchi,E., Helmy,M., Jacob,Y., Kassa,Y., Landini,S.,
+            Li,R., van Lieshout,N., MacWilliams,A., Markey,D., Paulson,J.N.,
+            Rangarajan,S., Rasla,J., Rayhan,A., Rolland,T., San-Miguel,A.,
+            Shen,Y., Sheykhkarimli,D., Sheynkman,G.M., Simonovsky,E., Tasan,M.,
+            Tejeda,A., Tropepe,V., Twizere,J.C., Wang,Y., Weatheritt,R.J.,
+            Weile,J., Xia,Y., Yang,X., Yeger-Lotem,E., Zhong,Q., Aloy,P.,
+            Bader,G.D., De Las Rivas,J., Gaudet,S., Hao,T., Rak,J.,
+            Tavernier,J., Hill,D.E., Vidal,M., Roth,F.P. and Calderwood,M.A.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   5  (bases 1 to 2126)
+  AUTHORS   Onofre,C., Tome,F., Barbosa,C., Silva,A.L. and Romao,L.
+  TITLE     Expression of human Hemojuvelin (HJV) is tightly regulated by two
+            upstream open reading frames in HJV mRNA that respond to iron
+            overload in hepatic cells
+  JOURNAL   Mol Cell Biol 35 (8), 1376-1389 (2015)
+   PUBMED   25666510
+  REMARK    GeneRIF: The study demonstrates that the two upstream open reading
+            frames (with 28 and 19 codons) present in the 5' UTR of the human
+            HJV mRNA have the ability to significantly decrease translational
+            efficiency under normal conditions.
+REFERENCE   6  (bases 1 to 2126)
+  AUTHORS   Lee,P.L., Beutler,E., Rao,S.V. and Barton,J.C.
+  TITLE     Genetic abnormalities and juvenile hemochromatosis: mutations of the
+            HJV gene encoding hemojuvelin
+  JOURNAL   Blood 103 (12), 4669-4671 (2004)
+   PUBMED   14982867
+  REMARK    GeneRIF: Various amino acid substitutions identified in
+            hemochromatosis.
+REFERENCE   7  (bases 1 to 2126)
+  AUTHORS   Papanikolaou,G., Samuels,M.E., Ludwig,E.H., MacDonald,M.L.,
+            Franchini,P.L., Dube,M.P., Andres,L., MacFarlane,J.,
+            Sakellaropoulos,N., Politou,M., Nemeth,E., Thompson,J., Risler,J.K.,
+            Zaborowska,C., Babakaiff,R., Radomski,C.C., Pape,T.D., Davidas,O.,
+            Christakis,J., Brissot,P., Lockitch,G., Ganz,T., Hayden,M.R. and
+            Goldberg,Y.P.
+  TITLE     Mutations in HFE2 cause iron overload in chromosome 1q-linked
+            juvenile hemochromatosis
+  JOURNAL   Nat Genet 36 (1), 77-82 (2004)
+   PUBMED   14647275
+  REMARK    GeneRIF: Here we report the positional cloning of the locus
+            associated with juvenile hemochromatosis and the identification of a
+            new gene crucial to iron metabolism.
+REFERENCE   8  (bases 1 to 2126)
+  AUTHORS   Roetto,A., Totaro,A., Cazzola,M., Cicilano,M., Bosio,S.,
+            D'Ascola,G., Carella,M., Zelante,L., Kelly,A.L., Cox,T.M.,
+            Gasparini,P. and Camaschella,C.
+  TITLE     Juvenile hemochromatosis locus maps to chromosome 1q
+  JOURNAL   Am J Hum Genet 64 (5), 1388-1393 (1999)
+   PUBMED   10205270
+REFERENCE   9  (bases 1 to 2126)
+  AUTHORS   Feder,J.N., Penny,D.M., Irrinki,A., Lee,V.K., Lebron,J.A.,
+            Watson,N., Tsuchihashi,Z., Sigal,E., Bjorkman,P.J. and
+            Schatzman,R.C.
+  TITLE     The hemochromatosis gene product complexes with the transferrin
+            receptor and lowers its affinity for ligand binding
+  JOURNAL   Proc Natl Acad Sci U S A 95 (4), 1472-1477 (1998)
+   PUBMED   9465039
+REFERENCE   10  (bases 1 to 2126)
+  AUTHORS   Piperno,A., Bertola,F. and Bentivegna,A.
+  TITLE     Juvenile Hemochromatosis
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301349
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK124273.1, AK292742.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000336751.11/ ENSP00000337014.5
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            longest protein
+            regulatory uORF             :: PMID: 25666510
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC243547.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Apr 1, 2020 this sequence version replaced NM_213653.3.
+            Summary: The product of this gene is involved in iron metabolism.
+            It may be a component of the signaling pathway which activates
+            hepcidin or it may act as a modulator of hepcidin expression. It
+            could also represent the cellular receptor for hepcidin. Two uORFs
+            in the 5' UTR negatively regulate the expression and activity of
+            the encoded protein. Alternatively spliced transcript variants
+            encoding different isoforms have been identified for this gene.
+            Defects in this gene are the cause of hemochromatosis type 2A, also
+            called juvenile hemochromatosis (JH). JH is an early-onset
+            autosomal recessive disorder due to severe iron overload resulting
+            in hypogonadotrophic hypogonadism, hepatic fibrosis or cirrhosis
+            and cardiomyopathy, occurring typically before age of 30. [provided
+            by RefSeq, Oct 2015].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2126
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1q21.1"
+     gene            1..2126
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="hemojuvelin BMP co-receptor"
+                     /db_xref="GeneID:148738"
+                     /db_xref="HGNC:HGNC:4887"
+                     /db_xref="MIM:608374"
+     exon            1..149
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      103..186
+                     /regulatory_class="uORF"
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /experiment="DESCRIPTION:regulatory uORF[PMID:25666510]"
+                     /note="this uORF is known as uORF1 and is predicted to
+                     encode a 28 aa peptide (PMID:25666510)"
+     misc_feature    128..130
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="upstream in-frame stop codon"
+     regulatory      130..186
+                     /regulatory_class="uORF"
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /experiment="DESCRIPTION:regulatory uORF[PMID:25666510]"
+                     /note="this uORF is known as uORF2 and is predicted to
+                     encode a 19 aa peptide (PMID:25666510)"
+     exon            150..335
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             239..1519
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="isoform a precursor is encoded by transcript variant
+                     a; haemojuvelin; repulsive guidance molecule c;
+                     hemochromatosis type 2 protein; hemochromatosis type 2
+                     (juvenile); RGM domain family member C; hemojuvelin BMP
+                     coreceptor"
+                     /codon_start=1
+                     /product="hemojuvelin isoform a precursor"
+                     /protein_id="NP_998818.1"
+                     /db_xref="CCDS:CCDS72879.1"
+                     /db_xref="GeneID:148738"
+                     /db_xref="HGNC:HGNC:4887"
+                     /db_xref="MIM:608374"
+                     /translation="MGEPGQSPSPRSSHGSPPTLSTLTLLLLLCGHAHSQCKILRCNAE
+                     YVSSTLSLRGGGSSGALRGGGGGGRGGGVGSGGLCRALRSYALCTRRTARTCRGDLAFH
+                     SAVHGIEDLMIQHNCSRQGPTAPPPPRGPALPGAGSGLPAPDPCDYEGRFSRLHGRPPG
+                     FLHCASFGDPHVRSFHHHFHTCRVQGAWPLLDNDFLFVQATSSPMALGANATATRKLTI
+                     IFKNMQECIDQKVYQAEVDNLPVAFEDGSINGGDRPGGSSLSIQTANPGNHVEIQAAYI
+                     GTTIIIRQTAGQLSFSIKVAEDVAMAFSAEQDLQLCVGGCPPSQRLSRSERNRRGAITI
+                     DTARRLCKEGLPVEDAYFHSCVFDVLISGDPNFTVAAQAALEDARAFLPDLEKLHLFPS
+                     DAGVPLSSATLLAPLLSGLFVLWLCIQ"
+     sig_peptide     239..343
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     344..1438
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /product="Hemojuvelin. /id=PRO_0000030398"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6ZVN8.1)"
+     misc_feature    374..376
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000250|UniProtKB:Q7TQ32; propagated from
+                     UniProtKB/Swiss-Prot (Q6ZVN8.1); phosphorylation site"
+     misc_feature    590..592
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (Q6ZVN8.1); glycosylation site"
+     misc_feature    593..664
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6ZVN8.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    752..757
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="Cleavage, by autolysis. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (Q6ZVN8.1); cleavage
+                     site"
+     misc_feature    875..877
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (Q6ZVN8.1); glycosylation site"
+     misc_feature    1352..1354
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot
+                     (Q6ZVN8.1); glycosylation site"
+     exon            336..895
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /inference="alignment:Splign:2.1.0"
+     exon            896..2126
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2101..2106
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="hexamer: ATTAAA"
+     polyA_site      2126
+                     /gene="HJV"
+                     /gene_synonym="HFE2; HFE2A; JH; RGMC"
+                     /note="major polyA site"
+ORIGIN
+        1 cttctctggt tccctgacct cagtgagaca gcagccggcc tggggacctg ggggagacac
+       61 ggaggacccc ctggctggag ctgacccaca gagtagggaa tcatggctgg agaattggat
+      121 agcagagtaa tgtttgacct ctggaaacat cacttacagg gcttccggtc aaaattcact
+      181 aggtaggagg gtcatcagct gggaagaacc ggcgcctggg aaacctggct ggataggtat
+      241 gggggagcca ggccagtccc ctagtcccag gtcctcccat ggcagtcccc caactctaag
+      301 cactctcact ctcctgctgc tcctctgtgg acatgctcat tctcaatgca agatcctccg
+      361 ctgcaatgct gagtacgtat cgtccactct gagccttaga ggtgggggtt catcaggagc
+      421 acttcgagga ggaggaggag gaggccgggg tggaggggtg ggctctggcg gcctctgtcg
+      481 agccctccgc tcctatgcgc tctgcactcg gcgcaccgcc cgcacctgcc gcggggacct
+      541 cgccttccat tcggcggtac atggcatcga agacctgatg atccagcaca actgctcccg
+      601 ccagggccct acagcccctc ccccgccccg gggccccgcc cttccaggcg cgggctccgg
+      661 cctccctgcc ccggaccctt gtgactatga aggccggttt tcccggctgc atggtcgtcc
+      721 cccggggttc ttgcattgcg cttccttcgg ggacccccat gtgcgcagct tccaccatca
+      781 ctttcacaca tgccgtgtcc aaggagcttg gcctctactg gataatgact tcctctttgt
+      841 ccaagccacc agctccccca tggcgttggg ggccaacgct accgccaccc ggaagctcac
+      901 catcatattt aagaacatgc aggaatgcat tgatcagaag gtgtatcagg ctgaggtgga
+      961 taatcttcct gtagcctttg aagatggttc tatcaatgga ggtgaccgac ctgggggatc
+     1021 cagtttgtcg attcaaactg ctaaccctgg gaaccatgtg gagatccaag ctgcctacat
+     1081 tggcacaact ataatcattc ggcagacagc tgggcagctc tccttctcca tcaaggtagc
+     1141 agaggatgtg gccatggcct tctcagctga acaggacctg cagctctgtg ttggggggtg
+     1201 ccctccaagt cagcgactct ctcgatcaga gcgcaatcgt cggggagcta taaccattga
+     1261 tactgccaga cggctgtgca aggaagggct tccagtggaa gatgcttact tccattcctg
+     1321 tgtctttgat gttttaattt ctggtgatcc caactttacc gtggcagctc aggcagcact
+     1381 ggaggatgcc cgagccttcc tgccagactt agagaagctg catctcttcc cctcagatgc
+     1441 tggggttcct ctttcctcag caaccctctt agctccactc ctttctgggc tctttgttct
+     1501 gtggctttgc attcagtaag gggaccatca gtcccattac tagtttggaa atgatttgga
+     1561 gatacagatt ggcatagaag aatgtaaaga atcattaaag gaagcagggc ctaggagaca
+     1621 cgtgaaacaa tgacattatc cagagtcaga tgaggctgca gtccagggtt gaaattatca
+     1681 cagaataagg attctgggca aggttactgc attccggatc tctgtggggc tcttcaccaa
+     1741 tttttccagc ctcatttata gtaaacaaat tgttctaatc catttactgc agatttcacc
+     1801 cttataagtt tagaggtcat gaaggtttta atgatcagta aagatttaag ggttgagatt
+     1861 tttaagaggc aagagctgaa agcagaagac atgatcatta gccataagaa actcaaagga
+     1921 ggaagacata attagggaaa gaagtctatt tgatgaatat gtgtgtgtaa ggtatgttct
+     1981 gctttcttga ttcaaaaatg aagcaggcat tgtctagctc ttaggtgaag ggagtctctg
+     2041 cttttgaaga atggcacagg taggacagaa gtatcatccc taccccctaa ctaatctgtt
+     2101 attaaagcta caaattcttc acacca
+//

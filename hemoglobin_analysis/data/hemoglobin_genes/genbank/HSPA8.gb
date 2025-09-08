@@ -1,0 +1,400 @@
+LOCUS       NM_006597               2264 bp    mRNA    linear   PRI 27-MAR-2025
+DEFINITION  Homo sapiens heat shock protein family A (Hsp70) member 8 (HSPA8),
+            transcript variant 1, mRNA.
+ACCESSION   NM_006597
+VERSION     NM_006597.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2264)
+  AUTHORS   Yang,S., Li,M., Lian,G., Wu,Y., Cui,J. and Wang,L.
+  TITLE     ABHD8 antagonizes inflammation by facilitating chaperone-mediated
+            autophagy-mediated degradation of NLRP3
+  JOURNAL   Autophagy 21 (2), 338-351 (2025)
+   PUBMED   39225180
+REFERENCE   2  (bases 1 to 2264)
+  AUTHORS   Chaari,A., Saikia,N., Paul,P., Yousef,M., Ding,F. and Ladjimi,M.
+  TITLE     Experimental and computational investigation of the effect of Hsc70
+            structural variants on inhibiting amylin aggregation
+  JOURNAL   Biophys Chem 309, 107235 (2024)
+   PUBMED   38608617
+  REMARK    GeneRIF: Experimental and computational investigation of the effect
+            of Hsc70 structural variants on inhibiting amylin aggregation.
+REFERENCE   3  (bases 1 to 2264)
+  AUTHORS   Sahu,W., Bai,T., Das,A., Mukherjee,S., Prusty,A., Mallick,N.R.,
+            Elangovan,S. and Reddy,K.S.
+  TITLE     Plasmodium falciparum J-dot localized J domain protein A8iJp
+            modulates the chaperone activity of human HSPA8
+  JOURNAL   FEBS Lett 598 (7), 818-836 (2024)
+   PUBMED   38418371
+  REMARK    GeneRIF: Plasmodium falciparum J-dot localized J domain protein
+            A8iJp modulates the chaperone activity of human HSPA8.
+REFERENCE   4  (bases 1 to 2264)
+  AUTHORS   Kou,X., Yang,X., Zhao,Z. and Li,L.
+  TITLE     HSPA8-mediated stability of the CLPP protein regulates mitochondrial
+            autophagy in cisplatin-resistant ovarian cancer cells
+  JOURNAL   Acta Biochim Biophys Sin (Shanghai) 56 (3), 356-365 (2024)
+   PUBMED   38419499
+  REMARK    GeneRIF: HSPA8-mediated stability of the CLPP protein regulates
+            mitochondrial autophagy in cisplatin-resistant ovarian cancer cells.
+REFERENCE   5  (bases 1 to 2264)
+  AUTHORS   Rafiq,S., Mungure,I., Banz,Y., Niklaus,N.J., Kaufmann,T., Muller,S.,
+            Jacquel,A., Robert,G., Auberger,P., Torbett,B.E., Muller,S.,
+            Tschan,M.P. and Humbert,M.
+  TITLE     HSPA8 Chaperone Complex Drives Chaperone-Mediated Autophagy
+            Regulation in Acute Promyelocytic Leukemia Cell Differentiation
+  JOURNAL   Pharmacology 109 (4), 216-230 (2024)
+   PUBMED   38569476
+  REMARK    GeneRIF: HSPA8 Chaperone Complex Drives Chaperone-Mediated Autophagy
+            Regulation in Acute Promyelocytic Leukemia Cell Differentiation.
+REFERENCE   6  (bases 1 to 2264)
+  AUTHORS   Rasmussen,H.H., van Damme,J., Puype,M., Gesser,B., Celis,J.E. and
+            Vandekerckhove,J.
+  TITLE     Microsequences of 145 proteins recorded in the two-dimensional gel
+            protein database of normal human epidermal keratinocytes
+  JOURNAL   Electrophoresis 13 (12), 960-969 (1992)
+   PUBMED   1286667
+REFERENCE   7  (bases 1 to 2264)
+  AUTHORS   Hattori,H., Liu,Y.C., Tohnai,I., Ueda,M., Kaneda,T., Kobayashi,T.,
+            Tanabe,K. and Ohtsuka,K.
+  TITLE     Intracellular localization and partial amino acid sequence of a
+            stress-inducible 40-kDa protein in HeLa cells
+  JOURNAL   Cell Struct Funct 17 (1), 77-86 (1992)
+   PUBMED   1586970
+REFERENCE   8  (bases 1 to 2264)
+  AUTHORS   DeLuca-Flaherty,C., McKay,D.B., Parham,P. and Hill,B.L.
+  TITLE     Uncoating protein (hsc70) binds a conformationally labile domain of
+            clathrin light chain LCa to stimulate ATP hydrolysis
+  JOURNAL   Cell 62 (5), 875-887 (1990)
+   PUBMED   1975516
+REFERENCE   9  (bases 1 to 2264)
+  AUTHORS   Lim,M.Y., Davis,N., Zhang,J.Y. and Bose,H.R. Jr.
+  TITLE     The v-rel oncogene product is complexed with cellular proteins
+            including its proto-oncogene product and heat shock protein 70
+  JOURNAL   Virology 175 (1), 149-160 (1990)
+   PUBMED   2155506
+REFERENCE   10  (bases 1 to 2264)
+  AUTHORS   Chiang,H.L., Terlecky,S.R., Plant,C.P. and Dice,J.F.
+  TITLE     A role for a 70-kilodalton heat shock protein in lysosomal
+            degradation of intracellular proteins
+  JOURNAL   Science 246 (4928), 382-385 (1989)
+   PUBMED   2799391
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR3476690.1011269.1,
+            SRR3476690.494591.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2157437
+            [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000534624.6/ ENSP00000432083.1
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DC395565.1, BC019816.2,
+            AK222628.1 and AP000926.6.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 22, 2018 this sequence version replaced NM_006597.5.
+            Summary: This gene encodes a member of the heat shock protein 70
+            family, which contains both heat-inducible and constitutively
+            expressed members. This protein belongs to the latter group, which
+            are also referred to as heat-shock cognate proteins. It functions
+            as a chaperone, and binds to nascent polypeptides to facilitate
+            correct folding. It also functions as an ATPase in the disassembly
+            of clathrin-coated vesicles during transport of membrane components
+            through the cell. Alternatively spliced transcript variants
+            encoding different isoforms have been found for this gene.
+            [provided by RefSeq, Aug 2011].
+            Transcript Variant: This variant (1) represents the predominant
+            transcript, and encodes the longer isoform (1).
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2264
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q24.1"
+     gene            1..2264
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="heat shock protein family A (Hsp70) member 8"
+                     /db_xref="GeneID:3312"
+                     /db_xref="HGNC:HGNC:5241"
+                     /db_xref="MIM:600816"
+     exon            1..73
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     exon            74..283
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             79..2019
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /EC_number="3.6.4.10"
+                     /note="isoform 1 is encoded by transcript variant 1; heat
+                     shock 70kd protein 10; constitutive heat shock protein 70;
+                     lipopolysaccharide-associated protein 1; LPS-associated
+                     protein 1; heat shock cognate protein 54; heat shock
+                     cognate 71 kDa protein; N-myristoyltransferase inhibitor
+                     protein 71; epididymis luminal protein 33; epididymis
+                     secretory sperm binding protein Li 72p; heat shock 70kDa
+                     protein 8; heat shock protein family A member 8"
+                     /codon_start=1
+                     /product="heat shock cognate 71 kDa protein isoform 1"
+                     /protein_id="NP_006588.1"
+                     /db_xref="CCDS:CCDS8440.1"
+                     /db_xref="GeneID:3312"
+                     /db_xref="HGNC:HGNC:5241"
+                     /db_xref="MIM:600816"
+                     /translation="MSKGPAVGIDLGTTYSCVGVFQHGKVEIIANDQGNRTTPSYVAFT
+                     DTERLIGDAAKNQVAMNPTNTVFDAKRLIGRRFDDAVVQSDMKHWPFMVVNDAGRPKVQ
+                     VEYKGETKSFYPEEVSSMVLTKMKEIAEAYLGKTVTNAVVTVPAYFNDSQRQATKDAGT
+                     IAGLNVLRIINEPTAAAIAYGLDKKVGAERNVLIFDLGGGTFDVSILTIEDGIFEVKST
+                     AGDTHLGGEDFDNRMVNHFIAEFKRKHKKDISENKRAVRRLRTACERAKRTLSSSTQAS
+                     IEIDSLYEGIDFYTSITRARFEELNADLFRGTLDPVEKALRDAKLDKSQIHDIVLVGGS
+                     TRIPKIQKLLQDFFNGKELNKSINPDEAVAYGAAVQAAILSGDKSENVQDLLLLDVTPL
+                     SLGIETAGGVMTVLIKRNTTIPTKQTQTFTTYSDNQPGVLIQVYEGERAMTKDNNLLGK
+                     FELTGIPPAPRGVPQIEVTFDIDANGILNVSAVDKSTGKENKITITNDKGRLSKEDIER
+                     MVQEAEKYKAEDEKQRDKVSSKNSLESYAFNMKATVEDEKLQGKINDEDKQKILDKCNE
+                     IINWLDKNQTAEKEEFEHQQKELEKVCNPIITKLYQSAGGMPGGMPGGFPGGGAPPSGG
+                     ASSGPTIEEVD"
+     misc_feature    82..1236
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="propagated from UniProtKB/Swiss-Prot (P11142.1);
+                     Region: Nucleotide-binding domain (NBD).
+                     /evidence=ECO:0000305|PubMed:27474739"
+     misc_feature    82..84
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N-acetylserine. /evidence=ECO:0000269|Ref.5,
+                     ECO:0000269|Ref.6, ECO:0007744|PubMed:19413330; propagated
+                     from UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    400..402
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P63017; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    535..537
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17525332; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); phosphorylation site"
+     misc_feature    634..1209
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="propagated from UniProtKB/Swiss-Prot (P11142.1);
+                     Region: Interaction with BAG1"
+     misc_feature    814..816
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1033..1035
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1060..1062
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P63017; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1063..1065
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); phosphorylation site"
+     misc_feature    1162..1164
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); phosphorylation site"
+     misc_feature    1258..1605
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="propagated from UniProtKB/Swiss-Prot (P11142.1);
+                     Region: Substrate-binding domain (SBD).
+                     /evidence=ECO:0000305|PubMed:27474739"
+     misc_feature    1483..1485
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0007744|PubMed:24129315; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); methylation site"
+     misc_feature    1612..1614
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P63017; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1648..1650
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P63017; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1699..1701
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); phosphorylation site"
+     misc_feature    1759..1761
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6,N6,N6-trimethyllysine, by METTL21A, alternate.
+                     /evidence=ECO:0000269|PubMed:23349634,
+                     ECO:0000269|PubMed:23921388; N6,N6-dimethyllysine,
+                     alternate. /evidence=ECO:0007744|PubMed:24129315;
+                     propagated from UniProtKB/Swiss-Prot (P11142.1);
+                     methylation site"
+     misc_feature    1843..1845
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1867..1869
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1879..1881
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P11142.1); acetylation site"
+     misc_feature    1918..2016
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="propagated from UniProtKB/Swiss-Prot (P11142.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            284..489
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     exon            490..642
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     exon            643..1198
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1199..1401
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1402..1600
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1601..1833
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1834..2264
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2234..2239
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="hexamer: AATAAA"
+     polyA_site      2264
+                     /gene="HSPA8"
+                     /gene_synonym="HEL-33; HEL-S-72p; HSC54; HSC70; HSC71;
+                     HSP71; HSP73; HSPA10; LAP-1; LAP1; NIP71"
+                     /note="major polyA site"
+ORIGIN
+        1 ctcattgaac tcgcctgcag ctcttgggtt ttttgtggct tccttcgtta ttggagccag
+       61 gcctacaccc cagcaaccat gtccaaggga cctgcagttg gtattgatct tggcaccacc
+      121 tactcttgtg tgggtgtttt ccagcacgga aaagtcgaga taattgccaa tgatcaggga
+      181 aaccgaacca ctccaagcta tgtcgccttt acggacactg aacggttgat cggtgatgcc
+      241 gcaaagaatc aagttgcaat gaaccccacc aacacagttt ttgatgccaa acgtctgatt
+      301 ggacgcagat ttgatgatgc tgttgtccag tctgatatga aacattggcc ctttatggtg
+      361 gtgaatgatg ctggcaggcc caaggtccaa gtagaataca agggagagac caaaagcttc
+      421 tatccagagg aggtgtcttc tatggttctg acaaagatga aggaaattgc agaagcctac
+      481 cttgggaaga ctgttaccaa tgctgtggtc acagtgccag cttactttaa tgactctcag
+      541 cgtcaggcta ccaaagatgc tggaactatt gctggtctca atgtacttag aattattaat
+      601 gagccaactg ctgctgctat tgcttacggc ttagacaaaa aggttggagc agaaagaaac
+      661 gtgctcatct ttgacctggg aggtggcact tttgatgtgt caatcctcac tattgaggat
+      721 ggaatctttg aggtcaagtc tacagctgga gacacccact tgggtggaga agattttgac
+      781 aaccgaatgg tcaaccattt tattgctgag tttaagcgca agcataagaa ggacatcagt
+      841 gagaacaaga gagctgtaag acgcctccgt actgcttgtg aacgtgctaa gcgtaccctc
+      901 tcttccagca cccaggccag tattgagatc gattctctct atgaaggaat cgacttctat
+      961 acctccatta cccgtgcccg atttgaagaa ctgaatgctg acctgttccg tggcaccctg
+     1021 gacccagtag agaaagccct tcgagatgcc aaactagaca agtcacagat tcatgatatt
+     1081 gtcctggttg gtggttctac tcgtatcccc aagattcaga agcttctcca agacttcttc
+     1141 aatggaaaag aactgaataa gagcatcaac cctgatgaag ctgttgctta tggtgcagct
+     1201 gtccaggcag ccatcttgtc tggagacaag tctgagaatg ttcaagattt gctgctcttg
+     1261 gatgtcactc ctctttccct tggtattgaa actgctggtg gagtcatgac tgtcctcatc
+     1321 aagcgtaata ccaccattcc taccaagcag acacagacct tcactaccta ttctgacaac
+     1381 cagcctggtg tgcttattca ggtttatgaa ggcgagcgtg ccatgacaaa ggataacaac
+     1441 ctgcttggca agtttgaact cacaggcata cctcctgcac cccgaggtgt tcctcagatt
+     1501 gaagtcactt ttgacattga tgccaatggt atactcaatg tctctgctgt ggacaagagt
+     1561 acgggaaaag agaacaagat tactatcact aatgacaagg gccgtttgag caaggaagac
+     1621 attgaacgta tggtccagga agctgagaag tacaaagctg aagatgagaa gcagagggac
+     1681 aaggtgtcat ccaagaattc acttgagtcc tatgccttca acatgaaagc aactgttgaa
+     1741 gatgagaaac ttcaaggcaa gattaacgat gaggacaaac agaagattct ggacaagtgt
+     1801 aatgaaatta tcaactggct tgataagaat cagactgctg agaaggaaga atttgaacat
+     1861 caacagaaag agctggagaa agtttgcaac cccatcatca ccaagctgta ccagagtgca
+     1921 ggaggcatgc caggaggaat gcctggggga tttcctggtg gtggagctcc tccctctggt
+     1981 ggtgcttcct cagggcccac cattgaagag gttgattaag ccaaccaagt gtagatgtag
+     2041 cattgttcca cacatttaaa acatttgaag gacctaaatt cgtagcaaat tctgtggcag
+     2101 ttttaaaaag ttaagctgct atagtaagtt actgggcatt ctcaatactt gaatatggaa
+     2161 catatgcaca ggggaaggaa ataacattgc actttataaa cactgtattg taagtggaaa
+     2221 atgcaatgtc ttaaataaaa ctatttaaaa ttggcaccat acaa
+//

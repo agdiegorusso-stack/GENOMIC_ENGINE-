@@ -1,0 +1,186 @@
+MUTATION ANALYSIS REPORT: KLF1
+Generated: 2025-09-07 02:30:36
+================================================================================
+
+SUMMARY STATISTICS
+----------------------------------------
+Total mutations analyzed: 1620
+Unique positions: 540
+
+Mutation types:
+  missense: 1134 (70.0%)
+  synonymous: 432 (26.7%)
+  nonsense: 45 (2.8%)
+  start_lost: 9 (0.6%)
+
+
+HIGH IMPACT MUTATIONS
+----------------------------------------
+
+KLF1:c.1A>T
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.1A>G
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.1A>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.2T>A
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.2T>G
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.2T>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.3G>A
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.3G>T
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.3G>C
+  Type: start_lost
+  AA change: p.Met1?
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.5C>A
+  Type: missense
+  AA change: p.Ala2Asp
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.8C>A
+  Type: missense
+  AA change: p.Thr3Lys
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.8C>T
+  Type: missense
+  AA change: p.Thr3Ile
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.8C>G
+  Type: missense
+  AA change: p.Thr3Arg
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.11C>A
+  Type: missense
+  AA change: p.Ala4Asp
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.13G>T
+  Type: nonsense
+  AA change: p.Glu5*
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.14A>T
+  Type: missense
+  AA change: p.Glu5Val
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.14A>G
+  Type: missense
+  AA change: p.Glu5Gly
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.14A>C
+  Type: missense
+  AA change: p.Glu5Ala
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.17C>T
+  Type: missense
+  AA change: p.Thr6Ile
+  Pathogenicity score: 1.000
+  Functional region: none
+
+KLF1:c.20C>A
+  Type: missense
+  AA change: p.Ala7Asp
+  Pathogenicity score: 1.000
+  Functional region: none
+
+
+CRITICAL REGIONS ANALYSIS
+----------------------------------------
+
+
+MUTATION HOTSPOTS
+----------------------------------------
+
+Codon 1:
+  Mutations: 9.0
+  Avg pathogenicity: 1.000
+
+Codon 67:
+  Mutations: 9.0
+  Avg pathogenicity: 0.667
+
+Codon 12:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 30:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 31:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 32:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 73:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 94:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 99:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556
+
+Codon 135:
+  Mutations: 9.0
+  Avg pathogenicity: 0.556

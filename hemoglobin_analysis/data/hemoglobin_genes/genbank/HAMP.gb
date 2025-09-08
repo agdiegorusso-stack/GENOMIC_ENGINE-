@@ -1,0 +1,184 @@
+LOCUS       NM_021175                406 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens hepcidin antimicrobial peptide (HAMP), mRNA.
+ACCESSION   NM_021175
+VERSION     NM_021175.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 406)
+  AUTHORS   Dou,J., Chen,X., Zhang,J., Yang,L., Lin,J., Zhu,W., Huang,D. and
+            Tan,X.
+  TITLE     P. Gingivalis induce macrophage polarization by regulating hepcidin
+            expression in chronic apical periodontitis
+  JOURNAL   Int Immunopharmacol 142 (Pt A), 113139 (2024)
+   PUBMED   39278061
+  REMARK    GeneRIF: P. Gingivalis induce macrophage polarization by regulating
+            hepcidin expression in chronic apical periodontitis.
+REFERENCE   2  (bases 1 to 406)
+  AUTHORS   Maltaneri,R.E., Chamorro,M.E., Gionco,S.E., Nesse,A.B. and
+            Vittori,D.C.
+  TITLE     Erythropoietin enhances iron bioavailability in HepG2 cells by
+            downregulating hepcidin through mTOR, C/EBPalpha and HIF-1alpha
+  JOURNAL   Biochim Biophys Acta Mol Cell Res 1871 (7), 119800 (2024)
+   PUBMED   39047915
+  REMARK    GeneRIF: Erythropoietin enhances iron bioavailability in HepG2 cells
+            by downregulating hepcidin through mTOR, C/EBPalpha and HIF-1alpha.
+REFERENCE   3  (bases 1 to 406)
+  AUTHORS   Appiah,S.K., Nkansah,C., Abbam,G., Osei-Boakye,F., Mensah,K.,
+            Bani,S.B., Chemogo,S., Sarpong,L., Addae,T.G., Sefa,D.B.,
+            Croffien,R.A., Adom,L., Rauf,R.O.A., Boadu,F., Amoah,G.A. and
+            Chukwurah,E.F.
+  TITLE     Molecular characterization of HAMP rs10421768 gene and phenotypic
+            expression of hepcidin; a case-control study among sickle cell
+            anaemia patients in Ghana
+  JOURNAL   PLoS One 19 (6), e0306194 (2024)
+   PUBMED   38935685
+  REMARK    GeneRIF: Molecular characterization of HAMP rs10421768 gene and
+            phenotypic expression of hepcidin; a case-control study among sickle
+            cell anaemia patients in Ghana. Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 406)
+  AUTHORS   Alster,P., Otto-Slusarczyk,D., Wiercinska-Drapalo,A., Struga,M. and
+            Madetko-Alster,N.
+  TITLE     The potential significance of hepcidin evaluation in progressive
+            supranuclear palsy
+  JOURNAL   Brain Behav 14 (6), e3552 (2024)
+   PUBMED   38953731
+  REMARK    GeneRIF: The potential significance of hepcidin evaluation in
+            progressive supranuclear palsy.
+REFERENCE   5  (bases 1 to 406)
+  AUTHORS   Kluver,E., Schulz,A., Forssmann,W.G. and Adermann,K.
+  TITLE     Chemical synthesis of beta-defensins and LEAP-1/hepcidin
+  JOURNAL   J Pept Res 59 (6), 241-248 (2002)
+   PUBMED   12010514
+REFERENCE   6  (bases 1 to 406)
+  AUTHORS   Majore,S., Binni,F., Ricerca,B.M., Brioli,G. and Grammatico,P.
+  TITLE     Absence of hepcidin gene mutations in 10 Italian patients with
+            primary iron overload
+  JOURNAL   Haematologica 87 (2), 221-222 (2002)
+   PUBMED   11836175
+  REMARK    GeneRIF: The sequencing of the whole hepcidin coding region,
+            intron-exon junctions, 5' and partially 3'UTRs, did not reveal any
+            alteration in the iron overload patients.
+REFERENCE   7  (bases 1 to 406)
+  AUTHORS   Pigeon,C., Ilyin,G., Courselaud,B., Leroyer,P., Turlin,B.,
+            Brissot,P. and Loreal,O.
+  TITLE     A new mouse liver-specific gene, encoding a protein homologous to
+            human antimicrobial peptide hepcidin, is overexpressed during iron
+            overload
+  JOURNAL   J Biol Chem 276 (11), 7811-7819 (2001)
+   PUBMED   11113132
+REFERENCE   8  (bases 1 to 406)
+  AUTHORS   Park,C.H., Valore,E.V., Waring,A.J. and Ganz,T.
+  TITLE     Hepcidin, a urinary antimicrobial peptide synthesized in the liver
+  JOURNAL   J Biol Chem 276 (11), 7806-7810 (2001)
+   PUBMED   11113131
+REFERENCE   9  (bases 1 to 406)
+  AUTHORS   Krause,A., Neitz,S., Magert,H.J., Schulz,A., Forssmann,W.G.,
+            Schulz-Knappe,P. and Adermann,K.
+  TITLE     LEAP-1, a novel highly disulfide-bonded human peptide, exhibits
+            antimicrobial activity
+  JOURNAL   FEBS Lett 480 (2-3), 147-150 (2000)
+   PUBMED   11034317
+  REMARK    GeneRIF: A highly disulfide-bonded human antimicrobial protein,
+            LEAP1, is reported.
+REFERENCE   10  (bases 1 to 406)
+  AUTHORS   Piperno,A., Bertola,F. and Bentivegna,A.
+  TITLE     Juvenile Hemochromatosis
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301349
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC020612.1, BP346863.2 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1966682 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match :: ENST00000222304.5/ ENSP00000222304.2
+            Protein has antimicrobial activity :: PMID: 11034317
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF309489.1 and AY358669.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 23, 2018 this sequence version replaced NM_021175.3.
+            Summary: The product encoded by this gene is involved in the
+            maintenance of iron homeostasis, and it is necessary for the
+            regulation of iron storage in macrophages, and for intestinal iron
+            absorption. The preproprotein is post-translationally cleaved into
+            mature peptides of 20, 22 and 25 amino acids, and these active
+            peptides are rich in cysteines, which form intramolecular bonds
+            that stabilize their beta-sheet structures. These peptides exhibit
+            antimicrobial activity against bacteria and fungi. Mutations in
+            this gene cause hemochromatosis type 2B, also known as juvenile
+            hemochromatosis, a disease caused by severe iron overload that
+            results in cardiomyopathy, cirrhosis, and endocrine failure.
+            [provided by RefSeq, Oct 2014].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..406
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.12"
+     gene            1..406
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /note="hepcidin antimicrobial peptide"
+                     /db_xref="GeneID:57817"
+                     /db_xref="HGNC:HGNC:15598"
+                     /db_xref="MIM:606464"
+     exon            1..140
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             51..305
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /note="putative liver tumor regressor; liver-expressed
+                     antimicrobial peptide 1"
+                     /codon_start=1
+                     /product="hepcidin preproprotein"
+                     /protein_id="NP_066998.1"
+                     /db_xref="CCDS:CCDS12454.1"
+                     /db_xref="GeneID:57817"
+                     /db_xref="HGNC:HGNC:15598"
+                     /db_xref="MIM:606464"
+                     /translation="MALSSQIWAACLLLLLLLASLTSGSVFPQQTGQLAELQPQDRAGA
+                     RASWMPMFQRRRRRDTHFPICIFCCGCCHRSKCGMCCKT"
+     sig_peptide     51..122
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     exon            141..200
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /inference="alignment:Splign:2.1.0"
+     exon            201..406
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      376..381
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /note="hexamer: AATAAA"
+     polyA_site      406
+                     /gene="HAMP"
+                     /gene_synonym="HEPC; HFE2B; LEAP1; PLTR"
+                     /note="major polyA site"
+ORIGIN
+        1 accagagcaa gctcaagacc cagcagtggg acagccagac agacggcacg atggcactga
+       61 gctcccagat ctgggccgct tgcctcctgc tcctcctcct cctcgccagc ctgaccagtg
+      121 gctctgtttt cccacaacag acgggacaac ttgcagagct gcaaccccag gacagagctg
+      181 gagccagggc cagctggatg cccatgttcc agaggcgaag gaggcgagac acccacttcc
+      241 ccatctgcat tttctgctgc ggctgctgtc atcgatcaaa gtgtgggatg tgctgcaaga
+      301 cgtagaacct acctgccctg cccccgtccc ctcccttcct tatttattcc tgctgcccca
+      361 gaacataggt cttggaataa aatggctggt tcttttgttt tccaaa
+//

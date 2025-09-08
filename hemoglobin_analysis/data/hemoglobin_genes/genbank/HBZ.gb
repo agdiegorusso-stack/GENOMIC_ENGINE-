@@ -1,0 +1,228 @@
+LOCUS       NM_005332                798 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens hemoglobin subunit zeta (HBZ), mRNA.
+ACCESSION   NM_005332
+VERSION     NM_005332.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 798)
+  AUTHORS   Fajami,Z., Akbarin,M.M., Rafatpanah,H., Ramezani,S., Rahimi,H. and
+            Rezaee,S.A.
+  TITLE     Assessment of Bcl-xL, TAX, and HBZ Gene Expression in Adult T cell
+            Leukemia/Lymphoma Patients
+  JOURNAL   AIDS Res Hum Retroviruses 40 (3), 141-147 (2024)
+   PUBMED   37565279
+  REMARK    GeneRIF: Assessment of Bcl-xL, TAX, and HBZ Gene Expression in Adult
+            T cell Leukemia/Lymphoma Patients.
+REFERENCE   2  (bases 1 to 798)
+  AUTHORS   Luck,K., Kim,D.K., Lambourne,L., Spirohn,K., Begg,B.E., Bian,W.,
+            Brignall,R., Cafarelli,T., Campos-Laborie,F.J., Charloteaux,B.,
+            Choi,D., Cote,A.G., Daley,M., Deimling,S., Desbuleux,A., Dricot,A.,
+            Gebbia,M., Hardy,M.F., Kishore,N., Knapp,J.J., Kovacs,I.A.,
+            Lemmens,I., Mee,M.W., Mellor,J.C., Pollis,C., Pons,C.,
+            Richardson,A.D., Schlabach,S., Teeking,B., Yadav,A., Babor,M.,
+            Balcha,D., Basha,O., Bowman-Colin,C., Chin,S.F., Choi,S.G.,
+            Colabella,C., Coppin,G., D'Amata,C., De Ridder,D., De Rouck,S.,
+            Duran-Frigola,M., Ennajdaoui,H., Goebels,F., Goehring,L., Gopal,A.,
+            Haddad,G., Hatchi,E., Helmy,M., Jacob,Y., Kassa,Y., Landini,S.,
+            Li,R., van Lieshout,N., MacWilliams,A., Markey,D., Paulson,J.N.,
+            Rangarajan,S., Rasla,J., Rayhan,A., Rolland,T., San-Miguel,A.,
+            Shen,Y., Sheykhkarimli,D., Sheynkman,G.M., Simonovsky,E., Tasan,M.,
+            Tejeda,A., Tropepe,V., Twizere,J.C., Wang,Y., Weatheritt,R.J.,
+            Weile,J., Xia,Y., Yang,X., Yeger-Lotem,E., Zhong,Q., Aloy,P.,
+            Bader,G.D., De Las Rivas,J., Gaudet,S., Hao,T., Rak,J.,
+            Tavernier,J., Hill,D.E., Vidal,M., Roth,F.P. and Calderwood,M.A.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   3  (bases 1 to 798)
+  AUTHORS   Fragoza,R., Das,J., Wierbowski,S.D., Liang,J., Tran,T.N., Liang,S.,
+            Beltran,J.F., Rivera-Erick,C.A., Ye,K., Wang,T.Y., Yao,L., Mort,M.,
+            Stenson,P.D., Cooper,D.N., Wei,X., Keinan,A., Schimenti,J.C.,
+            Clark,A.G. and Yu,H.
+  TITLE     Extensive disruption of protein interactions by genetic variants
+            across the allele frequency spectrum in human populations
+  JOURNAL   Nat Commun 10 (1), 4141 (2019)
+   PUBMED   31515488
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 798)
+  AUTHORS   Wei,X., Das,J., Fragoza,R., Liang,J., Bastos de Oliveira,F.M.,
+            Lee,H.R., Wang,X., Mort,M., Stenson,P.D., Cooper,D.N., Lipkin,S.M.,
+            Smolka,M.B. and Yu,H.
+  TITLE     A massively parallel pipeline to clone DNA variants and examine
+            molecular phenotypes of human disease mutations
+  JOURNAL   PLoS Genet 10 (12), e1004819 (2014)
+   PUBMED   25502805
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 798)
+  AUTHORS   He,Z., Song,D., van Zalen,S. and Russell,J.E.
+  TITLE     Structural determinants of human zeta-globin mRNA stability
+  JOURNAL   J Hematol Oncol 7, 35 (2014)
+   PUBMED   24751163
+  REMARK    GeneRIF: Data indicate a tetranucleotide 3'UTR motif that is
+            required for the high-level accumulation of zeta-globin transcripts
+            in cultured cells, and demonstrate that it prolongs their
+            cytoplasmic half-lives. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 798)
+  AUTHORS   Tamary,H. and Dgany,O.
+  TITLE     Alpha-Thalassemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and Amemiya
+            A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301608
+REFERENCE   7  (bases 1 to 798)
+  AUTHORS   Fougerousse,F., Meloni,R., Roudaut,C. and Beckmann,J.S.
+  TITLE     Dinucleotide repeat polymorphism at the human hemoglobin alpha-1
+            pseudo-gene (HBAP1)
+  JOURNAL   Nucleic Acids Res 20 (5), 1165 (1992)
+   PUBMED   1549498
+REFERENCE   8  (bases 1 to 798)
+  AUTHORS   Higgs,D.R., Vickers,M.A., Wilkie,A.O., Pretorius,I.M., Jarman,A.P.
+            and Weatherall,D.J.
+  TITLE     A review of the molecular genetics of the human alpha-globin gene
+            cluster
+  JOURNAL   Blood 73 (5), 1081-1104 (1989)
+   PUBMED   2649166
+  REMARK    Review article
+REFERENCE   9  (bases 1 to 798)
+  AUTHORS   Hess,J., Perez-Stable,C., Wu,G.J., Weir,B., Tinoco,I. Jr. and
+            Shen,C.K.
+  TITLE     End-to-end transcription of an Alu family repeat. A new type of
+            polymerase-III-dependent terminator and its evolutionary implication
+  JOURNAL   J Mol Biol 184 (1), 7-21 (1985)
+   PUBMED   2411938
+REFERENCE   10  (bases 1 to 798)
+  AUTHORS   Proudfoot,N.J. and Brownlee,G.G.
+  TITLE     3' non-coding region sequences in eukaryotic messenger RNA
+  JOURNAL   Nature 263 (5574), 211-214 (1976)
+   PUBMED   822353
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BX102376.1, BC027892.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1968968,
+            SAMEA2142853 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000252951.3/ ENSP00000252951.2
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from Z84721.1.
+            On May 21, 2019 this sequence version replaced NM_005332.2.
+            Summary: Zeta-globin is an alpha-like hemoglobin. The zeta-globin
+            polypeptide is synthesized in the yolk sac of the early embryo,
+            while alpha-globin is produced throughout fetal and adult life. The
+            zeta-globin gene is a member of the human alpha-globin gene cluster
+            that includes five functional genes and two pseudogenes. The order
+            of genes is: 5' - zeta - pseudozeta - mu - pseudoalpha-1 - alpha-2
+            -alpha-1 - theta1 - 3'. [provided by RefSeq, Nov 2009].
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..798
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p13.3"
+     gene            1..798
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="hemoglobin subunit zeta"
+                     /db_xref="GeneID:3050"
+                     /db_xref="HGNC:HGNC:4835"
+                     /db_xref="MIM:142310"
+     exon            1..361
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    204..206
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="upstream in-frame stop codon"
+     CDS             267..695
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="zeta-globin; hemoglobin zeta chain; hemoglobin,
+                     zeta"
+                     /codon_start=1
+                     /product="hemoglobin subunit zeta"
+                     /protein_id="NP_005323.1"
+                     /db_xref="CCDS:CCDS10397.1"
+                     /db_xref="GeneID:3050"
+                     /db_xref="HGNC:HGNC:4835"
+                     /db_xref="MIM:142310"
+                     /translation="MSLTKTERTIIVSMWAKISTQADTIGTETLERLFLSHPQTKTYFP
+                     HFDLHPGSAQLRAHGSKVVAAVGDAVKSIDDIGGALSKLSELHAYILRVDPVNFKLLSH
+                     CLLVTLAARFPADFTAEAHAAWDKFLSVVSSVLTEKYR"
+     misc_feature    270..272
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="N-acetylserine.
+                     /evidence=ECO:0000269|PubMed:11747442,
+                     ECO:0000269|PubMed:6172357; propagated from
+                     UniProtKB/Swiss-Prot (P02008.2); acetylation site"
+     misc_feature    351..353
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P02008.2); phosphorylation site"
+     misc_feature    423..425
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P02008.2); phosphorylation site"
+     misc_feature    483..485
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P02008.2); phosphorylation site"
+     misc_feature    510..512
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P02008.2); phosphorylation site"
+     exon            362..566
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            567..798
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      781..786
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="hexamer: AATAAA"
+     polyA_site      798
+                     /gene="HBZ"
+                     /gene_synonym="HBAZ; HBZ-T1; HBZ1"
+                     /note="major polyA site"
+ORIGIN
+        1 agactctggc caacaccccc tgtaaggcca caggagagga acaggagtga tagcccccaa
+       61 accccagtcc caccaggccc tgagggcccc tttgtcactg gatctgataa gaaacaccac
+      121 ccctgcagcc ccctcccctc acctgaccaa tggccacagc ctggctgggc ccagctccct
+      181 gtatataagg ggaccctggg ggctgagcac taccaaggcc agtcctgagc aggcccaact
+      241 ccagtgcagc tgcccaccct gccgccatgt ctctgaccaa gactgagagg accatcattg
+      301 tgtccatgtg ggccaagatc tccacgcagg ccgacaccat cggcaccgag actctggaga
+      361 ggctcttcct cagccacccg cagaccaaga cctacttccc gcacttcgac ctgcacccgg
+      421 ggtccgcgca gttgcgcgcg cacggctcca aggtggtggc cgccgtgggc gacgcggtga
+      481 agagcatcga cgacatcggc ggcgccctgt ccaagctgag cgagctgcac gcctacatcc
+      541 tgcgcgtgga cccggtcaac ttcaagctcc tgtcccactg cctgctggtc accctggccg
+      601 cgcgcttccc cgccgacttc acggccgagg cccacgccgc ctgggacaag ttcctatcgg
+      661 tcgtatcctc tgtcctgacc gagaagtacc gctgagcgcc gcctccggga cccccaggac
+      721 aggctgcggc ccctcccccg tcctggaggt tccccagccc cacttaccgc gtaatgcgcc
+      781 aataaaccaa tgaacgaa
+//
